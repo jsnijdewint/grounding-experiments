@@ -12,8 +12,8 @@ const llmModels = [
 ]
 
 const imageGenerators = [
-  { id: "imagen-4", name: "Imagen 4" },
-  { id: "nano-banana-pro", name: "Nano Banana Pro" },
+  { id: "gemini-2.5-flash-image", name: "Flash 2.5 Image" },
+  { id: "gemini-3-pro-image-preview", name: "Gemini 3 Pro Image (Banana Pro)" },
 ]
 
 const afieTypes = [
@@ -27,12 +27,25 @@ const afieTypes = [
   { id: "slangen", name: "Slangen" },
 ]
 
-export default function GenerationDashboard() {
+interface GenerationDashboardProps {
+  selectedImageModel?: string
+  onImageModelChange?: (id: string) => void
+}
+
+export default function GenerationDashboard({ selectedImageModel, onImageModelChange }: GenerationDashboardProps) {
   const [mode, setMode] = useState<GenerationMode>("ai")
   const [selectedLLM, setSelectedLLM] = useState(llmModels[0].id)
-  const [selectedImageGen, setSelectedImageGen] = useState(imageGenerators[0].id)
+  // Use prop if available, else local state (though we pass prop now)
+  const [localImageGen, setLocalImageGen] = useState(imageGenerators[1].id)
+
+  const currentImageGen = selectedImageModel || localImageGen
+  const handleImageGenChange = (val: string) => {
+    setLocalImageGen(val)
+    onImageModelChange?.(val)
+  }
+
   const [selectedAfieType, setSelectedAfieType] = useState(afieTypes[0].id)
-  const [batchCount, setBatchCount] = useState(5)
+  const [batchCount, setBatchCount] = useState(1) // Default to 1 as per request "generate 1 exercise"
   const [leerdoel, setLeerdoel] = useState("")
 
   return (
@@ -47,22 +60,20 @@ export default function GenerationDashboard() {
         <div className="flex gap-2">
           <button
             onClick={() => setMode("ai")}
-            className={`flex-1 px-3 py-2 text-xs font-medium rounded-md transition-colors flex items-center justify-center gap-1.5 ${
-              mode === "ai"
-                ? "bg-[#377E34] text-[#FFF9E9]"
-                : "bg-[#FFFCF4] text-foreground/60 hover:text-foreground border border-border"
-            }`}
+            className={`flex-1 px-3 py-2 text-xs font-medium rounded-md transition-colors flex items-center justify-center gap-1.5 ${mode === "ai"
+              ? "bg-[#377E34] text-[#FFF9E9]"
+              : "bg-[#FFFCF4] text-foreground/60 hover:text-foreground border border-border"
+              }`}
           >
             <Cpu className="w-3.5 h-3.5" />
             LLM + Afbeelding
           </button>
           <button
             onClick={() => setMode("afie")}
-            className={`flex-1 px-3 py-2 text-xs font-medium rounded-md transition-colors flex items-center justify-center gap-1.5 ${
-              mode === "afie"
-                ? "bg-[#377E34] text-[#FFF9E9]"
-                : "bg-[#FFFCF4] text-foreground/60 hover:text-foreground border border-border"
-            }`}
+            className={`flex-1 px-3 py-2 text-xs font-medium rounded-md transition-colors flex items-center justify-center gap-1.5 ${mode === "afie"
+              ? "bg-[#377E34] text-[#FFF9E9]"
+              : "bg-[#FFFCF4] text-foreground/60 hover:text-foreground border border-border"
+              }`}
           >
             <Wand2 className="w-3.5 h-3.5" />
             Afie Materiaal
@@ -101,8 +112,8 @@ export default function GenerationDashboard() {
               </label>
               <div className="relative">
                 <select
-                  value={selectedImageGen}
-                  onChange={(e) => setSelectedImageGen(e.target.value)}
+                  value={currentImageGen}
+                  onChange={(e) => handleImageGenChange(e.target.value)}
                   className="w-full px-3 py-2 text-xs bg-[#FFFCF4] border border-border rounded-md appearance-none cursor-pointer focus:outline-none focus:ring-2 focus:ring-[#377E34]/50 text-foreground"
                 >
                   {imageGenerators.map((gen) => (

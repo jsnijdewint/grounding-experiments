@@ -15,6 +15,7 @@ export default function Home() {
   const [selectedExercises, setSelectedExercises] = useState<Set<string>>(new Set())
   const [selectedDomains, setSelectedDomains] = useState<Set<string>>(new Set())
   const [selectedSubdomains, setSelectedSubdomains] = useState<Set<string>>(new Set())
+  const [selectedImageGen, setSelectedImageGen] = useState("gemini-3-pro-image-preview") // Default to Banana Pro
 
   // Derived state for selected exercises
   const selectedExerciseObjects = findExercisesByIds(treeData, selectedExercises)
@@ -94,9 +95,15 @@ export default function Home() {
       {/* Right Panel - AI Generated Content (2/5) */}
       <div className="w-2/5 flex flex-col overflow-hidden bg-[#FFFCF4]">
         <div className="flex-1 overflow-hidden">
-          <GeneratedExamPanel selectedExercises={selectedExerciseObjects} />
+          <GeneratedExamPanel
+            selectedExercises={selectedExerciseObjects}
+            imageModel={selectedImageGen}
+          />
         </div>
-        <GenerationDashboard />
+        <GenerationDashboard
+          selectedImageModel={selectedImageGen}
+          onImageModelChange={setSelectedImageGen}
+        />
       </div>
     </div>
   )

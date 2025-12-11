@@ -31,9 +31,10 @@ interface GeneratedQuestion {
 
 interface GeneratedExamPanelProps {
   selectedExercises: Exercise[]
+  imageModel: string
 }
 
-export default function GeneratedExamPanel({ selectedExercises }: GeneratedExamPanelProps) {
+export default function GeneratedExamPanel({ selectedExercises, imageModel }: GeneratedExamPanelProps) {
   const [generatedQuestions, setGeneratedQuestions] = useState<GeneratedQuestion[]>([])
   const [isGenerating, setIsGenerating] = useState(false)
 
@@ -43,7 +44,7 @@ export default function GeneratedExamPanel({ selectedExercises }: GeneratedExamP
       setIsGenerating(true)
       setGeneratedQuestions([]) // Clear previous
       try {
-        const result = await generateExamAction(selectedExercises)
+        const result = await generateExamAction(selectedExercises, imageModel)
         // @ts-ignore
         setGeneratedQuestions(result)
       } catch (e) {

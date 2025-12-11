@@ -1,4 +1,3 @@
-
 import { GoogleGenAI } from "@google/genai"
 import { Exercise } from "./data-loader"
 import fs from 'fs/promises'
@@ -40,6 +39,8 @@ export async function generateQuestionText(exercises: Exercise[]): Promise<{ que
     3.  Similar in style and complexity to the provided examples.
     4.  Original (do not copy the examples).
 
+    NOTE: The provided example images might be unsharp or low resolution. This is expected. However, the OUTPUT content you generate (both text and the description for the new image) must be high quality, sharp, and professional.
+
     Here are the examples:`
 
     const parts: any[] = [{ text: promptText }]
@@ -68,7 +69,6 @@ export async function generateQuestionText(exercises: Exercise[]): Promise<{ que
     }
 
     try {
-        // Updated to use @google/genai generateContent signature
         const response = await textClient.models.generateContent({
             model: "gemini-3-pro-preview",
             contents: [{ parts: parts }],
@@ -80,7 +80,7 @@ export async function generateQuestionText(exercises: Exercise[]): Promise<{ que
         const responseText = response.candidates?.[0]?.content?.parts?.[0]?.text;
         if (!responseText) throw new Error("No text response from Gemini");
 
-        const parsed = JSON.parse(responseText);
+        const parsed = JSON.parse(responseText.replace(/```json/g, '').replace(/```/g, '').trim());
 
         return {
             questionData: parsed,
@@ -94,20 +94,34 @@ export async function generateQuestionText(exercises: Exercise[]): Promise<{ que
 }
 
 
-export async function generateImageBanana(prompt: string): Promise<string | null> {
+export async function generateImageBanana(prompt: string, modelName: string = "gemini-3-pro-image-preview", referenceImages: string[] = []): Promise<string | null> {
     if (!BANANA_API_KEY) {
         console.warn("GEMINI_NANO_BANANA_KEY not set")
         return "/window.svg"
     }
 
     try {
-        console.log("Generating image with prompt:", prompt)
+        console.log(`Generating image with model ${modelName}, prompt:`, prompt)
 
-        // Using generateContent for Image Generation as per SDK docs/snippets
+        const parts: any[] = [{ text: prompt }];
+
+        // Attach reference images if any
+        if (referenceImages && referenceImages.length > 0) {
+            console.log(`Attaching ${referenceImages.length} reference images to image generation request.`)
+            for (const base64Img of referenceImages) {
+                parts.push({
+                    inlineData: {
+                        data: base64Img,
+                        mimeType: "image/png"
+                    }
+                })
+            }
+        }
+
         const response = await imageClient.models.generateContent({
-            model: "gemini-3-pro-image-preview",
+            model: modelName,
             contents: [{
-                parts: [{ text: prompt }]
+                parts: parts
             }],
             config: {
                 responseModalities: ['IMAGE']
@@ -116,9 +130,9 @@ export async function generateImageBanana(prompt: string): Promise<string | null
 
         // Find the image part
         let imageBytes = null;
-        const parts = response.candidates?.[0]?.content?.parts || [];
+        const respParts = response.candidates?.[0]?.content?.parts || [];
 
-        for (const part of parts) {
+        for (const part of respParts) {
             if (part.inlineData && part.inlineData.data) {
                 imageBytes = part.inlineData.data;
                 break;

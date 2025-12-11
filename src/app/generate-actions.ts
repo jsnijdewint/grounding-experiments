@@ -11,9 +11,14 @@ function generateId() {
     return Math.random().toString(36).substring(2, 15)
 }
 
-export async function generateExamAction(exercises: Exercise[]) {
+// Need to ensure fs/path are available for reading reference images in action if needed, 
+// BUT generateQuestionText already reads them. 
+// We should probably extract that logic or re-read them here. 
+// To avoid duplication, I will just re-read them here for the image generator.
+
+export async function generateExamAction(exercises: Exercise[], imageModel: string = "gemini-3-pro-image-preview") {
     try {
-        console.log("Starting Exam Generation with", exercises.length, "exercises")
+        console.log("Starting Exam Generation with", exercises.length, "exercises using model", imageModel)
 
         // 1. Generate Text (Step A)
         const { questionData, imageDescription } = await generateQuestionText(exercises)
@@ -23,13 +28,23 @@ export async function generateExamAction(exercises: Exercise[]) {
         let imageUrl = null
         if (imageDescription) {
             console.log("Generating Image for:", imageDescription)
-            // Note: The client logic currently returns a static path because we don't have the API URL.
-            // If we had the base64, we would save it here.
-            // Assuming generateImageBanana returns a BASE64 string or a URL.
-            // Let's pretend it returns a base64 string for the sake of the requirement "save locally".
-            // But my placeholder returned a path. I will adjust implementation when I have the real API.
-            // For now, I'll stick to the placeholder path returned.
-            imageUrl = await generateImageBanana(imageDescription)
+
+            // Collect reference images from input exercises
+            const referenceImages: string[] = []
+            for (const ex of exercises) {
+                for (const ctx of ex.contentContext) {
+                    if (ctx.type === 'image' && ctx.media_path) {
+                        try {
+                            const fullPath = path.join(process.cwd(), 'public', 'alfie_exam_data', ctx.media_path)
+                            const imageBuffer = await fs.readFile(fullPath)
+                            const base64Image = imageBuffer.toString("base64")
+                            referenceImages.push(base64Image)
+                        } catch (e) { /* ignore */ }
+                    }
+                }
+            }
+
+            imageUrl = await generateImageBanana(imageDescription, imageModel, referenceImages)
         }
 
         // 3. Logbook & Save
@@ -39,7 +54,8 @@ export async function generateExamAction(exercises: Exercise[]) {
             inputExercises: exercises.map(e => e.id),
             generated: questionData,
             imagePrompt: imageDescription,
-            generatedImageUrl: imageUrl
+            generatedImageUrl: imageUrl,
+            modelUsed: imageModel
         }
 
         const logPath = path.join(process.cwd(), 'generation_logbook.json')

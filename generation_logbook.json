@@ -92,5 +92,38 @@
     },
     "imagePrompt": "A schematic, academic physics illustration showing a vertical mass-spring system in three states aligned horizontally. 1. Left: An unextended spring hanging from a ceiling support. 2. Center: A block of mass 'm' attached to the spring, hanging at the equilibrium position (marked with a dashed line labeled 'evenwichtsstand'). The spring is slightly stretched. 3. Right: The block pulled down to its lowest point (amplitude), stretching the spring further. An arrow pointing upwards is labeled 'F_veer', and an arrow pointing downwards is labeled 'F_z'. The style should be black and white line art, clean and technical.",
     "generatedImageUrl": null
+  },
+  {
+    "id": "1jkeaj0j76j",
+    "timestamp": "2025-12-11T03:42:14.087Z",
+    "inputExercises": [
+      "vwo_natuurkunde_2021_t1_q24"
+    ],
+    "generated": {
+      "title": "Foto-elektrisch effect bij Calcium",
+      "difficulty": "medium",
+      "questions": [
+        {
+          "text": "Op een fotocel met een kathode van calcium valt monochromatisch licht. In de bijbehorende figuur is het verband uitgezet tussen de frequentie van het invallende licht ($f$) en de maximale kinetische energie ($E_{k,max}$) van de uitgetreden elektronen.",
+          "points": 6,
+          "subQuestions": [
+            {
+              "label": "a",
+              "text": "Bepaal met behulp van de figuur de uittree-energie ($W_u$) van calcium in elektronvolt (eV). Licht je antwoord toe door aan te geven hoe je dit uit de grafiek afleest.",
+              "points": 3
+            },
+            {
+              "label": "b",
+              "text": "Bereken vervolgens de maximale golflengte (de grensgolflengte) die het licht mag hebben om nog net elektronen vrij te maken uit het calcium.",
+              "points": 3
+            }
+          ]
+        }
+      ],
+      "imageDescription": "A scientific, academic-style line graph on a white background with a fine grey grid. The X-axis is labeled 'f (10^14 Hz)' ranging from 0 to 14. The Y-axis is labeled 'E_{k,max} (eV)' ranging from 0 to 4. A straight black line represents the data. The line originates from the X-axis at exactly 7.0 (representing the threshold frequency) and rises linearly with a positive slope (representing Planck's constant). The line passes approximately through the coordinate (12.0, 2.0). The graph should look like a standard physics textbook diagram, clean, high-contrast, with sans-serif fonts for axis labels."
+    },
+    "imagePrompt": "A scientific, academic-style line graph on a white background with a fine grey grid. The X-axis is labeled 'f (10^14 Hz)' ranging from 0 to 14. The Y-axis is labeled 'E_{k,max} (eV)' ranging from 0 to 4. A straight black line represents the data. The line originates from the X-axis at exactly 7.0 (representing the threshold frequency) and rises linearly with a positive slope (representing Planck's constant). The line passes approximately through the coordinate (12.0, 2.0). The graph should look like a standard physics textbook diagram, clean, high-contrast, with sans-serif fonts for axis labels.",
+    "generatedImageUrl": "/generated-images/gen-ft20rg.png",
+    "modelUsed": "gemini-3-pro-image-preview"
   }
 ]
