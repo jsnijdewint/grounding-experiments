@@ -1,0 +1,96 @@
+[
+  {
+    "id": "707yrwqt9ua",
+    "timestamp": "2025-12-11T03:17:49.851Z",
+    "inputExercises": [
+      "vwo_spaans_2024_t1_q02"
+    ],
+    "generated": {
+      "title": "Het experiment van Engelmann",
+      "difficulty": "medium",
+      "questions": [
+        {
+          "text": "In 1882 voerde de bioloog T.W. Engelmann een klassiek experiment uit om de relatie tussen de golflengte van licht en de snelheid van fotosynthese te onderzoeken. Hij projecteerde met behulp van een prisma een lichtspectrum op een draadwier (Spirogyra) in een waterig preparaat. Aan dit preparaat voegde hij aerotactische (zuurstofminnende) bacteriën toe. Na enige tijd nam hij een specifieke verdeling van de bacteriën waar, zoals te zien is in de afbeelding.",
+          "points": 5,
+          "subQuestions": [
+            {
+              "label": "a",
+              "text": "Leg uit waarom de bacteriën zich voornamelijk ophopen bij de delen van het wier die belicht worden met blauw en rood licht. Gebruik in je antwoord de termen 'fotosynthese' en 'zuurstofproductie'.",
+              "points": 3
+            },
+            {
+              "label": "b",
+              "text": "Stel dat Engelmann het prisma uit de opstelling zou verwijderen en het draadwier met wit licht zou beschijnen. Beschrijf hoe de verdeling van de bacteriën langs de draadwier zou veranderen ten opzichte van de oorspronkelijke situatie.",
+              "points": 2
+            }
+          ]
+        }
+      ],
+      "imageDescription": "A schematic, scientific illustration of Engelmann's experiment for a biology textbook. The image shows a horizontal microscopic view of a green algal filament (Spirogyra) with its characteristic spiral chloroplasts. Above the algae, a glass prism splits a beam of white light into a visible spectrum (rainbow colors: red, orange, yellow, green, blue, indigo, violet) that falls along the length of the algae strand. Small dots representing bacteria are visible in the water surrounding the algae. These bacteria are heavily clustered in dense clouds around the sections illuminated by Red and Blue/Violet light, while the Green and Yellow sections have very few bacteria. The style is clean, 2D academic vector art with a white background. Labels in Dutch: 'Prisma', 'Lichtspectrum', 'Bacteriën', 'Spirogyra'."
+    },
+    "imagePrompt": "A schematic, scientific illustration of Engelmann's experiment for a biology textbook. The image shows a horizontal microscopic view of a green algal filament (Spirogyra) with its characteristic spiral chloroplasts. Above the algae, a glass prism splits a beam of white light into a visible spectrum (rainbow colors: red, orange, yellow, green, blue, indigo, violet) that falls along the length of the algae strand. Small dots representing bacteria are visible in the water surrounding the algae. These bacteria are heavily clustered in dense clouds around the sections illuminated by Red and Blue/Violet light, while the Green and Yellow sections have very few bacteria. The style is clean, 2D academic vector art with a white background. Labels in Dutch: 'Prisma', 'Lichtspectrum', 'Bacteriën', 'Spirogyra'.",
+    "generatedImageUrl": null
+  },
+  {
+    "id": "ehpndg0heuq",
+    "timestamp": "2025-12-11T03:18:02.468Z",
+    "inputExercises": [
+      "vwo_natuurkunde_2021_t1_q08",
+      "vwo_natuurkunde_2021_t1_q08"
+    ],
+    "generated": {
+      "title": "Het Foto-elektrisch Effect",
+      "difficulty": "medium",
+      "questions": [
+        {
+          "text": "Een leerling voert een experiment uit met een fotocel om de constante van Planck te bepalen. Er wordt monochromatisch licht met verschillende frequenties op de kathode van de fotocel geschenen. Per frequentie wordt de remspanning ($U_{rem}$) gemeten waarbij de fotostroom net nul wordt. De resultaten zijn weergegeven in figuur 1.",
+          "points": 4,
+          "subQuestions": [
+            {
+              "label": "a",
+              "text": "Leid met behulp van formules uit Binas het verband af tussen de remspanning $U_{rem}$ en de frequentie $f$. Leg aan de hand van dit verband uit dat de grafiek in figuur 1 een rechte lijn is en geef aan welke fysische constante bepaald kan worden uit de helling (richtingscoëfficiënt) van deze lijn.",
+              "points": 4
+            }
+          ]
+        }
+      ],
+      "imageDescription": "A schematic, academic line graph on a white background, typical of a high school physics exam. The horizontal axis (x-axis) is labeled 'f (Hz)' representing frequency. The vertical axis (y-axis) is labeled 'U_rem (V)' representing stopping voltage. The graph shows a single straight solid black line that originates from a point on the positive x-axis (not the origin) and slopes upwards to the right. The intercept with the x-axis is marked as 'f_0'. The style is minimalist, high-contrast black and white, with standard scientific arrows on the axes."
+    },
+    "imagePrompt": "A schematic, academic line graph on a white background, typical of a high school physics exam. The horizontal axis (x-axis) is labeled 'f (Hz)' representing frequency. The vertical axis (y-axis) is labeled 'U_rem (V)' representing stopping voltage. The graph shows a single straight solid black line that originates from a point on the positive x-axis (not the origin) and slopes upwards to the right. The intercept with the x-axis is marked as 'f_0'. The style is minimalist, high-contrast black and white, with standard scientific arrows on the axes.",
+    "generatedImageUrl": null
+  },
+  {
+    "id": "a1hvn34w1pl",
+    "timestamp": "2025-12-11T03:21:39.591Z",
+    "inputExercises": [
+      "vwo_natuurkunde_2021_t1_q02",
+      "vwo_natuurkunde_2021_t1_q02",
+      "vwo_natuurkunde_2021_t1_q02"
+    ],
+    "generated": {
+      "title": "Harmonische Trilling: Snelheid en Kracht",
+      "difficulty": "medium",
+      "questions": [
+        {
+          "text": "<p>Een blok met massa <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi></math> hangt aan een veer en voert een verticale harmonische trilling uit. De luchtwrijving is verwaarloosbaar.</p><p>Gegeven zijn:</p><ul><li>De massa <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi><mo>=</mo><mn>0,600</mn><mtext>&#160;kg</mtext></math></li><li>De veerconstante <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mo>=</mo><mn>45,0</mn><mtext>&#160;N/m</mtext></math></li><li>De amplitude <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>=</mo><mn>0,120</mn><mtext>&#160;m</mtext></math></li></ul><p>Beantwoord de volgende twee vragen:</p>",
+          "points": 6,
+          "subQuestions": [
+            {
+              "label": "a",
+              "text": "Bereken de maximale snelheid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mtext>max</mtext></msub></math> die het blok bereikt tijdens de trilling.",
+              "points": 3
+            },
+            {
+              "label": "b",
+              "text": "Bereken de grootte van de maximale spankracht <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>F</mi><mtext>veer,max</mtext></msub></math> die de veer op het blok uitoefent. (Tip: vergeet de zwaartekracht niet)",
+              "points": 3
+            }
+          ]
+        }
+      ],
+      "imageDescription": "A schematic, academic physics illustration showing a vertical mass-spring system in three states aligned horizontally. 1. Left: An unextended spring hanging from a ceiling support. 2. Center: A block of mass 'm' attached to the spring, hanging at the equilibrium position (marked with a dashed line labeled 'evenwichtsstand'). The spring is slightly stretched. 3. Right: The block pulled down to its lowest point (amplitude), stretching the spring further. An arrow pointing upwards is labeled 'F_veer', and an arrow pointing downwards is labeled 'F_z'. The style should be black and white line art, clean and technical."
+    },
+    "imagePrompt": "A schematic, academic physics illustration showing a vertical mass-spring system in three states aligned horizontally. 1. Left: An unextended spring hanging from a ceiling support. 2. Center: A block of mass 'm' attached to the spring, hanging at the equilibrium position (marked with a dashed line labeled 'evenwichtsstand'). The spring is slightly stretched. 3. Right: The block pulled down to its lowest point (amplitude), stretching the spring further. An arrow pointing upwards is labeled 'F_veer', and an arrow pointing downwards is labeled 'F_z'. The style should be black and white line art, clean and technical.",
+    "generatedImageUrl": null
+  }
+]

@@ -94,7 +94,7 @@ export default function Home() {
       {/* Right Panel - AI Generated Content (2/5) */}
       <div className="w-2/5 flex flex-col overflow-hidden bg-[#FFFCF4]">
         <div className="flex-1 overflow-hidden">
-          <GeneratedExamPanel selectedExercises={selectedExercises} />
+          <GeneratedExamPanel selectedExercises={selectedExerciseObjects} />
         </div>
         <GenerationDashboard />
       </div>
