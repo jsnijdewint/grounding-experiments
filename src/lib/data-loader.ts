@@ -59,7 +59,7 @@ interface QuestionData {
     }
     solution: {
         text: string
-        image: string | null
+        image: { media_path: string; azure_url: string } | null
     }
     content_context: ContentContextItem[]
     bijlages: { name: string; media_path: string; azure_url: string }[]
@@ -229,7 +229,10 @@ export async function loadExerciseTree(): Promise<ExerciseTreeNode[]> {
                 questionNumber: extractQuestionNumber(q.id),
                 domains: q.metadata.curriculum.domains,
                 subdomains: q.metadata.curriculum.subdomains,
-                solution: q.solution,
+                solution: {
+                    text: q.solution.text,
+                    image: q.solution.image ? (q.solution.image.azure_url || q.solution.image.media_path) : null
+                },
                 bijlages: q.bijlages,
             }
             return {
