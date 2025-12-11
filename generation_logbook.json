@@ -125,5 +125,85 @@
     "imagePrompt": "A scientific, academic-style line graph on a white background with a fine grey grid. The X-axis is labeled 'f (10^14 Hz)' ranging from 0 to 14. The Y-axis is labeled 'E_{k,max} (eV)' ranging from 0 to 4. A straight black line represents the data. The line originates from the X-axis at exactly 7.0 (representing the threshold frequency) and rises linearly with a positive slope (representing Planck's constant). The line passes approximately through the coordinate (12.0, 2.0). The graph should look like a standard physics textbook diagram, clean, high-contrast, with sans-serif fonts for axis labels.",
     "generatedImageUrl": "/generated-images/gen-ft20rg.png",
     "modelUsed": "gemini-3-pro-image-preview"
+  },
+  {
+    "id": "okce4nthzdj",
+    "timestamp": "2025-12-11T03:47:30.152Z",
+    "inputExercises": [
+      "vwo_natuurkunde_2021_t1_q14",
+      "vwo_natuurkunde_2021_t1_q14",
+      "vwo_natuurkunde_2021_t1_q14"
+    ],
+    "generated": {
+      "title": "Elektrische veldsterkte eenheden",
+      "difficulty": "medium",
+      "questions": [
+        {
+          "text": "<p>De elektrische veldsterkte <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi></math> wordt vaak uitgedrukt in volt per meter. Echter, op basis van de krachtwerking op een lading is een andere eenheid ook gebruikelijk.</p>",
+          "points": 3,
+          "subQuestions": [
+            {
+              "label": "a",
+              "text": "Leid af dat de eenheid volt per meter (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi><mo>&#183;</mo><msup><mi>m</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>) gelijk is aan de eenheid newton per coulomb (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><mo>&#183;</mo><msup><mi>C</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math>).",
+              "points": 3
+            }
+          ]
+        }
+      ],
+      "imageDescription": "A highly detailed, schematic educational illustration of a parallel plate capacitor suitable for a physics exam. The image features two horizontal, parallel metal plates separated by a vertical distance labeled 'd'. The top plate is marked with plus signs (+) indicating positive charge, and the bottom plate with minus signs (-) indicating negative charge. Vertical field lines with arrowheads point downwards from the positive to the negative plate, labeled with the symbol 'E'. A charged particle labeled 'q' is placed between the plates with a force vector arrow labeled 'F'. To the side, a voltage source labeled 'U' is connected via wires to the plates. The style is clean, crisp vector-like line art on a pure white background, using standard black scientific notation."
+    },
+    "imagePrompt": "A highly detailed, schematic educational illustration of a parallel plate capacitor suitable for a physics exam. The image features two horizontal, parallel metal plates separated by a vertical distance labeled 'd'. The top plate is marked with plus signs (+) indicating positive charge, and the bottom plate with minus signs (-) indicating negative charge. Vertical field lines with arrowheads point downwards from the positive to the negative plate, labeled with the symbol 'E'. A charged particle labeled 'q' is placed between the plates with a force vector arrow labeled 'F'. To the side, a voltage source labeled 'U' is connected via wires to the plates. The style is clean, crisp vector-like line art on a pure white background, using standard black scientific notation.",
+    "generatedImageUrl": "/generated-images/gen-bv4s28.png",
+    "modelUsed": "gemini-3-pro-image-preview"
+  },
+  {
+    "id": "vcltzxw4abl",
+    "timestamp": "2025-12-11T03:53:24.334Z",
+    "inputExercises": [
+      "vwo_wiskunde_b_2021_t1_q02"
+    ],
+    "generated": {
+      "title": "Snijpunten van Goniometrische Functies",
+      "difficulty": "medium",
+      "questions": [
+        {
+          "text": "Op het domein [0, π] zijn de functies f en g gegeven door f(x) = sin(2x) en g(x) = cos(x). De grafieken van f en g snijden elkaar in drie punten. De twee snijpunten met de kleinste x-coördinaten noemen we P en Q. Bereken exact de x-coördinaten van P en Q.",
+          "points": 6,
+          "subQuestions": []
+        }
+      ],
+      "imageDescription": "A sharp, high-quality academic mathematical function plot on a clean white background. The X-axis ranges from 0 to 3.2 (representing Pi) and the Y-axis from -1.2 to 1.2. Two smooth curves are plotted in distinct dark colors (e.g., blue and red). The first curve represents f(x)=sin(2x), starting at (0,0), peaking at y=1, and crossing the x-axis at x=Pi/2. The second curve represents g(x)=cos(x), starting at (0,1) and crossing the x-axis at x=Pi/2. The curves intersect at distinct points. Two specific intersection points are highlighted with distinct black dots: one at x = Pi/6 (approx 0.52, y approx 0.866) labeled 'P', and the second at x = Pi/2 (approx 1.57, y=0) labeled 'Q'. The labels P and Q are in a serif font, clear and legible. Faint grid lines are visible in the background."
+    },
+    "imagePrompt": "A sharp, high-quality academic mathematical function plot on a clean white background. The X-axis ranges from 0 to 3.2 (representing Pi) and the Y-axis from -1.2 to 1.2. Two smooth curves are plotted in distinct dark colors (e.g., blue and red). The first curve represents f(x)=sin(2x), starting at (0,0), peaking at y=1, and crossing the x-axis at x=Pi/2. The second curve represents g(x)=cos(x), starting at (0,1) and crossing the x-axis at x=Pi/2. The curves intersect at distinct points. Two specific intersection points are highlighted with distinct black dots: one at x = Pi/6 (approx 0.52, y approx 0.866) labeled 'P', and the second at x = Pi/2 (approx 1.57, y=0) labeled 'Q'. The labels P and Q are in a serif font, clear and legible. Faint grid lines are visible in the background.",
+    "generatedImageUrl": "/generated-images/gen-mm3i3p.png",
+    "modelUsed": "gemini-3-pro-image-preview"
+  },
+  {
+    "id": "w31xnfkcrtc",
+    "timestamp": "2025-12-11T08:35:02.651Z",
+    "inputExercises": [
+      "vwo_wiskunde_b_2023_t1_q11"
+    ],
+    "generated": {
+      "title": "Snijpunt Wortelfunctie en Lijn",
+      "difficulty": "medium",
+      "questions": [
+        {
+          "text": "Gegeven zijn de functies $f(x) = \\sqrt{2x+6}$ en $g(x) = x - 1$. De grafieken van $f$ en $g$ snijden elkaar in het punt $S(a, b)$.",
+          "points": 5,
+          "subQuestions": [
+            {
+              "label": "a",
+              "text": "Bereken algebraïsch de exacte waarden van $a$ en $b$.",
+              "points": 5
+            }
+          ]
+        }
+      ],
+      "imageDescription": "A clean, academic mathematical plot on a white background with a Cartesian coordinate system. The x-axis ranges from -4 to 8, and the y-axis ranges from -3 to 6. Two graphs are plotted clearly. The first is a smooth blue curve representing the function f(x) = sqrt(2x+6), starting at (-3, 0) and curving upwards to the right. The second is a straight red line representing g(x) = x - 1, passing through (0, -1) and intersecting the blue curve at the point (5, 4). The intersection point is explicitly marked with a black dot and labeled 'S'. Light gray grid lines are visible in the background. The axes are black with standard arrowheads and labels x and y."
+    },
+    "imagePrompt": "A clean, academic mathematical plot on a white background with a Cartesian coordinate system. The x-axis ranges from -4 to 8, and the y-axis ranges from -3 to 6. Two graphs are plotted clearly. The first is a smooth blue curve representing the function f(x) = sqrt(2x+6), starting at (-3, 0) and curving upwards to the right. The second is a straight red line representing g(x) = x - 1, passing through (0, -1) and intersecting the blue curve at the point (5, 4). The intersection point is explicitly marked with a black dot and labeled 'S'. Light gray grid lines are visible in the background. The axes are black with standard arrowheads and labels x and y.",
+    "generatedImageUrl": "/generated-images/gen-94644o.png",
+    "modelUsed": "gemini-3-pro-image-preview"
   }
 ]

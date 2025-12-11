@@ -1,6 +1,7 @@
 "use client"
 
 import type { Exercise } from "@/lib/data-loader"
+import MarkdownRenderer from "./markdown-renderer"
 
 // Discipline display names
 const DISCIPLINE_NAMES: Record<string, string> = {
@@ -94,7 +95,7 @@ export default function PromptPreview({ exercises, selectedDomains, selectedSubd
                 <span className="text-xs text-foreground/60">(grounding voor AI)</span>
             </div>
             <div className="bg-[#FFFCF4] border border-border rounded-lg p-3 max-h-48 overflow-y-auto">
-                <p className="text-xs text-foreground whitespace-pre-line font-mono leading-relaxed">{generatePrompt()}</p>
+                <MarkdownRenderer content={generatePrompt()} className="text-xs text-foreground font-mono leading-relaxed" />
             </div>
         </div>
     )

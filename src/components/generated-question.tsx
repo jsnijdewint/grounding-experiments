@@ -1,5 +1,7 @@
 "use client"
 
+import MarkdownRenderer from "./markdown-renderer"
+
 interface SubQuestion {
   id: string
   label: string
@@ -71,7 +73,9 @@ export default function GeneratedQuestion({ question }: GeneratedQuestionProps) 
               {/* Main Question with points */}
               <div className="space-y-2">
                 <div className="flex items-start justify-between gap-4">
-                  <p className="text-sm font-medium text-foreground leading-relaxed flex-1">{q.text}</p>
+                  <div className="flex-1 text-sm font-medium text-foreground leading-relaxed">
+                    <MarkdownRenderer content={q.text} />
+                  </div>
                   {q.points && !q.subQuestions && (
                     <span className="text-xs font-medium text-[#377E34] whitespace-nowrap">{q.points}p</span>
                   )}
@@ -84,9 +88,12 @@ export default function GeneratedQuestion({ question }: GeneratedQuestionProps) 
                   {q.subQuestions.map((subQ) => (
                     <div key={subQ.id} className="space-y-1">
                       <div className="flex items-start justify-between gap-4">
-                        <p className="text-sm text-foreground">
-                          <span className="font-semibold text-[#377E34]">{subQ.label})</span> {subQ.text}
-                        </p>
+                        <div className="text-sm text-foreground flex-1">
+                          <span className="font-semibold text-[#377E34] mr-2">{subQ.label})</span>
+                          <div className="inline-block align-top">
+                            <MarkdownRenderer content={subQ.text} />
+                          </div>
+                        </div>
                         {subQ.points && (
                           <span className="text-xs font-medium text-foreground/60 whitespace-nowrap">
                             {subQ.points}p
