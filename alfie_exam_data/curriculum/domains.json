@@ -1,0 +1,1502 @@
+{
+  "13": {
+    "id": 13,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 5
+  },
+  "14": {
+    "id": 14,
+    "name": "Molecuul- en celniveau",
+    "prefix_code": "M",
+    "education_level_discipline": 5
+  },
+  "15": {
+    "id": 15,
+    "name": "Orgaan- en organismeniveau",
+    "prefix_code": "O",
+    "education_level_discipline": 5
+  },
+  "16": {
+    "id": 16,
+    "name": "Populatie- en ecosysteemniveau",
+    "prefix_code": "P",
+    "education_level_discipline": 5
+  },
+  "68": {
+    "id": 68,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 32
+  },
+  "69": {
+    "id": 69,
+    "name": "Molecuul- en celniveau",
+    "prefix_code": "M",
+    "education_level_discipline": 32
+  },
+  "70": {
+    "id": 70,
+    "name": "Orgaan- en organismeniveau",
+    "prefix_code": "O",
+    "education_level_discipline": 32
+  },
+  "71": {
+    "id": 71,
+    "name": "Populatie- en ecosysteemniveau",
+    "prefix_code": "P",
+    "education_level_discipline": 32
+  },
+  "165": {
+    "id": 165,
+    "name": "Leervaardigheden in het vak aardrijkskunde",
+    "prefix_code": "AK/K/3",
+    "education_level_discipline": 91
+  },
+  "166": {
+    "id": 166,
+    "name": "Weer en klimaat",
+    "prefix_code": "AK/K/4",
+    "education_level_discipline": 91
+  },
+  "167": {
+    "id": 167,
+    "name": "Water",
+    "prefix_code": "AK/K/6",
+    "education_level_discipline": 91
+  },
+  "168": {
+    "id": 168,
+    "name": "Bevolking en ruimte",
+    "prefix_code": "AK/K/8",
+    "education_level_discipline": 91
+  },
+  "169": {
+    "id": 169,
+    "name": "Casus weer en klimaat: extreme weersomstandigheden",
+    "prefix_code": "AK/V/1",
+    "education_level_discipline": 91
+  },
+  "170": {
+    "id": 170,
+    "name": "Casus water: watermanagement",
+    "prefix_code": "AK/V/3",
+    "education_level_discipline": 91
+  },
+  "171": {
+    "id": 171,
+    "name": "Casus bevolking en ruimte: bevolking en ruimte in grootstedelijke gebieden",
+    "prefix_code": "AK/V/5",
+    "education_level_discipline": 91
+  },
+  "172": {
+    "id": 172,
+    "name": "Leervaardigheden in het vak biologie",
+    "prefix_code": "BI/K/3",
+    "education_level_discipline": 77
+  },
+  "173": {
+    "id": 173,
+    "name": "Cellen staan aan de basis",
+    "prefix_code": "BI/K/4",
+    "education_level_discipline": 77
+  },
+  "174": {
+    "id": 174,
+    "name": "Planten en dieren en hun samenhang: de eigen omgeving verkend",
+    "prefix_code": "BI/K/6",
+    "education_level_discipline": 77
+  },
+  "175": {
+    "id": 175,
+    "name": "Het lichaam in stand houden: voeding en genotmiddelen, energie, transport en uitscheiding",
+    "prefix_code": "BI/K/9",
+    "education_level_discipline": 77
+  },
+  "176": {
+    "id": 176,
+    "name": "Reageren op prikkels",
+    "prefix_code": "BI/K/11",
+    "education_level_discipline": 77
+  },
+  "177": {
+    "id": 177,
+    "name": "Van generatie op generatie",
+    "prefix_code": "BI/K/12",
+    "education_level_discipline": 77
+  },
+  "178": {
+    "id": 178,
+    "name": "Erfelijkheid en evolutie",
+    "prefix_code": "BI/K/13",
+    "education_level_discipline": 77
+  },
+  "179": {
+    "id": 179,
+    "name": "Bescherming en antistoffen",
+    "prefix_code": "BI/V/1",
+    "education_level_discipline": 77
+  },
+  "180": {
+    "id": 180,
+    "name": "Gedrag bij mens en dier",
+    "prefix_code": "BI/V/2",
+    "education_level_discipline": 77
+  },
+  "181": {
+    "id": 181,
+    "name": "Vaardigheden in samenhang",
+    "prefix_code": "BI/V/4",
+    "education_level_discipline": 77
+  },
+  "182": {
+    "id": 182,
+    "name": "Leervaardigheden in het vak economie",
+    "prefix_code": "EC/K/3",
+    "education_level_discipline": 75
+  },
+  "183": {
+    "id": 183,
+    "name": "Consumptie",
+    "prefix_code": "EC/K/4A",
+    "education_level_discipline": 75
+  },
+  "184": {
+    "id": 184,
+    "name": "Arbeid en productie",
+    "prefix_code": "EC/K/5A",
+    "education_level_discipline": 75
+  },
+  "185": {
+    "id": 185,
+    "name": "Overheid en bestuur",
+    "prefix_code": "EC/K/6",
+    "education_level_discipline": 75
+  },
+  "186": {
+    "id": 186,
+    "name": "Internationale ontwikkelingen",
+    "prefix_code": "EC/K/7",
+    "education_level_discipline": 75
+  },
+  "187": {
+    "id": 187,
+    "name": "Verrijkingsstof",
+    "prefix_code": "EC/V/1",
+    "education_level_discipline": 75
+  },
+  "188": {
+    "id": 188,
+    "name": "Vaardigheden in samenhang",
+    "prefix_code": "EC/V/3",
+    "education_level_discipline": 75
+  },
+  "189": {
+    "id": 189,
+    "name": "Leervaardigheden in de moderne vreemde talen",
+    "prefix_code": "MVT/K/3",
+    "education_level_discipline": 72
+  },
+  "190": {
+    "id": 190,
+    "name": "Leesvaardigheid",
+    "prefix_code": "MVT/K/4",
+    "education_level_discipline": 72
+  },
+  "191": {
+    "id": 191,
+    "name": "Leesvaardigheid",
+    "prefix_code": "MVT/V/1",
+    "education_level_discipline": 72
+  },
+  "192": {
+    "id": 192,
+    "name": "Kennis van land en samenleving",
+    "prefix_code": "MVT/V/3",
+    "education_level_discipline": 72
+  },
+  "193": {
+    "id": 193,
+    "name": "Vaardigheden in samenhang",
+    "prefix_code": "MVT/V/4",
+    "education_level_discipline": 72
+  },
+  "194": {
+    "id": 194,
+    "name": "Leervaardigheden in het vak geschiedenis en staatsinrichting",
+    "prefix_code": "GS/K/3",
+    "education_level_discipline": 85
+  },
+  "195": {
+    "id": 195,
+    "name": "Staatsinrichting van Nederland",
+    "prefix_code": "GS/K/5",
+    "education_level_discipline": 85
+  },
+  "196": {
+    "id": 196,
+    "name": "Historisch overzicht vanaf 1900",
+    "prefix_code": "GS/K/10",
+    "education_level_discipline": 85
+  },
+  "197": {
+    "id": 197,
+    "name": "Vaardigheden in samenhang",
+    "prefix_code": "GS/V/8",
+    "education_level_discipline": 85
+  },
+  "198": {
+    "id": 198,
+    "name": "Verrijkingsdeel bij historisch overzicht vanaf 1900",
+    "prefix_code": "GS/V/9",
+    "education_level_discipline": 85
+  },
+  "199": {
+    "id": 199,
+    "name": "Leervaardigheden in het vak natuurkunde",
+    "prefix_code": "NASK1/K/3",
+    "education_level_discipline": 76
+  },
+  "200": {
+    "id": 200,
+    "name": "Stoffen en materialen",
+    "prefix_code": "NASK1/K/4",
+    "education_level_discipline": 76
+  },
+  "201": {
+    "id": 201,
+    "name": "Elektrische energie",
+    "prefix_code": "NASK1/K/5",
+    "education_level_discipline": 76
+  },
+  "202": {
+    "id": 202,
+    "name": "Verbranden en verwarmen",
+    "prefix_code": "NASK1/K/6",
+    "education_level_discipline": 76
+  },
+  "203": {
+    "id": 203,
+    "name": "Geluid",
+    "prefix_code": "NASK1/K/8",
+    "education_level_discipline": 76
+  },
+  "204": {
+    "id": 204,
+    "name": "Kracht en veiligheid",
+    "prefix_code": "NASK1/K/9",
+    "education_level_discipline": 76
+  },
+  "205": {
+    "id": 205,
+    "name": "Veiligheid in het verkeer",
+    "prefix_code": "NASK1/V/1",
+    "education_level_discipline": 76
+  },
+  "206": {
+    "id": 206,
+    "name": "Constructies",
+    "prefix_code": "NASK1/V/2",
+    "education_level_discipline": 76
+  },
+  "207": {
+    "id": 207,
+    "name": "Vaardigheden in samenhang",
+    "prefix_code": "NASK1/V/4",
+    "education_level_discipline": 76
+  },
+  "208": {
+    "id": 208,
+    "name": "Leervaardigheden in het vak scheikunde",
+    "prefix_code": "NASK2/K/3",
+    "education_level_discipline": 73
+  },
+  "209": {
+    "id": 209,
+    "name": "Mens en omgeving: verbranding",
+    "prefix_code": "NASK2/K/5",
+    "education_level_discipline": 73
+  },
+  "210": {
+    "id": 210,
+    "name": "Water, zuren en basen",
+    "prefix_code": "NASK2/K/7",
+    "education_level_discipline": 73
+  },
+  "211": {
+    "id": 211,
+    "name": "Basischemie voor vervolgopleiding en beroep",
+    "prefix_code": "NASK2/K/10",
+    "education_level_discipline": 73
+  },
+  "212": {
+    "id": 212,
+    "name": "Bouw van de materie",
+    "prefix_code": "NASK2/K/11",
+    "education_level_discipline": 73
+  },
+  "213": {
+    "id": 213,
+    "name": "Productieprocessen",
+    "prefix_code": "NASK2/V/1",
+    "education_level_discipline": 73
+  },
+  "214": {
+    "id": 214,
+    "name": "Productonderzoek",
+    "prefix_code": "NASK2/V/2",
+    "education_level_discipline": 73
+  },
+  "215": {
+    "id": 215,
+    "name": "Vaardigheden in samenhang",
+    "prefix_code": "NASK2/V/4",
+    "education_level_discipline": 73
+  },
+  "216": {
+    "id": 216,
+    "name": "Leervaardigheden voor het vak Nederlands",
+    "prefix_code": "NE/K/3",
+    "education_level_discipline": 80
+  },
+  "217": {
+    "id": 217,
+    "name": "Leesvaardigheid",
+    "prefix_code": "NE/K/6",
+    "education_level_discipline": 80
+  },
+  "218": {
+    "id": 218,
+    "name": "Schrijfvaardigheid",
+    "prefix_code": "NE/K/7",
+    "education_level_discipline": 80
+  },
+  "219": {
+    "id": 219,
+    "name": "Leervaardigheden in het vak wiskunde",
+    "prefix_code": "WI/K/3",
+    "education_level_discipline": 87
+  },
+  "220": {
+    "id": 220,
+    "name": "Algebraïsche verbanden",
+    "prefix_code": "WI/K/4",
+    "education_level_discipline": 87
+  },
+  "221": {
+    "id": 221,
+    "name": "Rekenen, meten en schatten",
+    "prefix_code": "WI/K/5",
+    "education_level_discipline": 87
+  },
+  "222": {
+    "id": 222,
+    "name": "Meetkunde",
+    "prefix_code": "WI/K/6",
+    "education_level_discipline": 87
+  },
+  "223": {
+    "id": 223,
+    "name": "Aanvullende eisen",
+    "prefix_code": "WI/V/1",
+    "education_level_discipline": 87
+  },
+  "224": {
+    "id": 224,
+    "name": "Vaardigheden in samenhang",
+    "prefix_code": "WI/V/4",
+    "education_level_discipline": 87
+  },
+  "235": {
+    "id": 235,
+    "name": "Leervaardigheden in het vak maatschappijkunde",
+    "prefix_code": "ML2/K/3",
+    "education_level_discipline": 83
+  },
+  "236": {
+    "id": 236,
+    "name": "Politiek en beleid",
+    "prefix_code": "ML2/K/4",
+    "education_level_discipline": 83
+  },
+  "237": {
+    "id": 237,
+    "name": "Criminaliteit en rechtsstaat",
+    "prefix_code": "ML2/K/8",
+    "education_level_discipline": 83
+  },
+  "238": {
+    "id": 238,
+    "name": "Analyse maatschappijlijk vraagstuk",
+    "prefix_code": "ML2/V/1",
+    "education_level_discipline": 83
+  },
+  "243": {
+    "id": 243,
+    "name": "Door de tijd heen",
+    "prefix_code": "1",
+    "education_level_discipline": 2
+  },
+  "244": {
+    "id": 244,
+    "name": "Prehistorie en oudheid",
+    "prefix_code": "2",
+    "education_level_discipline": 2
+  },
+  "245": {
+    "id": 245,
+    "name": "Middeleeuwen",
+    "prefix_code": "3",
+    "education_level_discipline": 2
+  },
+  "246": {
+    "id": 246,
+    "name": "Vroegmoderne tijd",
+    "prefix_code": "4",
+    "education_level_discipline": 2
+  },
+  "247": {
+    "id": 247,
+    "name": "Moderne tijd",
+    "prefix_code": "5",
+    "education_level_discipline": 2
+  },
+  "248": {
+    "id": 248,
+    "name": "Door de tijd heen",
+    "prefix_code": "1",
+    "education_level_discipline": 29
+  },
+  "249": {
+    "id": 249,
+    "name": "Vroegmoderne tijd",
+    "prefix_code": "4",
+    "education_level_discipline": 29
+  },
+  "250": {
+    "id": 250,
+    "name": "Moderne tijd",
+    "prefix_code": "5",
+    "education_level_discipline": 29
+  },
+  "163": {
+    "id": 163,
+    "name": "Aanvullende eisen",
+    "prefix_code": "WI/V/1",
+    "education_level_discipline": 67
+  },
+  "160": {
+    "id": 160,
+    "name": "Algebraïsche verbanden",
+    "prefix_code": "WI/K/4",
+    "education_level_discipline": 67
+  },
+  "242": {
+    "id": 242,
+    "name": "Analyse maatschappijlijk vraagstuk",
+    "prefix_code": "ML2/V/1",
+    "education_level_discipline": 63
+  },
+  "124": {
+    "id": 124,
+    "name": "Arbeid en productie",
+    "prefix_code": "EC/K/5A",
+    "education_level_discipline": 55
+  },
+  "151": {
+    "id": 151,
+    "name": "Basischemie voor vervolgopleiding en beroep",
+    "prefix_code": "NASK2/K/10",
+    "education_level_discipline": 53
+  },
+  "119": {
+    "id": 119,
+    "name": "Bescherming en antistoffen",
+    "prefix_code": "BI/V/1",
+    "education_level_discipline": 57
+  },
+  "108": {
+    "id": 108,
+    "name": "Bevolking en ruimte",
+    "prefix_code": "AK/K/8",
+    "education_level_discipline": 71
+  },
+  "152": {
+    "id": 152,
+    "name": "Bouw van de materie",
+    "prefix_code": "NASK2/K/11",
+    "education_level_discipline": 53
+  },
+  "111": {
+    "id": 111,
+    "name": "Casus bevolking en ruimte: bevolking en ruimte in grootstedelijke gebieden",
+    "prefix_code": "AK/V/5",
+    "education_level_discipline": 71
+  },
+  "110": {
+    "id": 110,
+    "name": "Casus water: watermanagement",
+    "prefix_code": "AK/V/3",
+    "education_level_discipline": 71
+  },
+  "109": {
+    "id": 109,
+    "name": "Casus weer en klimaat: extreme weersomstandigheden",
+    "prefix_code": "AK/V/1",
+    "education_level_discipline": 71
+  },
+  "113": {
+    "id": 113,
+    "name": "Cellen staan aan de basis",
+    "prefix_code": "BI/K/4",
+    "education_level_discipline": 57
+  },
+  "146": {
+    "id": 146,
+    "name": "Constructies",
+    "prefix_code": "NASK1/V/2",
+    "education_level_discipline": 56
+  },
+  "123": {
+    "id": 123,
+    "name": "Consumptie",
+    "prefix_code": "EC/K/4A",
+    "education_level_discipline": 55
+  },
+  "241": {
+    "id": 241,
+    "name": "Criminaliteit en rechtsstaat",
+    "prefix_code": "ML2/K/8",
+    "education_level_discipline": 63
+  },
+  "72": {
+    "id": 72,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 31
+  },
+  "17": {
+    "id": 17,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 4
+  },
+  "79": {
+    "id": 79,
+    "name": "Leesvaardigheid",
+    "prefix_code": "A",
+    "education_level_discipline": 28
+  },
+  "24": {
+    "id": 24,
+    "name": "Leesvaardigheid",
+    "prefix_code": "A",
+    "education_level_discipline": 1
+  },
+  "32": {
+    "id": 32,
+    "name": "Leesvaardigheid",
+    "prefix_code": "A",
+    "education_level_discipline": 11
+  },
+  "87": {
+    "id": 87,
+    "name": "Leesvaardigheid",
+    "prefix_code": "A",
+    "education_level_discipline": 38
+  },
+  "45": {
+    "id": 45,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 3
+  },
+  "101": {
+    "id": 101,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 30
+  },
+  "41": {
+    "id": 41,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 27
+  },
+  "96": {
+    "id": 96,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 51
+  },
+  "34": {
+    "id": 34,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 8
+  },
+  "89": {
+    "id": 89,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 35
+  },
+  "25": {
+    "id": 25,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 22
+  },
+  "80": {
+    "id": 80,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 47
+  },
+  "230": {
+    "id": 230,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 34
+  },
+  "6": {
+    "id": 6,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 6
+  },
+  "61": {
+    "id": 61,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 33
+  },
+  "1": {
+    "id": 1,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 21
+  },
+  "56": {
+    "id": 56,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 46
+  },
+  "50": {
+    "id": 50,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 20
+  },
+  "225": {
+    "id": 225,
+    "name": "Vaardigheden",
+    "prefix_code": "A",
+    "education_level_discipline": 7
+  },
+  "51": {
+    "id": 51,
+    "name": "Algebra en tellen",
+    "prefix_code": "B",
+    "education_level_discipline": 20
+  },
+  "42": {
+    "id": 42,
+    "name": "Algebra en tellen",
+    "prefix_code": "B",
+    "education_level_discipline": 27
+  },
+  "97": {
+    "id": 97,
+    "name": "Algebra en tellen",
+    "prefix_code": "B",
+    "education_level_discipline": 51
+  },
+  "81": {
+    "id": 81,
+    "name": "Beeld- en geluidstechniek",
+    "prefix_code": "B",
+    "education_level_discipline": 47
+  },
+  "46": {
+    "id": 46,
+    "name": "Functies, grafieken en vergelijkingen",
+    "prefix_code": "B",
+    "education_level_discipline": 3
+  },
+  "102": {
+    "id": 102,
+    "name": "Functies, grafieken en vergelijkingen",
+    "prefix_code": "B",
+    "education_level_discipline": 30
+  },
+  "26": {
+    "id": 26,
+    "name": "Golven",
+    "prefix_code": "B",
+    "education_level_discipline": 22
+  },
+  "90": {
+    "id": 90,
+    "name": "Kennis van stoffen en materialen",
+    "prefix_code": "B",
+    "education_level_discipline": 35
+  },
+  "35": {
+    "id": 35,
+    "name": "Stoffen en materialen in de chemie",
+    "prefix_code": "B",
+    "education_level_discipline": 8
+  },
+  "7": {
+    "id": 7,
+    "name": "Van persoon naar rechtspersoon",
+    "prefix_code": "B",
+    "education_level_discipline": 6
+  },
+  "62": {
+    "id": 62,
+    "name": "Van persoon naar rechtspersoon",
+    "prefix_code": "B",
+    "education_level_discipline": 33
+  },
+  "231": {
+    "id": 231,
+    "name": "Vorming",
+    "prefix_code": "B",
+    "education_level_discipline": 34
+  },
+  "226": {
+    "id": 226,
+    "name": "Vorming",
+    "prefix_code": "B",
+    "education_level_discipline": 7
+  },
+  "2": {
+    "id": 2,
+    "name": "Wereld",
+    "prefix_code": "B",
+    "education_level_discipline": 21
+  },
+  "57": {
+    "id": 57,
+    "name": "Wereld",
+    "prefix_code": "B",
+    "education_level_discipline": 46
+  },
+  "232": {
+    "id": 232,
+    "name": "Verhouding",
+    "prefix_code": "C",
+    "education_level_discipline": 34
+  },
+  "227": {
+    "id": 227,
+    "name": "Verhouding",
+    "prefix_code": "C",
+    "education_level_discipline": 7
+  },
+  "3": {
+    "id": 3,
+    "name": "Aarde",
+    "prefix_code": "C",
+    "education_level_discipline": 21
+  },
+  "58": {
+    "id": 58,
+    "name": "Aarde",
+    "prefix_code": "C",
+    "education_level_discipline": 46
+  },
+  "82": {
+    "id": 82,
+    "name": "Beweging en energie",
+    "prefix_code": "C",
+    "education_level_discipline": 47
+  },
+  "27": {
+    "id": 27,
+    "name": "Beweging en wisselwerking",
+    "prefix_code": "C",
+    "education_level_discipline": 22
+  },
+  "36": {
+    "id": 36,
+    "name": "Chemische processen en behoudswetten",
+    "prefix_code": "C",
+    "education_level_discipline": 8
+  },
+  "47": {
+    "id": 47,
+    "name": "Differentiaal- en integraalrekening",
+    "prefix_code": "C",
+    "education_level_discipline": 3
+  },
+  "8": {
+    "id": 8,
+    "name": "Interne organisatie en personeelsbeleid",
+    "prefix_code": "C",
+    "education_level_discipline": 6
+  },
+  "63": {
+    "id": 63,
+    "name": "Interne organisatie en personeelsbeleid",
+    "prefix_code": "C",
+    "education_level_discipline": 33
+  },
+  "91": {
+    "id": 91,
+    "name": "Kennis van chemische processen en kringlopen",
+    "prefix_code": "C",
+    "education_level_discipline": 35
+  },
+  "103": {
+    "id": 103,
+    "name": "Meetkundige berekeningen",
+    "prefix_code": "C",
+    "education_level_discipline": 30
+  },
+  "52": {
+    "id": 52,
+    "name": "Verbanden",
+    "prefix_code": "C",
+    "education_level_discipline": 20
+  },
+  "98": {
+    "id": 98,
+    "name": "Verbanden",
+    "prefix_code": "C",
+    "education_level_discipline": 51
+  },
+  "43": {
+    "id": 43,
+    "name": "Verbanden",
+    "prefix_code": "C",
+    "education_level_discipline": 27
+  },
+  "73": {
+    "id": 73,
+    "name": "Markt",
+    "prefix_code": "D",
+    "education_level_discipline": 31
+  },
+  "18": {
+    "id": 18,
+    "name": "Markt",
+    "prefix_code": "D",
+    "education_level_discipline": 4
+  },
+  "33": {
+    "id": 33,
+    "name": "Argumentatieve vaardigheden",
+    "prefix_code": "D",
+    "education_level_discipline": 11
+  },
+  "88": {
+    "id": 88,
+    "name": "Argumentatieve vaardigheden",
+    "prefix_code": "D",
+    "education_level_discipline": 38
+  },
+  "233": {
+    "id": 233,
+    "name": "Binding",
+    "prefix_code": "D",
+    "education_level_discipline": 34
+  },
+  "228": {
+    "id": 228,
+    "name": "Binding",
+    "prefix_code": "D",
+    "education_level_discipline": 7
+  },
+  "4": {
+    "id": 4,
+    "name": "Gebieden",
+    "prefix_code": "D",
+    "education_level_discipline": 21
+  },
+  "48": {
+    "id": 48,
+    "name": "Goniometrische functies",
+    "prefix_code": "D",
+    "education_level_discipline": 3
+  },
+  "9": {
+    "id": 9,
+    "name": "Investeren en financieren",
+    "prefix_code": "D",
+    "education_level_discipline": 6
+  },
+  "64": {
+    "id": 64,
+    "name": "Investeren en financieren",
+    "prefix_code": "D",
+    "education_level_discipline": 33
+  },
+  "28": {
+    "id": 28,
+    "name": "Lading en veld",
+    "prefix_code": "D",
+    "education_level_discipline": 22
+  },
+  "83": {
+    "id": 83,
+    "name": "Materialen",
+    "prefix_code": "D",
+    "education_level_discipline": 47
+  },
+  "92": {
+    "id": 92,
+    "name": "Ontwerpen en experimenten in de chemie",
+    "prefix_code": "D",
+    "education_level_discipline": 35
+  },
+  "37": {
+    "id": 37,
+    "name": "Ontwikkelen van chemische kennis",
+    "prefix_code": "D",
+    "education_level_discipline": 8
+  },
+  "59": {
+    "id": 59,
+    "name": "Ontwikkelingsland",
+    "prefix_code": "D",
+    "education_level_discipline": 46
+  },
+  "104": {
+    "id": 104,
+    "name": "Toegepaste analyse",
+    "prefix_code": "D",
+    "education_level_discipline": 30
+  },
+  "99": {
+    "id": 99,
+    "name": "Verandering",
+    "prefix_code": "D",
+    "education_level_discipline": 51
+  },
+  "44": {
+    "id": 44,
+    "name": "Verandering",
+    "prefix_code": "D",
+    "education_level_discipline": 27
+  },
+  "53": {
+    "id": 53,
+    "name": "Veranderingen",
+    "prefix_code": "D",
+    "education_level_discipline": 20
+  },
+  "74": {
+    "id": 74,
+    "name": "Ruilen over de tijd",
+    "prefix_code": "E",
+    "education_level_discipline": 31
+  },
+  "19": {
+    "id": 19,
+    "name": "Ruilen over de tijd",
+    "prefix_code": "E",
+    "education_level_discipline": 4
+  },
+  "84": {
+    "id": 84,
+    "name": "Aarde en heelal",
+    "prefix_code": "E",
+    "education_level_discipline": 47
+  },
+  "38": {
+    "id": 38,
+    "name": "Innovatie en chemisch onderzoek",
+    "prefix_code": "E",
+    "education_level_discipline": 8
+  },
+  "93": {
+    "id": 93,
+    "name": "Innovatieve ontwikkelingen in de chemie",
+    "prefix_code": "E",
+    "education_level_discipline": 35
+  },
+  "5": {
+    "id": 5,
+    "name": "Leefomgeving",
+    "prefix_code": "E",
+    "education_level_discipline": 21
+  },
+  "60": {
+    "id": 60,
+    "name": "Leefomgeving",
+    "prefix_code": "E",
+    "education_level_discipline": 46
+  },
+  "10": {
+    "id": 10,
+    "name": "Marketing",
+    "prefix_code": "E",
+    "education_level_discipline": 6
+  },
+  "65": {
+    "id": 65,
+    "name": "Marketing",
+    "prefix_code": "E",
+    "education_level_discipline": 33
+  },
+  "49": {
+    "id": 49,
+    "name": "Meetkunde met coördinaten",
+    "prefix_code": "E",
+    "education_level_discipline": 3
+  },
+  "100": {
+    "id": 100,
+    "name": "Statistiek",
+    "prefix_code": "E",
+    "education_level_discipline": 51
+  },
+  "29": {
+    "id": 29,
+    "name": "Straling en materie",
+    "prefix_code": "E",
+    "education_level_discipline": 22
+  },
+  "234": {
+    "id": 234,
+    "name": "Verandering",
+    "prefix_code": "E",
+    "education_level_discipline": 34
+  },
+  "229": {
+    "id": 229,
+    "name": "Verandering",
+    "prefix_code": "E",
+    "education_level_discipline": 7
+  },
+  "75": {
+    "id": 75,
+    "name": "Samenwerken en onderhandelen",
+    "prefix_code": "F",
+    "education_level_discipline": 31
+  },
+  "20": {
+    "id": 20,
+    "name": "Samenwerken en onderhandelen",
+    "prefix_code": "F",
+    "education_level_discipline": 4
+  },
+  "11": {
+    "id": 11,
+    "name": "Financieel beheer",
+    "prefix_code": "F",
+    "education_level_discipline": 6
+  },
+  "66": {
+    "id": 66,
+    "name": "Financieel beheer",
+    "prefix_code": "F",
+    "education_level_discipline": 33
+  },
+  "39": {
+    "id": 39,
+    "name": "Industriële (chemische) processen",
+    "prefix_code": "F",
+    "education_level_discipline": 8
+  },
+  "54": {
+    "id": 54,
+    "name": "Logisch redeneren",
+    "prefix_code": "F",
+    "education_level_discipline": 20
+  },
+  "94": {
+    "id": 94,
+    "name": "Processen in de chemische industrie",
+    "prefix_code": "F",
+    "education_level_discipline": 35
+  },
+  "30": {
+    "id": 30,
+    "name": "Quantumwereld en relativiteit",
+    "prefix_code": "F",
+    "education_level_discipline": 22
+  },
+  "76": {
+    "id": 76,
+    "name": "Risico en informatie",
+    "prefix_code": "G",
+    "education_level_discipline": 31
+  },
+  "21": {
+    "id": 21,
+    "name": "Risico en informatie",
+    "prefix_code": "G",
+    "education_level_discipline": 4
+  },
+  "95": {
+    "id": 95,
+    "name": "Maatschappij en chemische technologie",
+    "prefix_code": "G",
+    "education_level_discipline": 35
+  },
+  "40": {
+    "id": 40,
+    "name": "Maatschappij, chemie en technologie",
+    "prefix_code": "G",
+    "education_level_discipline": 8
+  },
+  "85": {
+    "id": 85,
+    "name": "Meten en regelen",
+    "prefix_code": "G",
+    "education_level_discipline": 47
+  },
+  "12": {
+    "id": 12,
+    "name": "Verslaggeving",
+    "prefix_code": "G",
+    "education_level_discipline": 6
+  },
+  "67": {
+    "id": 67,
+    "name": "Verslaggeving",
+    "prefix_code": "G",
+    "education_level_discipline": 33
+  },
+  "55": {
+    "id": 55,
+    "name": "Vorm en Ruimte",
+    "prefix_code": "G",
+    "education_level_discipline": 20
+  },
+  "77": {
+    "id": 77,
+    "name": "Welvaart en groei",
+    "prefix_code": "H",
+    "education_level_discipline": 31
+  },
+  "22": {
+    "id": 22,
+    "name": "Welvaart en groei",
+    "prefix_code": "H",
+    "education_level_discipline": 4
+  },
+  "86": {
+    "id": 86,
+    "name": "Natuurkunde en technologie",
+    "prefix_code": "H",
+    "education_level_discipline": 47
+  },
+  "31": {
+    "id": 31,
+    "name": "Natuurwetten en modellen",
+    "prefix_code": "H",
+    "education_level_discipline": 22
+  },
+  "78": {
+    "id": 78,
+    "name": "Goede tijden, slechte tijden",
+    "prefix_code": "I",
+    "education_level_discipline": 31
+  },
+  "23": {
+    "id": 23,
+    "name": "Goede tijden, slechte tijden",
+    "prefix_code": "I",
+    "education_level_discipline": 4
+  },
+  "141": {
+    "id": 141,
+    "name": "Elektrische energie",
+    "prefix_code": "NASK1/K/5",
+    "education_level_discipline": 56
+  },
+  "118": {
+    "id": 118,
+    "name": "Erfelijkheid en evolutie",
+    "prefix_code": "BI/K/13",
+    "education_level_discipline": 57
+  },
+  "120": {
+    "id": 120,
+    "name": "Gedrag bij mens en dier",
+    "prefix_code": "BI/V/2",
+    "education_level_discipline": 57
+  },
+  "143": {
+    "id": 143,
+    "name": "Geluid",
+    "prefix_code": "NASK1/K/8",
+    "education_level_discipline": 56
+  },
+  "115": {
+    "id": 115,
+    "name": "Het lichaam in stand houden: voeding en genotmiddelen, energie, transport en uitscheiding",
+    "prefix_code": "BI/K/9",
+    "education_level_discipline": 57
+  },
+  "136": {
+    "id": 136,
+    "name": "Historisch overzicht vanaf 1900",
+    "prefix_code": "GS/K/10",
+    "education_level_discipline": 65
+  },
+  "126": {
+    "id": 126,
+    "name": "Internationale ontwikkelingen",
+    "prefix_code": "EC/K/7",
+    "education_level_discipline": 55
+  },
+  "132": {
+    "id": 132,
+    "name": "Kennis van land en samenleving",
+    "prefix_code": "MVT/V/3",
+    "education_level_discipline": 52
+  },
+  "144": {
+    "id": 144,
+    "name": "Kracht en veiligheid",
+    "prefix_code": "NASK1/K/9",
+    "education_level_discipline": 56
+  },
+  "129": {
+    "id": 129,
+    "name": "Leervaardigheden in de moderne vreemde talen",
+    "prefix_code": "MVT/K/3",
+    "education_level_discipline": 52
+  },
+  "156": {
+    "id": 156,
+    "name": "Leervaardigheden voor het vak Nederlands",
+    "prefix_code": "NE/K/3",
+    "education_level_discipline": 60
+  },
+  "105": {
+    "id": 105,
+    "name": "Leervaardigheden in het vak aardrijkskunde",
+    "prefix_code": "AK/K/3",
+    "education_level_discipline": 71
+  },
+  "112": {
+    "id": 112,
+    "name": "Leervaardigheden in het vak biologie",
+    "prefix_code": "BI/K/3",
+    "education_level_discipline": 57
+  },
+  "122": {
+    "id": 122,
+    "name": "Leervaardigheden in het vak economie",
+    "prefix_code": "EC/K/3",
+    "education_level_discipline": 55
+  },
+  "134": {
+    "id": 134,
+    "name": "Leervaardigheden in het vak geschiedenis en staatsinrichting",
+    "prefix_code": "GS/K/3",
+    "education_level_discipline": 65
+  },
+  "239": {
+    "id": 239,
+    "name": "Leervaardigheden in het vak maatschappijkunde",
+    "prefix_code": "ML2/K/3",
+    "education_level_discipline": 63
+  },
+  "148": {
+    "id": 148,
+    "name": "Leervaardigheden in het vak scheikunde",
+    "prefix_code": "NASK2/K/3",
+    "education_level_discipline": 53
+  },
+  "139": {
+    "id": 139,
+    "name": "Leervaardigheden in het vak natuurkunde",
+    "prefix_code": "NASK1/K/3",
+    "education_level_discipline": 56
+  },
+  "159": {
+    "id": 159,
+    "name": "Leervaardigheden in het vak wiskunde",
+    "prefix_code": "WI/K/3",
+    "education_level_discipline": 67
+  },
+  "157": {
+    "id": 157,
+    "name": "Leesvaardigheid",
+    "prefix_code": "NE/K/6",
+    "education_level_discipline": 60
+  },
+  "130": {
+    "id": 130,
+    "name": "Leesvaardigheid",
+    "prefix_code": "MVT/K/4",
+    "education_level_discipline": 52
+  },
+  "131": {
+    "id": 131,
+    "name": "Leesvaardigheid",
+    "prefix_code": "MVT/V/1",
+    "education_level_discipline": 52
+  },
+  "162": {
+    "id": 162,
+    "name": "Meetkunde",
+    "prefix_code": "WI/K/6",
+    "education_level_discipline": 67
+  },
+  "149": {
+    "id": 149,
+    "name": "Mens en omgeving: verbranding",
+    "prefix_code": "NASK2/K/5",
+    "education_level_discipline": 53
+  },
+  "125": {
+    "id": 125,
+    "name": "Overheid en bestuur",
+    "prefix_code": "EC/K/6",
+    "education_level_discipline": 55
+  },
+  "114": {
+    "id": 114,
+    "name": "Planten en dieren en hun samenhang: de eigen omgeving verkend",
+    "prefix_code": "BI/K/6",
+    "education_level_discipline": 57
+  },
+  "240": {
+    "id": 240,
+    "name": "Politiek en beleid",
+    "prefix_code": "ML2/K/4",
+    "education_level_discipline": 63
+  },
+  "153": {
+    "id": 153,
+    "name": "Productieprocessen",
+    "prefix_code": "NASK2/V/1",
+    "education_level_discipline": 53
+  },
+  "154": {
+    "id": 154,
+    "name": "Productonderzoek",
+    "prefix_code": "NASK2/V/2",
+    "education_level_discipline": 53
+  },
+  "116": {
+    "id": 116,
+    "name": "Reageren op prikkels",
+    "prefix_code": "BI/K/11",
+    "education_level_discipline": 57
+  },
+  "161": {
+    "id": 161,
+    "name": "Rekenen, meten en schatten",
+    "prefix_code": "WI/K/5",
+    "education_level_discipline": 67
+  },
+  "158": {
+    "id": 158,
+    "name": "Schrijfvaardigheid",
+    "prefix_code": "NE/K/7",
+    "education_level_discipline": 60
+  },
+  "135": {
+    "id": 135,
+    "name": "Staatsinrichting van Nederland",
+    "prefix_code": "GS/K/5",
+    "education_level_discipline": 65
+  },
+  "140": {
+    "id": 140,
+    "name": "Stoffen en materialen",
+    "prefix_code": "NASK1/K/4",
+    "education_level_discipline": 56
+  },
+  "138": {
+    "id": 138,
+    "name": "Verrijkingsdeel bij historisch overzicht vanaf 1900",
+    "prefix_code": "GS/V/9",
+    "education_level_discipline": 65
+  },
+  "164": {
+    "id": 164,
+    "name": "Vaardigheden in samenhang",
+    "prefix_code": "WI/V/4",
+    "education_level_discipline": 67
+  },
+  "155": {
+    "id": 155,
+    "name": "Vaardigheden in samenhang",
+    "prefix_code": "NASK2/V/4",
+    "education_level_discipline": 53
+  },
+  "147": {
+    "id": 147,
+    "name": "Vaardigheden in samenhang",
+    "prefix_code": "NASK1/V/4",
+    "education_level_discipline": 56
+  },
+  "137": {
+    "id": 137,
+    "name": "Vaardigheden in samenhang",
+    "prefix_code": "GS/V/8",
+    "education_level_discipline": 65
+  },
+  "128": {
+    "id": 128,
+    "name": "Vaardigheden in samenhang",
+    "prefix_code": "EC/V/3",
+    "education_level_discipline": 55
+  },
+  "121": {
+    "id": 121,
+    "name": "Vaardigheden in samenhang",
+    "prefix_code": "BI/V/4",
+    "education_level_discipline": 57
+  },
+  "117": {
+    "id": 117,
+    "name": "Van generatie op generatie",
+    "prefix_code": "BI/K/12",
+    "education_level_discipline": 57
+  },
+  "145": {
+    "id": 145,
+    "name": "Veiligheid in het verkeer",
+    "prefix_code": "NASK1/V/1",
+    "education_level_discipline": 56
+  },
+  "142": {
+    "id": 142,
+    "name": "Verbranden en verwarmen",
+    "prefix_code": "NASK1/K/6",
+    "education_level_discipline": 56
+  },
+  "127": {
+    "id": 127,
+    "name": "Verrijkingsstof",
+    "prefix_code": "EC/V/1",
+    "education_level_discipline": 55
+  },
+  "133": {
+    "id": 133,
+    "name": "Vaardigheden in samenhang",
+    "prefix_code": "MVT/V/4",
+    "education_level_discipline": 52
+  },
+  "107": {
+    "id": 107,
+    "name": "Water",
+    "prefix_code": "AK/K/6",
+    "education_level_discipline": 71
+  },
+  "150": {
+    "id": 150,
+    "name": "Water, zuren en basen",
+    "prefix_code": "NASK2/K/7",
+    "education_level_discipline": 53
+  },
+  "106": {
+    "id": 106,
+    "name": "Weer en klimaat",
+    "prefix_code": "AK/K/4",
+    "education_level_discipline": 71
+  }
+}

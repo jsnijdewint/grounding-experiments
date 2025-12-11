@@ -1,0 +1,47 @@
+{
+  "id": "vwo_scheikunde_2025_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Maak de bovenstaande vergelijking compleet. Gebruik structuurformules zoals op de afbeelding.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>'Straight whiskey' is whiskey die minimaal twee jaar is gerijpt op eikenhouten vaten. De vaten worden eerst van binnen gebrand, waarbij door thermolyse onder andere karamel wordt gevormd. Straight whiskey heeft daarom een karakteristieke bruine kleur. Whiskey die minder lang is gerijpt, is lichter van kleur. Om deze whiskey dezelfde luxe uitstraling te geven als straight whiskey, wordt vaak de kleurstof E-150 toegevoegd aan het eindproduct. E -150 is een mengsel van verschillende stoffen dat wordt verkregen door thermolyse van sacharose ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>12</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>22</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>11</mn>&#160;</mrow></msub></math>) bij <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>200</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>. Als eerste reageren hierbij de OH -groepen die zijn gebonden aan de C -atomen die in de ringen direct naast de etherbinding tussen de beide ringen van sacharose liggen. Onder afsplitsing van een molecuul water wordt een nieuwe etherbinding gevormd. De ontstane stof is isosachrosan.<br>Op de uitwerkbijlage is de vergelijking van de omzetting van sacharose tot isosachrosan onvolledig weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_ac9430226dc0.jpg",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e38888864c7c4fd5aecf1c7dd30ed55c.jpg",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vw-1028-a-25-1-u.pdf",
+      "media_path": "media/bijlages/vw-1028-a-25-1-u_992021c79286.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6a02d28c7f0e4c32b051d527b5d553bb.pdf"
+    }
+  ]
+}

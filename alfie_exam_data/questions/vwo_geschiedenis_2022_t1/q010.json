@@ -1,0 +1,61 @@
+{
+  "id": "vwo_geschiedenis_2022_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 189,
+          "name": "Tijdvak 6 – Regenten en vorsten",
+          "prefix_code": 6
+        },
+        {
+          "id": 190,
+          "name": "Tijdvak 7 – Pruiken en revoluties",
+          "prefix_code": 7
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Ondersteun deze bewering door:</p><p>- met de bron uit te leggen welk verlicht denkbeeld wordt verwoord in dit toneelstuk en</p><p>- zonder bron te verklaren waardoor een toneelstuk geschikt is voor de verspreiding van nieuwe denkbeelden.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 3.</i></p><p>De stad Antwerpen neemt vanaf 1585 een belangrijke plaats in als onderwerp van propaganda tijdens de periode van de Opstand.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 4.</i></p><p>Henry Stubbe krijgt 200 pond van de Engelse koning voor zijn pamflet.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 5.</i></p><p>Een bewering: Pierre-Augustin Caron de Beaumarchais wil verlichte denkbeelden verspreiden.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2022_I_bijlage_a36412ab6c17.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ffb233ca393f4e5495872a5032cf7133.pdf"
+    }
+  ]
+}

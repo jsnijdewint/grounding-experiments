@@ -1,0 +1,62 @@
+{
+  "id": "vwo_scheikunde_2024_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Maak op de uitwerkbijlage de vergelijking van de volledige hydrolyse van PLGA compleet met de ontbrekende stoffen en coëfficiënten. Gebruik structuurformules voor de koolstofverbindingen.</p>",
+    "max_score": 3,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_79f5c2ac996c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a1f04f128ecb4872b95d5f02b913a53d.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Sommige geneesmiddelen worden ingekapseld in microbolletjes van 0,1 tot 30 µm grootte. In figuur 1 is zo’n microbolletje vereenvoudigd weergegeven. De buitenkant van dit microbolletje bestaat uit fosfolipiden. In dit microbolletje bevindt zich het geneesmiddel, ingekapseld in een specifiek polymeer.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_c6794c6ae042.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/df80920cd99c49f2911b008131f86fca.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In het lichaam worden de fosfolipiden opgenomen. Daarna wordt het polymeer langzaam afgebroken, zodat het geneesmiddel geleidelijk vrijkomt. In figuur 2 is het copolymeer PLGA weergegeven. Dit is een van de weinige synthetische polymeren die zijn goedgekeurd voor deze toepassing. De monomeren van PLGA zijn melkzuur en glycolzuur. Dat zijn lichaamseigen stoffen die door het lichaam kunnen worden afgevoerd.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_a3bd66674f77.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d621cd926d8849dda457dd8baf361301.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2024_I_uitwerkbijla_afd0d648d809.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a48af7b1aec24f97bcb1032e6d3b2773.pdf"
+    }
+  ]
+}

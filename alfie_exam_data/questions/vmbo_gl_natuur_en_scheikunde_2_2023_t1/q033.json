@@ -1,0 +1,41 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_2_2023_t1_q33",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_2",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 53,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bij het ontstaan van het wintertafereel verandert de kleur van de oplossing in het bekerglas.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Geef aan welke kleur de oplossing krijgt.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Op Instagram staat een filmpje waarin een spiraal van koperdraad in een bekerglas wordt overgoten met een kleurloze oplossing. Deze oplossing bevat zilverionen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Ag</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo> </mrow></msup><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>. Op het koper ontstaat een grijswit laagje zilver, waardoor het lijkt alsof de spiraal met sneeuw is bedekt. De oplossing in het bekerglas verandert hierbij van kleur. De chemische reactie die dit wintertafereel veroorzaakt kan als volgt worden weergegeven:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>zilverionen + koper </mtext><mo stretchy=\"false\">&#8594;</mo> <mtext>zilver </mtext><mo>+</mo> <mtext>koper(II)ionen </mtext><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mtext>(reactie 1)&#160;</mtext></math></p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_3368c4dfa746.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7b33a4128fa542beb996e21131ba0569.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

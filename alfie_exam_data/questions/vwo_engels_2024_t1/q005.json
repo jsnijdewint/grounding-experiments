@@ -1,0 +1,45 @@
+{
+  "id": "vwo_engels_2024_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "engels",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 1,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>What is the function of the final sentence?&nbsp;<br>A to allude to the novel's main source of inspiration&nbsp;<br>B to emulate the creative use of imagery used by the author&nbsp;<br>C to substantiate the opinion presented throughout the review&nbsp;<br>D to underline the novel's timely appearance</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Let op: beantwoord een open vraag altijd in het Nederlands, behalve als het anders is aangegeven. Als je in het Engels antwoordt, levert dat 0 punten op.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Engels 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2024_I_bijlage_acefe2a7e1aa.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e01108c2e1534832bdcd82e9b25fe5f8.pdf"
+    },
+    {
+      "name": "Engels bijlage.pdf",
+      "media_path": "media/bijlages/Engels_bijlage_2faeefebe085.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/31fa13e158c34db29b35e5bf99bfbf61.pdf"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "vwo_aardrijkskunde_2021_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "aardrijkskunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 21,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 5,
+          "name": "Nationale en regionale vraagstukken",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat het overstromingsrisico bij Heesselt en Varik door deze maatregelen al afgenomen was. Je uitleg moet een oorzaak-gevolgrelatie bevatten.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave hoort bron 20.<br>Gebruik bron 20.<br>In het verleden is ten oosten van Alem een geul gegraven om een meander in de Maas af te snijden. Ook met de aanleg van hoogwatergeulen worden tegenwoordig meanders afgesneden.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik bron 20.<br>De inwoners van de plaatsen Tiel, Dreumel, Heerewaarden en Rossum waren in het algemeen voor de aanleg van de hoogwatergeul bij Heesselt en Varik, omdat het overstromingsrisico daardoor zou afnemen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Gebruik bron 20 en het kaartenkatern.<br>Inwoners van Heesselt en Varik waren veelal tegen de aanleg van de hoogwatergeul, omdat het overstromingsrisico door maatregelen stroomopwaarts al afgenomen was.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2021_I_bijlage_1de9ee212266.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3bcf64b646bb4388813bec93b28b6c85.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2021 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2021_I_kaartenk_576987338d70.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/734331e338bb414c87f337f1f9517536.pdf"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "export_date": "2025-12-09T16:14:34.156215",
+  "source_api": "https://api.app.brainboost.nl",
+  "counts": {
+    "exams_total": 133,
+    "exams_exported": 133,
+    "exams_failed": 0,
+    "questions_total": 4316,
+    "questions_exported": 4316,
+    "media_files_downloaded": 265,
+    "media_files_skipped": 728,
+    "media_files_failed": 234
+  }
+}

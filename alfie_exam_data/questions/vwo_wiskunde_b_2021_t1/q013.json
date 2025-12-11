@@ -1,0 +1,58 @@
+{
+  "id": "vwo_wiskunde_b_2021_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 46,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken exact deze waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>q</mi>&#160;</math>.</p>",
+    "max_score": 6,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De functie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>wordt gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">|</mo> </mrow><mi>ln</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo stretchy=\"false\">|</mo>&#160;</math>. Gegeven is verder de horizontale lijn met vergelijking <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi> <mo>=</mo> <mi>q</mi>&#160;</math>, met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>q</mi> <mo>&#62;</mo> <mn>0</mn>&#160;</math>. Deze lijn snijdt de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-as in het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>en de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>in de punten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi>&#160;</math>met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>x</mi> <mrow data-mjx-texclass=\"ORD\"><mi>B</mi> </mrow></msub><mo>&#60;</mo> <msub><mi>x</mi> <mrow data-mjx-texclass=\"ORD\"><mi>C</mi>&#160;</mrow></msub></math>. Zie de figuur.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_494f9362eece.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/15abdd7aa3154beab0e59f82afd85861.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Er is een waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>q</mi>&#160;</math>waarvoor de lengte van lijnstuk <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi> <mi>C</mi>&#160;</math>drie keer zo groot is als de lengte van lijnstuk <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi>&#160;</math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_3a0824c1577f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c4b8e721c4c94202abb8ace2ac024907.pdf"
+    }
+  ]
+}

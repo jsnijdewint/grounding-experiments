@@ -1,0 +1,46 @@
+{
+  "id": "havo_geschiedenis_2023_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "geschiedenis",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 29,
+      "domains": [
+        {
+          "id": 248,
+          "name": "Door de tijd heen",
+          "prefix_code": "1"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zet deze gebeurtenissen in de juiste chronologische volgorde van vroeger naar later. Noteer alleen de nummers.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De volgende gebeurtenissen in het Britse Rijk staan in willekeurige volgorde:<br>1 Hoogopgeleide Indiërs richtten het Indian National Congress op om meer inspraak te krijgen in het Britse beleid in India.<br>2 In Amerika kwamen kolonisten in verzet nadat de Engelse koning de anglicaanse kerk daar tot staatskerk maakte.<br>3 Kort na het neerslaan van een slavenopstand op Jamaica schafte het Britse parlement de slavernij af in de koloniēn.<br>4 Na de Eerste Wereldoorlog maakte de Britse regering zich zorgen dat de Indiase onafhankelijkheidsbeweging sterker werd omdat Indiase soldaten voor Groot-Brittannië hadden gevochten.<br>5 Na het neerslaan van een opstand van ontevreden Indiase soldaten, kwam Brits-Indië onder direct gezag van de Britse regering.<br>6 Uit onvrede over het Britse beleid vormden Amerikaanse kolonisten een federale staat.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2023_I_bijlage_2ccfd292fdea.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/55cb39c4e0dc4b628a1ed42d2c5ca13a.pdf"
+    }
+  ]
+}

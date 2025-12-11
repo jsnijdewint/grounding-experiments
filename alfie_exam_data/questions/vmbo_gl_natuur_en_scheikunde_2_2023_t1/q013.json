@@ -1,0 +1,58 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_2_2023_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_2",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 53,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Een gemeente geeft op haar website aan dat bij carbidschieten gedacht moet worden aan water en een blusdeken.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Welke verbrandingsvoorwaarde kan worden weggenomen met een blusdeken?</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Calciumcarbide reageert met water tot het gas ethyn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>en een oplossing van een zout. De vergelijking van deze reactie is hieronder onvolledig weergegeven. Alleen de formule van calciumcarbide ontbreekt.</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8230;</mo> <mo>+</mo> <mn>2</mn> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mo stretchy=\"false\">&#8594;</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mo>+</mo> <msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Ca</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> <mo>+</mo> </mrow></msup><mo>+</mo> <mn>2</mn> <msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">OH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math></p><p>Ethyn kan bij verbranding een explosie veroorzaken. Een explosie is een extreem snelle verbranding.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Aan het werken met calciumcarbide zijn grote risico's verbonden. Op de website van een leverancier zijn daarom voorzorgsmaatregelen gegeven, waaronder:<br>a Bewaar in goed gesloten verpakking.<br>b Draag beschermende kleding/materialen bij gebruik.</p><p><br>De leverancier geeft ook informatie over de risico's van calciumcarbide:<br>1 Vormt in contact met water ontvlambare gassen.<br>2 Veroorzaakt huidirritatie.<br>3 Veroorzaakt ernstig oogletsel.<br>4 Kan irritatie van de luchtwegen veroorzaken.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_0f4632b920ef.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8f9a2b6d27ca4c1fa847ad8c9c440920.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Douwe en Riet bespreken het gebruik van calciumcarbide als 'vuurwerk'.<br>Douwe zegt \"Dus een beetje calciumcarbide, scheutje water erbij, bal erop als deksel, aansteken en boem, mooie knall Dat heet carbidschieten.\"</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_fed57833243c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/702f965a8d7343979796f8129cc885d4.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "vmbo_gl_economie_2023_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 124,
+          "name": "Arbeid en productie",
+          "prefix_code": "EC/K/5A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik informatiebron 6.<br>In 2018 zijn er 250.740 vacatures.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Bereken het aantal werklozen in 2018. Schrijf je berekening op.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 6 en 7 in de bijlage.&nbsp;<br>De arbeidsmarkt is voortdurend in beweging, de vraag naar arbeid en het aanbod van arbeid verandert in de loop van de tijd. Het Centraal Bureau voor de Statistiek (CBS) omschrijft in 2018 de situatie op de arbeidsmarkt als een gespannen arbeidsmarkt. Als voornaamste oorzaak noemt het CBS de sterke economische groei.&nbsp;<br>De spanning op de arbeidsmarkt wordt bepaald door de vraag naar extra arbeid (vacatures) en het vrij beschikbare aanbod van arbeid (werkloosheid).</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2023_I_bijlage_d07fb50732d7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/37a7c03aae784b9f89ef1c2fe31fa61d.pdf"
+    }
+  ]
+}

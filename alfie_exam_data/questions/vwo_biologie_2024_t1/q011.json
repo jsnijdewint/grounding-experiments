@@ -1,0 +1,67 @@
+{
+  "id": "vwo_biologie_2024_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 34,
+          "name": "Reproductie van het organisme",
+          "prefix_code": 7
+        },
+        {
+          "id": 35,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 43,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit hoe op Spitsbergen een ondersoort kon ontstaan die kleiner is dan andere ondersoorten.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Door klimaatverandering wordt de vegetatie in arctische gebieden ’s winters steeds vaker door een ijslaag bedekt. De Noorse bioloog Brage Bremset Hansen en zijn collega’s hebben aangetoond dat het dieet van Spitsbergenrendieren dan verandert. Dit veroorzaakt een verandering in de nutriëntenkringloop in het ecosysteem.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_cad3b1efc5f9.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c10c8c2424704fcdb7d9ff06d3af3176.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een aantal aanpassingen maakten deze ondersoort geschikt om te overleven in de kou op Spitsbergen. Zo hebben ze een dikke vacht, waardoor ze minder energie verbruiken om warm te blijven, en door hun korte poten is hun oppervlakte-inhoudsverhouding gunstig.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De poten van het Spitsbergenrendier zijn kort, maar ook de rest van zijn lichaam is klein vergeleken met ondersoorten die op andere plaatsen leven. Een mogelijke verklaring hiervoor is de afwezigheid van predatoren zoals de wolf. Kleinere dieren vallen daardoor niet vaker ten prooi aan wolven dan grotere exemplaren. Selectiedruk door andere factoren leidde tot de kleine ondersoort op Spitsbergen.</p>"
+    }
+  ],
+  "bijlages": []
+}

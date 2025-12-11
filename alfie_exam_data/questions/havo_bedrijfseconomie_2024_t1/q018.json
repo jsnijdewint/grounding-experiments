@@ -1,0 +1,78 @@
+{
+  "id": "havo_bedrijfseconomie_2024_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "bedrijfseconomie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 33,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 104,
+          "name": "Vastleggen van financiële en niet financiële informatie",
+          "prefix_code": 1
+        },
+        {
+          "id": 105,
+          "name": "Kosten- en winstvraagstukken",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken het totale gerealiseerde resultaat van Maaltijd-aan-Huis over januari 2024. Geef aan of er sprake is van een positief of negatief resultaat.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In deze opgave blijft de btw buiten beschouwing.&nbsp;<br><br>Elvie en Renzo hebben op 1 januari 2024 Maaltijd-aan-Huis opgericht. Maaltijd-aan-Huis is een bezorgservice die kant-en-klaar-maaltijdboxen aflevert bij klanten. Klanten betalen naast de maaltijdboxen ook een vast bedrag per maaltijdbox voor de bezorgservice. Maaltijd-aan-Huis heeft ervoor gekozen om de verkoopprijs van de maaltijdboxen lager vast te stellen dan de verkoopprijs van de concurrenten.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_c8b24e8510c4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e470e5dfbbd14a0abc0692c6af0d6a19.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De totale constante kosten zijn gelijkmatig over het jaar verdeeld.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In januari 2024 worden in totaal 30 maaltijdboxen besteld en afgeleverd.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Elvie en Renzo willen weten hoeveel maaltijdboxen er in januari 2024 verkocht moeten worden om alle kosten te dekken.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_bijlag_2e10e0982197.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a7a15ca0f9d2401aa24055b39fdd0a81.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_uitwer_e1cba7355851.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/555ba55aca42476292c914bf8a9a09fe.pdf"
+    }
+  ]
+}

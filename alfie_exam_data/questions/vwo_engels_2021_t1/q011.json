@@ -1,0 +1,46 @@
+{
+  "id": "vwo_engels_2021_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "engels",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 1,
+      "domains": [
+        {
+          "id": 24,
+          "name": "Leesvaardigheid",
+          "prefix_code": "A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In welke volgorde stonden de zinnen in alinea <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn> <mo>?</mo>&#160;</math>Zet de letters in de juiste volgorde.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De volgende drie zinnen kwamen oorspronkelijk na de eerste zin van alinea 6, maar zijn uit de tekst weggehaald (zie stippellijntjes in de tekst).<br>a The share of households that are 'rent burdened' - those spending more than <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> of pre-tax income on rent - has increased from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>32</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> in 2001 to <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>38</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> in 2015. Things are worse among the poor; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>52</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> of those below the federal poverty line spend over half their income on rent.<br>b These rents have risen dramatically, though this can be the fault of thoughtless regulations which hinder supply more than the malevolence of gentrifiers.<br>c To be more specific, it can be linked to the cost of housing in American cities. Though the process of gentrification has been going on for a few decades, the increased attention for it comes in the middle of this broader concern.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Engels 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2021_I_bijlage_d3e0516e090d.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5226717a0516479bbf99a8d1ff030091.pdf"
+    }
+  ]
+}

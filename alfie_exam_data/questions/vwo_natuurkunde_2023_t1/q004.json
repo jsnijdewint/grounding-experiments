@@ -1,0 +1,164 @@
+{
+  "id": "vwo_natuurkunde_2023_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 46,
+          "name": "Kracht en beweging",
+          "prefix_code": 1
+        },
+        {
+          "id": 47,
+          "name": "Energie en wisselwerking",
+          "prefix_code": 2
+        },
+        {
+          "id": 48,
+          "name": "Gravitatie",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:</p><p>− Leg uit of uit figuur 9 volgt dat er een recht evenredig verband is tussen de massa van de langlaufer en de wrijvingscoëfficiënt <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>f</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi mathvariant=\"normal\">d</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n</math>.</p><p>− Leg uit of uit figuur 9 volgt dat er een recht evenredig verband is tussen de snelheid v en de wrijvingscoëfficiënt <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>f</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi mathvariant=\"normal\">d</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n</math>.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Langlaufen is een wintersport waarbij een langlaufer vooruitkomt op ski’s door zich af te zetten tegen een besneeuwde ondergrond. Bij de klassieke stijl moet de langlaufer gedurende de hele beweging zijn beide ski’s evenwijdig aan elkaar houden, zodat ze in de twee gleuven in de sneeuw, de loipe, blijven. Zie figuur 1. Binnen de klassieke stijl zijn twee verschillende technieken mogelijk: de dubbelstoktechniek (figuur 1) en de diagonaalpastechniek (figuur 2).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_9e5edbbd419e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6ccee080003b4f64b8c42c2d6d440687.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Dubbelstoktechniek Bij de dubbelstoktechniek is het mogelijk om in korte tijd een hoge snelheid te ontwikkelen. De langlaufer gebruikt dan alleen de twee skistokken om zichzelf vooruit te duwen, terwijl beide ski’s naast elkaar blijven. In figuur 3 is één bewegingscyclus van de dubbelstoktechniek schematisch weergegeven in vier plaatjes</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_a11d5309746a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0340d0158622413782c846d14ea109e3.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_1974f1a7a385.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/25e86c5dd0114570b307e39046923296.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Met behulp van videometen is de beweging van een langlaufer met de dubbelstoktechniek vastgelegd. In figuur 4 staat een klein gedeelte van deze beweging afgebeeld. De figuur toont iets meer dan één volledige bewegingscyclus.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_f0408808e5dd.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fb8c833fc46b4146a611c964f181e0b1.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Figuur 4 staat ook op de uitwerkbijlage</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p><i>Diagonaalpastechniek</i></p><p>De tweede klassieke techniek is de diagonaalpastechniek. Bij deze techniek steunt de langlaufer afwisselend met zijn gewicht op een van beide ski’s. Op dat moment raakt de ski over zijn volle lengte de ondergrond en kan de langlaufer zich met één ski afzetten. In figuur 5 is de diagonaalpastechniek schematisch weergegeven in vijf plaatjes.</p>"
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_60eebabc570d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b6758d5846914199b73e368fb3b680c7.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Een klassieke langlaufski is licht gebogen. Daardoor raakt het midden van de ski de grond pas als de ski voldoende belast wordt. Zo’n ski heet een camberski. De maximale hoogte boven de grond wordt de camberhoogte genoemd. Zie figuur 6.</p>"
+    },
+    {
+      "order": 11,
+      "type": "image",
+      "media_path": "media/in-exam/img_c660c903cb7a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ddbf083a41844ef7bf93a20dec7a66ee.png",
+      "caption": ""
+    },
+    {
+      "order": 12,
+      "type": "text",
+      "text": "<p>Het middengedeelte van de onderkant van de ski is ruw gemaakt. Hiermee kan de langlaufer zich afzetten als het middengedeelte de sneeuw raakt. In de glijfase verdeelt de langlaufer zijn gewicht over beide ski’s en is hij in staat om te glijden. Om te kunnen glijden mag het middengedeelte van de ski’s de sneeuw niet raken als de langlaufer op twee ski’s staat. Als de langlaufer op één ski staat, moet het middengedeelte van de ski de sneeuw wel raken om te kunnen afzetten. Het is daarom essentieel dat de langlaufer ski’s gebruikt waarvan de flexibiliteit en de camberhoogte passen bij zijn massa. Een ski is daarbij in eerste benadering vergelijkbaar met een veer.&nbsp;</p><p>&nbsp;</p><p>Een langlaufer met een massa van 80 kg wil langlaufski’s gebruiken met een camberhoogte van 3,0 mm en een veerconstante van 100 kN &nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">m</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8722;</mo>\r\n      <mn>1</mn>\r\n    </mrow>\r\n  </msup>\r\n</math>. Aan de voorwaarde dat het middengedeelte van de ski de sneeuw raakt als de langlaufer op één ski staat, is in dit geval voldaan.</p>"
+    },
+    {
+      "order": 13,
+      "type": "text",
+      "text": "<p>Wanneer de flexibiliteit van een langlaufski in detail bekeken wordt, blijkt dat de benadering van de veer niet precies klopt. Het verband tussen de verticale kracht <i>F</i> en de hoogte <i>h</i> van het midden van de ski blijkt namelijk niet lineair te zijn. In figuur 7 is het verband tussen kracht en hoogte weergegeven voor twee typen ski’s: een ski voor amateurs en een ski voor professionals.</p>"
+    },
+    {
+      "order": 14,
+      "type": "image",
+      "media_path": "media/in-exam/img_a6a0824a8fe3.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9ecb5be20d1a4d19b4ae5fd2e222272f.png",
+      "caption": ""
+    },
+    {
+      "order": 15,
+      "type": "text",
+      "text": "<p>In een (<i>F,s</i>) -diagram staat bij de horizontale as de indrukking <i>s</i> van de ski, gemeten vanaf de camberhoogte, en bij de verticale as de verticale kracht <i>F </i>. In figuur 8 staan vier (<i>F,s</i>) -diagrammen.</p>"
+    },
+    {
+      "order": 16,
+      "type": "image",
+      "media_path": "media/in-exam/img_bee702fd92fa.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5f23774cf6794107bd49b52ff3b5110c.png",
+      "caption": ""
+    },
+    {
+      "order": 17,
+      "type": "text",
+      "text": "<p>Voor de wrijvingskracht tussen een ski in beweging en de sneeuw geldt:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>F</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi mathvariant=\"normal\">w</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n  <mo>=</mo>\r\n  <msub>\r\n    <mi>f</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi mathvariant=\"normal\">d</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n  <msub>\r\n    <mi>F</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi mathvariant=\"normal\">n</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n</math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(1)</p><p>Hierin is:</p><p>− <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>F</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi mathvariant=\"normal\">w</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n</math> de wrijvingskracht in N</p><p>− <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>f</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi mathvariant=\"normal\">d</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n</math> de dynamische wrijvingscoëfficiënt</p><p>− <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>F</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi mathvariant=\"normal\">n</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n</math> de normaalkracht op de ski in N</p><p>&nbsp;</p><p>De dynamische wrijvingscoëfficiënt is bij langlaufen afhankelijk van de snelheid. In Innsbruck bevindt zich een proefopstelling waarmee <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>f</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi mathvariant=\"normal\">d</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n</math> bepaald kan worden. Met deze proefopstelling meet men bij verschillende snelheden de normaalkracht en de wrijvingskracht op de ski terwijl die horizontaal over de sneeuw beweegt met snelheid <i>v</i> .</p><p>&nbsp;</p><p>In figuur 9 zijn resultaten van dergelijke metingen weergegeven.</p>"
+    },
+    {
+      "order": 18,
+      "type": "image",
+      "media_path": "media/in-exam/img_01d1c68b1baf.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ece34e15205f4d58af777628cb471572.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2023_I_uitwerkbijl_dcb32a1b5377.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e8c6f0ebe587432bb96bfde82bed13ab.pdf"
+    }
+  ]
+}

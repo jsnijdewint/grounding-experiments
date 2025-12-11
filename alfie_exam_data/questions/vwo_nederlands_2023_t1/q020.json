@@ -1,0 +1,51 @@
+{
+  "id": "vwo_nederlands_2023_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 53,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef per tekst aan welke mening over ecotoerisme eruit blijkt. Geef antwoord in een of meer volledige zinnen en gebruik voor je antwoord niet meer dan 30 woorden.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>“Natuurlijk zou het beter zijn voor het klimaat om helemaal niet te vliegen, maar dat zie ik niet als realistische – of zelfs verstandige – optie, want vliegen heeft ook positieve sociale gevolgen die net zo belangrijk zijn.” (tekst 2, regels 46-52)</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In tekst 1 en tekst 2 worden uiteenlopende uitspraken gedaan over ecotoerisme.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_3bc847d5f78a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d2f0029264294831adce4d30ca84cbc0.pdf"
+    }
+  ]
+}

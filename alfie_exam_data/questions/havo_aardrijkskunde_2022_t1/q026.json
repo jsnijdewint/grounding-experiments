@@ -1,0 +1,61 @@
+{
+  "id": "havo_aardrijkskunde_2022_t1_q26",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "aardrijkskunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 46,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 96,
+          "name": "Nationale en regionale vraagstukken",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef aan waarom het streefpeil van het IJsselmeer in de zomer hoger is dan in de winter.<br>Betrek in je antwoord het streefpeil in beide seizoenen.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Bij deze opgave horen de bronnen 15 tot en met 17.</i></p><p><br>Het IJsselmeer ontstond door de voltooiing van de Afsluitdijk met daarin sluizen om water te spuien. In het IJsselmeer kunnen hoge waterstanden ontstaan door een combinatie van twee natuurlijke oorzaken.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 15.</i></p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 15.</i></p><p>Het streefpeil van het IJsselmeer is in de zomer hoger dan in de winter.</p><p>&nbsp;</p><p>&nbsp;</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2022_I_bijlage_782c0ac44adb.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8bb9ac59533e4060acee8bf226c73127.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2022 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2022_I_kaartenk_fad448d9d313.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9fba758e0ba449bda998b8165ed93023.pdf"
+    }
+  ]
+}

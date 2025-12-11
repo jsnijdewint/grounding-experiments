@@ -1,0 +1,65 @@
+{
+  "id": "vwo_wiskunde_b_2024_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 49,
+          "name": "Meetkunde met coördinaten",
+          "prefix_code": "E"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken exact de oppervlakte van vierhoek <i>AORS</i>.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gegeven zijn de punten <i>A</i>(-1, 0) en B(3, 0). Verder is gegeven de cirkel <i>c</i> met middellijn <i>AB</i>. De lijn <i>k</i> gaat door de oorsprong <i>O</i> en snijdt cirkel <i>c </i>in punt <i>P</i>. De afstand tussen <i>O</i> en <i>P </i>is gelijk is aan <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>2</mn>\r\n  <mfrac>\r\n    <mn>1</mn>\r\n    <mn>2</mn>\r\n  </mfrac>\r\n</math>. In figuur 1 zijn lijn <i>k </i>en de bovenste helft van cirkel <i>c </i>getekend.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_9c1c0a9782e6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/be747bada6c048efa7ab1a1c47f5f00b.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In figuur 2 is de driehoek <i>BRO </i>getekend met<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi mathvariant=\"normal\">&#8736;</mi>\r\n  <mi>B</mi>\r\n  <mi>R</mi>\r\n  <mi>O</mi>\r\n  <mo>=</mo>\r\n  <msup>\r\n    <mn>90</mn>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8728;</mo>\r\n    </mrow>\r\n  </msup>\r\n</math> , punt <i>R</i> boven de <i>x</i>-as en <i>OR</i>=1. De lijn door <i>B</i> en <i>R</i> snijdt <i>c</i> in het punt <i>S</i>. Driehoek <i>BSA </i>is dan een driehoek met <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi mathvariant=\"normal\">&#8736;</mi>\r\n  <mi>A</mi>\r\n  <mi>S</mi>\r\n  <mi>B</mi>\r\n  <mo>=</mo>\r\n  <msup>\r\n    <mn>90</mn>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8728;</mo>\r\n    </mrow>\r\n  </msup>\r\n</math>. Vierhoek <i>AORS </i>is grijs weergegeven.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_5fe8f3baabd2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1177231205e349e0b6f9d8ba23ef4a1e.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_b_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_b_formules_e2addf3f392e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/470a7c92ad484df6baaee4f1da8379d6.pdf"
+    }
+  ]
+}

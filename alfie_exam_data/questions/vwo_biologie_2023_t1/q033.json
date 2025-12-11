@@ -1,0 +1,116 @@
+{
+  "id": "vwo_biologie_2023_t1_q33",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 19,
+          "name": "Onderzoeken",
+          "prefix_code": 5
+        },
+        {
+          "id": 20,
+          "name": "Ontwerpen",
+          "prefix_code": 6
+        },
+        {
+          "id": 21,
+          "name": "Modelvorming",
+          "prefix_code": 7
+        },
+        {
+          "id": 22,
+          "name": "Natuurwetenschappelijk instrumentarium",
+          "prefix_code": 8
+        },
+        {
+          "id": 23,
+          "name": "Waarderen en oordelen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de betreffende uitspraak juist of onjuist is.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Pijlgifkikkers gebruiken gif als verdediging tegen predatoren. Rebecca Tarvin van de University of Texas onderzocht hoe het komt dat de kikkers zichzelf niet vergiftigen.<br><br>Als een pijlgifkikkertje zoals Epipedobates tricolor (afbeelding 1) belaagd wordt, scheiden gifklieren in de huid een dodelijk neurotoxine uit. Een veelvoorkomend neurotoxine bij pijlgifkikkers is epibatidine. In het lichaam van een predator bindt epibatidine afbeelding 1 aan de acetylcholine-receptoren op het postsynaptisch membraan van neuronen. Net als acetylcholine veroorzaakt epibatidine het openen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Na</mi><mo>+</mo></msup></math>-kanaaltjes.<br><br><p>&nbsp;</p></p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_16e72348f0cd.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d6174177037f405baf424f71a0621f2f.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Over de invloed van epibatidine op het postsynaptisch neuron worden de volgende uitspraken gedaan:<br>1 Door binding van epibatidine aan de receptor wordt de drempelpotentiaal verlaagd.<br>2 Door binding van epibatidine aan de receptor treedt depolarisatie op.<br>3 Epibatidine werkt als antagonist van acetylcholine.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In vergelijking met binding van acetylcholine blijven bij binding van epibatidine de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>Na</mi><mo>+</mo></msup></math>-kanaaltjes in de synaps veel langer openstaan, zelfs bij zeer lage concentraties.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De onderzoeksgroep van Tarvin vergeleek de genen die coderen voor de acetylcholine-receptoren van verschillende soorten kikkers met die van de mens. De onderzoekers vonden bij de kikkers verschillende puntmutaties die mogelijk ongevoeligheid voor epibatidine veroorzaken. In afbeelding 2 is naast een cladogram de aminozuurvolgorde weergegeven van een deel van de humane acetylcholine-receptor. Bij kikkers zijn in de loop van de evolutie mutaties opgetreden die hebben geleid tot verschillende varianten van de acetylcholine-receptor, onder andere FCAI en LCAI. Bij de kikkers zijn alleen de aminozuren weergegeven die verschillen van die bij de mens.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_2c590b5a4197.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9a429fad5e8b4e7bbac037ae5c6ac076.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Tarvin beweert dat sommige veranderingen van de receptor door convergente evolutie zijn ontstaan. Dit wil zeggen dat dezelfde adaptaties onafhankelijk van elkaar zijn ontstaan.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Om aan te tonen dat de mutaties bij pijlgifkikkers verantwoordelijk zijn voor de epibatidine-ongevoeligheid, bouwden de onderzoekers deze mutaties in het gen voor de humane acetylcholine-receptor in. Zo maakten ze een FCAI-variant en een LCAI-variant.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>De onderzoekers analyseerden de gevoeligheid voor acetylcholine en voor epibatidine van de humane receptor, van de FCAI-variant en van de LCAI-variant. Ze bouwden de genen voor deze receptoren in verschillende cellen in en bepaalden vervolgens de mate van depolarisatie van deze cellen bij verschillende concentraties acetylcholine en epibatidine. In afbeelding 3 is deze respons weergegeven als percentage van de maximale respons op acetylcholine van de humane receptor.</p>"
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_1adbacf72a5c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8ce8d1e337244098887e50b29f3ba91d.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Over de resultaten die zijn weergegeven in de diagrammen van afbeelding 3 worden de volgende uitspraken gedaan:<br>1 Bij cellen met een humane receptor is de respons op acetylcholine sterker dan die op een gelijke concentratie epibatidine.<br>2 De humane receptor is gevoeliger voor epibatidine dan de FCAIvariant en de LCAI-variant.<br>3 De FCAI-mutatie vermindert de gevoeligheid voor acetylcholine.</p>"
+    }
+  ],
+  "bijlages": []
+}

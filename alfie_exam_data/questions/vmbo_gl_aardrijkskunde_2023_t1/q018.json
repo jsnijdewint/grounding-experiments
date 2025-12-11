@@ -1,0 +1,56 @@
+{
+  "id": "vmbo_gl_aardrijkskunde_2023_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "aardrijkskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 71,
+      "domains": [
+        {
+          "id": 107,
+          "name": "Water",
+          "prefix_code": "AK/K/6"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bekijk bron 17.<br>In West-Nederland liggen grote zoetwatermeren. De grondlagen onder deze meren bestaan uit oude zeebodem. Uit de zoetwatermeren in West-Nederland wordt géén oppervlaktewater gewonnen.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Leg uit dat door de oude zeebodem deze zoetwatermeren ongeschikt zijn voor waterwinning.<br>Doe het zo:</p><ul><li>Kies eerst of door waterwinning verdroging of verzilting optreedt.</li><li>Geef daarna een argument waardoor de zoetwatermeren ongeschikt zijn voor waterwinning.</li></ul>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_77579113f32b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/03b3196543844cbab0934bdc52dc4029.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_9567a72415d7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0716fea3ef6e4bcdadfeafaa288842dc.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_d8b14d59506e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3510354cb47d4d689f59f14746e1e3fa.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

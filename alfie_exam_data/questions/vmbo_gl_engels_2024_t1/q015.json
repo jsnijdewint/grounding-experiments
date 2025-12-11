@@ -1,0 +1,44 @@
+{
+  "id": "vmbo_gl_engels_2024_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "engels",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 52,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>What can be concluded about the whistling language of the Canary Islands from paragraph 1 ?<br>A It is sometimes used to keep tourists away from certain places.<br>B It was created to transmit secret messages among farmers.<br>C Its days as a practical form of communication seem to be over.<br>D Its effectivity is decreasing because of changes in the landscape.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "VMBO bijlage.pdf",
+      "media_path": "media/bijlages/VMBO_bijlage_5c45adc82d08.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6217a170550c4d9ebcb27fee9ccc94d2.pdf"
+    },
+    {
+      "name": "Engels 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2024_I_bijlage_298b3c5ef9fc.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/db8ad06ca58f4ec4b29778ba39be77c3.pdf"
+    },
+    {
+      "name": "Engels 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Engels_2024_I_uitwerkbijlage_88ccdad35738.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d37689505561412a8ff903e385448f7b.pdf"
+    }
+  ]
+}

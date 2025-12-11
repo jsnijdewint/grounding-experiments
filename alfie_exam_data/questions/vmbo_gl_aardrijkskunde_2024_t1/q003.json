@@ -1,0 +1,57 @@
+{
+  "id": "vmbo_gl_aardrijkskunde_2024_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "aardrijkskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 71,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bekijk bron 3 en lees bron 4 .<br>In bron 3 staan drie foto's van landschappen in Spanje. In bron 4 staan drie beschrijvingen van klimaten in Spanje. De beschrijvingen en de foto's horen bij elkaar.<br>Welke beschrijving hoort bij foto Q , welke bij foto R en welke bij foto S ?</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">foto Q</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">foto R</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">foto S</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">A</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">beschrijving 1</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">beschrijving 2</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">beschrijving 3</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">B</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">beschrijving 2</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">beschrijving 1</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">beschrijving 3</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">C</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">beschrijving 3</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">beschrijving 2</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">beschrijving 1</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">D</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">beschrijving 1</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">beschrijving 3</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">beschrijving 2</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">E</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">beschrijving 2</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">beschrijving 3</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">beschrijving 1</td></tr></tbody></table></figure>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_c5e5eff4783f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e260bbff3a454bf287af06c23b3e731f.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_9cfbb8928cdb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/67bd030b15b74d19878c3d558fe6d319.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_61e638a38e66.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3087b5ef9d6546eabd5e6332b883399c.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_982fd1f931b8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4d68a1f767ea43e0942407ce8c692c48.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

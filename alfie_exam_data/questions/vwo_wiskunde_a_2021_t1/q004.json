@@ -1,0 +1,90 @@
+{
+  "id": "vwo_wiskunde_a_2021_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 78,
+          "name": "Standaardfuncties",
+          "prefix_code": 1
+        },
+        {
+          "id": 79,
+          "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoe vaak het antwoord 100 gegeven werd door de rechtshandigen.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Onderzoek uit 2013 heeft uitgewezen dat linkshandigen eerder geneigd zijn ronde getallen te kiezen dan rechtshandigen. Deelnemers aan het onderzoek kregen elk 60 vragen voorgelegd, waarop het antwoord een geheel getal is.<br>De vragen waren bijvoorbeeld:</p><ul><li>Hoeveel knopen heb je in je klerenkast?</li><li>Hoeveel diersoorten kun je noemen?</li><li>Hoeveel eieren heb je vorig jaar gegeten?</li></ul><p>Bij het onderzoek werd alleen gekeken naar de vragen waarop een antwoord werd gegeven vanaf 20 tot en met 1000. Linkshandigen bleken vaker een rond getal als antwoord te geven dan rechtshandigen.<br>Wat is eigenlijk een rond getal? Een rond getal is een getal dat eindigt op één of meer nullen, dus bijvoorbeeld 20 of 300 . Maar is 100 een ronder getal dan bijvoorbeeld 1000? En hoe zit het dan met getallen die niet op een nul eindigen, maar wel 'mooi' zijn, zoals bijvoorbeeld 25 ?<br>Om de rondheid van getallen te bepalen, gebruikten de onderzoekers de definitie van Sigurd. Deze definitie zegt dat de rondheid van een getal ervan afhangt of het getal een veelvoud is van machten van 10, of van helften of kwarten van machten van 10.<br>De rondheid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi>&#160;</math>wordt voor de getallen ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi>&#160;</math>) vanaf 20 tot en met 1000 dan als volgt berekend:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi> <mo stretchy=\"false\">(</mo> <mi>n</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mfrac><mn>1000</mn> <mi>n</mi> </mfrac><mo>+</mo> <mfrac><mn>100</mn> <mi>n</mi> </mfrac><mo>+</mo> <mfrac><mn>10</mn> <mi>n</mi> </mfrac><mo>+</mo> <mfrac><mn>1</mn> <mn>2</mn> </mfrac><mo>&#8901;</mo> <mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mfrac><mn>500</mn> <mi>n</mi> </mfrac><mo>+</mo> <mfrac><mn>50</mn> <mi>n</mi> </mfrac><mo>+</mo> <mfrac><mn>5</mn> <mi>n</mi> </mfrac><mo data-mjx-texclass=\"CLOSE\">)</mo> </mrow><mo>+</mo> <mfrac><mn>1</mn> <mn>4</mn> </mfrac><mo>&#8901;</mo> <mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mfrac><mn>250</mn> <mi>n</mi> </mfrac><mo>+</mo> <mfrac><mn>25</mn> <mi>n</mi> </mfrac><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math></p><p>Elke term <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mo>&#8943;</mo> <mi>n</mi>&#160;</mfrac></math>telt alleen mee als <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi>&#160;</math>een veelvoud van de teller is.<br>We spreken af dat getallen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi>&#160;</math>ronder zijn, naarmate <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi> <mo stretchy=\"false\">(</mo> <mi>n</mi> <mo stretchy=\"false\">)</mo>&#160;</math>hoger is.<br>Zo geldt bijvoorbeeld voor het getal 600:</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_1fe6faabd90d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7d5e83110119419fb315f36768e5cad2.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De rondheid van 1000 is groter dan die van 500 . Het is echter niet zo dat 600 ook ronder is dan 500 . Sterker nog, voor alle honderdtallen tussen 500 en 1000 geldt dat de rondheid ervan steeds kleiner wordt. Je kunt dat beredeneren door de formule te herschrijven tot een formule die alleen voor honderdtallen tussen 500 en 1000 geldt. Dat kan worden gedaan met behulp van de substitutie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi> <mo>=</mo> <mn>100</mn> <mi>p</mi>&#160;</math>(met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi>&#160;</math>de gehele getallen 6 tot en met 9 ) en daarna de formule te herleiden tot <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi> <mo>=</mo> <mfrac><mn>23</mn> <mrow><mn>16</mn> <mi>p</mi>&#160;</mrow></mfrac></math>.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Er waren 200 deelnemers aan het onderzoek, die elk 60 vragen kregen voorgelegd. 1,3% van de gegeven antwoorden was een getal boven de 1000. Na het wegstrepen van deze antwoorden, en het wegstrepen van de antwoorden beneden de 20, bleven er 3412 antwoorden over die waren gegeven door linkshandigen, en 4329 die waren gegeven door rechtshandigen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In onderstaande figuur staat een overzicht van de gegeven antwoorden door de links- en rechtshandigen. Van de 3412 antwoorden van de linkshandigen was <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn> <mo>,</mo> <mn>7</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>het getal 20. Van de 4329 gegeven antwoorden van de rechtshandigen was dit percentage 5,7. Het <strong>verschil </strong>tussen deze twee percentages is 1 . In de figuur zie je daarom bij het getal 20 een stip staan op een hoogte van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_24eefe2f0193.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/39c4a1c695614dbf8475c1ff2c80659f.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De horizontale as heeft een logaritmische schaalverdeling. In de figuur is het volgende zichtbaar gemaakt: hoe <strong>dikker </strong>de verticale streep bij een getal, hoe <strong>ronder </strong>dat getal. Veel ronde getallen worden procentueel vaker genoemd door linkshandigen dan door rechtshandigen.</p><p>Het antwoord 100 werd 276 maal gegeven door de linkshandigen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_66115931efb1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a82d76c736914785983bf91c92b9a256.pdf"
+    },
+    {
+      "name": "Wiskunde A 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2021_I_uitwerkbijla_3883774f4ae1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cdb796394a4c4a968d52b9ce2edc08ed.pdf"
+    }
+  ]
+}

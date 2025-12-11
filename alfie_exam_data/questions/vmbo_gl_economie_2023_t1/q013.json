@@ -1,0 +1,56 @@
+{
+  "id": "vmbo_gl_economie_2023_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 126,
+          "name": "Internationale ontwikkelingen",
+          "prefix_code": "EC/K/7"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wie betaalde de importheffing eerst en aan wie werd de importheffing uiteindelijk doorberekend?<br>A De importheffing werd eerst betaald door de Nederlandse overheid, daarna werd de heffing doorberekend aan de Nederlandse consumenten.<br>B De importheffing werd eerst betaald door de Nederlandse overheid, daarna werd de heffing doorberekend aan de Belgische consumenten.<br>C De importheffing werd eerst betaald door de Belgische importeurs, daarna werd de heffing doorberekend aan de Nederlandse consumenten.<br>D De importheffing werd eerst betaald door de Belgische importeurs, daarna werd de heffing doorberekend aan de Belgische consumenten.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 4 en 5 in de bijlage.&nbsp;<br><br>In 1955 kostte een kilo boter in Nederland 3 gulden1) terwijl de prijs in België tweemaal zo hoog was. Door het prijsverschil zagen handige jongens in de grensstreek een mogelijkheid om een goede boterham bij te verdienen door boter van Nederland naar België te smokkelen.<br><br>noot 1 De gulden (Hfl.) was tot 2002 het betaalmiddel in Nederland.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Het prijsverschil werd veroorzaakt doordat de Nederlandse zuivelbedrijven een subsidie voor hun boter ontvingen van de Nederlandse overheid. De Belgische overheid kwam met een tegenmaatregel door een importheffing te berekenen op Nederlandse boter.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Met de importheffing beschermde de Belgische overheid de boterproductie in eigen land.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2023_I_bijlage_d07fb50732d7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/37a7c03aae784b9f89ef1c2fe31fa61d.pdf"
+    }
+  ]
+}

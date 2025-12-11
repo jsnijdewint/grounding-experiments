@@ -1,0 +1,34 @@
+{
+  "id": "vwo_spaans_2025_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "spaans",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 19,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In dit interview zijn de vijf interviewvragen weggehaald.<br>Zet ze op de juiste plats terug door achter de nummers 1 tot en met 5 op het antwoordblad de juiste letter a tot en met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>te schrijven.<br>Let op: er blijft één interviewvraag over!<br>a ¿A lo largo de tu vida has tenido que dejar de hacer cosas que hacían otras chicas de tu edad?<br>b ¿Habías imaginado que ser futbolista te iba a acercar a una marca de moda como embajadora?<br>c ¿Practicas otros deportes cuando no juegas al fútbol?<br>d ¿Te gustaba algún jugador?<br>e En igualdad de género ¿qué pasos crees tú que se necesitan dar para que el fútbol femenino logre el reconocimiento que se merece?<br>f En redes sociales tienes una buena comunidad, casi 400000 seguidores. ¿Tienes a alguien que te ayude?</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "vw-1005-a-25-1-b.pdf",
+      "media_path": "media/bijlages/vw-1005-a-25-1-b_9179e3584a31.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/91d4d7d08fc340209edfd5208c543de0.pdf"
+    }
+  ]
+}

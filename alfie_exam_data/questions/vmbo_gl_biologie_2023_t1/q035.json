@@ -1,0 +1,53 @@
+{
+  "id": "vmbo_gl_biologie_2023_t1_q35",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 117,
+          "name": "Van generatie op generatie",
+          "prefix_code": "BI/K/12"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wordt de mutatie volgens de informatie vóór of ná de bevruchting weggeknipt? Leg je antwoord uit.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Wetenschappers kunnen bij muizen een fout stukje DNA uit een chromosoom wegknippen, zodat er een gezond muizen-embryo kan ontstaan. Ze gebruiken daarvoor het CRISPR-Cas-systeem. In de tekeningen wordt schematisch uitgelegd hoe wetenschappers dat doen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_d4e843d7c54b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/540fd4a29fee42b789aaaf604730f147.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2023_I_uitwerkbijlage_4e0013036ef8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9a816268fb648d6bbff9679cf7f9a46.pdf"
+    }
+  ]
+}

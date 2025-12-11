@@ -1,0 +1,58 @@
+{
+  "id": "vwo_natuurkunde_2024_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 52,
+          "name": "Quantumwereld",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:<br>- Leg uit bij welke energie of energieën ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mn>1</mn>&#160;</mrow></msub></math>, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mn>3</mn>&#160;</mrow></msub></math>en/of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo symmetric=\"true\" stretchy=\"true\" fence=\"true\" data-mjx-texclass=\"OPEN\"></mo><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>) de kernen volgens de klassieke natuurkunde kunnen fuseren.<br>- Geef aan waardoor volgens de quantumfysica een fusiereactie ook kan optreden bij de andere energieën.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In een kernfusiereactor is het mogelijk om twee lichte atoomkernen te laten fuseren tot één zwaardere atoomkern. Hierbij komt veel energie vrij. Deuterium (H-2) en een tweede atoomkern kunnen gefuseerd worden tot een He-4 kern en een neutron.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In een kernfusiereactor is de temperatuur zo hoog dat de elektronen loskomen van de atoomkernen. Samen met de ontstane ionen vormen ze een mengsel dat plasma genoemd wordt. Ondanks de hoge temperatuur van het plasma is het volgens de klassieke natuurkunde erg onwaarschijnlijk dat de kernen fuseren. Met een quantumfysisch model kan verklaard worden waarom het optreden van kernfusie in werkelijkheid<br>veel waarschijnlijker is. In het quantumfysische model bekijken we een deuteriumkern die naar een andere kern toe beweegt. In figuur 1 is schematisch de potentiële energie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>pot&#160;</mtext></mrow></msub></math>van de deuteriumkern als functie van de afstand <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>tussen de<br>twee kernen weergegeven. Met stippellijnen zijn vier verschillende mogelijke waarden aangegeven van de energie van de deuteriumkern (<math xmlns=\"http://www.w3.org/1998/Math/MathML\">&#160;<msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mn>1</mn>&#160;</mrow></msub></math>tot en met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mn>4</mn>&#160;</mrow></msub></math>).</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_1515105a4348.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6ee9e016c3884c23882adcdc6e710bf5.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2024_I_uitwerkbijl_53e920c4cfe0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9441e6eda69e41e0ab819d8b89d60c78.pdf"
+    }
+  ]
+}

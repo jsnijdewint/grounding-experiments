@@ -1,0 +1,93 @@
+{
+  "id": "havo_bedrijfseconomie_2022_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "bedrijfseconomie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 33,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 104,
+          "name": "Vastleggen van financiële en niet financiële informatie",
+          "prefix_code": 1
+        },
+        {
+          "id": 105,
+          "name": "Kosten- en winstvraagstukken",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Toon aan dat de omzet van restaurant De Waal in het tweede kwartaal van 2020 ten opzichte van het eerste kwartaal van 2020 afnam met 77,1%.<br><i>Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.</i></p>",
+    "max_score": 3,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_683bfb07220a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/79b6d82c52974ea0a3bdfd6f3b3b2d61.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Bij deze opgave horen de informatiebronnen 1 tot en met 3.</i></p><p><br><i>In deze opgave worden de belastingen buiten beschouwing gelaten.</i></p><p><br><i>In deze opgave wordt de omzet van drank buiten beschouwing gelaten.</i></p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_8c6ad8671866.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9821191503004d65877903d0e49ba2e5.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In 2020 brak het coronavirus uit en greep de overheid in Nederland in om het coronavirus onder controle te krijgen:</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_3782ca3a9f22.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/668467e3c8ed4de380df462b19e093a1.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Sytz en Alex zijn de eigenaren van restaurant De Waal. Restaurant De Waal heeft geen rechtspersoonlijkheid.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De ingrepen van de overheid hadden een negatief effect op de verkopen van restaurant De Waal. Om een faillissement te voorkomen, troffen Sytz en Alex maatregelen.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p><strong>Maatregel in het tweede kwartaal 2020: het bezorgen van maaltijden</strong></p><p><br>Vanaf het begin van het tweede kwartaal van 2020 startte restaurant De Waal met het bezorgen van driegangenmenu's. Een deel van het personeel werd ingezet als bezorger waardoor niemand ontslagen hoefde te worden. Om drukte in het restaurant te voorkomen was afhalen niet mogelijk.</p><p>&nbsp;</p><p>In informatiebron 1 zijn onder andere de omzetgegevens van restaurant De Waal en van de restaurantbranche opgenomen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_bijlag_70e2ce33bdc7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/644420d6788d4f0f80e381cd749535ed.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_uitwer_56a28eba2520.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2d2bf6c37a654f14bdb890765dd0cb67.pdf"
+    }
+  ]
+}

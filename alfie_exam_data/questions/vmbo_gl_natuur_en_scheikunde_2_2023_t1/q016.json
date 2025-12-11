@@ -1,0 +1,34 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_2_2023_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_2",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 53,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Regoliet bevat ook oxiden van andere elementen. Welk van onderstaande oxiden is volgens Binas <strong>geen </strong>metaaloxide?<br>A MgO<br>B MnO<br>C <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">SiO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math><br>D <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">TiO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math></p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>1 &nbsp; Leven op de maan is nu onmogelijk, onder andere omdat op de maan</p><p>2 &nbsp; geen zuurstof aanwezig is. De maanbodem (regoliet) biedt misschien</p><p>3 &nbsp; uitkomst. Het regoliet is een mengsel van fijn gruis en gesteente en</p><p>4 &nbsp; bestaat voor een belangrijk deel uit metaaloxiden. Door middel van</p><p>5 &nbsp; elektrolyse kan zuurstof worden gevormd uit deze metaaloxiden. In een</p><p>6 &nbsp; laboratorium is dit al gelukt uit nagemaakt regoliet. Doordat op deze</p><p>7 &nbsp; manier zuurstof beschikbaar wordt, is het in de toekomst misschien toch</p><p>8 &nbsp; mogelijk om langdurig op de maan te verblijven</p>"
+    }
+  ],
+  "bijlages": []
+}

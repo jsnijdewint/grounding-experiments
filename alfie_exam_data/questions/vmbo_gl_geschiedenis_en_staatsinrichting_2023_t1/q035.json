@@ -1,0 +1,48 @@
+{
+  "id": "vmbo_gl_geschiedenis_en_staatsinrichting_2023_t1_q35",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "geschiedenis_en_staatsinrichting",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 65,
+      "domains": [
+        {
+          "id": 136,
+          "name": "Historisch overzicht vanaf 1900",
+          "prefix_code": "GS/K/10"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p><i>Gebruik de tijdbalk hierboven.</i></p><p>Hieronder staan vijf gebeurtenissen waar het Koninkrijk der Nederlanden mee te maken kreeg tijdens de Tweede Wereldoorlog:<br>1 De Februaristaking breekt uit in Amsterdam.<br>2 Duitsland geeft zich over, maar Japan vecht door.<br>3 Het Japanse leger valt Indonesië binnen.<br>4 Het staatshoofd gaat in ballingschap in Londen.<br>5 Tijdens operatie Market Garden proberen geallieerde soldaten een brug over de Rijn te veroveren.</p><p><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Geef per gebeurtenis aan welk jaartal van de tijdbalk daarbij hoort. Let op! Elk jaartal mag maar één keer gebruikt worden. Er blijft één jaartal over.<br>Doe het zo:<br>Bij gebeurtenis 1 hoort ... (vul letter in)<br>(enzovoort tot en met gebeurtenis 5)</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_755a7deb6e26.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f7f37a603fbd4e6aacb216722e7fc29b.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis en staatsinrichting 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_en_staatsinrichti_cf7c6ce6a4c9.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f132077dcc6e486c9c4eeb9328bce439.pdf"
+    }
+  ]
+}

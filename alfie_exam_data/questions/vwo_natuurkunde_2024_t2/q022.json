@@ -1,0 +1,54 @@
+{
+  "id": "vwo_natuurkunde_2024_t2_q22",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 2
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Figuur 2 is vergroot weergegeven op de uitwerkbijlage.<br>Bepaal met behulp van de figuur op de uitwerkbijlage de frequentie van de grondtoon van de Latin American Tower. Noteer je antwoord in drie significante cijfers.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Op 19 september 1985 trilde de grond onder Mexico-Stad hevig gedurende drie minuten. Vele gebouwen stortten in, maar de 182 m hoge Latin American Tower (zie figuur 1) doorstond de aardbeving zonder noemenswaardige schade. Hetzelfde gold voor de meeste lage gebouwen in de stad.</p><p>Gebouwen hebben eigenfrequenties die gemeten kunnen worden. Wanneer een gebouw tijdens een aardbeving begint te trillen in zijn laagste eigenfrequentie (de grondtoon, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>grond&#160;</mtext></mrow></msub></math>), kunnen er ernstige beschadigingen aan het gebouw optreden.<br>figuur 1</p><p>De ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>u</mi> <mo>,</mo> <mi>t</mi>&#160;</math>)-grafiek in figuur 2 laat een meting zien van de horizontale uitwijking van de top van de Latin American Tower na een kleinere aardbeving dan die van 1985. De toren trilde daarbij in haar grondtoon.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_6e7bcea18358.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a83c52d7e15d43ed8bac6120c1ef689d.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_b8c815a3fa79.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4d1de950dae24854810b169276ef4c75.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vw-1023-a-24-2-u-spr.pdf",
+      "media_path": "media/bijlages/vw-1023-a-24-2-u-spr_7f55e6f292ee.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/58df80d921a54e229db05fc1537c094b.pdf"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "vmbo_gl_maatschappijkunde_2021_t1_q37",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "maatschappijkunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 63,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Lees tekst 5.<br>Uit tekst 5 blijkt dat er een verband bestaat tussen de maatschappelijke positie van bepaalde groepen en het hebben van een gezonde of ongezonde leefstijl.<br>De leefstijl van burgers wordt bepaald door een aantal factoren. Een van die factoren is het inkomen.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Noem nog <strong>twee andere</strong> factoren uit tekst 5 die invloed hebben op het hebben van een gezonde leefstijl.<br>Doe het zo: neem het onderstaande over en vul het antwoord aan.&nbsp;</p><p>Twee andere factoren die van invloed zijn op het hebben van een gezonde leefstijl uit tekst 5 zijn ... en ...</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Inleiding<br>ledere Nederlander van 18 jaar en ouder is verplicht om een ziektekostenverzekering af te sluiten, de zogenaamde zorgverzekering. Voor die zorgverzekering moet premie betaald worden. In 2020 was die ongeveer 120 euro per persoon per maand. Met deze verzekering heb je recht op vergoedingen uit het basispakket.<br>De overheid bepaalt welke zorg er in het basispakket komt. Elk jaar wordt het basispakket een beetje veranderd: er gaan bijvoorbeeld bepaalde medicijnen uit en andere komen er juist in.<br>ledere verzekerde moet de eerste 385 euro per jaar aan zorgkosten zelf betalen. Dit heet het eigen risico. Een bezoek aan de huisarts valt niet onder het eigen risico.<br>De premie die verzekerden betalen voor de zorg is lager dan de kosten voor de zorg. Er wordt door de overheid meer geld voor de zorg uitgegeven dan dat er binnenkomt. Die kosten worden per jaar hoger.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijkunde 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijkunde_2021_I_bijla_fb908480e3d9.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/916d422a2bf5449fba8906e7418cd830.pdf"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "havo_nederlands_2022_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Op welke tegenstelling duidt het woord ‘Maar’ aan het begin van alinea 4?</p><p>Het duidt op de tegenstelling tussen</p><p><strong>A </strong>doelloze vormen van spelen en doelgerichte vormen van spelen.</p><p><strong>B </strong>het vrijblijvende plezier van spelen en het doelgericht zijn van spelen.</p><p><strong>C </strong>observaties van spelen in de praktijk en kennis over spelen uit onderzoek.</p><p><strong>D </strong>vroegere opvattingen over spelen en de huidige opvatting over spelen.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Nederlands 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2022_I_bijlage_92799e4db006.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a400249c9526410d9001698a4ae56d34.pdf"
+    }
+  ]
+}

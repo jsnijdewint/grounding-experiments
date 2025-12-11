@@ -1,0 +1,66 @@
+{
+  "id": "vwo_nederlands_2022_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 53,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Waarom wordt bedoelde vraag als een ongemakkelijke vraag gezien?<br><strong>A </strong>omdat bedoelde vraag een retorische vraag is</p><p><strong>B </strong>omdat het antwoord moeilijk onder woorden te brengen is</p><p><strong>C</strong> omdat we tegenwoordig niets met eeuwigheidswaarde maken<br>&nbsp;</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De tekst ‘Alles is gemaakt om kapot te gaan’ kan door middel van onderstaande kopjes in achtereenvolgens vier delen worden onderverdeeld:</p><p>deel 1: Introductie</p><p>deel 2: Interpretatie van de tentoonstelling</p><p>deel 3: Reflectie op de tentoonstelling</p><p>deel 4. Eindoordeel over de tentoonstelling<br>&nbsp;</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“Als je daar goed over nadenkt, is dat ironisch.” (regels 49-51)</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Uit alinea 5 van tekst 1 blijkt dat de tentoonstelling van Hirst op te vatten is als kritiek op de moderne kunst.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“Alles wat we maken, is gemaakt om kapot te gaan”. (regels 143-144)</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>“Dat is een ongemakkelijke vraag.” (regels 139-140)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2022_I_bijlage_4ae2d5f8192e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dea44ec2b1b74c9cbd02db396bb8609a.pdf"
+    }
+  ]
+}

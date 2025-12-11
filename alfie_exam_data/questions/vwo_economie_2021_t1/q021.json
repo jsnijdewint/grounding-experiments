@@ -1,0 +1,40 @@
+{
+  "id": "vwo_economie_2021_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 22,
+          "name": "Welvaart en groei",
+          "prefix_code": "H"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Paulus stelt verder: \"De import zal op langere termijn mogelijk elastischer zijn, waardoor er dan meer kans is dat het tekort op de lopende rekening van de betalingsbalans met Nachi zal verminderen.\" Geef een verklaring voor de stelling van Paulus dat op langere termijn de import elastischer is dan op korte termijn.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In het land Imareca zijn presidentsverkiezingen. Centraal in de campagne staat het stimuleren van de zwakke economie. De werkloosheid neemt toe en de lopende rekening van de betalingsbalans met de belangrijkste handelspartner, het land Nachi, vertoont een groot tekort. De valuta van Imareca heeft een vaste wisselkoers ten opzichte van die van Nachi. Een kandidaat kondigt aan dat hij als president onmiddellijk over zal gaan tot een devaluatie van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> ten opzichte van de valuta van Nachi. Dit zou volgens hem zowel het tekort op de lopende rekening van de betalingsbalans met Nachi als de binnenlandse werkloosheid verminderen.</p><p>Econoom Paulus stelt: \"Devaluatie zal op korte termijn juist nadelig zijn voor de economie van Imareca. Dit heeft te maken met de prijselasticiteiten van de import en van de export. De importwaarde, gemeten in eigen valuta, kan op korte termijn stijgen waardoor het tekort op de lopende rekening met Nachi verder zal toenemen.\" De formules van de prijselasticiteiten van de export en van de import van goederen en diensten luiden:<br><br>&nbsp;</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable rowspacing=\"4pt\"><mtr><mtd><mtext>prijselasticiteit van de export </mtext><mo>=</mo> <mfrac><mrow><mi mathvariant=\"normal\">%</mi> <mtext>verandering exportvolume </mtext></mrow><mrow><mi mathvariant=\"normal\">%</mi> <mtext>verandering exportprijs in vreemde valuta </mtext></mrow></mfrac></mtd></mtr><mtr><mtd><mtext>prijselasticiteit van de import </mtext><mo>=</mo> <mfrac><mrow><mi mathvariant=\"normal\">%</mi> <mtext>verandering importvolume </mtext></mrow><mrow><mi mathvariant=\"normal\">%</mi> <mtext>verandering importprijs in eigen valuta&#160;</mtext></mrow></mfrac></mtd></mtr></mtable></math></p><p>Analyses wijzen uit dat op korte termijn de prijselasticiteit van de export <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8722;</mo> <mn>0</mn> <mo>,</mo> <mn>5</mn>&#160;</math> bedraagt en de prijselasticiteit van de import - 0,4.</p><p>Beide formules zijn varianten op de prijselasticiteit van de vraag. Bij de prijselasticiteit van de export staat in de noemer de prijs in vreemde valuta, terwijl bij de prijselasticiteit van de import in de noemer de prijs is genoteerd in eigen (binnenlandse) valuta.</p><p>&nbsp;</p>"
+    }
+  ],
+  "bijlages": []
+}

@@ -1,0 +1,140 @@
+{
+  "id": "vwo_natuurkunde_2022_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 46,
+          "name": "Kracht en beweging",
+          "prefix_code": 1
+        },
+        {
+          "id": 47,
+          "name": "Energie en wisselwerking",
+          "prefix_code": 2
+        },
+        {
+          "id": 48,
+          "name": "Gravitatie",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef in de tabel op de uitwerkbijlage aan voor de resultaten A, B, D en E of de verschuiving ten opzichte van resultaat C een gevolg is van een variatie in de startwaarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>x</mi>&#160;</mrow></msub></math>of van een variatie in de startwaarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>y</mi>&#160;</mrow></msub></math>. Licht je antwoord toe.</p>",
+    "max_score": 3,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "<p>maximumscore 3<br>voorbeeld van een antwoord:<br>Als de startwaarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>y</mi>&#160;</mrow></msub></math>verandert, verandert ook de maximale hoogte die de bal bereikt. (Als alleen de startwaarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>x</mi>&#160;</mrow></msub></math>verandert, blijft de maximale hoogte gelijk.)<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi> <mi>i</mi> <mi>j</mi>&#160;</math>de resultaten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi>&#160;</math>is er sprake van een kleinere en een grotere maximale hoogte in vergelijking met resultaat C . Hier moet dus sprake zijn van een variatie in de startwaarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>y</mi>&#160;</mrow></msub></math>.<br>Bij de resultaten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi>&#160;</math>is de maximaal bereikte hoogte gelijk aan die bij resultaat C. (De horizontaal afgelegde afstand is hier echter anders.) Dit betekent dat er sprake moet zijn van een variatie in de startwaarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>x</mi>&#160;</mrow></msub></math>.</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;text-align:center;width:auto;\">resultaat</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;text-align:center;width:auto;\"><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">is het gevolg van een variatie in de</td></tr><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">startwaarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8230;</mo></math></td></tr></tbody></table></figure></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;text-align:center;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">A</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>y</mi>&#160;</mrow></msub></math></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">B</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>x</mi>&#160;</mrow></msub></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">D</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>x</mi>&#160;</mrow></msub></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">E</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>y</mi>&#160;</mrow></msub></math></td></tr></tbody></table></figure><ul><li>inzicht dat een constante waarde voor de startwaarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>y</mi>&#160;</mrow></msub></math>een constante maximale hoogte geeft / inzicht dat een variatie in de startwaarde voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>y</mi>&#160;</mrow></msub></math>een variatie in de hoogte geeft<br>1</li><li>consequente conclusie voor de resultaten A en E<br>1</li><li>consequente conclusie voor de resultaten B en D<br>1</li></ul>",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_fd526cf40212.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bb5fbb2bb03b415bab4b2ab30b8d8209.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_3b0ff7d736c4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5dfd6d3f8ce44a36900bcac76f5b031f.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Bij basketbal scoor je door de bal van bovenaf door een metalen ring te gooien waaraan een netje bevestigd is. Rens en Dyon onderzoeken de beweging van de bal bij een vrije worp. Bij een vrije worp probeert de speler de bal door de ring te gooien terwijl hij achter de 'vrijeworplijn' staat. Zie figuur 1. In figuur 2 staat een tabel met een aantal gegevens over basketbal.<br>Met behulp van een videometing is de beweging van de bal na de worp geanalyseerd. Je kunt de beweging van de bal beschouwen als een combinatie van een horizontale beweging (in de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-richting) en een verticale beweging (in de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-richting). De videometing levert het ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi> <mo>,</mo> <mi>t</mi>&#160;</math>)-diagram en het ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi> <mo>,</mo> <mi>t</mi>&#160;</math>)-diagram van de beweging van het middelpunt van de bal. Zie de figuren 3a en 3b. Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>de horizontale afstand vanaf de vrijeworplijn en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>de hoogte boven de grond. Op <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>verlaat de bal de hand van de speler. De grootheid snelheid is een vectorgrootheid, net als de grootheid kracht. Je kunt daarom de grootte van de snelheid op dezelfde manier uit haar componenten berekenen als bij kracht.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_d9d8d5dfaaff.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2569e2f5fbc74ef1b67387ab5b1dfe5c.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_6f6ee9a2e3f9.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/03b54e7b278e40a6b7a301f8065d057d.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Figuur 3a en figuur 3b staan vergroot weergegeven op de uitwerkbijlage.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>In figuur 4 zijn foto's te zien van een andere vrije worp. Op de linker foto is het begin van de worp te zien, waarbij de speler extra spierkracht begint uit te oefenen op de bal om hem een snelheid te geven. Op de rechter foto is het einde van de worp te zien, waarbij de bal net is losgekomen van de hand van de speler. Bij deze vrije worp verlaat de bal de hand met een snelheid van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn> <mo>,</mo> <mn>1</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math>.<br>Figuur 4 is vergroot weergegeven op de uitwerkbijlage.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_8ef8d7f2186f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9d0d5b111d6d4b039b38e2853e632ebd.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Om een beter inzicht te krijgen in de beweging van de bal na de worp, ontwerpen Rens en Dyon een vereenvoudigd model. Dit model is weergegeven in figuur 5 . Ook hier is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>het moment dat de bal de hand van de speler verlaat.</p>"
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_dba71d0cd321.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e48925dc76e54926be8bc27cd194c544.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Rens en Dyon laten de computer het model een aantal keren doorrekenen. Rens kiest eerst een aantal keren een andere startwaarde voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>x</mi>&#160;</mrow></msub></math>, zonder die van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>y</mi>&#160;</mrow></msub></math>te veranderen. Vervolgens zet hij de waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>x</mi>&#160;</mrow></msub></math>terug naar de oorspronkelijke startwaarde. Daarna varieert Dyon een aantal keren de startwaarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>y</mi>&#160;</mrow></msub></math>, zonder die van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>x</mi>&#160;</mrow></msub></math>te veranderen. De resultaten van vijf berekeningen zijn weergegeven in figuur 6.</p>"
+    },
+    {
+      "order": 11,
+      "type": "image",
+      "media_path": "media/in-exam/img_2b720151f278.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c3377d845e9d4b6baa8f91303ed5cb6c.png",
+      "caption": ""
+    },
+    {
+      "order": 12,
+      "type": "text",
+      "text": "<p>In het model is ingebouwd dat de berekeningen stoppen als aan twee voorwaarden is voldaan. Deze voorwaarden worden in de instellingen van het programma ingevoerd.</p>"
+    },
+    {
+      "order": 13,
+      "type": "text",
+      "text": "<p>Bij resultaat C in figuur 6 wordt er gescoord.</p>"
+    },
+    {
+      "order": 14,
+      "type": "text",
+      "text": "<p>De verschillende resultaten in figuur 6 zijn het gevolg van variaties in de startwaarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>x</mi>&#160;</mrow></msub></math>door Rens of van variaties in de startwaarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mi>y</mi>&#160;</mrow></msub></math>door Dyon. Op de uitwerkbijlage staat een tabel.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2022_I_uitwerkbijl_9a4d39873fbe.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cfd906bcef9d47ec9c94427a551f4b61.pdf"
+    }
+  ]
+}

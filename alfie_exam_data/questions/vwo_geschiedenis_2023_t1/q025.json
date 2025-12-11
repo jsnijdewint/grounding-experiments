@@ -1,0 +1,71 @@
+{
+  "id": "vwo_geschiedenis_2023_t1_q25",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 192,
+          "name": "Tijdvak 8 – Burgers en stoommachines",
+          "prefix_code": 8
+        },
+        {
+          "id": 193,
+          "name": "Tijdvak 9 – Wereldoorlogen",
+          "prefix_code": 9
+        },
+        {
+          "id": 194,
+          "name": "Tijdvak 10 – Televisie en computer",
+          "prefix_code": 10
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noem bij elke gebeurtenis het kenmerkende aspect van die tijd dat hierbij past.<br>Let op: je mag een kenmerkend aspect maar één keer gebruiken.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In november 1830 stemde het Nationaal Congres van de nieuwe staat België over verschillende kwesties:<br>1 Het Congres stemde in met het voorstel dat België een monarchie werd.<br>2 Het Congres nam een grondwettelijke tekst aan met daarin de bepaling \"dat de leden van het stamhuis van Oranje-Nassau voor altijd uit alle macht of gezag in België uitgesloten zijn\".</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Hoofdredactrice Clara Zetkin schreef in 1898 in het Duitse tijdschrift Die Gleichheit (Gelijkheid): \"Een tijdschrift als Die Gleichheit kan geen beweging veroorzaken [bij vrouwelijke arbeiders] maar kan werken binnen die beweging, door scholing en aanmoediging te geven; en dat heeft Die Gleichheit gedaan. Die Gleichheit heeft als hoofddoel de vrouwelijke kameraden aan te spreken die in de frontlinie staan bij onze strijd.\" Clara Zetkin wil met Die Gleichheit de koers van de Duitse feministische beweging veranderen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In december 1963 werd het Passierscheinabkommen gesloten tussen West- en Oost-Duitse regeringen. Hierdoor kregen West-Berlijners een grenspas waarmee ze tijdens de feestdagen hun familie in Oost-Berlijn konden bezoeken.<br>Twee gegevens:<br>1 De grenspassen werden verstrekt door medewerkers van de Staatssicherheitsdienst.<br>2 De regering van de DDR beschouwde het Passierscheinabkommen als een internationaal verdrag maar de regering van de BRD deelde deze visie niet.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Drie gebeurtenissen bij de Siegessäule (de overwinningszuil), een monument in Berlijn:<br>1 In september 1873 marcheerden Duitse troepen triomfantelijk langs de Siegessäule, waarin kanonnen waren verwerkt die zij buit hadden gemaakt.<br>2 In mei 1945 hesen Poolse troepen na de overwinning in de Slag om Berlijn hun vlag in de top van de Siegessäule.<br>3 In juni 1979 werd de Siegessäule opgenomen in de route van een parade waarin aandacht werd gevraagd voor de rechten van homoseksuelen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2023_I_bijlage_55374cf5cbf5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5244a635b97841b7b1e77f67a3c0f38a.pdf"
+    }
+  ]
+}

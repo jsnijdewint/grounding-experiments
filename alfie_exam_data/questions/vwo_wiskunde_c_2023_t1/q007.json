@@ -1,0 +1,87 @@
+{
+  "id": "vwo_wiskunde_c_2023_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [
+        {
+          "id": 52,
+          "name": "Verbanden",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken met behulp van de figuur het percentage heivlinders in 2017 ten opzichte van het aantal heivlinders in 1992. Geef je antwoord in één decimaal.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De Vlinderstichting in Nederland houdt jaarlijks vlindertellingen. Er wordt geteld op ruim 800 vaste routes en met een vaste methode. De tellingen worden gedaan door vrijwilligers, samen met iemand van de Vlinderstichting op een route van maximaal een kilometer lang. Op de vastgestelde route wordt in een vijf meter brede strook het aantal vlinders geteld.&nbsp;</p><p>&nbsp;</p><p>Van een van de vlindersoorten, het bruin zandoogje, blijkt het aantal al jaren min of meer stabiel te zijn. Een telling op een route van één kilometer leverde 200 bruin zandoogjes op.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_c4e38d7def82.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/aa9e27b8d6f240bf86ed12f8278d50e5.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het aantal bruin zandoogjes is dan wel min of meer stabiel gebleven maar helaas geldt dat niet voor alle vlindersoorten. Het totaal aantal vlinders is in de periode 1992–2017 met 40% afgenomen. Hierbij vermoedt men een exponentiële trend.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De heivlinder is een van de vlindersoorten waarvan het aantal sterk is gedaald. Zie figuur 1.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_651e40436815.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b6894cdbb8f2457497fef9cb80d8e6db.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_5457143bc9e4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/56f478aea0124928a1c03b7092ae34fb.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>In figuur 1 is op de verticale as een logaritmische schaalverdeling gebruikt. Op deze as is niet het aantal heivlinders maar de <strong>populatie-index</strong> weergegeven. Deze index geeft het percentage heivlinders aan ten opzichte van het totaal aantal heivlinders in 1992. De populatie-index van het jaar 1992 is dus 100. In 1995 is de populatie-index weer (ongeveer) 100. Met andere woorden: in 1995 waren er (ongeveer) evenveel heivlinders als in 1992.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Nadat het aantal heivlinders vanaf 2003 stabiel leek en zich in de periode 2011–2013 zelfs wat leek te herstellen, was 2017 weer een rampjaar voor de heivlinder.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2023_I_uitwerkbijla_d26cf5047c40.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5daa39e9d7114989a2f0a9cab3045d3b.pdf"
+    }
+  ]
+}

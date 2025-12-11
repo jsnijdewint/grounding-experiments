@@ -1,0 +1,58 @@
+{
+  "id": "vwo_wiskunde_b_2022_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 47,
+          "name": "Differentiaal- en integraalrekening",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken exact de oppervlakte van het vlakdeel ingesloten door de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>en de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De functie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>is gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <msup><mi>x</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>&#8722;</mo> <mn>2</mn> <mi>x</mi> <msqrt><mi>x</mi> </msqrt><mo>+</mo> <mi>x</mi>&#160;</math>met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi> <mo>&#8805;</mo> <mn>0</mn>&#160;</math>.</p><p>In de figuur is de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>met haar raaklijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi>&#160;</math>in de oorsprong weergegeven.</p><p>De grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>heeft de punten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo> <mn>0</mn> <mo>,</mo> <mn>0</mn> <mo stretchy=\"false\">)</mo>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo> <mn>1</mn> <mo>,</mo> <mn>0</mn> <mo stretchy=\"false\">)</mo>&#160;</math>gemeenschappelijk met de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as.<br>figuur</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_72d0e50c736b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fcff3b508dcf4c0486d75b9b01fe1c1c.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_b_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_b_formules_b48138dc5a3a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/525c78f394194c0a8345801ed3a1dab3.pdf"
+    },
+    {
+      "name": "Wiskunde B 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2022_I_uitwerkbijla_173a70b352ac.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/259b9a55e6ef41678c4a9891840ff9c0.pdf"
+    }
+  ]
+}

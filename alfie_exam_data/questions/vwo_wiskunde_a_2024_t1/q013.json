@@ -1,0 +1,56 @@
+{
+  "id": "vwo_wiskunde_a_2024_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 76,
+          "name": "Algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 77,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel hectare grasland er nog was in Nederland in 2014. Geef je antwoord in duizenden hectares.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De laatste tientallen jaren is het in Nederland voor veel weidevogels lastiger geworden om geschikte broedplaatsen te vinden. Dit komt doordat landbouwgrond steeds intensiever en gevarieerder wordt gebruikt, en doordat steden voortdurend verder uitbreiden.&nbsp;</p><p>Grasland is het voornaamste broedgebied voor weidevogels. Uit een onderzoek van Sovon Vogelonderzoek Nederland blijkt dat in de jaren vanaf 1990 tot en met 2014 ruim 150 000 hectare grasland verloren is gegaan. Dat is een daling van 14 procent.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde A 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2024_I_uitwerkbijla_10eda6c4e39f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0fd4a0d092ea4f26ae0c6203b7f1dbf1.pdf"
+    },
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_50ee8ab18ba5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d7f2659ec4da481880d7347b05791af4.pdf"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "vwo_scheikunde_2022_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef de vergelijking van deze vorming van picoline. Gebruik structuurformules voor de organische deeltjes.</p>",
+    "max_score": 4,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_d12d9982d10a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/907e211278364dbbac5069935250fc0b.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Niacine (vitamine B3) is een vitamine die van belang is voor het functioneren van een groot deel van de enzymsystemen in het lichaam. Er bestaan productieprocessen om niacine uit goedkope fossiele grondstoffen te produceren. In de eerste stap van zo'n proces wordt picoline gevormd. In de tweede stap wordt picoline omgezet tot niacine. De structuurformules van picoline en niacine zijn in figuur 1 weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_1773282f315c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/abd729b8ba63462da2d877712d1e6be7.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de eerste stap wordt picoline gemaakt uit propanal, prop-2-enal en ammoniak. Prop-2-enal is een aldehyde met molecuulformule <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi>&#160;</mrow></math>. In deze reactie worden behalve picoline ook water en nog één andere stof gevormd.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2022_I_uitwerkbijla_da6165cccfb5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/974fdb9ad1284f7b8d5e91874b964a37.pdf"
+    }
+  ]
+}

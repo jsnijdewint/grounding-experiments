@@ -1,0 +1,52 @@
+{
+  "id": "vwo_economie_2021_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 19,
+          "name": "Ruilen over de tijd",
+          "prefix_code": "E"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit voor welke premiebetaling een jonge werknemer zal kiezen met een relatief lage tijdsvoorkeur.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In een land wil een technisch bedrijf een vestiging openen met uitsluitend recent afgestudeerde werknemers die geschoold zijn in de nieuwste technieken. Het bedrijf wilt haar werknemers een bedrijfspensioen aanbieden en besteedt het opzetten van het bedrijfspensioen uit aan een pensioenfonds. De nieuwe medewerkers krijgen een keuze tussen twee vormen van premiebetaling zoals weergegeven in figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_5c911f5d2d2b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/50019922c89d4a7892b72649913d37b2.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De keuze tussen de twee vormen van premiebetaling is als volgt:<br>1 Doorsneepremie: jongere en oudere werknemers betalen hetzelfde vaste percentage van het brutoloon als pensioenpremie.<br>2 Leeftijdsafhankelijke premie: jongere werknemers betalen een lager percentage van het brutoloon als pensioenpremie dan ouderen. Naarmate ze ouder worden zullen ze een steeds groter gedeelte van hun brutoloon betalen aan pensioenpremie.<br>Bij beide vormen van premiebetaling worden de premies gebruikt om vanaf de pensioenleeftijd een levenslange uitkering te garanderen die gelijk is aan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>70</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>van het gemiddelde brutoloon. Er wordt uitgegaan van een gelijkblijvende pensioenleeftijd en lonen die geïndexeerd worden aan de inflatie.</p>"
+    }
+  ],
+  "bijlages": []
+}

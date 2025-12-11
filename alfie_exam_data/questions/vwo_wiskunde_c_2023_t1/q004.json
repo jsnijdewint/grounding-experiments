@@ -1,0 +1,84 @@
+{
+  "id": "vwo_wiskunde_c_2023_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [
+        {
+          "id": 54,
+          "name": "Logisch redeneren",
+          "prefix_code": "F"
+        }
+      ],
+      "subdomains": [
+        {
+          "id": 90,
+          "name": "Rekenen en algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 91,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef alle theoretisch mogelijke combinaties van twee of meer van deze vier vakken en onderzoek voor elke combinatie of deze door middel van een bijbehorend gebied in het diagram weergegeven is.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Toen toetsroosters nog met de hand werden gemaakt, gebruikte de roostermaker soms een diagram als hulpmiddel. In de figuur zie je zo’n diagram voor 5 vwo voor de dinsdag in een toetsweek. Op die dinsdag worden alleen toetsen gegeven voor de volgende vakken: economie (Ec), geschiedenis (Gs), natuurkunde (Na) en Duits (Du). In het diagram zijn de gegevens weergegeven voor de 20 leerlingen uit 5 vwo voor deze vier vakken. Zo kun je bijvoorbeeld aflezen dat er 5 leerlingen zijn die van deze vier vakken alleen natuurkunde en Duits hebben: gebied R in het diagram.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_ba1d3999cac3.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6c9662ceac38429198ef9cc4cbf2975f.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Niemand van de 20 leerlingen uit 5 vwo hoeft op dinsdag vier toetsen te maken.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Voor een roostermaker kan het handig zijn om meer toetsen tegelijkertijd in te roosteren.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>We voeren voor Julia, een leerling uit deze 5 vwo-groep. de volgende notaties in</p><p>— Ec betekent: Julia heeft economie in haar pakket;</p><p>— Na betekent: Julia heeft natuurkunde in haar pakket:</p><p>— Gs betekent Julia heeft geschiedenis in haar pakket;</p><p>— Du betekent: Julia heeft Duits in haar pakket</p><p>Roostermaker Hansen, die het vakkenpakket van Julia niet kent, beweert het volgende:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi data-mjx-auto-op=\"false\">Du</mi>\r\n  </mrow>\r\n  <mo stretchy=\"false\">&#8658;</mo>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi data-mjx-auto-op=\"false\">Na</mi>\r\n  </mrow>\r\n  <mo>&#8744;</mo>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi data-mjx-auto-op=\"false\">Gs</mi>\r\n  </mrow>\r\n  <mo stretchy=\"false\">)</mo>\r\n</math></p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In het diagram in de figuur zijn verschillende vakkencombinaties door middel van een bijbehorend gebied weergegeven. Er zijn echter meer combinaties mogelijk met twee of meer van de vier vakken economie, geschiedenis, natuurkunde en Duits dan in dit diagram weergegeven zijn. Een leerling met zo’n vakkencombinatie zou dus niet passen in dit diagram. (Gelukkig kwamen deze vakkencombinaties niet voor bij deze 20 leerlingen.)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2023_I_uitwerkbijla_d26cf5047c40.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5daa39e9d7114989a2f0a9cab3045d3b.pdf"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "vmbo_gl_economie_2023_t1_q34",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 123,
+          "name": "Consumptie",
+          "prefix_code": "EC/K/4A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Alle handel via elektronische netwerken valt onder de term 'e-commerce'. Het kopen en verkopen van goederen en diensten via internet is een onderdeel hiervan.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Maak van onderstaande zinnen een economisch juiste tekst door de juiste woorden te kiezen.<br>Doe het zo: Noteer de nummers (1), (2) en (3) op je antwoordblad. Vul bij de nummers de juiste woorden in. Kies uit de woorden die tussen haakjes staan.<br>Door het intensieve gebruik van internet neemt de aandacht voor e-commerce steeds meer toe. Het ontstaan van influencers is een ...(1). (gevolg / oorzaak) van e-commerce. Een influencer is een nieuw beroep en daarmee een ... (2)... (nieuwe specialisatie / nieuwe techniek). Goede influencers verdienen hiermee een inkomen en producten, zoals een auto. Het ontvangen van producten is een vorm van inkomen, dit is (3)... (inkomen in natura / inkomen uit bezit / inkomen uit overdrachten).</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 2017 kochten veel Nederlandse consumenten een of meer producten via internet. In 2017 waren er 200 miljoen online aankopen met een totale waarde van € 22,5 miljard.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_925195ecafd1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4e2dcbc65d884783a6be24fbb7ae8d0a.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De totale waarde van de online aankopen groeide met 13% ten opzichte van 2016. Het aantal online aankopen groeide met 17% ten opzichte van 2016.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Uit onderzoek blijkt dat consumenten in hun consumptiebeslissing sterk beïnvloed worden door de mening van andere consumenten. Producenten spelen hier steeds meer op in met influencermarketing. Een influencer is iemand die actief is op sociale media met veel volgers en het koopgedrag van anderen kan beïnvloeden.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2023_I_bijlage_d07fb50732d7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/37a7c03aae784b9f89ef1c2fe31fa61d.pdf"
+    }
+  ]
+}

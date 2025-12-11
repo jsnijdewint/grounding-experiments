@@ -1,0 +1,47 @@
+{
+  "id": "havo_biologie_2024_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Twee mogelijke hartafwijkingen zijn:&nbsp;<br>1 De aortaklep is te stug en opent daardoor niet goed.&nbsp;<br>2 De aortaklep is te slap en sluit daardoor niet goed.<br><br>Bij welke afwijking stroomt er per minuut minder bloed door de aorta naar de organen in het lichaam, in vergelijking met een normaal functionerend hart bij een gelijke inspanning van de hartspier?&nbsp;<br>A bij geen van beide&nbsp;<br>B alleen bij 1&nbsp;<br>C alleen bij 2&nbsp;<br>D zowel bij 1 als bij 2</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In Nederland worden jaarlijks ongeveer vijfduizend hartkleppen vervangen door kunsthartkleppen. Bij kinderen met een kunsthartklep, moet de klep meerdere keren worden vervangen, omdat een kunsthartklep niet meegroeit. Biomedisch ingenieur Carlijn Bouten werkt aan een oplossing voor dit probleem.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_e32485da52dc.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0ac7e522bdaa4abda69dbc8c7078ca8a.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

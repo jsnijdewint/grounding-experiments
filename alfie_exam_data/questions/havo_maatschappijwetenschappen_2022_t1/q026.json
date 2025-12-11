@@ -1,0 +1,40 @@
+{
+  "id": "havo_maatschappijwetenschappen_2022_t1_q26",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "maatschappijwetenschappen",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 34,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik tekst 6.<br>Volgens het SER Jongerenplatform is er een tweedeling zichtbaar tussen jongeren die met name profiteren van de kansen en jongeren die het meest getroffen worden door belemmeringen en onzekerheden. Deze tweedeling wordt gevormd door het meer of minder hebben van verschillende soorten kapitaal. Een soort kapitaal is cultureel kapitaal.<br><br>Welke <strong>twee</strong> andere soorten kapitaal spelen volgens tekst 6 een rol in de kansenongelijkheid tussen jongeren? Noem de soorten kapitaal en geef bij elke soort een voorbeeld uit tekst 6 .</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave hoort tekst 6 uit het bronnenboekje.<br><br>Inleiding<br>In 2017 publiceerde het Jongerenplatform van de SER (Sociaal Economische Raad) een manifest waarin het platform zijn zorgen uitte over kansen voor jongeren op het gebied van leren, werken en samenleven. Het SER Jongerenplatform is een samenwerking tussen de SER en diverse jongerenorganisaties. In het manifest riep het Jongerenplatform de politiek op \"werk te maken van een Nederland waarin iedereen meetelt\".<br>Naar aanleiding hiervan vroeg minister Koolmees van Sociale Zaken en Werkgelegenheid in 2018 het SER Jongerenplatform een verkennend onderzoek uit te voeren naar de ontplooiingskansen voor jongeren. Op basis van het verkennende onderzoek publiceerde het SER Jongerenplatform in augustus 2019 het rapport 'Hoge verwachtingen - kansen en belemmeringen voor jongeren in 2019'.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijwetenschappen 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijwetenschappen_2022_b839328547bf.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/300a452244ca4ad0aade610c9e6fe2bc.pdf"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "havo_natuurkunde_2024_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 134,
+          "name": "Energieomzettingen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Toon met behulp van arbeid en kinetische energie aan dat deze waarde voor de wrijvingskracht klopt.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 2017 liep een groot containerschip op de oever van de Schelde. Een onderzoeker deed onderzoek naar dit ongeluk. Hij zag dat het schip over een afstand van 50% van zijn lengte op de oever was geschoven. Zie figuur 1. Op internet zijn de gegevens van het schip te vinden. Zie figuur 2.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_848039f7b021.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c857ea8349994d32936cbfcabd3302eb.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_e04e1ee85eec.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/31d97d7bd6414abf8b080316f47161fb.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Van ieder schip wordt elke 2 minuten de positie bijgehouden. Met deze informatie bepaalde de onderzoeker de snelheid van het schip voor het ongeluk. Die bleek <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>7</mn>\r\n  <mo>,</mo>\r\n  <mn>1</mn>\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext> </mtext>\r\n      <mi data-mjx-auto-op=\"false\">ms</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8722;</mo>\r\n      <mn>1</mn>\r\n    </mrow>\r\n  </msup>\r\n</math> te zijn. Hij ging ervan uit dat de wrijvingskracht op het schip tijdens het vastlopen op de oever constant was. Hij berekende dat die wrijvingskracht <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>2</mn>\r\n  <mo>,</mo>\r\n  <mn>1</mn>\r\n  <mo>&#8901;</mo>\r\n  <msup>\r\n    <mn>10</mn>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>7</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mtext> </mtext>\r\n    <mi mathvariant=\"normal\">N</mi>\r\n  </mrow>\r\n</math> was.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2024_I_uitwerkbijl_183c8a842092.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d36e010b434c4896854f0afb7f3f861d.pdf"
+    }
+  ]
+}

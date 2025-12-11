@@ -1,0 +1,99 @@
+{
+  "id": "havo_natuurkunde_2024_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [
+        {
+          "id": 84,
+          "name": "Aarde en heelal",
+          "prefix_code": "E"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bepaal met behulp van figuur 4 en een berekening de baansnelheid van F9h in de parkeerbaan. Noteer je antwoord in drie significante cijfers.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In februari 2018 is de Falcon 9 heavy (kortweg F9h) getest. Dit is een raket die naar Mars moet reizen. Zie figuur 1.</p><p>&nbsp;</p><p>Het bovenaanzicht van het testtraject is schematisch en niet op schaal weergegeven in figuur 2. F9h werd gelanceerd (I) richting een baan om de aarde. Daar aangekomen werd de raket tijdelijk ‘geparkeerd’ in deze baan om de aarde, de zogenaamde parkeerbaan (II). Daarna vervolgde hij zijn weg verder richting Mars (III).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_f9e0dcb34112.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c4434b1451ea4ffc8c0defe4c8876a9d.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_97107c354711.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3865df6bd494446b83e10332791b65b4.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p><strong>I</strong><i><strong> </strong></i><strong>Lancering</strong></p><p>Om in de parkeerbaan te komen, moest de raket brandstof verbranden om voldoende kinetische energie en zwaarte-energie te krijgen. De benodigde zwaarte-energie is niet afhankelijk van de plek waar de raket vanaf aarde gelanceerd werd. De benodigde kinetische energie is wel afhankelijk van de plek van lancering. Omdat de aarde om de aardas draait, heeft het lanceerplatform zelf een snelheid <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>v</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi mathvariant=\"normal\">L</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n</math>. Hierdoor had de raket al voor de lancering kinetische energie.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Van de eerste minuten van de beweging van F9h is een (<i>v</i>,<i>t</i>)-diagram gemaakt. Zie figuur 3.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_3a86c4522fad.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2968fe34f82b41139e99d886ddf85263.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De raket gebruikte een hoofdmotor en extra hulpmotoren. Na ruim 3 minuten werden de hulpmotoren uitgeschakeld en bleef alleen de hoofdmotor van de raket werken. Figuur 3 staat ook op de uitwerkbijlage.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p><strong>II Parkeerbaan</strong></p><p>In figuur 4 is in een (<i>h,t</i>)-diagram de hoogte van F9h boven het aardoppervlak uitgezet tegen de tijd.</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_05faa3b977ab.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/58bf255781c647c8b1181e18614d8ca5.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Ongeveer acht minuten na de lancering bereikte F9h de cirkelvormige parkeerbaan.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2024_I_uitwerkbijl_183c8a842092.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d36e010b434c4896854f0afb7f3f861d.pdf"
+    }
+  ]
+}

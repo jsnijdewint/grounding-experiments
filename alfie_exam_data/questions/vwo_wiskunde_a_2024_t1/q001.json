@@ -1,0 +1,68 @@
+{
+  "id": "vwo_wiskunde_a_2024_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 78,
+          "name": "Standaardfuncties",
+          "prefix_code": 1
+        },
+        {
+          "id": 79,
+          "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bepaal met behulp van de figuur welke toonhoogtes hier worden bedoeld.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het ene geluid klinkt zachter dan het andere. We zeggen dan dat het geluidsniveau in decibel (dB) lager is. Een spreekstem bijvoorbeeld heeft een <strong>geluidsniveau </strong>van 60 dB en in een discotheek is het geluidsniveau ongeveer 100 dB. Sommige geluiden zijn zo zacht dat het menselijk oor ze niet meer kan waarnemen. Deze geluiden zijn zachter dan de zogenoemde <strong>gehoordrempel</strong>. Andere geluiden zijn zo hard dat ze een onverdraagbaar pijngevoel veroorzaken: ze liggen boven de zogenoemde <strong>pijngrens</strong>. De hoogte van gehoordrempel en pijngrens hangen niet alleen af van het geluidsniveau maar ook van de toonhoogte van het geluid. De figuur hieronder geeft hier informatie over. Langs de verticale as staat het geluidsniveau in dB. Langs de horizontale as staat, met een logaritmische schaalverdeling, de toonhoogte; deze wordt uitgedrukt in hertz (Hz).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2dc4f68dc02f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8682be1d31a74ca1a2a54ead7e8e6329.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de figuur kun je zien dat geluid met een toonhoogte van 100 Hz en een niveau van 130 dB op de pijngrens ligt en dus erg onaangenaam is voor het menselijk oor.&nbsp;</p><p>&nbsp;</p><p>In de figuur kun je ook zien dat er bij een geluidsniveau van 10 dB geluiden met verschillende toonhoogtes zijn die precies op de gehoordrempel liggen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde A 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2024_I_uitwerkbijla_10eda6c4e39f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0fd4a0d092ea4f26ae0c6203b7f1dbf1.pdf"
+    },
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_50ee8ab18ba5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d7f2659ec4da481880d7347b05791af4.pdf"
+    }
+  ]
+}

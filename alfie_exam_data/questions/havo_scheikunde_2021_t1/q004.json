@@ -1,0 +1,67 @@
+{
+  "id": "havo_scheikunde_2021_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef de namen van de twee bindingstypen die worden verbroken bij het verdampen in scheidingsruimte S1.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de elektronica-industrie worden printplaten gemaakt. Tijdens het productieproces van deze printplaten worden hydrofobe stoffen gebruikt die later weer verwijderd moeten worden. Voor het verwijderen van deze stoffen kan ethyllactaat worden gebruikt. Ethyllactaat wordt gevormd uit melkzuur <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>6</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>en ethanol. Hieronder zijn de structuurformules van melkzuur en ethyllactaat weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_991b2c2249f8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6354a0cf69004c67be88f0798bfce582.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Melkzuur wordt op industriële schaal gemaakt door omzetting van sachariden met behulp van micro-organismen. Een voorbeeld van zo'n sacharide is sacharose <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>12</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>22</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>11</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>. Voor de omzetting van sacharose tot melkzuur is ook water nodig.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Ethyllactaat heeft een uitstekend reinigend vermogen. Bovendien is ethyllactaat zowel met hydrofobe stoffen als met water mengbaar. Een voorwerp dat gereinigd is met ethyllactaat, kan daarna gespoeld worden met water.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In een fabriek kan ethyllactaat volgens een continuproces worden gemaakt uit melkzuur en ethanol. De vergelijking van deze omzetting is hieronder weergegeven.</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>6</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mo>+</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>6</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mo stretchy=\"false\">&#8594;</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>5</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>10</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mo>+</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mtext>(reactie 1)&#160;</mtext></math></p><p>Op de uitwerkbijlage bij dit examen is het onvolledige blokschema van het continuproces weergegeven. In dit blokschema ontbreken enkele stofstromen en de namen van de bijbehorende stoffen.<br>In reactor R1 worden een ruime overmaat ethanol en een melkzuuroplossing geleid. In aanwezigheid van een katalysator wordt het reactiemengsel krachtig geroerd. Hierbij wordt een groot deel van het melkzuur omgezet tot ethyllactaat. Ook treden nevenreacties op waarbij esters ontstaan, zoals de ester van twee moleculen melkzuur.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Voortdurend wordt een deel van het reactiemengsel uit reactor R1 overgebracht naar scheidingsruimte S1. Dit reactiemengsel bestaat uit ethanol, ethyllactaat, melkzuur, water en de esters die zijn ontstaan door nevenreacties. In scheidingsruimte S1 verdampen water, ethanol en ethyllactaat.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2021_I_uitwerkbijla_1bb960b8859b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/de4ac50bb8424775a1d05546cf8e6711.pdf"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2023_t1_q27",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 144,
+          "name": "Kracht en veiligheid",
+          "prefix_code": "NASK1/K/9"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>De massa van het blokje is 74 g .<br>Op de uitwerkbijlage staat een afbeelding van een deel van de krachtmeter.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Zet een streepje bij de juiste aanwijzing op de krachtmeter.</p>",
+    "max_score": 1,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_f9613c9e445c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b59114b4d964438abd94fd20e91e5e30.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Merte voert een practicum 'elektromagneet' uit. Je ziet een afbeelding met de apparatuur die ze voor dit practicum gebruikt.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_93a9f36a6d5d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dddb45093b4741fe9423ec885bcdb165.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Er hangt een metalen blokje aan een krachtmeter.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2023_I_146f2ef32a60.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a553a8c7e49437a900373fa6ec9748e.pdf"
+    }
+  ]
+}

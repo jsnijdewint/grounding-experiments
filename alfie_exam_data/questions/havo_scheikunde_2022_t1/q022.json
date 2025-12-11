@@ -1,0 +1,59 @@
+{
+  "id": "havo_scheikunde_2022_t1_q22",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef de naam van het type binding dat in figuur <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mi>b</mi>&#160;</math>gevormd is tussen de vuilmoleculen en de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>E</mi><msup><mi>S</mi><mo>-</mo></msup></math>-ionen. Licht je antwoord toe op microniveau.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Natriumlaurylethersulfaat (NLES) is een synthetische zeep die wordt toegepast in textielwasmiddelen en in shampoos. NLES is opgebouwd uit natriumionen en laurylethersulfaat-ionen (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>E</mi><msup><mi>S</mi><mo>-</mo></msup></math>-ionen).<br>NLES is oplosbaar in water. De reinigende werking van NLES berust op de structuur van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>E</mi><msup><mi>S</mi><mo>-</mo></msup></math>-ionen. In figuur 1 zijn de structuurformule (figuur 1a), de ion-formule (figuur 1b) en de schematische notatie van het <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>E</mi><msup><mi>S</mi><mo>-</mo></msup></math>-ion (figuur 1c) weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2aaedf352a8e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8bfbbb8b27e74260aafeba8dfa626342.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In figuur 2 is de reinigende werking van NLES schematisch weergegeven:</p><ul><li>Een groepje vuilmoleculen dat aanwezig is op een textielvezel wordt omringd door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>E</mi><msup><mi>S</mi><mo>-</mo></msup></math>-ionen (figuur 2a).</li><li>Het 'vuil-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>E</mi><msup><mi>S</mi><mo>-</mo></msup></math>-deeltje' dat daarbij ontstaat, laat vervolgens los van de textielvezel en gaat tussen de watermoleculen zitten (figuur 2b).</li></ul>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_fe75af021914.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9d8c012154cd4398870d6f750c667e18.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2022_I_uitwerkbijla_f5e7f9155c59.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a02c79c5875f4978b042c59ce1514099.pdf"
+    }
+  ]
+}

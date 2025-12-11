@@ -1,0 +1,46 @@
+{
+  "id": "havo_economie_2021_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 74,
+          "name": "Ruilen over de tijd",
+          "prefix_code": "E"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noem een mogelijke oorzaak waardoor de toename van de overheidsschuld minder kon zijn dan € 34 miljard.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>fragment 1 uit een economisch rapport: Door de economische crisis die in 2008 begon, liep het overheidstekort in Nederland op tot <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>34</mn>&#160;</math> miljard in 2010. Bedrijfswinsten daalden en daarmee de belastinginkomsten. Tegelijk liepen de overheidsuitgaven sterk op: door toename van het aantal werklozen steeg het aantal uitkeringen. In 2010 heeft het overheidstekort van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>34</mn>&#160;</math> miljard geleid tot een toename van de overheidsschuld van minder dan € 34 miljard (zie bron 1).</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2021_I_bijlage_78b2ccc4e0ab.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e553e4fb92dd414ba69c047a982b4e48.pdf"
+    }
+  ]
+}

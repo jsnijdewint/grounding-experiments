@@ -1,0 +1,51 @@
+{
+  "id": "havo_wiskunde_a_2024_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [
+        {
+          "id": 97,
+          "name": "Algebra en tellen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken het gemiddelde bruto-uurloon in 2015 van werknemers buiten het onderwijs met hetzelfde opleidingsniveau. Geef je antwoord in een geheel aantal euro’s.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 2017 werd er gestaakt door leerkrachten in het basisonderwijs. Er was sprake van aanhoudende onvrede over onder meer het salaris en de werkdruk. In deze opgave wordt met ‘leerkrachten’ telkens ‘leerkrachten in het basisonderwijs’ bedoeld.&nbsp;</p><p>&nbsp;</p><p>Leerkrachten verdienden in 2015 gemiddeld een bruto-uurloon van 26 euro. Daarmee verdienden zij 14 procent minder dan werknemers buiten het onderwijs met hetzelfde opleidingsniveau.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde A 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2024_I_uitwerkbijla_f9ae22db2d27.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/803d0c79996043e4a0d7ab20f340aa91.pdf"
+    },
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_11e2f4336287.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/68b501e3c58045cc93dfc3658f67cc97.pdf"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "havo_engels_2022_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "engels",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 28,
+      "domains": [
+        {
+          "id": 79,
+          "name": "Leesvaardigheid",
+          "prefix_code": "A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Which of the following is the sacrifice, judging from the text as a whole?<br><strong>A </strong>admitting you like Supreme Band-Aids<br><strong>B </strong>paying a lot of money for Supreme Band-Aids<br><strong>C </strong>waiting a long time to get Supreme Band-Aids<br><strong>D </strong>wounding yourself to show off Supreme Band-Aids<br><strong>E </strong>writing about a product such as Supreme Band-Aids</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>\"Call it a sacrifice to the hype gods\" (title)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Engels 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2022_I_bijlage_2ef595049e9a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/407e5d12769249eda6e9de9eee380d0f.pdf"
+    }
+  ]
+}

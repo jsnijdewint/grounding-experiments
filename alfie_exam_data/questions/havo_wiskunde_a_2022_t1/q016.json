@@ -1,0 +1,83 @@
+{
+  "id": "havo_wiskunde_a_2022_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 176,
+          "name": "Tabellen",
+          "prefix_code": 1
+        },
+        {
+          "id": 177,
+          "name": "Grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        },
+        {
+          "id": 178,
+          "name": "Formules met één of meer variabelen",
+          "prefix_code": 3
+        },
+        {
+          "id": 179,
+          "name": "Lineaire verbanden",
+          "prefix_code": 4
+        },
+        {
+          "id": 180,
+          "name": "Exponentiële verbanden",
+          "prefix_code": 5
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken het verschil in totale jaarlijkse kosten tussen deze twee mogelijkheden als de bestelkosten per bestelling 1800 euro zijn.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een fabrikant produceert jaarlijks 27000 auto's van een bepaald type. De fabrikant bestelt de 27000 motorblokken die hiervoor nodig zijn bij een leverancier. De fabrikant kan deze 27000 motorblokken in één keer bestellen of over meerdere bestellingen verdelen. Het aantal motorblokken is bij elke bestelling even groot. Zo kan de fabrikant bijvoorbeeld 5 keer 5400 motorblokken bestellen of 20 keer 1350.</p><p>&nbsp;</p><p>De fabrikant betaalt een prijs van 2000 euro per motorblok. Daarnaast betaalt de fabrikant voor iedere bestelling bestelkosten. Na levering worden de motorblokken door de fabrikant in een opslagruimte geplaatst totdat ze nodig zijn. Het lijkt misschien handig om elk jaar alle motorblokken in één keer te bestellen, omdat de fabrikant dan maar één keer bestelkosten hoeft te betalen. De fabrikant heeft dan echter wel een grotere opslagruimte nodig en dat kost geld. Bestelt hij meerdere keren per jaar een kleinere hoeveelheid, dan kan hij een kleinere opslagruimte gebruiken en is hij dus minder geld kwijt aan opslag.</p><p>&nbsp;</p><p>Het aantal motorblokken is dus bij elke bestelling even groot. Dit aantal heet de <strong>bestelhoeveelheid </strong><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>q</mi>&#160;</math>. Ongeacht de bestelhoeveelheid worden er per bestelling steeds dezelfde bestelkosten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>(in euro's) gerekend.</p><p>&nbsp;</p><p>De totale jaarlijkse kosten (in euro's) voor de fabrikant bestaan uit:</p><p>&nbsp;</p><ul><li>de kosten van alle motorblokken (ofwel <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>27000</mn> <mo>&#8901;</mo> <mn>2000</mn> <mo>=</mo> <mn>54000000</mn>&#160;</math>);</li><li>de totale bestelkosten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mfrac><mn>27000</mn> <mi>q</mi> </mfrac><mo>&#8901;</mo> <mi>B</mi> <mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>;</li><li>de kosten voor opslag: bij deze fabrikant <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>60</mn> <mi>q</mi>&#160;</math>.</li></ul><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>q</mi>&#160;</math>de bestelhoeveelheid en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>de bestelkosten per bestelling (in euro's).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_93969c2ce63e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b573d57bfb3a46babcfdb4519dbcecf1.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De fabrikant berekent de totale jaarlijkse kosten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi> <mi>K</mi>&#160;</math>in euro's dus met de volgende formule:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi> <mi>K</mi> <mo>=</mo> <mn>54000000</mn> <mo>+</mo> <mfrac><mn>27000</mn> <mi>q</mi> </mfrac><mo>&#8901;</mo> <mi>B</mi> <mo>+</mo> <mn>60</mn> <mi>q</mi></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(formule 1)<br>In plaats van alle 27000 motorblokken voor een heel jaar in 1 keer te bestellen kan de fabrikant er ook voor kiezen om ze in 10 keer te bestellen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_47358876a1f1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/481e05ea1b3d4f8abbc66849e31c4129.pdf"
+    },
+    {
+      "name": "Wiskunde A 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2022_I_uitwerkbijla_ed3f16cbc21f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7a0c7f08da744830b81b66f1bba66954.pdf"
+    }
+  ]
+}

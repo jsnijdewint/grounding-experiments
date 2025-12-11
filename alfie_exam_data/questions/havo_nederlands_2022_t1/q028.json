@@ -1,0 +1,46 @@
+{
+  "id": "havo_nederlands_2022_t1_q28",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 140,
+          "name": "Samenvatten",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welk tussenkopje past het best boven alinea 2 en 3 samen?</p><p><strong>A </strong>Gelijkwaardigheid van vrouwen en mannen in militaire dienst</p><p><strong>B </strong>Historische denkbeelden over de rol van vrouwen bij Defensie</p><p><strong>C </strong>Onwenselijkheid van dienstplicht voor vrouwen</p><p><strong>D </strong>Politieke overwegingen bij de invoering van een dienstplicht voor vrouwen</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De eerste alinea van een tekst kan verschillende onderdelen bevatten, zoals:</p><p>1 de aanleiding voor het schrijven van de tekst;</p><p>2 een anekdote om de belangstelling te wekken;</p><p>3 een constatering die in de tekst uitgewerkt wordt;</p><p>4 een overzicht van historische ontwikkelingen;</p><p>5 het standpunt dat in de tekst centraal staat.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2022_I_bijlage_92799e4db006.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a400249c9526410d9001698a4ae56d34.pdf"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "havo_biologie_2022_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 122,
+          "name": "Zelforganisatie van cellen",
+          "prefix_code": 3
+        },
+        {
+          "id": 123,
+          "name": "Erfelijke eigenschap",
+          "prefix_code": 7
+        },
+        {
+          "id": 124,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 130,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke combinatie van chromosomen hebben de vissen die worden gekruist bij het onderzoek naar de tweede hypothese?</p><figure class=\"table\"><table><tbody><tr><td style=\"border-color:!important;border-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">rood mannetje&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">geel vrouwtje</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">A</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">PPQQ</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">PPSS</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">B</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">PPQQ</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">RRSS</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">C</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">QQRR</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">PPSS</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">D</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">QQRR</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">RRSS</td></tr></tbody></table></figure>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tijdens Adrianna's uitwisselingsjaar in Minnesota (VS) doet zij op haar highschool genetica-experimenten met GloFish®</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De GloFish® zijn zebravissen (<i>Danio rerio</i>, afbeelding 1) die transgeen zijn gemaakt doordat aan een bevruchte eicel een of meer genen voor een fluorescerend eiwit zijn toegevoegd. Deze genen zijn afkomstig uit kwallen of zeeanemonen die van nature fluorescerend eiwit maken. Zo'n gen van een ander organisme, een transgen, wordt dan op een willekeurige plaats in het genoom van de zebravis ingebouwd. Er zijn inmiddels GloFish® in de fluorkleuren groen, rood, geel, blauw en oranje.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_9e8a84652257.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/abab631f9d264ce9b91157057b4f8a60.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De transgenen komen alleen tot expressie in de spiercellen van de zebravis en niet in andere celtypen. Daardoor zijn de fluorescerende eiwitten alleen in de spiercellen aanwezig. De makers van de GloFish® hadden er met een iets andere aanpak voor kunnen kiezen om de fluorescerende eiwitten in de huidcellen te laten aanmaken. Toch hebben ze dat niet gedaan, omdat dit de fluorescentie zou verminderen. Leerlingen in Adrianna's klas doen hierover de volgende uitspraken:<br>1 Doordat huidcellen andere aminozuren bevatten, zou de fluorescentie minder sterk zijn.<br>2 Doordat huidcellen zich vaker delen dan spiercellen zou de eigenschap fluorescentie verloren gaan.<br>3 Doordat huidweefsel van de zebravis minder dik is dan spierweefsel zou de fluorescentie in de huid minder sterk zijn.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Op Adrianna's highschool hebben ze de volgende vissen:</p><ul><li>niet-transgene, lichtgrijze zebravissen</li><li>rode GloFish® die homozygoot zijn voor het transgen dat codeert voor rood fluorescerend eiwit</li><li>gele GloFish® die homozygoot zijn voor het transgen dat codeert voor geel fluorescerend eiwit</li><li>oranje GloFish <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mo>&#174;</mo>&#160;</mrow></math>met een onbekend genotype</li></ul>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De leerlingen moeten de volgende hypothese toetsen: de aanwezigheid van één transgen voor rood fluorescerend eiwit is voldoende om rood tot expressie te laten komen.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Een tweede hypothese is dat oranje vissen zowel het transgen voor rood als het transgen voor geel dragen. Om dit te toetsen kruist Adrianna een rood GloFish(B)-mannetje en een geel GloFish(®)-vrouwtje. Alle nakomelingen uit deze kruising zijn oranje. De docent legt uit dat dit het gevolg is van twee genen die samen een eigenschap bepalen. Het transgen voor rood ligt op een ander chromosoom dan het transgen voor geel.<br>In afbeelding 2 zijn de chromosomen P, Q, R en S weergegeven. Het transgen voor rood bevindt zich op chromosoom Q, dat voor geel op chromosoom S.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_b289070540cf.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/71be2cc22b314f67bd17962fa39d08cd.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

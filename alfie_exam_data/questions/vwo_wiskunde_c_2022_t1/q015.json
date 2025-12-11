@@ -1,0 +1,80 @@
+{
+  "id": "vwo_wiskunde_c_2022_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 90,
+          "name": "Rekenen en algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 91,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Laat deze herleiding zien en laat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi> <mo>,</mo> <mi>b</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi>&#160;</math>als breuk staan.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het wereldrecord kratten stapelen stond in 2005 op naam van het dorpje Limmen in NoordHolland. De inwoners van Limmen stapelden een piramide van 63365 kratten. De piramide was als volgt opgebouwd: de bovenste laag noemen we de eerste laag en bevat één krat. De laag daaronder is de tweede laag en bevat twee bij twee, dus vier kratten. De hoekpunten van de bovenste krat liggen steeds op de middens van de kratten eronder. De derde laag heeft drie bij drie, dus negen kratten, enzovoort. Zie de foto en de schematische figuur.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_a10db362419f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f2910722c46243f3a61c71f298be76ee.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_767407b8b4dc.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/139de543c668427f93098405e84f9680.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Op de uitwerkbijlage zie je een perspectieftekening van de tweede laag van de piramide.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Voor het totale aantal kratten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi> <mrow data-mjx-texclass=\"ORD\"><mi>n</mi>&#160;</mrow></msub></math>van een dergelijke piramide geldt de volgende formule:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi> <mrow data-mjx-texclass=\"ORD\"><mi>n</mi> </mrow></msub><mo>=</mo> <mfrac><mrow><mi>n</mi> <mo stretchy=\"false\">(</mo> <mi>n</mi> <mo>+</mo> <mn>1</mn> <mo stretchy=\"false\">)</mo> <mo stretchy=\"false\">(</mo> <mn>2</mn> <mi>n</mi> <mo>+</mo> <mn>1</mn> <mo stretchy=\"false\">)</mo> </mrow><mn>6</mn>&#160;</mfrac></math></p><p>Hierbij is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi>&#160;</math>het aantal lagen.</p><p><br>Zoals je op de foto kunt zien, worden de lagen vanaf de onderkant opgebouwd.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De formule <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi> <mrow data-mjx-texclass=\"ORD\"><mi>n</mi> </mrow></msub><mo>=</mo> <mfrac><mrow><mi>n</mi> <mo stretchy=\"false\">(</mo> <mi>n</mi> <mo>+</mo> <mn>1</mn> <mo stretchy=\"false\">)</mo> <mo stretchy=\"false\">(</mo> <mn>2</mn> <mi>n</mi> <mo>+</mo> <mn>1</mn> <mo stretchy=\"false\">)</mo> </mrow><mn>6</mn>&#160;</mfrac></math>kan herleid worden tot de vorm <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi> <mrow data-mjx-texclass=\"ORD\"><mi>n</mi> </mrow></msub><mo>=</mo> <mi>a</mi> <msup><mi>n</mi> <mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msup><mo>+</mo> <mi>b</mi> <msup><mi>n</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>+</mo> <mi>c</mi> <mi>n</mi>&#160;</math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2022_I_uitwerkbijla_88029eac1d9f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e2af97078af344c6a48ef1f748b398b8.pdf"
+    }
+  ]
+}

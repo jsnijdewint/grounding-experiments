@@ -1,0 +1,46 @@
+{
+  "id": "havo_nederlands_2022_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wat is uiteindelijk het doel van fantasie volgens Marjan Slob, gelet op alinea 3 tot en met 5?</p><p><strong>A </strong>het creëren van een parallelle wereld</p><p><strong>B </strong>het herbeleven van fijne situaties</p><p><strong>C</strong> het voorstellen hoe iets in het echt zal gaan</p><p><strong>D </strong>het zorgen dat fouten voorkomen worden</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>“Dat zette haar [Marjan Slob] aan tot het schrijven van het boek Foute fantasieën” (regels 14-16)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2022_I_bijlage_92799e4db006.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a400249c9526410d9001698a4ae56d34.pdf"
+    }
+  ]
+}

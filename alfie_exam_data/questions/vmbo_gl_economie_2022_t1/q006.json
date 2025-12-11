@@ -1,0 +1,56 @@
+{
+  "id": "vmbo_gl_economie_2022_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 123,
+          "name": "Consumptie",
+          "prefix_code": "EC/K/4A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zij zijn tevreden over de verwachte opbrengst van de panelen. \"Deze investering is naar verwachting zelfs in ruim 10 jaar terugverdiend. Misschien kan dat nog wel korter worden.\"<br>In welk geval kan de terugverdientijd van een zonnepaneel korter worden?<br>A als de levensduur van een zonnepaneel toeneemt<br>B als de prijs van een kWh stijgt<br>C als de reparatiekosten van een paneel stijgen</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 1 en 2 in de bijlage.</p><p>Munir en Nellie hebben in de loop van de jaren een mooi bedrag gespaard. De rente bij de spaarbank is de laatste jaren erg laag. \"Het spaargeld levert te weinig op\", zegt Munir. \"Wij willen met dit geld een hogere opbrengst bereiken.\"</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>\"Kunnen we ons spaargeld niet beter beleggen in aandelen?\", vraagt Nellie. \"Ik ken een bedrijf dat zonnepanelen produceert, SolProducts nv. De winst bij verkoop van dit aandeel (de koerswinst) had ons meer opgeleverd dan de 0,1% rente bij de spaarbank.\"</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Munir twijfelt, want beleggen in aandelen is altijd risicovol. \"We kunnen die zonnepanelen van SolProducts natuurlijk ook zelf kopen, een soort 'investering' in ons eigen huis\", zegt Nellie.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_ef2c1b8354d0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dc02323a63d64258a36e6a9729a51c74.pdf"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "vwo_economie_2021_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 18,
+          "name": "Markt",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bepaal met een berekening hoelang de concessieperiode minimaal moet zijn voordat het rijden met elektrische bussen goedkoper is dan met dieselbussen.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In een grote stad wil het gemeentebestuur dat dieselbussen vervangen worden door elektrische bussen. Op die manier kan de milieudruk in de binnenstad worden verlaagd. Er ligt een voorstel op tafel om één van de bestaande busondernemingen een concessie (vergunning met uitsluiting van andere ondernemingen) te verlenen voor een periode van vijf jaar om met elektrische bussen te gaan rijden. Busondernemingen geven aan dat met het oog op het verschil in kosten tussen een elektrische bus en een dieselbus deze concessieperiode niet lang genoeg is.</p><p>De variabele kosten per kilometer zijn voor een elektrische bus weliswaar lager dan voor een dieselbus, maar de aanschafprijs van een elektrische bus ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>500.000</mn>&#160;</math> ) is veel hoger dan van een dieselbus ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>340.000</mn>&#160;</math> ). De aanschafprijs wordt hier gezien als constante kosten. Er wordt afgezien van de mogelijkheid om de bussen na de concessieperiode door te verkopen. Naar verwachting wordt er 60.000 kilometer per jaar per bus gereden. Figuur 1 laat het verloop van de kosten van beide typen bussen zien.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_e7c92960c021.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/42361cd9a310474f963af55e9ba4d369.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

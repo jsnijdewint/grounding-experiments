@@ -1,0 +1,99 @@
+{
+  "id": "havo_biologie_2022_t1_q42",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat dit functioneel is bij de voedingswijze van gieren.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In Afrika is de populatiegrootte van de meeste gierensoorten in vijftig jaar met meer dan tachtig procent afgenomen. Belangrijkste oorzaak is de mens, die de vogels bejaagt en vergiftigt. De afname heeft gevolgen voor de ecosystemen waarvan de vogels deel uitmaken.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gieren zoals de witruggier (afbeelding 1) zijn aaseters. Ze scheuren het lichaam van een dood dier (kadaver) open, steken hun kop in het lichaam en vreten de ingewanden, spieren, pezen, huid en zelfs de botten op. Het eten van kadavers is riskant. Kadavers zijn broedplaatsen van bacteriën die infectieziekten kunnen veroorzaken.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_9d288dd22f8b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7bcaa0d5e91d4932b19ec911f7a50e7b.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Gieren en bacterièn die van het kadaver leven, spelen een rol in de kringloop van stoffen. In afbeelding 2 is een kringloop van stoffen vereenvoudigd weergegeven.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_7a96ffce4342.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f67dd9dfa1fc4e12b71d4a9e937b0add.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In de genummerde vakken van afbeelding 2 ontbreken de woorden consumenten, producenten en reducenten.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Een witruggier heeft een kale kop. Sommige biologen denken dat dit een aanpassing is aan hun manier van voeden.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Andere biologen denken dat de kale kop dient voor temperatuurregulatie. Gieren kunnen namelijk niet zweten, waardoor de temperatuur van de romp te hoog zou kunnen worden.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Gieren hebben maagzuur met een extreem lage pH .</p>"
+    }
+  ],
+  "bijlages": []
+}

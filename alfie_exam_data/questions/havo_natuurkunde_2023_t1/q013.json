@@ -1,0 +1,58 @@
+{
+  "id": "havo_natuurkunde_2023_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 136,
+          "name": "Zonnestelsel en heelal",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wat is het belangrijkste voordeel van een ruimtetelescoop ten opzichte van een telescoop op aarde?<br><strong>A </strong>Een ruimtetelescoop heeft geen last van de atmosfeer van de aarde.<br><strong>B </strong>Een ruimtetelescoop kan naast zichtbaar licht ook radiogolven waarnemen.<br><strong>C </strong>Een ruimtetelescoop staat dichter bij de sterren.<br><strong>D </strong>Op een ruimtetelescoop werkt geen zwaartekracht.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Sinds de uitvinding van de telescoop hebben sterrenkundigen steeds meer ontdekt over de sterrenhemel. Een bekende telescoop is de Hubble telescoop. Zie figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_c43788c85d18.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b23d4ca5f1364782b065b6a20a2a9920.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De Hubble is een ruimtetelescoop.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2023_I_uitwerkbijl_b84551b8ec5a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2016336bf8d54298886022aa1e155445.pdf"
+    }
+  ]
+}

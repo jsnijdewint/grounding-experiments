@@ -1,0 +1,66 @@
+{
+  "id": "vwo_nederlands_2023_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 53,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Hoe kunnen wij volgens tekst 2 deze betrokkenheid tonen?</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>“We kunnen eigenlijk niet anders dan concluderen dat we met al onze reizen de wereld om zeep helpen.” (regels 14-17) In alinea 1 wordt dit standpunt met de volgende drie argumenten onderbouwd:</p><p>1 CO2 compenseren kan niet.</p><p>2 Het reizen met vliegtuigen veroorzaakt grote schade.</p><p>3 Er is geen noemenswaardig alternatief.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In alinea 4 is sprake van een redenering.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>“Die mogelijkheden … kunnen gelden?” (regels 85-97) Dit tekstgedeelte is te lezen als een impliciete redenering die bestaat uit een standpunt, een hoofdargument en een subargument.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“Als voorbeeld: denkt u dat we twintig jaar geleden hadden kunnen bevroeden dat er vandaag de dag wereldwijd 1,3 miljoen elektrische auto’s rond zouden rijden?” (regels 91-95)</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>“De wereld heeft onze betrokkenheid nodig.” (regels 103-104)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_3bc847d5f78a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d2f0029264294831adce4d30ca84cbc0.pdf"
+    }
+  ]
+}

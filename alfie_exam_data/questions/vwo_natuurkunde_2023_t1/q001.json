@@ -1,0 +1,99 @@
+{
+  "id": "vwo_natuurkunde_2023_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 46,
+          "name": "Kracht en beweging",
+          "prefix_code": 1
+        },
+        {
+          "id": 47,
+          "name": "Energie en wisselwerking",
+          "prefix_code": 2
+        },
+        {
+          "id": 48,
+          "name": "Gravitatie",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bepaal met behulp van de figuur op de uitwerkbijlage de afstand die de langlaufer aflegt in één bewegingscyclus. Noteer je antwoord in twee significante cijfers.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Langlaufen is een wintersport waarbij een langlaufer vooruitkomt op ski’s door zich af te zetten tegen een besneeuwde ondergrond. Bij de klassieke stijl moet de langlaufer gedurende de hele beweging zijn beide ski’s evenwijdig aan elkaar houden, zodat ze in de twee gleuven in de sneeuw, de loipe, blijven. Zie figuur 1. Binnen de klassieke stijl zijn twee verschillende technieken mogelijk: de dubbelstoktechniek (figuur 1) en de diagonaalpastechniek (figuur 2).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_9e5edbbd419e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6ccee080003b4f64b8c42c2d6d440687.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Dubbelstoktechniek Bij de dubbelstoktechniek is het mogelijk om in korte tijd een hoge snelheid te ontwikkelen. De langlaufer gebruikt dan alleen de twee skistokken om zichzelf vooruit te duwen, terwijl beide ski’s naast elkaar blijven. In figuur 3 is één bewegingscyclus van de dubbelstoktechniek schematisch weergegeven in vier plaatjes</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_a11d5309746a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0340d0158622413782c846d14ea109e3.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_1974f1a7a385.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/25e86c5dd0114570b307e39046923296.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Met behulp van videometen is de beweging van een langlaufer met de dubbelstoktechniek vastgelegd. In figuur 4 staat een klein gedeelte van deze beweging afgebeeld. De figuur toont iets meer dan één volledige bewegingscyclus.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_f0408808e5dd.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fb8c833fc46b4146a611c964f181e0b1.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Figuur 4 staat ook op de uitwerkbijlage</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2023_I_uitwerkbijl_dcb32a1b5377.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e8c6f0ebe587432bb96bfde82bed13ab.pdf"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "vwo_wiskunde_a_2024_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 78,
+          "name": "Standaardfuncties",
+          "prefix_code": 1
+        },
+        {
+          "id": 79,
+          "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Onderzoek wat het maximale verschil is tussen de manieren waarop Manus en Jan Willem de waterstand benaderen. Geef je antwoord in hele millimeters.</p>",
+    "max_score": 9,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Getij ontstaat door de aantrekkingskracht die de zon en de maan hebben op het zeewater. De zeewaterstand gaat hierdoor afwisselend omhoog en omlaag. Er zijn verschillende manieren om deze waterstand te benaderen.</p><p>Manus en Jan Willem bepalen bij Nes op Ameland de waterstanden bij laag- en hoogwater. Bij laagwater is de waterstand –123 centimeter ten opzichte van NAP (Normaal Amsterdams Peil). Zes uur later is het hoogwater, en de waterstand is dan +87 centimeter ten opzichte van NAP. Manus benadert de waterstand tussen de tijdstippen van laag- en hoogwater met een sinusfunctie en Jan Willem benadert de waterstand met de twaalfdelenregel</p><p>&nbsp;Bij de <strong>twaalfdelenregel </strong>wordt de waterstand benaderd door lijnstukken (delen van een rechte lijn) met elkaar te verbinden. De tijd tussen laag- en hoogwater wordt in zes gelijke delen verdeeld. Beginnend op het tijdstip van laagwater gaat de verandering van de waterstand bij de twaalfdelenregel als volgt:&nbsp;</p><p>- Gedurende het eerste, tweede en derde deel stijgt de waterstand respectievelijk 1/6, 2/6 en 3/6 deel van de amplitude. - Gedurende het vierde, vijfde en zesde deel stijgt de waterstand respectievelijk 3/6, 2/6 en 1/6 deel van de amplitude.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_3fa3c9c68ce8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e3c280d40ddc46658bc3de1bc5c9db23.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de figuur zijn de benaderingen van de waterstanden met de twaalfdelenregel en de sinusfunctie weergegeven met respectievelijk een doorgetrokken en een gestippelde kromme. Deze figuur staat vergroot op de uitwerkbijlage. Het grootste verschil tussen beide benaderingen treedt op vlak voor en vlak na laagwater en vlak voor en vlak na hoogwater.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde A 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2024_I_uitwerkbijla_10eda6c4e39f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0fd4a0d092ea4f26ae0c6203b7f1dbf1.pdf"
+    },
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_50ee8ab18ba5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d7f2659ec4da481880d7347b05791af4.pdf"
+    }
+  ]
+}

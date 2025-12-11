@@ -1,0 +1,56 @@
+{
+  "id": "vwo_bedrijfseconomie_2023_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 13,
+          "name": "Vastleggen van financiële en niet financiële informatie",
+          "prefix_code": 1
+        },
+        {
+          "id": 14,
+          "name": "Kosten- en winstvraagstukken",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit waarom de overheid alleen een subsidie verstrekte voor compensatie van constante kosten en niet voor de variabele kosten.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In deze opgave wordt de btw buiten beschouwing gelaten.<br><br>Bij Restaurant Chez Martine kan de gast in een gezellige omgeving dineren. Over het vierde kwartaal van 2019 zijn voor Restaurant Chez Martine de constante kosten gemiddeld <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>35.000</mn>&#160;</math> per maand.</p><p>Een jaar later, in het vierde kwartaal van 2020, waren de restaurants grotendeels gesloten vanwege overheidsmaatregelingen ter bestrijding van Covid-19. Er mochten alleen nog diners worden afgehaald en bezorgd. Het doel van de overheid tijdens de coronacrisis was om bedrijven overeind te houden door een subsidie te verstrekken.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2023_I_bijlag_d64fcf93e008.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2763f88cc19e45ebafaa21f3ba086d88.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2023_I_uitwer_9a6536b72e12.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a2433ed1fec3429b8d8cd024f74ceb08.pdf"
+    }
+  ]
+}

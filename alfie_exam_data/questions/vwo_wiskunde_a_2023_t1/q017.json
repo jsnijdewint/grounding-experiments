@@ -1,0 +1,102 @@
+{
+  "id": "vwo_wiskunde_a_2023_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 76,
+          "name": "Algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 77,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef deze herleiding. Geef <i>b</i> in gehelen en <i>g</i> in drie decimalen.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De Vlinderstichting in Nederland houdt jaarlijks vlindertellingen. Het totaal aantal vlinders is in de periode 1992–2017 met 40% afgenomen. Hierbij vermoedt men een exponentiële trend.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De heivlinder is een van de vlindersoorten waarvan het aantal sterk is gedaald. Zie figuur 1.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_ce75ad190610.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5bbf55429d3943b4b0762eecc8928341.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_e03c635daee1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/daaecf3d5e784f179a5172a98b47d3a2.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In figuur 1 is op de verticale as een logaritmische schaalverdeling gebruikt. Op deze as is niet het aantal heivlinders maar de <strong>populatie-index</strong> weergegeven. Deze index geeft het percentage heivlinders aan ten opzichte van het totaal aantal heivlinders in 1992. De populatie-index van het jaar 1992 is dus 100. In 1995 is de populatie-index weer (ongeveer) 100. Met andere woorden: in 1995 waren er (ongeveer) evenveel heivlinders als in 1992.</p><p>&nbsp;</p><p>Nadat het aantal heivlinders vanaf 2003 stabiel leek en zich in de periode 2011–2013 zelfs wat leek te herstellen, was 2017 weer een rampjaar voor de heivlinder.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In figuur 2 zie je dezelfde grafiek als in figuur 1 maar nu is een trendlijn toegevoegd.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_f0a50e4d33f1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/800281d3646f4fdaadcec70adfc97fdf.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>De trendlijn in figuur 2 hoort bij een exponentieel model voor de afname van de populatie-index. De trendlijn kan worden beschreven met de volgende formule:&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>log</mi>\r\n  <mo data-mjx-texclass=\"NONE\">&#8289;</mo>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>P</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo>=</mo>\r\n  <mo>&#8722;</mo>\r\n  <mn>0</mn>\r\n  <mo>,</mo>\r\n  <mn>026</mn>\r\n  <mi>t</mi>\r\n  <mo>+</mo>\r\n  <mn>1</mn>\r\n  <mo>,</mo>\r\n  <mn>8</mn>\r\n</math></p><p>Hierin is <i>P</i> de populatie-index en is <i>t</i> het aantal jaren na 1992.</p><p>&nbsp;</p><p>Als de trend zich op dezelfde manier blijft doorzetten, zal het aantal getelde heivlinders in een gegeven jaar minder dan 2% zijn van het aantal getelde heivlinders in 1992.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>De formule <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>log</mi>\r\n  <mo data-mjx-texclass=\"NONE\">&#8289;</mo>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>P</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo>=</mo>\r\n  <mo>&#8722;</mo>\r\n  <mn>0</mn>\r\n  <mo>,</mo>\r\n  <mn>026</mn>\r\n  <mi>t</mi>\r\n  <mo>+</mo>\r\n  <mn>1</mn>\r\n  <mo>,</mo>\r\n  <mn>8</mn>\r\n</math> kan worden herleid tot een formule van de vorm <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>P</mi>\r\n  <mo>=</mo>\r\n  <mi>b</mi>\r\n  <mo>&#8901;</mo>\r\n  <msup>\r\n    <mi>g</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi>t</mi>\r\n    </mrow>\r\n  </msup>\r\n</math> waarmee de populatie-index in een bepaald jaar in één keer kan worden berekend.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_c4a05812e0a8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cf1c75f3e6924743b07261120dad2f9b.pdf"
+    },
+    {
+      "name": "Wiskunde A 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2023_I_uitwerkbijla_a9d84112fbc1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fc5ba2ce845c4c85ae53d81485ef9507.pdf"
+    }
+  ]
+}

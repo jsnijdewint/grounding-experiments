@@ -1,0 +1,46 @@
+{
+  "id": "vmbo_gl_economie_2022_t1_q25",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 124,
+          "name": "Arbeid en productie",
+          "prefix_code": "EC/K/5A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noem een voordeel van een vof ten opzichte van een eenmanszaak.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 6 in de bijlage.<br>Youri Storm is eigenaar van een bedrijf dat intelligente, computergestuurde grasmaaiers (CG's) produceert.<br>Zijn zus Marisa wordt binnenkort mede-eigenaar. De eenmanszaak zou dan een vennootschap onder firma worden, de vof Storm.</p><p>&nbsp;</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_ef2c1b8354d0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dc02323a63d64258a36e6a9729a51c74.pdf"
+    }
+  ]
+}

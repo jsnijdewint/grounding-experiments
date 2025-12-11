@@ -1,0 +1,65 @@
+{
+  "id": "vwo_natuurkunde_2022_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 51,
+          "name": "Elektromagnetische straling en materie",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit waarom gekozen is voor violet licht in plaats van een andere kleur uit het zichtbare spectrum.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In het scherm van een Qled-tv valt violet licht afkomstig uit leds op een laagje met quantumdots. Quantum-dots zijn kleine bolletjes met afmetingen variërend van 1 tot 20 nm , gemaakt van een speciaal materiaal. In figuur 1 staat een artist's impression van één quantum-dot (opgebouwd uit atomen). De quantum-dots absorberen het violette licht waarmee ze bestraald worden en zenden daarna zelf licht uit met een andere kleur dan violet.<br>Voor de werking van een Qled-tv zijn quantumdots nodig die blauw, groen of rood licht uitzenden. De kleur van het uitgezonden licht hangt af van de grootte van de quantum-dot. Zie figuur 2.<br>figuur 1屋</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_de69f7474d7f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5da728de309248a0b9cb9adfb4933648.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_bc7b183fb0e8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/12624f477c9d40b5804bde785185d96a.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De quantum-dots in een Qled-tv worden met violet licht bestraald.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2022_I_uitwerkbijl_9a4d39873fbe.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cfd906bcef9d47ec9c94427a551f4b61.pdf"
+    }
+  ]
+}

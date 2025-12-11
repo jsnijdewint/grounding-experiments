@@ -1,0 +1,68 @@
+{
+  "id": "vwo_wiskunde_b_2023_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 47,
+          "name": "Differentiaal- en integraalrekening",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de inhoud van het omwentelingslichaam dat zo ontstaat. Geef je eindantwoord in twee decimalen.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De functie <i>f</i> wordt voor <i>x</i> &gt; 0 gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>f</mi>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>x</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo>=</mo>\r\n  <mn>2</mn>\r\n  <mi>x</mi>\r\n  <mo>+</mo>\r\n  <mfrac>\r\n    <mn>1</mn>\r\n    <mi>x</mi>\r\n  </mfrac>\r\n</math>.</p><p>&nbsp;</p><p>De functie <i>f</i> heeft een minimum</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Lijn <i>k</i> is de scheve asymptoot van de grafiek van <i>f</i>. Het vlakdeel <i>V</i> wordt ingesloten door de grafiek van <i>f</i>, lijn <i>k </i>en de lijnen met vergelijking <i>x</i> = <i>a</i> en <i>x</i> = 2<i>a</i> met <i>a</i> &gt; 0 . In de figuur is dit vlakdeel voor een zekere waarde van <i>a</i> grijsgemaakt.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_ce58b2f1410e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/723bbc48730745b0bf630fdb886e0a71.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De oppervlakte van dit vlakdeel is onafhankelijk van de waarde van <i>a</i>.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Verder is gegeven de lijn met vergelijking <i>y</i> = 3. Deze lijn en de grafiek van <i>f</i> sluiten een vlakdeel <i>W</i> in dat wordt gewenteld om de lijn met vergelijking <i>y</i> = 3.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_b_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_b_formules_84daf09e2c5a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1ca38286256f423c923a34eb38578ea3.pdf"
+    }
+  ]
+}

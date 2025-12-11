@@ -1,0 +1,84 @@
+{
+  "id": "vwo_biologie_2023_t1_q19",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 36,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 37,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 38,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Langdurig hoge koorts is schadelijk voor het lichaam.&nbsp;<br><br>Verklaar hoe hoge koorts leidt tot celschade.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Australische wetenschappers hebben onderzocht hoe cellen tegengaan dat schade optreedt door koorts.</p><p>Als bij de mens de lichaamstemperatuur (kerntemperatuur) ten gevolge van een infectie boven <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>38</mn> <mo>,</mo> <msup><mn>3</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math> stijgt, wordt dat koorts genoemd. Koorts begint met een verhoging van de normtemperatuur in de hypothalamus. Die verhoging kan worden veroorzaakt door macrofagen als zij in reactie op ziekteverwekkers bepaalde stoffen (pyrogenen) afgeven. Een voorbeeld van zo'n pyrogeen is interleukine-1 (IL-1).</p><p><p>Afbeelding 1 laat zien hoe IL- 1 in de hypothalamus een reactie in de temperatuurgevoelige neuronen veroorzaakt.</p></p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_679150297409.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1a0db5f8b8d44103b652033a69c35f16.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Over de rol van de stoffen in de celcommunicatie in afbeelding 1 worden de volgende uitspraken gedaan:<br>1 Activatie van IRAK en MyD88 zet een signaalcascade in gang.<br>2 Arachidonzuur is het substraat van cyclo-oxygenase.<br>3 PGE2 is een second messenger.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De stijging van de temperatuur bij koorts en de daling na afloop zijn schematisch weergegeven in afbeelding 2. Twee perioden zijn aangegeven met de letters a en b. Op twee tijdstippen, aangegeven met pijltjes, treden veranderingen op in de instelling van de normtemperatuur in de hypothalamus.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_910a07af4237.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5346598066a84e9693d6f1a71e134be6.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In de perioden a en b vinden processen plaats die de kerntemperatuur beïnvloeden:<br>1 toename van de zweetproductie<br>2 verhoogde afgifte van schildklierhormoon<br>3 verwijding van de bloedvaten van de huid</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Enkele effecten van koorts zijn:<br>1 toename van de differentiatie van cytotoxische T-cellen<br>2 verhoging van de activiteit van fagocyten<br>3 verhoging van de activiteit van natural-killercellen (NK-cellen)<br>4 verhoging van de productie van antistoffen</p>"
+    }
+  ],
+  "bijlages": []
+}

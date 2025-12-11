@@ -1,0 +1,36 @@
+{
+  "id": "vmbo_gl_aardrijkskunde_2024_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "aardrijkskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 71,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bekijk bron 19.<br>De zomer van 2022 was uitzonderlijk droog, waardoor de waterstand in de Maas en de Rijn erg laag was.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Noem een nadeel van de lage waterstand voor de scheepvaart.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Noem een nadeel van de lage waterstand voor de landbouw.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_f103afd09332.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f5673dc46db3461a8af6deb58075078a.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

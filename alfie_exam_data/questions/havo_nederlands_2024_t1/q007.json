@@ -1,0 +1,66 @@
+{
+  "id": "havo_nederlands_2024_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke twee uitspraken zijn in overeenstemming met de informatie in tekst 1? Noteer alleen de nummers van die twee uitspraken.</p><p>1 De mens is mentaal sterk genoeg om afleidingen in de digitale samenleving te weerstaan en ons brein heeft daarom geen training nodig.</p><p>2 De snelle digitale ontwikkelingen in onze samenleving zorgen ervoor dat ons brein oppervlakkiger gaat functioneren.</p><p>3 Mensen weten in theorie wel hoe ze met de toegenomen informatie moeten omgaan, maar zwichten in de praktijk toch steeds voor afleidende prikkels.</p><p>4 Het menselijk brein wordt in de digitale samenleving zwaarder belast, maar de werking ervan is niet veranderd.</p><p>5 Hoewel er nog geen hard bewijs voor is, zijn er sterke signalen dat de vele digitale informatietoepassingen onze creativiteit en intelligentie aantasten.</p><p>6 Ons brein is dermate gevoelig voor afleiding dat multitasken een inefficiënte manier van werken is.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Volgens tekst 1 bevinden we ons in een “aandachtscrisis” (regels 6-7).</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“Eén moment van mentale zwakheid of verveling en de mobiele telefoon komt tevoorschijn.” (regels 15-18) Naast mentale zwakheid en verveling worden nog andere oorzaken voor de aandachtscrisis genoemd in alinea 1 en 2.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In alinea 4 en 5 worden een situatie, het gevolg daarvan, het ontstane probleem en een oplossing beschreven.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De afleiding bij het werken in een kantoortuin heeft volgens alinea 6 en 7 nadelige gevolgen, voor het bedrijf of de werknemer.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Hieronder staan zes uitspraken over de verhouding van de mens tot digitale ontwikkelingen</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_fba5d5bcdd9a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e64529d1393448beb9499f8bd4fb3aaa.pdf"
+    }
+  ]
+}

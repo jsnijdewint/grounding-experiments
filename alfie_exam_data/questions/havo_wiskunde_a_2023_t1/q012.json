@@ -1,0 +1,100 @@
+{
+  "id": "havo_wiskunde_a_2023_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 181,
+          "name": "Presentaties van data interpreteren en beoordelen",
+          "prefix_code": 1
+        },
+        {
+          "id": 182,
+          "name": "Data verwerken",
+          "prefix_code": 2
+        },
+        {
+          "id": 183,
+          "name": "Data en verdelingen",
+          "prefix_code": 3
+        },
+        {
+          "id": 184,
+          "name": "Statistische uitspraken doen",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Onderzoek of deze twee 95%-betrouwbaarheidsintervallen elkaar overlappen.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_31e0754137da.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e3a54e91c0274fffb9db069ed584e0b9.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Het lijkt erop dat een aanzienlijk deel van de jongeren in Nederland te weinig beweegt. Het onderzoek 'Health Behaviour in School-aged Children' dat sinds 1985 uitgevoerd wordt, bevat informatie over het beweeggedrag van jongeren in Nederland. Deze opgave gaat over het deel van dit onderzoek dat betrekking heeft op jongeren in het reguliere voortgezet onderwijs in de eerste vier leerjaren. Deze groep beschouwen we in deze opgave als de onderzoekspopulatie. Aan het onderzoek deden 67 scholen mee. We nemen aan dat deze groep scholen een aselecte en representatieve steekproef vormt uit alle scholen voor regulier voortgezet onderwijs.</p><p>Onder de deelnemende scholen waren er scholen met een groot aantal klassen en scholen met een klein aantal klassen. De onderzoekers kregen van deze scholen een lijst van alle klassen van de eerste vier leerjaren. Uit elke lijst trokken de onderzoekers vervolgens aselect uit elk leerjaar één klas. Alle leerlingen uit die getrokken klassen deden mee aan het onderzoek.</p><p>De leerlingen die op deze manier in de steekproef terecht zouden komen, vormen <strong>geen </strong>aselecte steekproef uit de onderzoekspopulatie.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De onderzoekers hebben het bovengenoemde probleem uiteindelijk opgelost. In de rest van de opgave nemen we aan dat de steekproef aselect en representatief is.</p><p>Aan de leerlingen zijn onder andere de volgende vragen over bewegen gesteld:</p><ul><li>Doe je minstens twee keer per week aan sport of speel je minstens twee keer per week buiten?</li><li>Ben je lid van een sportclub?</li><li>Op hoeveel dagen van de afgelopen zeven dagen was je ten minste één uur per dag bezig met lichaamsbeweging?</li></ul>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Van de leerlingen waren een aantal kenmerken bekend, zoals:</p><ul><li>geslacht (meisje, jongen)</li><li>schoolniveau (vmbo, havo, vwo)</li><li>gezinswelvaart (laag, midden, hoog)</li></ul><p>De drie genoemde kenmerken zijn kwalitatieve variabelen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In tabel 1 is te zien hoeveel meisjes en hoeveel jongens aan het onderzoek deelnamen. Ook is te zien hoeveel procent van de meisjes en hoeveel procent van de jongens minstens twee keer per week sport of buiten speelt.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_a95d250b95ae.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/712d8b11300148ef85cf6853b319f613.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Je kunt nu het 95%-betrouwbaarheidsinterval berekenen voor de populatieproportie van het aantal meisjes dat minstens twee keer per week sport of buiten speelt. Hetzelfde kun je doen voor de jongens.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_4d920bc20d74.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7821571e97b2424c93d593bf5c1c1549.pdf"
+    },
+    {
+      "name": "Wiskunde A 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2023_I_uitwerkbijla_f478d7116e2f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/005ba0b28db44fed93da1d9c9f1c636a.pdf"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "vwo_scheikunde_2023_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de massa in gram pyrodruivenzuur die maximaal per liter is ontstaan als het gehalte zuurstof in de bioreactor 44,2 g <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">m</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8722;</mo>\r\n      <mn>3</mn>\r\n    </mrow>\r\n  </msup>\r\n</math> bedraagt. De molaire massa van pyrodruivenzuur bedraagt 88,1 g <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">mol</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8722;</mo>\r\n      <mn>1</mn>\r\n    </mrow>\r\n  </msup>\r\n</math>.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>n het project Algaeparc van Wageningen University &amp; Research wordt onderzoek gedaan naar de productie van biodiesel uit algenolie. Algenolie is een mengsel van triglyceriden, dat in een aantal stappen in de algen wordt gevormd:</p><p>– Door fotosynthese ontstaat eerst glucose, waarbij tevens zuurstof ontstaat.</p><p>– Glucose wordt vervolgens met een deel van deze zuurstof volledig omgezet tot pyrodruivenzuur (<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">C</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>3</mn>\r\n    </mrow>\r\n  </msub>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">H</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>4</mn>\r\n    </mrow>\r\n  </msub>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">O</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>3</mn>\r\n    </mrow>\r\n  </msub>\r\n</math>) en water.</p><p>– Pyrodruivenzuur wordt ten slotte omgezet tot algenolie.&nbsp;</p><p>&nbsp;</p><p>Uit het onderzoek bleek onder andere dat de algengroei wordt geremd door de ontstane zuurstof. Bij een bepaalde algensoort neemt de vorming van algenolie sterk af als het gehalte zuurstof, dat na de omzettingen is overgebleven in de bioreactor, hoger is dan 44,2 g <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">m</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8722;</mo>\r\n      <mn>3</mn>\r\n    </mrow>\r\n  </msup>\r\n</math>. De algen groeien in een buisvormige bioreactor die afgesloten is van de buitenlucht.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2023_I_uitwerkbijla_fef9b863f829.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9a46ef7a7642413db915d3023305e22a.pdf"
+    }
+  ]
+}

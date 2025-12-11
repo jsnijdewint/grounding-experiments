@@ -1,0 +1,82 @@
+{
+  "id": "havo_wiskunde_a_2024_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [
+        {
+          "id": 98,
+          "name": "Verbanden",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bepaal door te tekenen in de figuur op de uitwerkbijlage hoeveel minuten de totale oplaadtijd in dat geval zou zijn. Geef je antwoord in hele minuten.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Op de foto zie je een telefoon waarvan het batterijpercentage 73% is. Daarmee wordt bedoeld dat de batterij van de telefoon voor 73% is opgeladen. Wanneer het batterijpercentage van een telefoon lager is dan 100%, kan de telefoon worden opgeladen met behulp van een oplader. Zo’n oplader levert een bepaald vermogen in watt (W). Welk vermogen op een bepaald moment door de oplader wordt geleverd, hangt af van het type telefoon en het batterijpercentage dat de telefoon op dat moment heeft.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_ecd869c01237.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a1a52bd40cee44fba1616de8ca0dbf7b.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de figuren 1 en 2 zie je de grafieken die horen bij twee types telefoons (PRO 5 en PRO 6). Op de horizontale as staat de tijd vanaf het moment dat de lege telefoon aan de oplader gelegd wordt.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_aabcd379e93c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d859500c720944f6b42cfc95135f0cb5.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_d55a7474ee1a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/11a4b213cce74d508b274330f4159f59.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Op de uitwerkbijlage is figuur 1 vergroot afgebeeld, waarbij de doorgetrokken grafiek en de bijbehorende linkeras zijn weggelaten. Het batterijpercentage van de PRO 5 neemt in de eerste 30 minuten lineair toe. Als het batterijpercentage op dezelfde manier zou blijven toenemen, dan is de totale oplaadtijd (van 0 tot 100%) korter dan nu af te lezen is uit figuur 1.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde A 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2024_I_uitwerkbijla_f9ae22db2d27.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/803d0c79996043e4a0d7ab20f340aa91.pdf"
+    },
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_11e2f4336287.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/68b501e3c58045cc93dfc3658f67cc97.pdf"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "vwo_scheikunde_2024_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de lading in coulomb die in die periode gemiddeld per seconde is getransporteerd. Gebruik onder andere de volgende gegevens:&nbsp;</p><p>- Een mol elektronen heeft een lading van .<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>9</mn>\r\n  <mo>,</mo>\r\n  <mn>65</mn>\r\n  <mo>&#8901;</mo>\r\n  <msup>\r\n    <mn>10</mn>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>4</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi mathvariant=\"normal\">C</mi>\r\n  </mrow>\r\n</math>&nbsp;</p><p>- Een maand heeft gemiddeld 30 dagen</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Onderzoekers van de TU Delft hebben de battolyser ontwikkeld. De battolyser ontleent zijn naam aan twee functies: het is een oplaadbare batterij die kan worden gebruikt voor energieopslag en voor de elektrolyse van water. De vrijgekomen waterstof kan worden gebruikt als brandstof of als grondstof voor de productie van andere (brand)stoffen. In figuur 1 is de battolyser schematisch weergegeven voorafgaand aan het opladen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2389eabc8d50.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1c5acbc20dc440158f734d314f1c5cc7.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Als de batterij wordt opgeladen, wordt aan de linker elektrode ijzer(II)hydroxide omgezet tot onder andere ijzer. Aan de rechter elektrode wordt nikkel(II)hydroxide omgezet tot onder andere de vaste stof nikkel(III)oxidehydroxide, NiO(OH). De elektrolyt-oplossing is natronloog. Tijdens de elektrolyse bewegen alleen hydroxide-ionen door het membraan.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In een volledig opgeladen prototype van de battolyser werd 1,4 kg water gedurende 18 maanden geëlektrolyseerd. Per molecuul water dat wordt omgezet, worden twee elektronen getransporteerd. Neem aan dat tijdens dit proces alle toegevoerde lading is gebruikt voor de elektrolyse van water.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2024_I_uitwerkbijla_afd0d648d809.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a48af7b1aec24f97bcb1032e6d3b2773.pdf"
+    }
+  ]
+}

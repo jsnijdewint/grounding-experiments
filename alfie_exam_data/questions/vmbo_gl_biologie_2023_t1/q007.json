@@ -1,0 +1,53 @@
+{
+  "id": "vmbo_gl_biologie_2023_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 112,
+          "name": "Leervaardigheden in het vak biologie",
+          "prefix_code": "BI/K/3"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In de tabel hierboven zie je hoeveel baby’s er in 2016 in Nederland werden geboren en hoelang de zwangerschap duurde.<br><br> Hoeveel procent van deze baby’s is extreem vroeg geboren?</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een zwangerschap duurt gemiddeld 39 weken. Soms worden baby’s te vroeg of extreem vroeg geboren. Deze baby’s kunnen verschillende gezondheidsproblemen krijgen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_a3f413a05e51.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cc6bb9f1bcc0498f88ef40cbed550c32.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2023_I_uitwerkbijlage_4e0013036ef8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9a816268fb648d6bbff9679cf7f9a46.pdf"
+    }
+  ]
+}

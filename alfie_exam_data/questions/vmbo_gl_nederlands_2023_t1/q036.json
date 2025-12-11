@@ -1,0 +1,51 @@
+{
+  "id": "vmbo_gl_nederlands_2023_t1_q36",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 60,
+      "domains": [
+        {
+          "id": 158,
+          "name": "Schrijfvaardigheid",
+          "prefix_code": "NE/K/7"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p><strong>Opdracht</strong><br>Schrijf de e-mail naar mevrouw Annelies Jansen van de bibliotheek. Een aantal gegevens is al voorgedrukt in de uitwerkbijlage. Vermeld het onderwerp van je e-mail in de onderwerpregel. Gebruik voor deze e-mail de gegevens hierboven en eventueel de tekst 'De strijd van de bieb om de puber die niet lezen wil' en het bijbehorende tekstfragment. Gegevens die niet in de opdracht staan, moet je zelf bedenken.</p><p>Besteed in jouw e-mail aandacht aan de volgende punten:</p><ul><li>de aanleiding voor het schrijven van de e-mail: deelname ideeënwedstrijd;</li><li>jezelf voorstellen met naam en leeftijd;</li><li>een beschrijving van de discussie in de klas met minimaal twee verschillende meningen van leerlingen;</li><li>jouw mening over lezen;</li><li>twee ideeën om meer jongeren naar de bibliotheek te krijgen;</li><li>per idee een passend argument dat jouw idee ondersteunt;</li><li>wat je hoopt te bereiken met je e-mail;</li><li>geef aan dat je een reactie wenst.</li></ul><p>Sluit je e-mail af met 'Met vriendelijke groet,' of 'Hoogachtend,' en je eigen voor- en achternaam.</p><p>Let op: Zorg ervoor dat je tekst minimaal uit 100 woorden bestaat. Bij minder dan 100 woorden krijg je geen punten voor taalgebruik.</p>",
+    "max_score": 13,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de les Nederlands is besproken dat het lezen van verhalen en gedichten je kan helpen om je beter in anderen in te leven en om meer begrip voor elkaar op te brengen. Tijdens deze les hebben jullie de teksten 'De strijd van de bieb om de puber die niet lezen wil' en 'TikTok krijgt jong en oud weer aan het lezen via de hashtag #booktok' behandeld.</p><p>Er ontstaat een discussie in de klas over de leesmotivatie van jongeren en het bibliotheekbezoek van klasgenoten. Sommige klasgenoten vinden het onzin dat jongeren gemotiveerd moeten worden om de bibliotheek te bezoeken. Andere leerlingen zien er het nut juist wel van in, want zo ga je meer lezen en lezen blijkt goed te zijn voor jongeren.</p><p>De docent Nederlands vestigt jullie aandacht op de ideeënwedstrijd die de openbare bibliotheek in jullie woonplaats houdt. De bibliotheek wil namelijk dat jongeren vaker de bibliotheek bezoeken en daardoor meer gaan lezen. Deelnemers aan de wedstrijd moeten twee ideeën insturen om meer jongeren naar de bibliotheek te krijgen. Onder de beste ideeën wordt een iPad verloot met daarop tien e-books naar keuze.</p><p>Jij wilt graag een iPad winnen en besluit mee te doen aan deze wedstrijd. Je stuurt een e-mail naar de bibliotheek met jouw ideeën om meer jongeren naar de bibliotheek te krijgen. Je krijgt het e-mailadres van jouw docent.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_0713cd11b614.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fb589d755bd34bcc894e3d04ee63d4b1.pdf"
+    },
+    {
+      "name": "Nederlands 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_uitwerkbijla_89b91ec36c88.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b23062525a6d4570a8c70d6453f56bd9.pdf"
+    }
+  ]
+}

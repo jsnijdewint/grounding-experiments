@@ -1,0 +1,43 @@
+{
+  "id": "havo_scheikunde_2023_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:</p><ul><li>Geef de naam van het type kristalrooster van alpaca.</li><li>Geef een beschrijving van het kristalrooster van alpaca.</li></ul>",
+    "max_score": 3,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_a13830c77c39.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0f480d8346534e90828b27922f0a459c.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tom koopt een gedenkmuntje bij een dierentuin. Het muntje is gemaakt van alpaca, een legering van koper, nikkel en zink. Het materiaal wordt vanwege zijn luxe, zilverkleurige uitstraling ook wel nikkelzilver genoemd.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2023_I_uitwerkbijla_6848f9a012f7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a0eaf6b74f434738aac19ad6e9c16d2f.pdf"
+    }
+  ]
+}

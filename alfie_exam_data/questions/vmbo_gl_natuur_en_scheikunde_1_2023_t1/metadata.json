@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 85,
+    "education_level": "vmbo_gl",
+    "discipline": "natuur_en_scheikunde_1",
+    "year": 2023,
+    "tijdvak": 1
+  },
+  "question_count": 45
+}

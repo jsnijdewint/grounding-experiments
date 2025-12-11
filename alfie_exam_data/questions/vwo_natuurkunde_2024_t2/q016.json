@@ -1,0 +1,47 @@
+{
+  "id": "vwo_natuurkunde_2024_t2_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 2
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef de naam van het soort interferentie dat optreedt bij de pijl op het scherm in figuur 1.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een belangrijk principe in de quantumfysica is de golf-deeltjedualiteit. In deze opgave passen we dit dualiteitsprincipe toe op het dubbelspleetexperiment met licht. In dit experiment valt zichtbaar licht met één golflengte op twee smalle spleten en ontstaat op een scherm achter de spleten een interferentiepatroon van maxima en minima. Zie figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_307f6e164895.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/44a52be6a5814c8989e0eb681bddc7dd.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vw-1023-a-24-2-u-spr.pdf",
+      "media_path": "media/bijlages/vw-1023-a-24-2-u-spr_7f55e6f292ee.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/58df80d921a54e229db05fc1537c094b.pdf"
+    }
+  ]
+}

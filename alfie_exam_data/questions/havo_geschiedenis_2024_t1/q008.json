@@ -1,0 +1,51 @@
+{
+  "id": "havo_geschiedenis_2024_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "geschiedenis",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 29,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 199,
+          "name": "Tijdvak 7 – Pruiken en revoluties",
+          "prefix_code": 7
+        },
+        {
+          "id": 201,
+          "name": "Tijdvak 8 – Burgers en stoommachines",
+          "prefix_code": 8
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit, met een verwijzing naar het affiche, dat de Britse werkwijze op Jamaica de steun voor de afschaffing van slavernij in Groot-Brittannië versterkte.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 1832 werden honderden slaafgemaakten gedood tijdens het neerslaan van een slavenopstand op Jamaica. De Britse militair bevelhebber schreef in een affiche: \"Ik heb veel soldaten meegenomen om de schuldigen te straffen. Iedereen die bij de rebellen wordt aangetroffen zal zonder pardon ter dood worden gebracht. Verzet tegen de troepen van de koning is zinloos! Geef je over en smeek om genade.\"</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2024_I_bijlage_ca421fa87c76.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e819c55e9496484aac48d85b1c4cc890.pdf"
+    }
+  ]
+}

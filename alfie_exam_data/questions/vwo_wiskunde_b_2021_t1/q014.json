@@ -1,0 +1,58 @@
+{
+  "id": "vwo_wiskunde_b_2021_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 46,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken exact de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-coördinaat van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>P</mi> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-alternate=\"1\">&#8242;</mi>&#160;</mrow></msup></math>.</p>",
+    "max_score": 6,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De functie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>wordt gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mn>6</mn> <msqrt><mi>x</mi>&#160;</msqrt></math>.<br>Het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>is een punt op de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>rechts van de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-as. Zie de figuur.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_482b4531b6f4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1112c236c7144c0881e513627ae08d75.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de figuur is het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>zo gekozen dat er een punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>P</mi> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-alternate=\"1\">&#8242;</mi>&#160;</mrow></msup></math>bestaat met de volgende eigenschappen:</p><ul><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><msup><mi>P</mi> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-alternate=\"1\">&#8242;</mi>&#160;</mrow></msup></math>ligt op de negatieve <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as;</li><li>Lijnstuk <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi> <msup><mi>P</mi> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-alternate=\"1\">&#8242;</mi>&#160;</mrow></msup></math>heeft dezelfde lengte als lijnstuk <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi> <mi>P</mi>&#160;</math>;<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8722;</mo> <mi mathvariant=\"normal\">&#8736;</mi> <mi>P</mi> <mi>O</mi> <msup><mi>P</mi> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-alternate=\"1\">&#8242;</mi> </mrow></msup><mo>=</mo> <msup><mn>120</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo>&#160;</mrow></msup></math>.</li></ul>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_3a0824c1577f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c4b8e721c4c94202abb8ace2ac024907.pdf"
+    }
+  ]
+}

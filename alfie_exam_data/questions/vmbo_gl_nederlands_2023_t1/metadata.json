@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 88,
+    "education_level": "vmbo_gl",
+    "discipline": "nederlands",
+    "year": 2023,
+    "tijdvak": 1
+  },
+  "question_count": 36
+}

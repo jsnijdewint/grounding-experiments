@@ -1,0 +1,66 @@
+{
+  "id": "havo_aardrijkskunde_2022_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "aardrijkskunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 46,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 93,
+          "name": "Samenhangen en verschillen in de wereld",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beredeneer waarom China wel havens aangelegd heeft in de buurlanden van India, maar juist in India zelf niet.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Bij deze opgave horen de bronnen 1 en 2.</i></p><p><br>Europese landen zijn lange tijd de grootste investeerders in Afrika geweest. De laatste jaren investeert China steeds meer in Afrika.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><i>Gebruik de bronnen 1 en 2 en het kaartenkatern.</i></p><p><br>China heeft rondom de Indische Oceaan niet alleen havens, maar ook een marinebasis aangelegd. Deze marinebasis is in Djibouti aangelegd.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><i>Gebruik de bronnen 1 en 2.</i></p><p><br>De parelkettingstrategie van China heeft niet alleen betrekking op de economische dimensie, maar ook op de politieke dimensie.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 2.</i></p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2022_I_bijlage_782c0ac44adb.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8bb9ac59533e4060acee8bf226c73127.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2022 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2022_I_kaartenk_fad448d9d313.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9fba758e0ba449bda998b8165ed93023.pdf"
+    }
+  ]
+}

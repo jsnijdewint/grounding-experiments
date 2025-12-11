@@ -1,0 +1,40 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_2_2023_t1_q42",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_2",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 53,
+      "domains": [
+        {
+          "id": 150,
+          "name": "Water, zuren en basen",
+          "prefix_code": "NASK2/K/7"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Door welk type reactie ontstaat het koolstofdioxide (regels 8 en 9 )?<br><strong>A </strong>door een neerslagreactie<br><strong>B </strong>door een ontleding<br><strong>C</strong> door een verbranding<br><strong>D </strong>door een zuur-basereactie</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>1 &nbsp; &nbsp;Een docent maakt een opstelling voor een demonstratieproef.</p><p>2 &nbsp; &nbsp;In de erlenmeyer doet hij achtereenvolgens zoutzuur, een paar</p><p>3 &nbsp; &nbsp;druppels methyloranje en een klein schepje calciumcarbonaat.</p><p>4 &nbsp; &nbsp;Direct daarna sluit hij de erlenmeyer af met een kurk waar</p><p>5 &nbsp; &nbsp;een glasbuisje doorheen steekt met een slangetje eraan.</p><p>6 &nbsp; &nbsp;Het slangetje leidt naar een maatcilinder die helder</p><p>7 &nbsp; &nbsp;kalkwater bevat. Doordat in de erlenmeyer</p><p>8 &nbsp; &nbsp;calciumcarbonaat reageert met zoutzuur ontstaat</p><p>9 &nbsp; &nbsp;koolstofdioxide (reactie I). Dit gas reageert vervolgens</p><p>10 &nbsp;met de vloeistof in de maatcilinder (reactie II).</p>"
+    }
+  ],
+  "bijlages": []
+}

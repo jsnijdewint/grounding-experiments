@@ -1,0 +1,84 @@
+{
+  "id": "vwo_biologie_2023_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 30,
+          "name": "Eiwitsynthese",
+          "prefix_code": 1
+        },
+        {
+          "id": 31,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 32,
+          "name": "Zelforganisatie van cellen",
+          "prefix_code": 3
+        },
+        {
+          "id": 33,
+          "name": "Moleculaire en cellulaire interactie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Van welke situatie is sprake bij ophoping van melkzuur in spiercellen?<br>A Proces 1 vindt meer plaats dan 2 en 3.<br>B Processen 1 en 2 vinden meer plaats dan 3.<br>C Proces 2 vindt meer plaats dan 1 en 3.<br>D Processen 2 en 3 vinden meer plaats dan 1.<br>E Proces 3 vindt meer plaats dan 1 en 2 .</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 2018 deed olympisch zwemkampioen Maarten van der Weijden zijn eerste poging om de 200 kilometer lange Elfstedentocht te zwemmen om geld in te zamelen voor onderzoek naar de behandeling van kanker (afbeelding 1). Deze poging slaagde net niet, maar een jaar later lukte het wel.<br><br>Gedurende een intensieve trainingsperiode heeft Maarten zijn lichaam voorbereid op deze uitzonderlijke inspanning. Door de training is zijn maximale zuurstofopname vergroot. Dit is op weefselniveau te verklaren doordat de concentratie van rode bloedcellen in het bloed verhoogd is. Ook op andere organisatieniveaus zijn als gevolg van training veranderingen opgetreden die leiden tot een vergroting van de maximale zuurstofopname uit de lucht.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_843644bd7d5f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7ab8d9f222234184b0b7c83ba3093e72.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Door de training is ook het aantal haarvaten in Maartens skeletspieren toegenomen. Hierdoor kan in de skeletspieren meer aerobe dissimilatie plaatsvinden.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Spiervezels kunnen worden ingedeeld op type. In tabel 1 staan enkele eigenschappen van twee typen spiervezels.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_7c127ad5d511.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/865e4697b75a409391a3b3dde98ddbe8.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Tijdens de Elfstedentocht zwom Maarten op een rustig tempo om het risico op de ophoping van melkzuur in de spieren zo laag mogelijk te houden.<br>Stofwisselingsprocessen waarbij ATP wordt gevormd zijn:<br>1 glycolyse<br>2 citroenzuurcyclus<br>3 oxidatieve fosforylering</p>"
+    }
+  ],
+  "bijlages": []
+}

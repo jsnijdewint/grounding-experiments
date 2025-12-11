@@ -1,0 +1,71 @@
+{
+  "id": "vwo_nederlands_2024_t1_q26",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 53,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit in welke twee opzichten de beschrijving van moeder en zoon in alinea 9 inhoudelijk verschilt van deze eerdere beschrijving in alinea 2 en 3. Geef geen voorbeelden. Geef antwoord in een of meer volledige zinnen en gebruik voor je antwoord niet meer dan 30 woorden.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De moeder lijkt zich gedurende de eerste dagen in het hotel psychologisch te ontwikkelen, blijkens alinea 1 tot en met 3</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“Het is heerlijk gluren, in de ontbijtzaal boven op de berg.” (regels 45-46)</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De gasten van nu worden in alinea 5 vergeleken met de gasten van vroeger.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In alinea 5 wordt beschreven hoe hedendaagse vakantiegangers omgaan met hun vakantietijd.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Alinea 6 is te beschouwen als een uitwerking van één zin uit alinea 5.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De beschrijving van moeder en zoon op “de laatste avond” in alinea 9 verschilt in twee opzichten inhoudelijk van hun eerdere beschrijving in alinea 2 en 3.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_ac05fe426b26.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fb5d918d91ec4599a96647704fa584d3.pdf"
+    }
+  ]
+}

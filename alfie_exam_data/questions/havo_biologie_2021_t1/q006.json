@@ -1,0 +1,87 @@
+{
+  "id": "havo_biologie_2021_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Verklaar waardoor er bij een volgende infectie met een borrelia-bacterie niet direct een specifieke afweerreactie optreedt als de eiwitten op het buitenoppervlak van de borrelia-bacterie veranderd zijn.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tenzij anders vermeld, is er sprake van normale situaties en gezonde organismen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Tijdens een introductieactiviteit van de hbo-opleiding Bos- en natuurbeheer spelen Stijn en zijn medestudenten een kennismakingsspel in het bos. Aan het eind van de dag wordt tegen alle studenten gezegd dat ze zich goed moeten controleren op teken.</p><p>Teken (Ixodes ricinus, afbeelding 1) wachten in het gras of in laag struikgewas op voorbijkomende dieren of mensen die hun een bloedmaaltijd kunnen verschaffen. Ze hechten zich met hun zuigsnuit (afbeelding 2) aan hun slachtoffer en voeden zich vervolgens met bloed uit de bloedvaten van de huid.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_e89ae00df0a6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ebf1cc5b791949a79541a63337be0a37.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>'s Avonds bemerkt Stijn dat hij een teek in zijn knieholte heeft. Het speeksel van een teek bevat zowel een verdovende stof als een stof die bloedstolling tegengaat. Door de verdovende stof heeft Stijn de tekenbeet niet gevoeld en door de stollingsremmer kan de teek lange tijd bloed blijven zuigen zonder dat er stolsels ontstaan.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Zo'n twintig procent van de teken in Nederland is geïnfecteerd met de borrelia-bacterie (Borrelia burgdorferi) en kan deze bacterie overbrengen op mensen. De bacterie is de veroorzaker van de ziekte van Lyme. Mensen met deze ziekte hebben vaak last van vermoeidheid en gewrichtsproblemen.</p><p>Om de kans op besmetting met de borrelia-bacterie zo klein mogelijk te maken, verwijdert Stijn de teek direct met een tekentangetje. Mocht hij toch besmet zijn geraakt, dan zal zijn afweersysteem in actie komen om de bacterie onschadelijk proberen te maken.<br>Als het niet lukt om de borrelia-bacterie onschadelijk te maken, kan de bacterie zich in het lichaam vermenigvuldigen. Dit leidt tot diverse lichamelijke klachten, waaronder koorts. Bij koorts wordt de norm voor de lichaamstemperatuur tijdelijk verschoven van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>37</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>naar <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>38</mn> <mo>,</mo> <msup><mn>5</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>of hoger. Vervolgens zullen diverse processen leiden tot een verhoging van de lichaamstemperatuur.<br>Processen die de lichaamstemperatuur beïnvloeden zijn:<br>1 rillen en klappertanden<br>2 verhoging van de zweetproductie<br>3 vernauwing van bloedvaten in de huid</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Een docent van Stijn heeft de afgelopen jaren al tientallen tekenbeten gehad. Hij heeft onlangs zijn bloed laten onderzoeken. Hij blijkt nu niet besmet met de borrelia-bacterie, maar wel immuun te zijn voor deze bacterie.<p>Er worden stoffen in zijn bloed aangetoond die aangeven dat hij in het verleden een infectie met deze bacterie heeft gehad.</p></p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De docent moet alert blijven op tekenbeten. Door mutaties veranderen de eiwitten op het buitenoppervlak van de borrelia-bacterie. Hierdoor is er een kans dat de docent bij een volgende infectie toch ziek kan worden.</p>"
+    }
+  ],
+  "bijlages": []
+}

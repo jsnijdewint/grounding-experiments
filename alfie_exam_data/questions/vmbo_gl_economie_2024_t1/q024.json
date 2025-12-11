@@ -1,0 +1,58 @@
+{
+  "id": "vmbo_gl_economie_2024_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 125,
+          "name": "Overheid en bestuur",
+          "prefix_code": "EC/K/6"
+        },
+        {
+          "id": 127,
+          "name": "Verrijkingsstof",
+          "prefix_code": "EC/V/1"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Deze twee personen doen elk een uitspraak.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Bij welke instantie zijn deze twee personen werkzaam? Kies uit de instanties: CBS, UWV of SER.<br>Doe het zo: Noteer persoon 1 en persoon 2 op je antwoordblad. Vul bij beide personen de juiste instantie in.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 8 in de bijlage.&nbsp;<br><br>Op Prinsjesdag wordt traditiegetrouw de Troonrede voorgelezen door de Koning. De minister van Financiën biedt daarna de Tweede Kamer de Miljoenennota en de rijksbegroting aan.&nbsp;<br>Voor het opstellen van de rijksbegroting heeft de regering diverse instanties waar zij informatie of advies inwint.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_64d21efeedd6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2913d42405b54c1abcc1f28f1467fd98.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2024_I_bijlage_68e3a54200e0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/35a3df9330b8418abfd3d4840ad98390.pdf"
+    }
+  ]
+}

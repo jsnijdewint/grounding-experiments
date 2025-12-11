@@ -1,0 +1,68 @@
+{
+  "id": "vwo_wiskunde_c_2022_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [
+        {
+          "id": 53,
+          "name": "Veranderingen",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken met behulp van de formule de procentuele toename van het percentage werktijd dat aan support wordt besteed tussen twee en vijf jaar na de start van het bedrijf. Geef je antwoord in gehele procenten.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Softwarebedrijven maken nieuwe software maar moeten ook aandacht besteden aan het geven van support aan hun klanten. Het geven van deze support kost bij veel softwarebedrijven steeds meer tijd. Als een softwarebedrijf vervolgens geen nieuw personeel wil aannemen, gaat de toenemende tijd die besteed wordt aan support ten koste van de tijd voor het ontwikkelen van nieuwe software.</p><p>Bij softwarebedrijf X -tent- O is geconstateerd dat men, als gevolg van deze toenemende vraag naar support, elke maand minder tijd dan in de maand daarvoor besteedt aan het ontwikkelen van nieuwe software.</p><p>Alleen voor de volgende vraag gaan we ervan uit dat er door de toenemende vraag naar support elke maand <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>minder tijd aan ontwikkelen besteed wordt dan in de maand daarvoor. Ga er ook van uit dat er in de beginsituatie geen tijd besteed wordt aan support.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Vanaf nu veronderstellen we echter dat er door de toenemende vraag naar support elke maand <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>minder tijd aan het ontwikkelen van nieuwe software wordt besteed dan in de maand daarvoor. Zie de figuur.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_10a1ece4c563.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2035b7d233854f8f96ccb3b6518c023e.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Als er elke maand <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>van de beschikbare werktijd afgaat voor support, dan kun je het percentage werktijd <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>dat aan support wordt besteed, met de volgende formule berekenen:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi> <mo>=</mo> <mn>100</mn> <mo>&#8901;</mo> <mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mn>1</mn> <mo>&#8722;</mo> <mn>0</mn> <mo>,</mo> <msup><mn>694</mn> <mrow data-mjx-texclass=\"ORD\"><mi>t</mi> </mrow></msup><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math></p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi>&#160;</math>de tijd in jaren vanaf de start van het bedrijf.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Uit de figuur blijkt dat na twee jaar meer dan de helft van de tijd aan support wordt besteed en dat er na vijf jaar nog maar (ongeveer) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>16</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>van de beschikbare werktijd aan nieuwe software besteed wordt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2022_I_uitwerkbijla_88029eac1d9f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e2af97078af344c6a48ef1f748b398b8.pdf"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "vwo_wiskunde_b_2022_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 83,
+          "name": "Meetkundige vaardigheden",
+          "prefix_code": 1
+        },
+        {
+          "id": 84,
+          "name": "Algebraïsche methoden in de vlakke meetkunde",
+          "prefix_code": 2
+        },
+        {
+          "id": 85,
+          "name": "Vectoren en inproduct",
+          "prefix_code": 3
+        },
+        {
+          "id": 86,
+          "name": "Toepassingen",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken exact voor welke waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi>&#160;</math>de middelloodlijn van lijnstuk <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi>&#160;</math>wél door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi>&#160;</math>gaat.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gegeven zijn voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi> <mo>&#62;</mo> <mn>0</mn>&#160;</math>de punten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mo stretchy=\"false\">(</mo> <mn>0</mn> <mo>,</mo> <mi>a</mi> <mo stretchy=\"false\">)</mo>&#160;</math>, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi> <mo stretchy=\"false\">(</mo> <mn>1</mn> <mo>,</mo> <mn>0</mn> <mo stretchy=\"false\">)</mo> <mo>,</mo> <mi>C</mi> <mo stretchy=\"false\">(</mo> <mn>0</mn> <mo>,</mo> <mo>&#8722;</mo> <mn>1</mn> <mo stretchy=\"false\">)</mo>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi> <mo stretchy=\"false\">(</mo> <mo>&#8722;</mo> <mn>1</mn> <mo>,</mo> <mn>0</mn> <mo stretchy=\"false\">)</mo>&#160;</math>.<br>Vierhoek <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi> <mi>C</mi> <mi>D</mi>&#160;</math>is een vlieger.<br>In figuur 1 is de vlieger getekend voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi> <mo>=</mo> <mn>2</mn>&#160;</math>.</p><p><br>De middelloodlijn van een lijnstuk gaat door het midden van dat lijnstuk en staat loodrecht op dat lijnstuk.</p><p>&nbsp;</p><p>Voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi> <mo>=</mo> <mn>2</mn>&#160;</math>gaat de middelloodlijn van lijnstuk <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi>&#160;</math>niet<br>figuur 1 door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi>&#160;</math>.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_84991e9f94f3.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/befe2b46900c4b9c9bbddc97c1e9fdf1.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_b_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_b_formules_b48138dc5a3a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/525c78f394194c0a8345801ed3a1dab3.pdf"
+    },
+    {
+      "name": "Wiskunde B 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2022_I_uitwerkbijla_173a70b352ac.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/259b9a55e6ef41678c4a9891840ff9c0.pdf"
+    }
+  ]
+}

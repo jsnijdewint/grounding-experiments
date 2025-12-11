@@ -1,0 +1,63 @@
+{
+  "id": "vmbo_gl_wiskunde_2023_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "wiskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 67,
+      "domains": [
+        {
+          "id": 161,
+          "name": "Rekenen, meten en schatten",
+          "prefix_code": "WI/K/5"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Er drijven naar schatting 1800 miljard stukken plastic in deze plasticsoep. Daarvan kan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>92</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>met de Ocean Cleanup verzameld worden.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Bereken hoeveel stukken plastic met de Ocean Cleanup kunnen worden verzameld. Schrijf je berekening op.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In het noordelijk deel van de Stille Oceaan, tussen de Verenigde Staten en Hawaï, drijft een grote hoeveelheid plastic. Dit wordt de plasticsoep genoemd. De oppervlakte hiervan is 1,6 miljoen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">km</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></math>.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De Nederlander Boyan Slat bedacht de Ocean Cleanup om plastic uit de oceaan te verzamelen.<br>Hierbij drijft een lange buis met daaronder een scherm in het water. Een schip trekt deze buis voort door het water.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_770dc5556b24.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2c0e5ed479364f4eaac3e4a159a7ed85.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_2023_I_uitwerkbijlage_f78e70c4ddca.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bbc4a2194fa64bb89fa2eea23545d325.pdf"
+    },
+    {
+      "name": "VMBO_2023_wiskunde_formules.pdf",
+      "media_path": "media/bijlages/VMBO_2023_wiskunde_formules_374f78ca5ba1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/be7c655fbdc04d4d80359acdbaf873fa.pdf"
+    }
+  ]
+}

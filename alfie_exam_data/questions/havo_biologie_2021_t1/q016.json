@@ -1,0 +1,91 @@
+{
+  "id": "havo_biologie_2021_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Door welke van deze bloedvaten gaat een bilirubinemolecuul op de kortste weg vanuit de lever naar de huid van het gezicht? Noteer die nummers in de juiste volgorde.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Noor werkt als radiodiagnostisch laborant in een ziekenhuis. Ze maakt een scan van de buik van een patiënt. Deze patiënt kwam op de spoedeisende hulp met hevige pijn rechtsboven in de buik en met een gelige gelaatskleur.</p><p>Op de scan (afbeelding 1) ziet Noor een witte plek op de lever. Dit bevestigt haar vermoeden dat het galstenen zijn die de buikpijn veroorzaken. Na overleg met de arts wordt de patiënt doorverwezen naar een internist voor behandeling.</p><p>Op de scan zijn vier witte plekken met letters aangegeven.</p><p>&nbsp;</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_b0fe42819870.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a422462793246b6bd98a4a5b5f61b42.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Galstenen kunnen ontstaan in de galblaas. Een deel van de galstenen bestaat voornamelijk uit bilirubine. Bilirubine is een afbraakproduct van hemoglobine en wordt met de gal uitgescheiden.<br>Het ijzer ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Fe</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> <mo>+</mo>&#160;</mrow></msup></math>) dat vrijkomt bij de afbraak van hemoglobine wordt gebonden aan eiwitten in het bloedplasma - vervoerd naar weefsels waar nieuw hemoglobine wordt geproduceerd.</p><p>In afbeelding 2 is een aantal organen met letters aangegeven.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_a16bd905e78c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a74af72a175d454e921bfe040e67bfd5.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In afbeelding 3 is de galblaas met enkele galstenen getekend. De galgang is geblokkeerd door een galsteen. Gal en stoffen die vervoerd worden via buis X hopen zich hierdoor op. Dit veroorzaakt de pijn bij de patiënt.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_e2256b9115c3.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3c9236f9f4e44616b16039873a352cbf.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Als de galgang geblokkeerd is, kan bilirubine niet worden uitgescheiden door de lever. Als gevolg hiervan komt de stof in een hoge concentratie in het bloed en in de huid terecht waardoor de patiënt een gele gelaatskleur krijgt.<br>Een aantal bloedvaten zijn:<br>1 aorta<br>2 bovenste holle ader<br>3 haarvaten van de longen<br>4 haarvaten van het hart<br>5 leverader<br>6 leverslagader<br>7 longader<br>8 longslagader<br>9 onderste holle ader<br>10 poortader</p>"
+    }
+  ],
+  "bijlages": []
+}

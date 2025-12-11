@@ -1,0 +1,45 @@
+{
+  "id": "vmbo_gl_maatschappijkunde_2021_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "maatschappijkunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 63,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Lees tekst 2.<br>Bij welke politieke stroming past de opvatting van de minister uit tekst 2 het best?<br>A de ecologische stroming<br>B de liberale stroming<br>C de sociaaldemocratische stroming<br>D de rechtsextremistische stroming</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><strong>tekst 1</strong><br><strong>Op weg naar verkiezingen</strong><br>De politieke partijen bereiden zich voor op de twee volgende verkiezingen: de Provinciale Statenverkiezingen op 20 maart en de verkiezingen voor het Europees Parlement op 23 mei. Vooral de Provinciale Statenverkiezingen zijn belangrijk voor de partijen in de Tweede Kamer.</p><p><br>naar: <a href=\"http://www.nos.nl\">www.nos.nl</a> van 9 februari 2019</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><strong>tekst 2</strong><br><strong>Kamer bespreekt advies over creatieve mbo-opleidingen</strong><br>Het aantal studenten is sinds 2005 enorm toegenomen, terwijl de kansen op de arbeidsmarkt onvoldoende zijn meegegroeid, aldus een rapport van het ministerie van Onderwijs uit 2018 over creatieve mbo-opleidingen.<br>\"We moeten jongeren beschermen tegen een toekomst zonder baan\", zegt Tweede Kamerlid EI Yassini. Hij wil dat de minister het aantal scholen dat de mbo-opleiding Artiest aanbiedt, verder beperkt.<br>\"Geen goed idee\", zegt de verantwoordelijke minister. De minister wil de mbo-scholen voldoende ruimte geven om het zelf te regelen.<br>&nbsp;</p><p>naar: <a href=\"http://www.tweedekamer.nl\">www.tweedekamer.nl</a> van 6 maart 2019</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijkunde 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijkunde_2021_I_bijla_fb908480e3d9.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/916d422a2bf5449fba8906e7418cd830.pdf"
+    }
+  ]
+}

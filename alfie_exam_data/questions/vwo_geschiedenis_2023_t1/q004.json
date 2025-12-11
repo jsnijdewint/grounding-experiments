@@ -1,0 +1,45 @@
+{
+  "id": "vwo_geschiedenis_2023_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 185,
+          "name": "Tijdvak 2 – Grieken en Romeinen",
+          "prefix_code": 2
+        },
+        {
+          "id": 186,
+          "name": "Tijdvak 3 – Monniken en ridders",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 2.<br>Twaalf jaar nadat Karel de Grote tot keizer is gekroond, laat hij deze munt slaan.<br>Twee interpretaties:<br>1 Karel suggereert een bepaalde politieke continuïteit.<br>2 Karel streeft naar eenheid in zijn rijk.<br>Geef aan:</p><ul><li>welke politieke continuïteit Karel met de voorkant van de munt suggereert, en</li><li>welke boodschap Karel wil overbrengen door het suggereren van deze politieke continuilteit, en</li><li>dat Karel met de achterkant van de munt streeft naar eenheid in zijn rijk.</li></ul>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2023_I_bijlage_55374cf5cbf5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5244a635b97841b7b1e77f67a3c0f38a.pdf"
+    }
+  ]
+}

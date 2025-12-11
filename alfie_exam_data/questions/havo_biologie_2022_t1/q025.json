@@ -1,0 +1,109 @@
+{
+  "id": "havo_biologie_2022_t1_q25",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 122,
+          "name": "Zelforganisatie van cellen",
+          "prefix_code": 3
+        },
+        {
+          "id": 123,
+          "name": "Erfelijke eigenschap",
+          "prefix_code": 7
+        },
+        {
+          "id": 124,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 130,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Van welk type stoffen hebben zij de concentratie gemeten?<br><strong>A </strong>van aminozuren<br><strong>B </strong>van DNA<br><strong>C </strong>van eiwitten<br><strong>D </strong>van nucleotiden</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Diabetes type 2 is een welvaartsziekte die in steeds meer landen veel voorkomt. Onderzoek toont aan dat voedingspatroon en erfelijke factoren een rol spelen in het ontwikkelen van deze aandoening.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Patiënten met diabetes type 2 maken wel insuline aan, maar de gevoeligheid van hun cellen voor insuline neemt af. De symptomen van diabetes type 2 zijn onder andere vermoeidheid en dorst. Na verloop van tijd kan schade aan bloedvaten ontstaan.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Bij het ontstaan van diabetes type 2 zijn veranderingen op verschillende organisatieniveaus waar te nemen.<br>Veranderingen zijn:<br>1 De opname van glucose uit het bloed door de cellen vermindert.<br>2 De hersenstam registreert een hoge osmotische waarde van het bloed.<br>3 De patiënt gaat veel drinken.<br>4 Receptoren voor insuline worden minder gevoelig.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Bij patiënten met onbehandelde diabetes type 2 wordt niet alle glucose uit de voorurine opgenomen. Als gevolg hiervan produceren de patiënten veel urine.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In sommige families ontwikkelen opeenvolgende generaties diabetes type 2. Omdat zowel voedingspatroon (dieet) als erfelijke factoren een rol spelen, is het lastig vast te stellen hoe groot de rol van deze factoren afzonderlijk is.<br>Amerikaanse wetenschappers hebben bij ratten de invloed van het dieet op de glucoseconcentratie in het bloed onderzocht. Mannelijke ratten die genetisch vrijwel identiek waren, werden gevoed met een normaal of met een vetrijk dieet (VRD). De VRD-ratten ontwikkelden obesitas (ernstig overgewicht).<br>Beide groepen kregen, na een periode zonder eten en drinken, een glucosedrankje te drinken (tijdstip 0). Daarna werden de veranderingen in de concentratie glucose (afbeelding 1, diagram 1) en in de concentratie insuline (afbeelding 1, diagram 2) in het bloed bepaald.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_ce26b8b82669.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/24a4a00b61aa47579c7aba19e9fa80ab.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Naar aanleiding van afbeelding 1 worden de volgende uitspraken gedaan:<br>1 Als gevolg van de insulineafgifte stijgt de glucoseconcentratie.<br>2 Het dieet van een rat heeft invloed op de regulatie van de glucoseconcentratie.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Beide groepen kregen een dag later een hoeveelheid insuline ingespoten. Het diagram in afbeelding 2 geeft de veranderingen weer van de glucoseconcentratie in het bloed na inspuiting van insuline op tijdstip 0 .</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_655c8607f24d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8a93e249b997423d9f2ba93870b8d527.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>De mannetjesratten uit beide dieetgroepen werden gekruist met vrouwtjes die een normaal dieet hadden. De nakomelingen werden onderzocht op verschillende eigenschappen.<br>Het geboortegewicht van de jongen bleek nauwelijks te verschillen in de twee groepen. De glucoseregulatie van de vrouwelijke nakomelingen van de VRD-vaderratten was wel verstoord. De genexpressie in de cellen van de eilandjes van Langerhans bleek bij deze vrouwtjes afwijkend te zijn.</p>"
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>De onderzoekers toonden verschillen in genexpressie aan door de hoeveelheid van bepaalde organische stoffen te meten.</p>"
+    }
+  ],
+  "bijlages": []
+}

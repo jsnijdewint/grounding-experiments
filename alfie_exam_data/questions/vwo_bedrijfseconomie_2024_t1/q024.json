@@ -1,0 +1,73 @@
+{
+  "id": "vwo_bedrijfseconomie_2024_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 13,
+          "name": "Vastleggen van financiële en niet financiële informatie",
+          "prefix_code": 1
+        },
+        {
+          "id": 14,
+          "name": "Kosten- en winstvraagstukken",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noem het verschil tussen constante en variabele kosten. Betrek beide begrippen in je antwoord.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de informatiebronnen 4 en 5.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_fa80277f0123.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/51d8721a8d8449e493ccf2aa413813ff.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Onder de naam “Gouda’s Roem bv” exploiteren de zussen Leontine en Petra in Gouda een handelsonderneming in brood en banket. In de zomermaanden wordt de stad veel door (buitenlandse) toeristen bezocht. Hierdoor zijn de zussen op het idee gekomen om in 2023 stroopwafels verpakt in een aardewerken pot op de Markt te verkopen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De kant en klare stroopwafels worden ingekocht en ter plekke afgebakken door een wafelbakker. Gegevens voor het bepalen van de kostprijs en de verkoopprijs van een aardewerken pot met 12 stroopwafels staan in informatiebron 4. Voor het bepalen van de kostprijs wordt er onderscheid gemaakt tussen constante en variabele kosten.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_bijlag_7eadadfb909b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b308f8bea0724a7aafeda7412effc100.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_uitwer_83345fd16197.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9381244ee6040b2bd0134a67d821ddb.pdf"
+    }
+  ]
+}

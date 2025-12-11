@@ -1,0 +1,87 @@
+{
+  "id": "vwo_wiskunde_a_2021_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 78,
+          "name": "Standaardfuncties",
+          "prefix_code": 1
+        },
+        {
+          "id": 79,
+          "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken het hoogteverschil tussen het beginpunt en het hoogste punt van de onderkant van de brug. Geef je antwoord in gehele cm.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_ba63e7503586.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/edef73f70bf44137907a5dd890c17fe3.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_f1b7563dd2a4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f60bbcdcf3f744d8bd8523a18a14dd35.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Op foto 1 zie je de Mathematical Bridge, een houten brug in Cambridge. Deze brug werd in 1748 ontworpen door William Etheridge.<br>Als je goed kijkt naar de brug, dan zie je dat deze bestaat uit een aantal balken die een denkbeeldige boog (gevormd door de onderkant van de brug) raken. Zie foto 2.<br>We maken van deze brug een wiskundig model. De onderkant van de brug is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn> <mo>,</mo> <mn>19</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math>breed en deze onderkant beschouwen we als een deel van een cirkel met straal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn> <mo>,</mo> <mn>75</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math>. Zie de figuur, waarin de maten gegeven zijn in meters. De standaardformule voor een cirkel met middelpunt ( 0,0 ) en straal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi>&#160;</math>is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>+</mo> <msup><mi>y</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>=</mo> <msup><mi>r</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></math>.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_dfb94ece2fd1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c9aa44bb26e74b8a8f0688e3404987e1.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Wanneer we de oorsprong <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi>&#160;</math>kiezen zoals in de figuur aangegeven, dan geldt voor de hoogte van de onderkant van de brug:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi> <mo>=</mo> <msqrt><mn>95</mn> <mo>,</mo> <mn>0625</mn> <mo>&#8722;</mo> <msup><mi>x</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></msqrt></math></p><p>Hierbij zijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>in meters.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Er varen veel bootjes onder de brug door. Het is daarom belangrijk om te weten hoe hoog de onderkant van de brug op bepaalde punten is ten opzichte van de waterspiegel.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_66115931efb1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a82d76c736914785983bf91c92b9a256.pdf"
+    },
+    {
+      "name": "Wiskunde A 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2021_I_uitwerkbijla_3883774f4ae1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cdb796394a4c4a968d52b9ce2edc08ed.pdf"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 98,
+    "education_level": "havo",
+    "discipline": "maatschappijwetenschappen",
+    "year": 2023,
+    "tijdvak": 1
+  },
+  "question_count": 22
+}

@@ -1,0 +1,80 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2023_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 140,
+          "name": "Stoffen en materialen",
+          "prefix_code": "NASK1/K/4"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Hierboven staat een zin over het uitzetten van het gas.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Noteer de juiste mogelijkheden.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Speciaal voor ouderen is er een heup-airbag ontwikkeld. Deze airbag beschermt bij een val.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_f1165b9a6990.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/86bf631abe69435291a2aab13bdc0605.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De heup-airbag is een gordel die je om je middel draagt. Tijdens het vallen blaast de airbag zich automatisch op. Bij de landing val je op de opgeblazen airbag.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Voor het opblazen van de airbag wordt koolstofdioxide <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>gebruikt.</p><p>Dit gas zit onder hoge druk in een gasflesje.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_e77e66002262.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b8caf4ca4dc34ceb96ff8ccfb55c1dd4.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Het gasflesje gaat open bij een val. Het gas zet uit en blaast de airbag op.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Het uitzetten van het gas is een <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>&#160;</mo><mi>c</mi><mi>h</mi><mi>e</mi><mi>m</mi><mi>i</mi><mi>s</mi><mi>c</mi><mi>h</mi><mi>e</mi><mo>&#160;</mo><mi>r</mi><mi>e</mi><mi>a</mi><mi>c</mi><mi>t</mi><mi>i</mi><mi>e</mi></mrow><mrow><mi>n</mi><mi>a</mi><mi>t</mi><mi>u</mi><mi>u</mi><mi>r</mi><mi>k</mi><mi>u</mi><mi>n</mi><mi>d</mi><mi>i</mi><mi>g</mi><mo>&#160;</mo><mi>p</mi><mi>r</mi><mi>o</mi><mi>c</mi><mi>e</mi><mi>s</mi></mrow></mfrac></math></p><p>omdat er <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>w</mi><mi>e</mi><mi>l</mi></mrow><mrow><mi>g</mi><mi>e</mi><mi>e</mi><mi>n</mi></mrow></mfrac></math> nieuwe stoffen ontstaan.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2023_I_146f2ef32a60.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a553a8c7e49437a900373fa6ec9748e.pdf"
+    }
+  ]
+}

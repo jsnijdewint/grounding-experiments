@@ -1,0 +1,45 @@
+{
+  "id": "vwo_wiskunde_c_2024_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Toon dit aan.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Om te bepalen of je een gezond gewicht hebt, kun je je <strong>vetpercentage </strong>berekenen. Het vetpercentage is de hoeveelheid lichaamsvet als percentage van het lichaamsgewicht.</p><p>De hoeveelheid lichaamsvet kan gemeten worden met speciale apparatuur. Deze kostbare apparatuur is echter niet altijd voorhanden. De onderzoekster Dympna Gallagher stelde daarom een formule op om de vetvrije massa te benaderen. De<strong> vetvrije massa</strong> (<i>VVM</i>) is het lichaamsgewicht zonder het lichaamsvet. Voor mannen wordt de formule van Gallagher gegeven door:&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>V</mi>\r\n  <mi>V</mi>\r\n  <mi>M</mi>\r\n  <mo>=</mo>\r\n  <mn>0</mn>\r\n  <mo>,</mo>\r\n  <mn>446</mn>\r\n  <mo>&#8901;</mo>\r\n  <mi>G</mi>\r\n  <mo>&#8722;</mo>\r\n  <mn>0</mn>\r\n  <mo>,</mo>\r\n  <mn>00087</mn>\r\n  <mo>&#8901;</mo>\r\n  <mi>j</mi>\r\n  <mo>&#8901;</mo>\r\n  <mi>G</mi>\r\n  <mo>+</mo>\r\n  <mn>9</mn>\r\n  <mo>,</mo>\r\n  <mn>438</mn>\r\n  <mo>&#8901;</mo>\r\n  <msup>\r\n    <mi>L</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msup>\r\n</math> (formule 1)</p><p>Hierbij is<i> G</i> het lichaamsgewicht in kg, <i>j </i>de leeftijd in jaren en <i>L</i> de lengte in meters.</p><p>Volgens Gallagher neemt bij gelijkblijvend gewicht en gelijkblijvende lengte het vetpercentage van een man toe naarmate hij ouder wordt.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Voor het vetpercentage <i>V</i> geldt:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>V</mi>\r\n  <mo>=</mo>\r\n  <mfrac>\r\n    <mrow>\r\n      <mi>G</mi>\r\n      <mo>&#8722;</mo>\r\n      <mi>V</mi>\r\n      <mi>V</mi>\r\n      <mi>M</mi>\r\n    </mrow>\r\n    <mi>G</mi>\r\n  </mfrac>\r\n  <mo>&#8722;</mo>\r\n  <mn>100</mn>\r\n</math> (formule 2)</p><p>Met behulp van formule 2 en formule 1 kan voor 33-jarige mannen een formule worden opgesteld waarin het vetpercentage <i>V</i> wordt uitgedrukt in de lengte <i>L</i> in meters en het lichaamsgewicht <i>G</i> in kg:&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>V</mi>\r\n  <mo>=</mo>\r\n  <mn>58</mn>\r\n  <mo>,</mo>\r\n  <mn>271</mn>\r\n  <mo>&#8722;</mo>\r\n  <mn>943</mn>\r\n  <mo>,</mo>\r\n  <mn>8</mn>\r\n  <mo>&#8901;</mo>\r\n  <mfrac>\r\n    <msup>\r\n      <mi>L</mi>\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mn>2</mn>\r\n      </mrow>\r\n    </msup>\r\n    <mi>G</mi>\r\n  </mfrac>\r\n</math> (formule 3)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2024_I_uitwerkbijla_ba7fbca6f6ec.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d5fa61ef232d4c3195ae03fd7f6d41cb.pdf"
+    }
+  ]
+}

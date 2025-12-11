@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 53,
+    "education_level": "havo",
+    "discipline": "wiskunde_a",
+    "year": 2023,
+    "tijdvak": 1
+  },
+  "question_count": 21
+}

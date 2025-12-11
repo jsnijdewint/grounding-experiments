@@ -1,0 +1,68 @@
+{
+  "id": "vwo_wiskunde_a_2022_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 78,
+          "name": "Standaardfuncties",
+          "prefix_code": 1
+        },
+        {
+          "id": 79,
+          "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Stel een formule voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>op van de bloeddruk van deze persoon, horend bij het model van de sinusoïde.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het hart pompt bloed door het menselijk lichaam. Als het hart samentrekt, wordt bloed in de bloedvaten gepompt, met als gevolg dat deze onder druk komen te staan. Als het hart zich weer ontspant, neemt de druk in de bloedvaten weer af.<br>Dit proces herhaalt zich voortdurend en het aantal keren per minuut dat dit gebeurt, noemen we de <strong>hartslag</strong>. Tijdens dit proces neemt de druk in de bloedvaten dus steeds toe en weer af. De hoogste druk wordt de <strong>bovendruk </strong>genoemd en de laagste druk noemt men de <strong>onderdruk</strong>. Van een bepaalde persoon is in figuur 1 de bloeddruk uitgezet tegen de tijd.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_126973a94916.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3ef51cac53f9422dbde4842d46b12ce4.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Als model van de bloeddruk wordt vaak een sinusoïde van de vorm <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi> <mo>=</mo> <mi>a</mi> <mo>+</mo> <mi>b</mi> <mi>sin</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mi>c</mi> <mo>&#8901;</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo>&#160;</math>gebruikt. Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>de bloeddruk, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi>&#160;</math>de tijd in seconder en zijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi> <mo>,</mo> <mi>b</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi>&#160;</math>constanten. Deze constanten zijn afhankelijk van de hartslag en worden zo gekozen dat maximum en minimum van de sinusoïde overeenkomen met bovendruk en onderdruk.</p><p>Een tweede persoon heeft een hartslag van 66 slagen per minuut. Zijn bovendruk is 124 en ziin onderdruk is 82 .</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_73fca02d2c1b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5d05a69549d843d992d31326c4d8bd2f.pdf"
+    },
+    {
+      "name": "Wiskunde A 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2022_I_uitwerkbijla_986f038aa607.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/05b11d946a864537912b61b903133caa.pdf"
+    }
+  ]
+}

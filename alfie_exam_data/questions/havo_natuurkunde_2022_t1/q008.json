@@ -1,0 +1,68 @@
+{
+  "id": "havo_natuurkunde_2022_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 134,
+          "name": "Energieomzettingen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:</p><ul><li>Bereken de massa hydrazine die nodig is om de eigen massa van NH af te remmen.</li><li>Geef aan waarom in werkelijkheid nog veel meer hydrazine nodig zou zijn om NH af te remmen.</li></ul>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Pluto is een dwergplaneet in ons zonnestelsel. Om Pluto te onderzoeken werd in januari 2006 de ruimtesonde New Horizons (NH) gelanceerd.</p><p>Deze opgave bestaat uit twee delen:</p><ul><li>deel A De reis van NH</li><li>deel B De energievoorziening van NH</li></ul><p><br><strong>deel A De reis van NH</strong></p><p><br>In figuur 1 is het traject van de ruimtesonde NH langs banen van planeten in het zonnestelsel weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_a4951f907083.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/00db3baac1354ef9b8cdcbb397e302d3.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Eén jaar na de lancering kruiste NH de baan van Jupiter. De afstand tussen NH en Jupiter was op dat moment heel klein. Door de aantrekkingskracht van Jupiter boog NH af richting Pluto. Jupiter heeft een omlooptijd van 12 jaar en beweegt in de richting van de pijl. De baan van Jupiter mag als cirkelvormig beschouwd worden. Op de baan zijn 12 posities van Jupiter aangegeven. Zie figuur 1.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In juli 2015 was NH in de buurt van Pluto aangekomen. NH had toen een snelheid van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>2</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math>. De snelheid van Pluto wordt in deze opgave verwaarloosd.</p><p>&nbsp;</p><p>De ontwerpers van de missie hadden de keuze uit drie opties:<br>1 NH wordt in een cirkelbaan om Pluto gebracht.<br>2 NH stort neer op Pluto.<br>3 NH passeert Pluto en gaat verder de ruimte in.</p><p><br>De ontwerpers hebben berekend welke snelheid nodig was om NH ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi> <mo>=</mo> <mn>465</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">kg</mi>&#160;</mrow></math>) in een baan met een straal van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn> <mo>,</mo> <mn>5</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>6</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math>om Pluto te laten cirkelen. Deze snelheid is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mo>,</mo> <mn>6</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math>.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Om NH af te remmen is een raket nodig. Deze raket gebruikt hydrazine als brandstof. De ontwerpers hebben berekend hoeveel hydrazine nodig zou zijn om NH af te remmen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>2</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math>tot <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mo>,</mo> <mn>6</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math>. De raketmotor verricht <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>95</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">MJ</mi>&#160;</mrow></math>arbeid per <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">kg</mi>&#160;</mrow></math>gebruikte hydrazine. De ontwerpers concludeerden dat NH veel meer massa aan brandstof nodig zou hebben dan zijn eigen massa van 465 kg .</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2022_I_uitwerkbijl_81c84d6bcda8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5d2d7ab14a724c268e292e7f96ede649.pdf"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "havo_biologie_2021_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 128,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 129,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        },
+        {
+          "id": 110,
+          "name": "Onderzoeken",
+          "prefix_code": 5
+        },
+        {
+          "id": 111,
+          "name": "Ontwerpen",
+          "prefix_code": 6
+        },
+        {
+          "id": 112,
+          "name": "Modelvorming",
+          "prefix_code": 7
+        },
+        {
+          "id": 113,
+          "name": "Natuurwetenschappelijk instrumentarium",
+          "prefix_code": 8
+        },
+        {
+          "id": 114,
+          "name": "Waarderen en oordelen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beschrijf...</p><ul><li>de opzet van het experiment.</li><li>hoe de biomassa van de planten wordt bepaald.</li></ul>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Wouter onderzoekt voor zijn profielwerkstuk de mogelijkheid om voedselgewassen te verbouwen op Mars. Hij raakte geïnteresseerd nadat hij een nieuws-item zag waarin ecoloog Wieger Wamelink van Wageningen Universiteit vertelt met succes tomaten, bonen, worteltjes en aardappelen te hebben gekweekt op 'marszand'. Nadat Wouter contact opnam met de onderzoeker, kreeg hij marszand om zelf enkele experimenten mee uit te voeren.</p><p>Het marszand dat Wouter gebruikt, komt niet echt van Mars, maar is zand van vulkanische bodems op Hawaii. Dit zand vertoont grote gelijkenis met de bodem van Mars die de Marsrover Curiosity (afbeelding 1) analyseerde. Zand op Mars blijkt vooral fosfor, ijzeroxiden en stikstof te bevatten, maar ook enkele zware metalen.</p><p>Met een experiment wil Wouter onderzoeken of bonenplanten geteeld op marszand evenveel biomassa produceren als bonenplanten geteeld op potgrond.<br>Bij dit experiment heeft hij de beschikking over de volgende materialen:</p><ul><li>bonen (zaden)</li><li>droogoven</li><li>kweekbakken</li><li>marszand</li><li>potgrond</li><li>water</li><li>weegschaal</li></ul>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_4615003b364c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e4f430687196409ab340c58d22975aeb.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

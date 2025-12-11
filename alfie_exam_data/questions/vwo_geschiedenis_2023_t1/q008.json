@@ -1,0 +1,40 @@
+{
+  "id": "vwo_geschiedenis_2023_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 188,
+          "name": "Tijdvak 5 – Ontdekkers en hervormers",
+          "prefix_code": 5
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 5.<br>Geef aan op welke twee verschillende manieren de katholieke kerk met dit decreet de protestantse reformatie wil tegengaan, waarbij je telkens je antwoord ondersteunt met een andere verwijzing naar de bron.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2023_I_bijlage_55374cf5cbf5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5244a635b97841b7b1e77f67a3c0f38a.pdf"
+    }
+  ]
+}

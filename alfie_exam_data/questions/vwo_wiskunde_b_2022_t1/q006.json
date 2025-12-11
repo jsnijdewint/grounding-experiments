@@ -1,0 +1,88 @@
+{
+  "id": "vwo_wiskunde_b_2022_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 83,
+          "name": "Meetkundige vaardigheden",
+          "prefix_code": 1
+        },
+        {
+          "id": 84,
+          "name": "Algebraïsche methoden in de vlakke meetkunde",
+          "prefix_code": 2
+        },
+        {
+          "id": 85,
+          "name": "Vectoren en inproduct",
+          "prefix_code": 3
+        },
+        {
+          "id": 86,
+          "name": "Toepassingen",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bewijs dit.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De rand van een letter op een computerbeeldscherm is een aaneenschakeling van meerdere krommen. Zo is de rand van de (uitvergrote) letter 'a' in figuur 1 gemaakt met behulp van zestien krommen, die je in figuur 2 ziet.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_eec0e4ec3cc8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5fbc1c8091aa43509fe371ea3342a496.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Elk van de zestien krommen kan met een formule worden beschreven. Computers hebben die formules nodig om de letters op het scherm te kunnen tekenen. Als voorbeeld bekijken we de kromme <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi>&#160;</math>tussen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>, die in figuur 2 dikker is getekend.</p><p>We gaan ervan uit dat er vier gegevens bekend zijn:</p><ul><li>de coördinaten van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>;</li><li>de coördinaten van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>;</li><li>de richting van de raaklijn in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>aan de kromme;</li><li>de richting van de raaklijn in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>aan de kromme.</li></ul><p>Zie figuur 3. De vraag is nu hoe je uit deze vier gegevens een formule voor de kromme <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi>&#160;</math>maakt.</p><p>In figuur 4 zie je de punten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>en de twee raaklijnen, geplaatst in een assenstelsel. Gegeven is dat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>de coördinaten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mfrac><mn>1</mn> <mn>15</mn> </mfrac><mo>,</mo> <mfrac><mn>4</mn> <mn>3</mn> </mfrac><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>heeft, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>de coördinaten ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mfrac><mn>19</mn> <mn>10</mn>&#160;</mfrac></math>), dat de raaklijn in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>horizontaal is en dat de richtingscoëfficiênt van de raaklijn in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>gelijk is aan 4. Het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi>&#160;</math>is het snijpunt van de twee raaklijnen en speelt een belangrijke rol bij de constructie van de kromme <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi>&#160;</math>.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Om de kromme <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi>&#160;</math>te kunnen construeren, worden er, behalve de drie vaste punten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mo>,</mo> <mi>B</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi>&#160;</math>, drie bewegende punten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi> <mo>,</mo> <mi>Q</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi>&#160;</math>gebruikt. Deze bewegen als volgt:</p><ul><li>Punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>beweegt voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>&#8804;</mo> <mi>t</mi> <mo>&#8804;</mo> <mn>1</mn>&#160;</math>met een constante snelheid over lijnstuk <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>C</mi>&#160;</math>van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>naar <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi>&#160;</math>. Er geldt: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mi>O</mi> <mi>P</mi> </mrow><mo>&#8594;</mo> </mover><mo>=</mo> <mover><mrow><mi>O</mi> <mi>A</mi> </mrow><mo>&#8594;</mo> </mover><mo>+</mo> <mi>t</mi> <mo>&#8901;</mo> <mover><mrow><mi>A</mi> <mi>C</mi> </mrow><mo>&#8594;</mo>&#160;</mover></math></li><li>Punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi>&#160;</math>beweegt voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>&#8804;</mo> <mi>t</mi> <mo>&#8804;</mo> <mn>1</mn>&#160;</math>met een constante snelheid over lijnstuk <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi> <mi>B</mi>&#160;</math>van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi>&#160;</math>naar <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>. Er geldt: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mi>O</mi> <mi>Q</mi> </mrow><mo>&#8594;</mo> </mover><mo>=</mo> <mover><mrow><mi>O</mi> <mi>C</mi> </mrow><mo>&#8594;</mo> </mover><mo>+</mo> <mi>t</mi> <mo>&#8901;</mo> <mover><mrow><mi>C</mi> <mi>B</mi> </mrow><mo>&#8594;</mo>&#160;</mover></math></li><li>Terwijl punten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi>&#160;</math>bewegen, schuift punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi>&#160;</math>op het bewegende lijnstuk <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi> <mi>Q</mi>&#160;</math>van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>naar <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi>&#160;</math>. Er geldt: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mi>O</mi> <mi>R</mi> </mrow><mo>&#8594;</mo> </mover><mo>=</mo> <mover><mrow><mi>O</mi> <mi>P</mi> </mrow><mo>&#8594;</mo> </mover><mo>+</mo> <mi>t</mi> <mo>&#8901;</mo> <mover><mrow><mi>P</mi> <mi>Q</mi> </mrow><mo>&#8594;</mo>&#160;</mover></math><br>Het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi>&#160;</math>doorloopt van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>0</mn>&#160;</math>tot <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>1</mn>&#160;</math>een kromme van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>naar <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>. Deze kromme wordt de <strong>Bézierkromme </strong>(van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mo>,</mo> <mi>B</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi>&#160;</math>) genoemd, en dat is kromme <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi>&#160;</math>uit figuur 2.</li></ul><p>Figuur 4 is op de uitwerkbiilage uitveraroot weergegeven.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mi>O</mi> <mi>R</mi> </mrow><mo>&#8594;</mo>&#160;</mover></math>is uit te drukken in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>,</mo> <mover><mrow><mi>O</mi> <mi>A</mi> </mrow><mo>&#8594;</mo> </mover><mo>,</mo> <mover><mrow><mi>O</mi> <mi>B</mi> </mrow><mo>&#8594;</mo>&#160;</mover></math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mi>O</mi> <mi>C</mi> </mrow><mo>&#8594;</mo>&#160;</mover></math>. Er geldt voor elke waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi>&#160;</math>:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mi>O</mi> <mi>R</mi> </mrow><mo>&#8594;</mo> </mover><mo>=</mo> <mo stretchy=\"false\">(</mo> <mn>1</mn> <mo>&#8722;</mo> <mi>t</mi> <msup><mo stretchy=\"false\">)</mo> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>&#8901;</mo> <mover><mrow><mi>O</mi> <mi>A</mi> </mrow><mo>&#8594;</mo> </mover><mo>+</mo> <msup><mi>t</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>&#8901;</mo> <mover><mrow><mi>O</mi> <mi>B</mi> </mrow><mo>&#8594;</mo> </mover><mo>+</mo> <mn>2</mn> <mi>t</mi> <mo stretchy=\"false\">(</mo> <mn>1</mn> <mo>&#8722;</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mo>&#8901;</mo> <mover><mrow><mi>O</mi> <mi>C</mi> </mrow><mo>&#8594;</mo>&#160;</mover></math></p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_b_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_b_formules_b48138dc5a3a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/525c78f394194c0a8345801ed3a1dab3.pdf"
+    },
+    {
+      "name": "Wiskunde B 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2022_I_uitwerkbijla_173a70b352ac.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/259b9a55e6ef41678c4a9891840ff9c0.pdf"
+    }
+  ]
+}

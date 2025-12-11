@@ -1,0 +1,66 @@
+{
+  "id": "havo_aardrijkskunde_2021_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "aardrijkskunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 46,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 94,
+          "name": "Samenhangen en verschillen op aarde",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef aan</p><ul><li>welk klimaat het gebied ten westen van de Sierra Nevada heeft en welk klimaat het gebied ten oosten van de Sierra Nevada heeft;</li><li>waardoor dit verschil in klimaat ontstaat.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 6 tot en met 8.<br>Gebruik de bronnen 6 en 7 en het kaartenkatern. De Sierra Nevada is miljoenen jaren geleden ontstaan door subductie. Tegenwoordig vindt bij de Sierra Nevada geen subductie meer plaats.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik de bronnen 6 en 7.<br>De gouddeeltjes die bij Coloma worden gevonden lagen oorspronkelijk niet daar. Het proces waardoor bij Coloma gouddeeltjes terecht zijn gekomen is te beschrijven in vier stappen.<br>Stap 1: diep in de ondergrond van de Sierra Nevada ontstaan goudaders.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Gebruik bron 8.<br>De goudzoekers passeerden op hun reis richting de goudvelden Lake Tahoe in de Sierra Nevada. Dit meer ligt in een afgevlakt landschap met brede dalen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Gebruik het kaartenkatern.<br>Het gebied ten westen van de Sierra Nevada heeft een ander klimaat dan het gebied ten oosten van de Sierra Nevada.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2021_I_bijlage_d5e1d542d89f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b4b0ddd9af6c4d90b654414dbae13452.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2021 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2021_I_kaartenk_37a583c0ab38.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/05dc921c5df2400c8791a209fb43776b.pdf"
+    }
+  ]
+}

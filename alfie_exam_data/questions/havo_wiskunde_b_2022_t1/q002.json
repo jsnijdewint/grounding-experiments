@@ -1,0 +1,59 @@
+{
+  "id": "havo_wiskunde_b_2022_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 103,
+          "name": "Meetkundige berekeningen",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bewijs dat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi>&#160;</math>door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi>&#160;</math>gaat.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De cirkel <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi>&#160;</math>is gegeven door de vergelijking <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>+</mo> <msup><mi>y</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>=</mo> <mn>6</mn> <mi>x</mi> <mo>+</mo> <mn>6</mn> <mi>y</mi> <mo>&#8722;</mo> <mn>13</mn>&#160;</math>. De lijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi>&#160;</math>met vergelijking <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi> <mo>=</mo> <mn>2</mn> <mi>x</mi> <mo>+</mo> <mn>2</mn>&#160;</math>raakt de cirkel in het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>. Zie figuur 1 .</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_60f87a581ab6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9f7717f6ddb4ca6b1dba3bccf4894b8.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi>&#160;</math>snijdt de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as in het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi>&#160;</math>en de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-as in het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi>&#160;</math>. Cirkel <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi>&#160;</math>is de cirkel met middellijn ST. Zie figuur 2.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_a60dfe0696a5.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ccf5116b7d8e4f279ca6b1515f6b00cb.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

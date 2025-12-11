@@ -1,0 +1,102 @@
+{
+  "id": "vwo_wiskunde_c_2023_t1_q19",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [
+        {
+          "id": 52,
+          "name": "Verbanden",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Onderzoek met een berekening hoeveel procent van het beton ten minste met deze technologie gemaakt moet worden om aan de genoemde klimaatdoelstelling te voldoen. Geef je antwoord in gehele procenten.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Cement is een belangrijk bouwmateriaal. Het wordt voornamelijk gebruikt bij het maken van beton.</p><p>&nbsp;</p><p>In figuur 1 staat de wereldwijde cementproductie tussen 1970 en 2010 in miljoenen tonnen per jaar.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_d8a5d8db72a8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/209cc4675eee4088868935b265f85e51.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In figuur 1 is te zien dat de cementproductie (ongeveer) exponentieel toenam van 575 miljoen ton in 1970 tot 3800 miljoen ton in 2010.</p><p>&nbsp;</p><p>In 2010 was de verwachting dat de wereldwijde cementproductie ook na 2010 exponentieel door zou blijven stijgen tot ten minste 5000 miljoen ton per jaar. Voor de volgende vraag gaan we van deze verwachting uit.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In werkelijkheid heeft de exponentiële stijging zich niet doorgezet. In de periode 2010-2013 was er nog wel sprake van (niet-exponentiële) toename, maar in de periode 2013-2017 bleef de wereldwijde cementproductie nagenoeg stabiel op 4300 miljoen ton per jaar. Dit is te zien in figuur 2.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_7d148771e219.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6e4c47daa9e24617baa1abc473d88bf6.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Volgens een artikel van de BBC uit 2018 zal de vraag naar beton, en dus ook de productie van cement, na 2017 weer sterk toenemen. Het artikel stelt dat er in 2030 wereldwijd 25% meer cement geproduceerd zal worden dan in 2017.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Neem aan dat de toename na 2017 lineair verloopt.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Voor de productie van cement is veel energie nodig en bovendien komt er bij het proces behoorlijk wat <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">CO</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n</math> -vrij. Volgens het artikel van de BBC wordt 8% van de wereldwijde <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">CO</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n</math>-uitstoot veroorzaakt door de productie van cement.</p><p>&nbsp;</p><p>In Europa gelden strenge regels voor de productie van cement. Geschat wordt dat in Europa gemiddeld per ton1) geproduceerd cement 750 kg aan <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">CO</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n</math> uitgestoten wordt. In China, veruit de grootste producent van cement ter wereld, is deze uitstoot 220 kg per ton geproduceerd cement méér dan in Europa. Het aandeel van China en dat van Europa in de cementproductie zijn in figuur 2 weergegeven. De grafiek staat ook, vergroot, op de uitwerkbijlage.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Cement wordt voornamelijk gebruikt bij het maken van beton. Het overgrote deel van de <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">CO</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n</math>-uitstoot als gevolg van het maken van beton komt voort uit de productie van cement. Vanwege de enorme <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">CO</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n</math>-uitstoot die gepaard gaat met de productie van cement, wordt er volop gezocht naar milieuvriendelijkere alternatieven.</p><p>&nbsp;</p><p>Een van die alternatieven is het maken van beton zonder daarbij cement te gebruiken. Het Nederlandse bedrijf Sqape ontwikkelde een technologie waarmee dat mogelijk is. Volgens de website van Sqape wordt de <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">CO</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n</math>-uitstoot zo per ton gemaakt beton verminderd van 750 kg tot 120 kg.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Op de foto zie je een vernieuwd fietspadin Zeewolde. Het fietspad bestaat voor 70% uit beton dat met de nieuwe technologie van Sqape is gemaakt en voor 30% uit beton waarbij cement is gebruikt.</p><p>&nbsp;</p><p>De hoeveelheid <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">CO</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n</math>die vrijkomt bij het maken van het beton dat voor dit fietspad gebruikt wordt, kan als volgt berekend worden: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>0</mn>\r\n  <mo>,</mo>\r\n  <mn>7</mn>\r\n  <mo>&#8901;</mo>\r\n  <mn>120</mn>\r\n  <mo>+</mo>\r\n  <mn>0</mn>\r\n  <mo>,</mo>\r\n  <mn>3</mn>\r\n  <mo>&#8901;</mo>\r\n  <mn>750</mn>\r\n  <mo>=</mo>\r\n  <mn>309</mn>\r\n</math> kg per ton gemaakt beton.</p><p>&nbsp;</p><p>Een van de Europese klimaatdoelstellingen is dat de uitstoot van <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">CO</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n</math>als gevolg van het maken van beton wordt verminderd van 750 kg tot 450 kg per ton. Dat kan bereikt worden door een deel van het beton te gaan maken met behulp van de technologie van Sqape.</p>"
+    },
+    {
+      "order": 10,
+      "type": "image",
+      "media_path": "media/in-exam/img_b13f76774459.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4eb73a9be4a646daba8cba8370489f41.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2023_I_uitwerkbijla_d26cf5047c40.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5daa39e9d7114989a2f0a9cab3045d3b.pdf"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "vwo_geschiedenis_2024_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 188,
+          "name": "Tijdvak 5 – Ontdekkers en hervormers",
+          "prefix_code": 5
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit, telkens met een verwijzing naar de bron:&nbsp;<br> aan welke verandering in het wereldbeeld in Europa de beschrijving bijdraagt, en&nbsp;<br> dat de beschrijving bijdraagt aan de snelle Europese expansie.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gebruik bron 4. Met deze beschrijving kun je een verklaring geven voor het veranderde wereldbeeld in Europa en voor de snelle Europese expansie.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2024_I_bijlage_57b61674271e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/293f53e566cc48c6b58f4d54b880c393.pdf"
+    }
+  ]
+}

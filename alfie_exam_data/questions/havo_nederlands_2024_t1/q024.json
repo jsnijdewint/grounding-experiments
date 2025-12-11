@@ -1,0 +1,40 @@
+{
+  "id": "havo_nederlands_2024_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Hoe kan de houding van de auteur van tekst 3 ten opzichte van ontlezing bij jongeren het best worden getypeerd? De auteur</p><p><strong>A </strong>is teleurgesteld dat jongeren minder lezen, want boeken bieden zoveel waardevols.</p><p><strong>B </strong>onderkent het probleem van ontlezing, maar toont begrip voor de situatie van jongeren.</p><p><strong>C </strong>vindt de situatie niet zorgwekkend, want jongeren gaan als ze ouder zijn toch lezen.</p><p><strong>D </strong>windt zich erover op, maar snapt wel dat jong</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_fba5d5bcdd9a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e64529d1393448beb9499f8bd4fb3aaa.pdf"
+    }
+  ]
+}

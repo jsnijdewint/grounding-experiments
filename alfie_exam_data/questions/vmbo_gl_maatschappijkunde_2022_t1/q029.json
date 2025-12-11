@@ -1,0 +1,79 @@
+{
+  "id": "vmbo_gl_maatschappijkunde_2022_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "maatschappijkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 63,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In het strafrecht wordt een onderscheid gemaakt tussen overtredingen en misdrijven. Een overtreding is een lichte schending van de wet en een misdrijf een zware schending. In het schema hieronder staat dit verschil tussen een overtreding en misdrijf al ingevuld.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Geef in het schema op dezelfde manier <strong>twee andere </strong>verschillen tussen een overtreding en een misdrijf.<br>Doe het zo: neem het schema over en vul de verschillen in.</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\"><strong>overtreding</strong></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\"><strong>misdrijf</strong></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">voorbeeld</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">lichte schending van de wet</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">zware schending van de wet</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">verschil 1</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">verschil 2</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr></tbody></table></figure>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_712b7c946619.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/27c1cfe3520741b2aa540b9cc3f7b449.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><strong>tekst 11</strong><br><strong>Rechters leggen zwaardere straffen op voor ernstige misdrijven</strong><br>&nbsp;</p><p>Rechters hebben de laatste twintig jaar zwaardere straffen opgelegd. Dit blijkt uit een onderzoek van de Raad voor de rechtspraak. Vooral geweldsmisdrijven worden nu fors zwaarder bestraft. Ook vernielingen en misdrijven tegen orde en gezag worden zwaarder bestraft. Het lijkt er dus op dat de rechters reageren op de roep uit de samenleving om strengere straffen, concludeert onderzoeker Frank van Tulder.</p><p><br>naar: Trouw van 6 december 2019</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><strong>tekst 12</strong></p><p><strong>Agressieve en stelende klanten harder aangepakt</strong></p><p><br>Wie in Doetinchem tot twee keer toe agressie toont of een diefstal pleegt in een supermarkt, loopt vanaf 1 januari het risico een winkelverbod te krijgen voor twee jaar.<br>Eigenaren van elf supermarkten tekenden een overeenkomst met de politie van Doetinchem.<br>&nbsp;</p><p>naar: <a href=\"http://ad.nl\">ad.nl</a> van 11 december 2019</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_e2bd9cdb7082.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/99414996756c43abb26ccb66491aa5d5.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p><strong>tekst 13</strong><br><strong>Geldautomaten voortaan 's nachts dicht wegens plofkraken</strong></p><p><br>Geldautomaten worden per direct 's nachts buiten werking gesteld in de strijd tegen plofkraken. Tussen 23.00 uur en 07.00 uur staan automaten uit waardoor het voor criminelen lastiger wordt om tot een succesvolle kraak te komen. Dat meldt de Nederlandse Vereniging van Banken.<br>&nbsp;</p><p>naar: <a href=\"http://telegraaf.nl\">telegraaf.nl</a> van 16 december 2019</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p><strong>tekst 14</strong><br><strong>Jonge advocaten zien geen toekomst meer in sociale advocatuur</strong><br>&nbsp;</p><p>Jonge advocaten kiezen vrijwel niet meer voor een toekomst als sociaal advocaat. Er is al een tekort aan sociaal advocaten en dat tekort gaat oplopen, vreest de Orde van Advocaten.<br>Sociaal advocaten staan mensen bij die een laag inkomen hebben. Dat kan betekenen dat die mensen straks niet of nauwelijks nog aan een advocaat kunnen komen.<br>Tweede Kamerlid Van Nispen (SP) hield zelf een enquête onder sociaal advocaten. 70 procent gaf daarin aan te willen stoppen. \"Als alleen nog rijke mensen straks hun recht kunnen halen, dan is dat een vorm van ... .\"<br>&nbsp;</p><p>naar: <a href=\"http://nos.nl\">nos.nl</a> van 13 december 2019</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p><strong>tekst 15</strong><br><strong>Man met wapens in huis moet de cel in</strong></p><p><br>Een man bij wie de politie vier verboden wapens en munitie vond, is veroordeeld tot tien maanden cel, waarvan zes voorwaardelijk.<br>De politie kwam bij hem thuis om vragen te stellen over een overval, waarvan de man aangifte had gedaan. De man zei dat hij in 2017 thuis was overvallen.<br>In februari 2018 kwamen agenten bij hem voor een aanvullende verklaring. Toen lag er een gaspistool op tafel. De agenten namen het in beslag, maar werden daarna door de man uit zijn huis gezet. De officier van justitie gaf daarna toestemming om het hele huis te doorzoeken. Daarbij vonden ze nog drie wapens en munitie.<br>Bij de politie bekende de man dat de wapens van hem waren. Hij had ze nodig omdat hij zich onveilig voelde, verklaarde hij.<br>&nbsp;</p><p>naar: <a href=\"http://dvhn.nl\">dvhn.nl</a> van 26 november 2019</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p><strong>tekst 16</strong><br><strong>Voormalige voorzitter in cel</strong></p><p><br>De voormalig voorzitter van de centrale ondernemingsraad van de Nationale Politie heeft een half jaar celstraf gekregen.<br>F. G. gaf meer dan 300.000 euro uit in horecagelegenheden op rekening van de politie, stelde de rechtbank. F. G. gebruikte de creditcard van de politie zonder verantwoording af te leggen over uitgaven.<br>&nbsp;</p><p>naar: <a href=\"http://omroepflevoland.nl\">omroepflevoland.nl</a> van 30 januari 2020</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijkunde 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijkunde_2022_I_bijla_1fd39a85b14b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b66316467c294ba1abf44a12da236a28.pdf"
+    }
+  ]
+}

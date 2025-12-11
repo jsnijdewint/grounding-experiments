@@ -1,0 +1,45 @@
+{
+  "id": "vmbo_gl_nederlands_2024_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 60,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wat is de belangrijkste functie van alinea 9 ?<br><strong>A </strong>een advies geven<br><strong>B </strong>een conclusie trekken<br><strong>C </strong>een samenvatting geven<br><strong>D </strong>een toekomstverwachting geven</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<ul><li>Plantaardig voedsel .... omdat ...... <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"2em\"></mspace></mstyle></math></li><li>Dierlijk voedsel .... omdat ......</li></ul><p><br>Kies uit:<br>1 hoef je minder goed te kauwen<br>2 hoef je niet te kauwen<br>3 moet je goed kauwen<br>4 de cellen sappen en bacteriën bevatten<br>5 de cellen alleen een celmembraan hebben<br>6 de cellen een stugge celwand hebben die verpulverd moet worden</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_72e6e0ffb16a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f72e99feb3944c19bd1b658b5429d81a.pdf"
+    },
+    {
+      "name": "Nederlands 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_uitwerkbijla_f57b7da9a165.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7d469a250dee4df8b5245abf65e0587d.pdf"
+    }
+  ]
+}

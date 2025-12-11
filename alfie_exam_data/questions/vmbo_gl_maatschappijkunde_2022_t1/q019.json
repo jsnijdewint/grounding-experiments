@@ -1,0 +1,47 @@
+{
+  "id": "vmbo_gl_maatschappijkunde_2022_t1_q19",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "maatschappijkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 63,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Lees tekst 11.<br>Waarin staan de genoemde delicten uit tekst 11 beschreven?<br>A de Opiumwet<br>B de Wegenverkeerswet<br>C de Wet wapens en munitie<br>D het Wetboek van Strafrecht</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_712b7c946619.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/27c1cfe3520741b2aa540b9cc3f7b449.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><strong>tekst 11</strong><br><strong>Rechters leggen zwaardere straffen op voor ernstige misdrijven</strong><br>&nbsp;</p><p>Rechters hebben de laatste twintig jaar zwaardere straffen opgelegd. Dit blijkt uit een onderzoek van de Raad voor de rechtspraak. Vooral geweldsmisdrijven worden nu fors zwaarder bestraft. Ook vernielingen en misdrijven tegen orde en gezag worden zwaarder bestraft. Het lijkt er dus op dat de rechters reageren op de roep uit de samenleving om strengere straffen, concludeert onderzoeker Frank van Tulder.</p><p><br>naar: Trouw van 6 december 2019</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijkunde 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijkunde_2022_I_bijla_1fd39a85b14b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b66316467c294ba1abf44a12da236a28.pdf"
+    }
+  ]
+}

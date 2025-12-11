@@ -1,0 +1,89 @@
+{
+  "id": "vwo_biologie_2021_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 30,
+          "name": "Eiwitsynthese",
+          "prefix_code": 1
+        },
+        {
+          "id": 31,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 32,
+          "name": "Zelforganisatie van cellen",
+          "prefix_code": 3
+        },
+        {
+          "id": 33,
+          "name": "Moleculaire en cellulaire interactie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beschrijf op moleculair niveau een mogelijk nadelig gevolg hiervan voor deze cel.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tenzij anders vermeld, is er sprake van normale situaties en gezonde organismen (bij alle vragen in het examen).</p><p>De meest voorkomende hartritmestoornis is boezemfibrilleren. De stoornis komt veel voor bij ouderen. Onderzoeker Daniël Pijnappels werkt aan een therapie die gebruikmaakt van ledlampjes.</p><p>Hartspiercellen vormen - net als neuronen - aan elkaar gekoppelde banen die impulsen kunnen geleiden. Die impulsen veroorzaken het samentrekken van hartspiercellen. In principe kunnen hartspiercellen impulsen in twee richtingen geleiden, maar als gevolg van een refractaire periode na het optreden van een actiepotentiaal gebeurt dat niet. Zo ontstaan er regelmatige spiersamentrekkingen die zich in een bepaalde richting verplaatsen.<br>Bij beschadiging van hartspiercellen in een hartboezem kunnen impulsen wél de andere kant op lopen. Hierdoor ontstaan onregelmatige en ongecoördineerde samentrekkingen: het boezemfibrilleren. In afbeelding 1 is het impulsverloop bij een normale hartslag en bij boezemfibrilleren schematisch weergegeven, met daaronder de bijbehorende elektrocardiogrammen (ECG).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_87b882000a87.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/197608326ccc4253830e3041007ef783.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Bij boezemfibrilleren kunnen bloedstolsels ontstaan als gevolg van de beperkte doorstroming in het hart. Daardoor is er een verhoogd risico op een beroerte (herseninfarct).</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Het spierweefsel van de boezems wordt door een bindweefseltussenschot gescheiden van het spierweefsel van de kamers. Bindweefsel is een slechte geleider van elektrische impulsen. In het bovenaanzicht van een hart waarvan de boezems niet getekend zijn (afbeelding 2), is het lichtgekleurde bindweefsel te zien.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_b865dced3625.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c26a060335034b22913702a8859dbb61.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Drie momenten in de hartcyclus zijn:<br>1 het einde van de hartpauze<br>2 het midden van de boezemsystole<br>3 het midden van de kamersystole<br>&nbsp;</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Vaak gaat boezemfibrilleren vanzelf weer over, maar het kan ook een permanent karakter krijgen. Daarom neemt de cardioloog na de diagnose meestal maatregelen om het normale hartritme te herstellen. Chronisch boezemfibrilleren kan behandeld worden met een externe defibrillator. Deze geeft bij fibrilleren een sterke stroomstoot om alle hartspiercellen te depolariseren, waarna de normale boezemcontractie hersteld wordt. Dat is een heftige ingreep.<br>In het Leids Universitair Medisch Centrum is 'optogenetica' ingezet om een schokvrije inwendige defibrillator te ontwikkelen. Optogenetica maakt gebruik van een lichtgevoelig eiwit uit groenalgen. Het eiwit is een ionkanaal dat geopend wordt bij blootstelling aan blauw licht. In transgene hartspiercellen met dit lichtgevoelige eiwit, kunnen door een lichtflits impulsen opgewekt worden.</p><p>De onderzoeksgroep van Daniël Pijnappels gebruikte een virus om een gen uit de algen over te brengen in gekweekte hartspiercellen om ze lichtgevoelig te maken. Bij gebruik van een virus als vector komt het transgen op een willekeurige plaats in het DNA van de hartspiercel terecht.</p>"
+    }
+  ],
+  "bijlages": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "vmbo_gl_geschiedenis_en_staatsinrichting_2022_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "geschiedenis_en_staatsinrichting",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 65,
+      "domains": [
+        {
+          "id": 135,
+          "name": "Staatsinrichting van Nederland",
+          "prefix_code": "GS/K/5"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In 1918 werd Suze Groeneweg als eerste vrouw in de Tweede Kamer gekozen.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Geef eerst aan van welk kiesrecht Suze Groeneweg gebruik heeft gemaakt.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Geef daarna aan van welk kiesrecht Suze Groeneweg geen gebruik kon maken.<br>Doe het zo:<br>kiesrecht waar ze wél gebruik van maakte: ...<br>kiesrecht waar ze geen gebruik van kon maken: ...</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Geschiedenis en staatsinrichting 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_en_staatsinrichti_d97a81606872.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a82c2a3d929949f1803bcca598ae713f.pdf"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "vwo_wiskunde_b_2024_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 46,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bewijs dit.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Voor elke waarde van a wordt de functie <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>f</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi>a</mi>\r\n    </mrow>\r\n  </msub>\r\n</math> gegeven door:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>f</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi>a</mi>\r\n    </mrow>\r\n  </msub>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>x</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo>=</mo>\r\n  <mfrac>\r\n    <mrow>\r\n      <mi>a</mi>\r\n      <msup>\r\n        <mi>x</mi>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mn>2</mn>\r\n        </mrow>\r\n      </msup>\r\n      <mo>&#8722;</mo>\r\n      <mn>2</mn>\r\n    </mrow>\r\n    <mrow>\r\n      <msup>\r\n        <mi>x</mi>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mn>2</mn>\r\n        </mrow>\r\n      </msup>\r\n      <mo>+</mo>\r\n      <mi>a</mi>\r\n    </mrow>\r\n  </mfrac>\r\n</math></p><p>Er bestaat geen waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>a</mi>\r\n</math> waarvoor de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>f</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi>a</mi>\r\n    </mrow>\r\n  </msub>\r\n</math> een perforatie heeft</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_b_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_b_formules_e2addf3f392e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/470a7c92ad484df6baaee4f1da8379d6.pdf"
+    }
+  ]
+}

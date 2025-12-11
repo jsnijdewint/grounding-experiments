@@ -1,0 +1,61 @@
+{
+  "id": "vwo_nederlands_2022_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 53,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Illustreer aan de hand van alinea 8 hoe deze bewering van toepassing is op onze tijd. Maak voor je antwoord gebruik van onderstaande tabel. Geef antwoord in een of meer volledige zinnen.</p><p>&nbsp;</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\">constatering</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\"><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">&lt; al gegeven &gt; Het grootste bouwwerk dat we maken, is</td></tr><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">het world wide web.</td></tr></tbody></table></figure></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">probleem</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">gevaar</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">conclusie</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr></tbody></table></figure><p>&nbsp;</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De tekst ‘Alles is gemaakt om kapot te gaan’ kan door middel van onderstaande kopjes in achtereenvolgens vier delen worden onderverdeeld:</p><p>deel 1: Introductie</p><p>deel 2: Interpretatie van de tentoonstelling</p><p>deel 3: Reflectie op de tentoonstelling</p><p>deel 4. Eindoordeel over de tentoonstelling<br>&nbsp;</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“Als je daar goed over nadenkt, is dat ironisch.” (regels 49-51)</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Uit alinea 5 van tekst 1 blijkt dat de tentoonstelling van Hirst op te vatten is als kritiek op de moderne kunst.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“Alles wat we maken, is gemaakt om kapot te gaan”. (regels 143-144)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2022_I_bijlage_4ae2d5f8192e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dea44ec2b1b74c9cbd02db396bb8609a.pdf"
+    }
+  ]
+}

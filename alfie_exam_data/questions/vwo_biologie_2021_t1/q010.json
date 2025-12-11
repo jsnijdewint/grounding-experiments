@@ -1,0 +1,91 @@
+{
+  "id": "vwo_biologie_2021_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 36,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 37,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 38,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zal een echte zoetwatervis relatief meer of minder glomeruli hebben dan een echte zoutwatervis? En zal de permeabiliteit voor water van de verzamelbuisjes bij zo'n zoetwatervis groter of kleiner zijn dan bij zo'n zoutwatervis?<br>&nbsp;</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-right-color:!important;border-right-style:none;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-style:solid !important;border-top-width:1px !important;width:auto;\" rowspan=\"2\"><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">glomeruli</td></tr><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">zoetwatervis</td></tr></tbody></table></figure></td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-style:solid !important;border-top-width:1px !important;width:auto;\" rowspan=\"2\"><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">permeabiliteit verzamelbuisjes</td></tr><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">zoetwatervis</td></tr></tbody></table></figure></td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">A</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">meer</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">groter</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">B</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">meer</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">kleiner</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">C</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">minder</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">groter</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">D</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">minder</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">kleiner</td></tr></tbody></table></figure>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tijdens de grote onderhoudsbeurt die voor de Afsluitdijk gepland is, wordt de migratieroute voor trekvissen hersteld.</p><p>Het huidige IJsselmeer (afbeelding 1) was vroeger een estuarium: een brede riviermonding die uitliep in de Zuiderzee. Estuaria zijn over het algemeen relatief warme en rijke ecosystemen en voor veel vissoorten een belangrijk deel van de trekroute tussen zout water en zoet water. Door de aanleg van de Afsluitdijk werd deze route voor trekvissen geblokkeerd en veranderde de zoute Zuiderzee in het zoete IJsselmeer. Voor veel vissoorten is een estuarium een aantrekkelijke plaats om eitjes af te zetten, omdat de uitgekomen vislarven er snel en veilig kunnen opgroeien. In het relatief warme IJsselmeerwater groeien vislarven sneller dan in de Waddenzee.</p><p>&nbsp;</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Een koker dwars door de Afsluitdijk, met aansluitend een kilometerslange brakwaterrivier, maakt het IJsselmeer weer bereikbaar voor veel vissoorten. Afbeelding 2 geeft een impressie hiervan.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_43624e184600.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/94419e3692684231b76db0e707501e09.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Bij eb stroomt zoet water uit het IJsselmeer door deze vismigratierivier richting Waddenzee. Bepaalde trekvissen zullen dan, aangelokt door het zoete water, tegen de stroom in naar binnen zwemmen. Dat lukt alleen de sterke zwemmers, zoals de zalm. Bij vloed stroomt zout zeewater de vismigratierivier in en dan pas kunnen ook zwakke zwemmers, zoals jonge palingen (glasaaltjes), het IJsselmeer bereiken. De koker van de vismigratierivier wordt afgesloten zodra de zoutbelasting van het IJsselmeer te groot wordt.</p><p>Ecologen gebruikten een computermodel om de omstandigheden in het sterkst stromende deel van de geplande vismigratierivier te simuleren. Afbeelding 3 toont het resultaat hiervan voor een periode van 48 uur.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_f433f8576429.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/75c5e73598694156a61a1c43e57923af.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Trekvissen handhaven een osmotische waarde van het inwendige milieu die lager is dan die van zeewater. In zeewater moeten ze waterverlies voorkomen en passieve zoutopname compenseren. Dit doen ze door de in het darmkanaal geabsorbeerde zouten via de kieuwen en nieren uit te scheiden (afbeelding 4, linker tekening). Een verblijf in zoet water veroorzaakt wateropname en verlies van zouten. Om dit tegen te gaan nemen trekvissen actief zouten op via de kieuwen en produceren ze meer urine (afbeelding 4, rechter tekening).</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_e52e1e1448f8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e206f941c40f4f06ac712a47970f22a0.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Echte zoetwatervissen zijn aangepast aan het leven in zoet water. Om te kunnen overleven in zoet water zijn de nieren van echte zoetwatervissen anders gebouwd dan die van echte zoutwatervissen: er is een verschil in het aantal glomeruli en in de permeabiliteit van de wand van de verzamelbuisjes.</p>"
+    }
+  ],
+  "bijlages": []
+}

@@ -1,0 +1,53 @@
+{
+  "id": "vmbo_gl_economie_2022_t1_q32",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 126,
+          "name": "Internationale ontwikkelingen",
+          "prefix_code": "EC/K/7"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Het goede weer leverde dit jaar een recordoogst aan landbouwproducten op voor India.<br>Welk gevolg heeft de recordoogst voor de verkoopprijzen van deze landbouwproducten?<br>A Door het grotere aanbod dalen de verkoopprijzen.<br>B Door het grotere aanbod stijgen de verkoopprijzen.<br>C Door het lagere aanbod dalen de verkoopprijzen.<br>D Door het lagere aanbod stijgen de verkoopprijzen.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 7 in de bijlage.</p><p>India is een van de best presterende economieën van Azië, met een groei van het nationaal inkomen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn> <mo>,</mo> <mn>5</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> in 2017. Toch zijn er grote problemen, bijvoorbeeld in de landbouw.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_ce82d16503ef.webp",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b62583fbc9b74004b254533d6ed291ff.webp",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_ef2c1b8354d0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dc02323a63d64258a36e6a9729a51c74.pdf"
+    }
+  ]
+}

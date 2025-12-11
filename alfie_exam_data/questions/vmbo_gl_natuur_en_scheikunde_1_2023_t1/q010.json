@@ -1,0 +1,58 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2023_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 145,
+          "name": "Veiligheid in het verkeer",
+          "prefix_code": "NASK1/V/1"
+        },
+        {
+          "id": 147,
+          "name": "Vaardigheden in samenhang",
+          "prefix_code": "NASK1/V/4"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>De massa van het treintje met inzittenden is 9800 kg .<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Bereken de nettokracht op het treintje tijdens het versnellen.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>'Formula Rossa' is de naam van een achtbaan op een pretpark. De treintjes krijgen eerst een versnelling en daarna begint het traject met hoogteverschillen en loopings.</p><p>&nbsp;</p><p>Op een horizontale baan krijgt een treintje in een tijd van 4,8 s vanuit stilstand een snelheid van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>240</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">km</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">h</mi>&#160;</mrow></math>. Het treintje beweegt eenparig versneld. De versnelling is 14 <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><msup><mrow><mo>&#160;</mo><mi>m</mi><mo>/</mo><mi>s</mi></mrow><mn>2</mn></msup></math>.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_d5c0abb037d2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6732dad8c85744dba3097c975b304c40.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2023_I_146f2ef32a60.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a553a8c7e49437a900373fa6ec9748e.pdf"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "vwo_nederlands_2023_t1_q28",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 53,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit waarom werkgevers hun werknemers eigenlijk beter niet op een dergelijke wereldreis zouden kunnen laten gaan, op grond van de studies die in tekst 3 beschreven zijn. Geef antwoord in een of meer volledige zinnen en gebruik voor je antwoord niet meer dan 25 woorden.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tekst 3 kan in vier achtereenvolgende delen worden onderverdeeld:</p><p>deel 1: alinea 1</p><p>deel 2: alinea 2 tot en met 4</p><p>deel 3: alinea 5 tot en met 7</p><p>deel 4: alinea 8</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In alinea 4 wordt geconcludeerd dat reizen bijdraagt aan het succes van een bedrijf. Deze conclusie wordt onderbouwd met een verwijzing naar onderzoek naar grote modehuizen. Een kritische lezer zou vragen kunnen stellen bij deze onderbouwing.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>n alinea 6 en 7 staan twee zinnen of zinsgedeelten die lijken te benadrukken dat de conclusies van de beschreven studies serieus genomen kunnen worden.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In alinea 6 tot en met 8 wordt gesproken over ‘cognitieve flexibiliteit’ en ‘morele flexibiliteit’ van internationale ervaring.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Uit alinea 8 zijn twee aanbevelingen af te leiden: een voor werknemers en een voor werkgevers</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>“Op zich zijn die resultaten misschien niet anders dan verwacht: dat is nu precies de reden dat internationale ervaring zo hoog gewaardeerd wordt.” (regels 78-82) Al zijn de resultaten van het onderzoek misschien niet onverwacht, het onderzoek is wel van grote waarde.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>In alinea 1 worden voorbeelden genoemd van manieren waarop werkgevers hun medewerkers een buitenlandverblijf aanbieden, waaronder een wereldreis door verschillende landen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_3bc847d5f78a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d2f0029264294831adce4d30ca84cbc0.pdf"
+    }
+  ]
+}

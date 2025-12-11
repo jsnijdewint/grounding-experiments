@@ -1,0 +1,70 @@
+{
+  "id": "vmbo_gl_wiskunde_2024_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "wiskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 67,
+      "domains": [
+        {
+          "id": 162,
+          "name": "Meetkunde",
+          "prefix_code": "WI/K/6"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoek <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>F</mi> <mrow data-mjx-texclass=\"ORD\"><mn>1</mn>&#160;</mrow></msub></math>. Schrijf je berekening op.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij veel buitensporten staat er voor de trainer en de wisselspelers een dug-out langs het veld.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_68c8ff9f8c81.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b098584106004d4995ea6b09b078eaa9.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_7c8d6f718ce5.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/65b3ea378a1d4c0887976a5328adcb4a.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Je ziet een dug-out en een tekening van een zijwand. De buitenkant van de dug-out is gemaakt van aluminium buizen en kunststof platen. In de tekening van de zijwand zijn de aluminium buizen te zien. De gestippelde lijnen zijn hulplijnen. De horizontale lijnen verdelen de 2 meter hoge dug-out in vijf gelijke stukken van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>40</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">cm</mi> </mrow><mo>.</mo> <mi>C</mi> <mi>D</mi>&#160;</math>is een deel van een cirkel met middelpunt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi>&#160;</math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "VMBO_2024_wiskunde_formules.pdf",
+      "media_path": "media/bijlages/VMBO_2024_wiskunde_formules_d4a6470d6aaf.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0e5082e035824e97a227270dda746c13.pdf"
+    },
+    {
+      "name": "Wiskunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_2024_I_uitwerkbijlage_468b9bf175b5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a9189e3980b41ebb0534167115da4e4.pdf"
+    }
+  ]
+}

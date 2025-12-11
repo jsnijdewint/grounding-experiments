@@ -1,0 +1,83 @@
+{
+  "id": "vwo_natuurkunde_2023_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 49,
+          "name": "Elektrische systemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 50,
+          "name": "Elektrische en magnetische velden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef in de figuur op de uitwerkbijlage een mogelijke positie aan voor de veiligheidsthermostaat.</p>",
+    "max_score": 1,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_6072ee23cec4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7e59765b74ed4298a86a901979f2a3f5.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Cappuccino bestaat uit espressokoffie en met stoom opgeschuimde melk. Met een espressoapparaat kan je koffiezetten en stoom maken om de melk op te schuimen.</p><p>&nbsp;</p><p>Het espressoapparaat dat is afgebeeld in figuur 1 gebruikt voor beide handelingen één verwarmingselement. Dit verwarmingselement bevindt zich in de boiler. Dit is de ketel waarin water (onder druk) wordt opgewarmd. Op het voorpaneel van het apparaat zitten twee knoppen:</p><p>− de aan-uitknop: alleen als deze knop aanstaat, werkt het apparaat. Het verwarmingselement verwarmt dan het water tot een temperatuur van net onder 100 °C;</p><p>− de stoomknop: als deze knop ook aanstaat, verwarmt het verwarmingselement water onder druk tot een temperatuur van 120 °C.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_b88b19b168b1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a3cac043432f4d95b990be31b4d4f8dd.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Als de aan-uitknop aangezet wordt, gaat het lampje branden. Het lampje brandt totdat het water de juiste temperatuur heeft. In figuur 2 op de volgende bladzijde is een gedeelte van het schakelschema met het verwarmingselement weergegeven. Het apparaat is aangesloten op de netspanning (230 V). De temperatuurregeling gebeurt met behulp van thermostaten die in de boiler zijn aangebracht. Een thermostaat kan gezien worden als een schakelaar die onder een bepaalde temperatuur gesloten is en boven die temperatuur open is.</p><p>&nbsp;</p><p>Het espressoapparaat bevat drie thermostaten:</p><p>− een warmwaterthermostaat: deze is afgesteld op een temperatuur van iets onder 100 °C;</p><p>− een stoomthermostaat: deze is afgesteld op een temperatuur van 120 °C;</p><p>− een veiligheidsthermostaat (niet afgebeeld in figuur 2): deze schakelt het verwarmingselement uit wanneer de temperatuur toch te hoog wordt doordat een van de andere thermostaten niet goed werkt. Deze thermostaat is afgesteld op een temperatuur van rond 150 °C.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_2455f049f77a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7006f313c20b4e82b71cae4e365327fc.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In de schakeling in figuur 2 is de stoomknop nog niet aangesloten. Figuur 2 staat ook op de uitwerkbijlage.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In figuur 2 is de veiligheidsthermostaat nog niet opgenomen. Als de veiligheidsthermostaat het verwarmingselement uitschakelt, blijft het lampje branden.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2023_I_uitwerkbijl_dcb32a1b5377.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e8c6f0ebe587432bb96bfde82bed13ab.pdf"
+    }
+  ]
+}

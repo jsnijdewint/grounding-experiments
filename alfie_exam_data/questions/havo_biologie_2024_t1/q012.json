@@ -1,0 +1,94 @@
+{
+  "id": "havo_biologie_2024_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 130,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        },
+        {
+          "id": 115,
+          "name": "Vorm-functie denken",
+          "prefix_code": 11
+        },
+        {
+          "id": 116,
+          "name": "Ecologisch denken",
+          "prefix_code": 12
+        },
+        {
+          "id": 117,
+          "name": "Evolutionair denken",
+          "prefix_code": 13
+        },
+        {
+          "id": 118,
+          "name": "Systeemdenken",
+          "prefix_code": 14
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wat moet worden ingevuld bij 1 en bij 2?&nbsp;<br>bij 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; bij 2&nbsp;<br>A adaptatie &nbsp; &nbsp; &nbsp; &nbsp; fitness&nbsp;<br>B adaptatie &nbsp; &nbsp; &nbsp; &nbsp; genenpool&nbsp;<br>C selectiedruk &nbsp; &nbsp; fitness&nbsp;<br>D selectiedruk &nbsp; &nbsp;genenpool</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Met de app SnailSnap op hun telefoon maken Dylan en Senna foto’s van slakken rond hun huis. Zo doen ze mee aan een onderzoek naar de verspreiding en evolutie van kleurvormen van de gewone tuinslak.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_e7961e17b819.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cac391ab65fa47b7ad739951dda51e77.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De kleur van het huisje wordt bepaald door één gen waarvan drie allelen bekend zijn. Het allel Cb (bruin) is dominant over Cr (roze). Beide zijn dominant over cg (geel).</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Niels Kerstes, onderzoeker van Naturalis, heeft de gegevens van 8000 waarnemingen in 2017 verwerkt in een infographic (afbeelding 3).</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_10cea4f484b1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/34c74c7e08dd4c05880ae9a4d2e1a1b4.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Dylan en Senna bekijken de infographic en doen de volgende uitspraken:&nbsp;<br>1 In een stedelijke omgeving is een groter aandeel slakken met strepen waargenomen dan in een landelijke omgeving.&nbsp;<br>2 Er zijn ongeveer 1600 bruine slakken waargenomen met SnailSnap.&nbsp;<br>3 Uit de infographic blijkt dat in de stedelijke omgeving ongeveer evenveel slakken zijn waargenomen als in de landelijke omgeving.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Zoals Kerstes verwachtte, worden in een stedelijke omgeving relatief meer gele slakken waargenomen dan in een landelijke omgeving. Het temperatuurverschil tussen een stedelijke en een landelijke omgeving kan oplopen tot 7 °C. De gele huisjes hebben de lichtste kleur en zullen daardoor meer licht weerkaatsen, en dus minder opwarmen.<br><br>Kerstes verwacht dat door de temperatuurstijging als gevolg van klimaatverandering het aandeel gele slakken in de populatie zal toenemen. Over de toename van het aandeel gele slakken wordt de volgende uitspraak gedaan: De temperatuurstijging veroorzaakt …(1)… waardoor de …(2)… van gele slakken toeneemt ten opzichte van roze en bruine slakken.</p>"
+    }
+  ],
+  "bijlages": []
+}

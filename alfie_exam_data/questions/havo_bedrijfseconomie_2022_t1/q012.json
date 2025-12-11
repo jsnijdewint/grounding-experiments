@@ -1,0 +1,118 @@
+{
+  "id": "havo_bedrijfseconomie_2022_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "bedrijfseconomie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 33,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 104,
+          "name": "Vastleggen van financiële en niet financiële informatie",
+          "prefix_code": 1
+        },
+        {
+          "id": 105,
+          "name": "Kosten- en winstvraagstukken",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Hebben de maatregelen geleid tot een positief bedrijfsresultaat over het derde en vierde kwartaal van 2020? Stel hiervoor voor restaurant De Waal de winst- en verliesrekening op over het derde en vierde kwartaal van 2020.</p><p><strong>Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.</strong></p>",
+    "max_score": 7,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_3bae89cfa384.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8865c671963e426193ec68c7aa460cec.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Bij deze opgave horen de informatiebronnen 1 tot en met 3.</i></p><p><br><i>In deze opgave worden de belastingen buiten beschouwing gelaten.</i></p><p><br><i>In deze opgave wordt de omzet van drank buiten beschouwing gelaten.</i></p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_8c6ad8671866.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9821191503004d65877903d0e49ba2e5.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In 2020 brak het coronavirus uit en greep de overheid in Nederland in om het coronavirus onder controle te krijgen:</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_3782ca3a9f22.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/668467e3c8ed4de380df462b19e093a1.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Sytz en Alex zijn de eigenaren van restaurant De Waal. Restaurant De Waal heeft geen rechtspersoonlijkheid.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De ingrepen van de overheid hadden een negatief effect op de verkopen van restaurant De Waal. Om een faillissement te voorkomen, troffen Sytz en Alex maatregelen.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p><strong>Maatregel in het tweede kwartaal 2020: het bezorgen van maaltijden</strong></p><p><br>Vanaf het begin van het tweede kwartaal van 2020 startte restaurant De Waal met het bezorgen van driegangenmenu's. Een deel van het personeel werd ingezet als bezorger waardoor niemand ontslagen hoefde te worden. Om drukte in het restaurant te voorkomen was afhalen niet mogelijk.</p><p>&nbsp;</p><p>In informatiebron 1 zijn onder andere de omzetgegevens van restaurant De Waal en van de restaurantbranche opgenomen.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Sytz vergelijkt deze procentuele omzetdaling met die van de restaurantbranche in dezelfde periode.</p><p>Uitspraak 1: de omzet van De Waal daalde 1 procent minder dan die van de restaurantbranche.<br>Uitspraak 2: de omzet van De Waal was 1 procent hoger dan die van de restaurantbranche.<br>Uitspraak 3: de omzet van De Waal daalde 1 procentpunt minder dan die van de restaurantbranche<br>Uitspraak 4: de omzet van De Waal was 1 procentpunt hoger dan die van de restaurantbranche</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Het tweede kwartaal van 2020 leverde een negatief resultaat op. Sytz en Alex willen weten hoeveel driegangenmenu's te weinig zijn bezorgd waardoor in het tweede kwartaal van 2020 de break-evenafzet niet werd bereikt.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p><strong>De maatregelen voor het derde en vierde kwartaal 2020</strong></p><p><br>Sytz en Alex stelden een plan op om te komen tot een positief bedrijfsresultaat over het derde en vierde kwartaal 2020.</p><p>&nbsp;</p><p>Vanaf het derde kwartaal 2020 konden in beperkte mate (met 1,5 meter afstand tussen de tafels) weer gasten worden ontvangen.</p><p>&nbsp;</p><p>De maatregelen van Sytz en Alex voor het derde en vierde kwartaal van 2020:</p><ul><li>het beperken van het maximale aantal gasten bij private dining in de afgesloten ruimte tot 10 personen</li><li>het voortzetten van het bezorgen van driegangenmenu's</li><li>het deelnemen door het personeel aan een online cursus: coronasafe in de horeca</li><li>het gebruik van een online systeem</li><li>de aanvraag van een huurverlaging</li><li>&nbsp;</li></ul><p>De gevolgen van de maatregelen staan in informatiebron 3.</p>"
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>De medewerkers van restaurant De Waal volgden de cursus 'coronasafe in de horeca' tijdens de werktijden. De cursuskosten waren voor rekening van de werkgever (zie informatiebron 3).</p>"
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p><strong>Het financiële resultaat als gevolg van de maatregelen</strong></p><p><br>De aanvraag voor de huurverlaging werd geaccepteerd door de verhuurder van het pand.<br>Met behulp van de financiële gegevens kon de winst- en verliesrekening over het derde en vierde kwartaal van 2020 worden opgesteld.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_bijlag_70e2ce33bdc7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/644420d6788d4f0f80e381cd749535ed.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_uitwer_56a28eba2520.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2d2bf6c37a654f14bdb890765dd0cb67.pdf"
+    }
+  ]
+}

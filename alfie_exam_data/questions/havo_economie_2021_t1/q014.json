@@ -1,0 +1,58 @@
+{
+  "id": "havo_economie_2021_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 78,
+          "name": "Goede tijden, slechte tijden",
+          "prefix_code": "I"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Maak van het onderstaande schema een economisch juiste redenering. Doe het als volgt:</p><ul><li>Schrijf de letters a tot en met dop.</li><li>Schrijf achter elke letter het juiste economische verschijnsel.</li></ul><p>Kies uit:<br>1 besteedbaar inkomen daalt<br>2 binnenlandse bestedingen dalen<br>3 binnenlandse productie daalt<br>4 consumptie daalt</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>fragment 1 uit een economisch rapport: Door de economische crisis die in 2008 begon, liep het overheidstekort in Nederland op tot <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>34</mn>&#160;</math> miljard in 2010. Bedrijfswinsten daalden en daarmee de belastinginkomsten. Tegelijk liepen de overheidsuitgaven sterk op: door toename van het aantal werklozen steeg het aantal uitkeringen. In 2010 heeft het overheidstekort van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>34</mn>&#160;</math> miljard geleid tot een toename van de overheidsschuld van minder dan € 34 miljard (zie bron 1).</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>fragment 2 uit een economisch rapport: Om aan de eisen van het Stabiliteitspact (zie bron 2) van de Economische en Monetaire Unie (EMU) te voldoen, heeft de Nederlandse overheid in de periode 2010-2015 diverse maatregelen genomen. Zo werden de overheidsuitgaven verlaagd en de overheidsinkomsten verhoogd (zie bron 3), waardoor de begroting van 2015 redelijk op orde is gekomen (zie bron 1). Maar als gevolg van die maatregelen zijn er wel bijna 400.000 banen verloren gegaan.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_c60b53ee3af8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/54e2db41da724c9a86903b19c1f5ad1d.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2021_I_bijlage_78b2ccc4e0ab.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e553e4fb92dd414ba69c047a982b4e48.pdf"
+    }
+  ]
+}

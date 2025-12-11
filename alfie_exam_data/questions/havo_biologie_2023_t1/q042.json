@@ -1,0 +1,65 @@
+{
+  "id": "havo_biologie_2023_t1_q42",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 122,
+          "name": "Zelforganisatie van cellen",
+          "prefix_code": 3
+        },
+        {
+          "id": 123,
+          "name": "Erfelijke eigenschap",
+          "prefix_code": 7
+        },
+        {
+          "id": 124,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 130,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Verklaar hoe door fokken de genetische variatie kan afnemen.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Aya volgt de opleiding archeologie aan de hogeschool Saxion. Ze loopt stage in Kazachstan op een vindplaats van een prehistorische paardenboerderij. Daar wordt onderzocht wanneer de mens voor het eerst wilde paarden ging temmen.</p><p>Aya selecteert voorwerpen om met behulp van de C14-methode te dateren. Bij deze methode wordt in het laboratorium de ouderdom bepaald aan de hand van de relatieve hoeveelheid radioactieve koolstofisotopen die aanwezig zijn in organische stoffen. Uit de datering blijkt dat de paardenboerderij er rond 3500 voor Christus moet hebben gestaan.<br>Drie voorwerpen zijn:</p><ul><li>een paardenbot</li><li>een houten kom</li><li>een stenen gebruiksvoorwerp</li></ul>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De paarden werden waarschijnlijk gemolken; dit werd afgeleid uit de vondst van melkzuur in de resten van houten kommen.<br>Het melkzuur ontstond toen de lactose uit de paardenmelk werd omgezet tijdens een bepaald stofwisselingsproces.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Uit DNA-analyse blijkt dat alle huidige tamme paardenrassen (Equus ferus caballus) afstammen van 17 verschillende familiegroepen wilde paarden. De genetische variatie in het DNA van de Y-chromosomen van tamme paarden blijkt klein te zijn.<br>Bij paarden wordt het geslacht op dezelfde manier door de chromosomen bepaald als bij mensen.</p><p>Aya leest dat de genetische variatie van de Y-chromosomen bij tamme paarden is afgenomen als gevolg van fokken (kruisen).</p>"
+    }
+  ],
+  "bijlages": []
+}

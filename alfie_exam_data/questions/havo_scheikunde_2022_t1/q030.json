@@ -1,0 +1,52 @@
+{
+  "id": "havo_scheikunde_2022_t1_q30",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef de naam van de beweeglijke geladen deeltjes in Nordic gold.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De munten van 10, 20 en 50 eurocent zijn gemaakt van 'Nordic gold'. Dit materiaal is een legering van koper, aluminium, zink en tin. In tabel 1 staan enkele gegevens van de atoomsoorten in Nordic gold.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_4a442c70d447.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5cd4956861cd4463abe51b48648dd0cf.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Nordic gold heeft een specifieke samenstelling en daarmee een specifiek elektrische-geleidingsvermogen. Het elektrische-geleidingsvermogen kan gebruikt worden voor de herkenning van munten in muntgeldautomaten. Dit geleidingsvermogen is een gevolg van de aanwezigheid van beweeglijke geladen deeltjes.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2022_I_uitwerkbijla_f5e7f9155c59.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a02c79c5875f4978b042c59ce1514099.pdf"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "vwo_wiskunde_a_2022_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 76,
+          "name": "Algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 77,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Laat zien hoe de tweede formule uit de eerste formule is af te leiden.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De <strong>levensverwachting </strong>is het aantal jaren dat mensen naar verwachting gemiddeld zullen leven vanaf hun geboorte. In 2013 was de levensverwachting in Nederland 81,04 jaar. Dat betekent dus dat mensen die in 2013 in Nederland geboren zijn, gemiddeld 81 jaar en 15 dagen oud zullen worden.</p><p>In Nederland stijgt de levensverwachting al geruime tijd. In figuur 1 is de ontwikkeling van de levensverwachting in Nederland sinds 1950 weergegeven. Deze figuur staat ook vergroot op de uitwerkbijlage.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_a6377197c22f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bc1f1c73114845f1be14c8050dfce144.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In figuur 1 is te zien dat de levensverwachting vrijwel lineair stijgt.</p><p><br>Volgens een recente schatting zal in 2099 de levensverwachting van Nederlanders 90,78 jaar zijn.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Uit onderzoek is bekend dat mensen met een hoog inkomen gemiddeld langer leven dan mensen met een laag inkomen. Het is dan ook niet verwonderlijk dat de levensverwachting in landen met een hoog gemiddeld inkomen per persoon doorgaans hoger is dan in landen met een laag gemiddeld inkomen per persoon. In figuur 2 is voor een groot aantal landen de levensverwachting uitgezet tegen het gemiddelde inkomen per persoon. Hierbij stelt iedere stip een land voor. Op de horizontale as staat het gemiddelde inkomen per persoon <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>(in dollars) en op de verticale as de levensverwachting <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi>&#160;</math>(in jaren). Alle gegevens gaan over 2012.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_57564a082e8e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1596ba0a589744d7bbc6870e040fd445.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In figuur 2 heeft zowel de horizontale als de verticale as een logaritmische schaalverdeling. Ook is er een trendlijn toegevoegd die het verband tussen gemiddeld inkomen per persoon en levensverwachting benadert.</p><p>Met een gemiddeld inkomen per persoon van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">$</mi> <mn>128722</mn>&#160;</math>is Qatar het land met het hoogste gemiddelde inkomen per persoon ter wereld. Toch was de levensverwachting daar in 2012 lager dan je volgens de trendlijn mag verwachten.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De trendlijn in figuur 2 is een rechte lijn, dus er bestaat een lineair verband tussen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>log</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mi>L</mi> <mo stretchy=\"false\">)</mo>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>log</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mi>P</mi> <mo stretchy=\"false\">)</mo>&#160;</math>. Dit verband ziet er als volgt uit:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>log</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mi>L</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mn>0</mn> <mo>,</mo> <mn>084</mn> <mo>&#8901;</mo> <mi>log</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mi>P</mi> <mo stretchy=\"false\">)</mo> <mo>+</mo> <mn>1</mn> <mo>,</mo> <mn>509</mn></math></p><p>Je kunt deze formule ook schrijven als een machtsverband. Dat verband ziet er dan als volgt uit:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi> <mo>=</mo> <mn>32</mn> <mo>,</mo> <mn>28</mn> <mo>&#8901;</mo> <msup><mi>P</mi> <mrow data-mjx-texclass=\"ORD\"><mn>0</mn> <mo>,</mo> <mn>084</mn>&#160;</mrow></msup></math></p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_73fca02d2c1b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5d05a69549d843d992d31326c4d8bd2f.pdf"
+    },
+    {
+      "name": "Wiskunde A 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2022_I_uitwerkbijla_986f038aa607.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/05b11d946a864537912b61b903133caa.pdf"
+    }
+  ]
+}

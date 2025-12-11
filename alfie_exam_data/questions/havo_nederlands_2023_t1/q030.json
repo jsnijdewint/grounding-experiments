@@ -1,0 +1,51 @@
+{
+  "id": "havo_nederlands_2023_t1_q30",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zou bij dit voorstel uit tekst 3, een degressief bekostigingssysteem, de auteur van tekst 2 nog steeds voor internationalisering pleiten en waarom?</p><p><strong>A </strong>Ja, want de financiële kosten voor internationalisering vallen in het niet bij de economische voordelen die internationalisering oplevert.</p><p><strong>B </strong>Ja, want internationalisering is meer dan alleen maar de komst van buitenlandse studenten naar Nederland.</p><p><strong>C </strong>Nee, want de basis voor uitwisseling van economische, culturele en diplomatieke contacten wordt dan te smal.</p><p><strong>D </strong>Nee, want er is dan geen sprake van een financiële balans tussen inkomende buitenlandse en uitgaande Nederlandse studenten.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In zowel tekst 2 als tekst 3 komen negatieve gevolgen van internationalisering aan bod.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“Ben benieuwd of bij mijn voorstel de universitaire bestuurders nog steeds de zegeningen van internationalisering blijven prediken.” (tekst 3, regels 178-181)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_4c535c813bac.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/31997ba285504e0396b7bc07c4c13230.pdf"
+    }
+  ]
+}

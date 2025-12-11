@@ -1,0 +1,70 @@
+{
+  "id": "havo_wiskunde_a_2024_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [
+        {
+          "id": 97,
+          "name": "Algebra en tellen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken welke waarden van de hartslag er voor Hans mogelijk zijn waarbij hij zich houdt aan het advies. Geef de waarden in een geheel aantal slagen per minuut.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tijdens het hardlopen gaat je hartslag omhoog. Maar als die heel hoog oploopt, werkt je hart niet meer optimaal. Daarom is het van belang om rekening te houden met je maximale hartslag. De maximale hartslag is onder andere afhankelijk van je leeftijd en je geslacht. In deze opgave kijken we naar de hartslag van volwassen mannen. Er zijn verschillende formules om de maximale hartslag te berekenen, bijvoorbeeld voor ongetrainde en getrainde mannen:&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>M</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>ongetraind </mtext>\r\n    </mrow>\r\n  </msub>\r\n  <mo>=</mo>\r\n  <mn>220</mn>\r\n  <mo>&#8722;</mo>\r\n  <mi>L</mi>\r\n</math> (formule 1)&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>M</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>getraind </mtext>\r\n    </mrow>\r\n  </msub>\r\n  <mo>=</mo>\r\n  <mn>205</mn>\r\n  <mo>,</mo>\r\n  <mn>8</mn>\r\n  <mo>&#8722;</mo>\r\n  <mn>0</mn>\r\n  <mo>,</mo>\r\n  <mn>685</mn>\r\n  <mo>&#8901;</mo>\r\n  <mi>L</mi>\r\n</math> (formule 2)&nbsp;</p><p>Hierin is M de maximale hartslag in aantal slagen per minuut en <i>L</i> de leeftijd in hele jaren.&nbsp;</p><p>&nbsp;</p><p>De hartslag geeft je belangrijke informatie tijdens een training. Met behulp van een sporthorloge kun je je hartslag tijdens de training in de gaten houden. De tabel geeft voor diverse soorten trainingen advies over de hartslag die je tijdens die training zou moeten aanhouden.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2b03678e9cc4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9374dcb3cd9548e88cee840be81b5ecb.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_d1edae1bdb50.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/34b5aaad1c6642c19a4bb9749130fd4e.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Hans is een getrainde man van 48 jaar, houdt een rustige duurtraining en volgt daarbij het advies uit de tabel op.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde A 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2024_I_uitwerkbijla_f9ae22db2d27.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/803d0c79996043e4a0d7ab20f340aa91.pdf"
+    },
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_11e2f4336287.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/68b501e3c58045cc93dfc3658f67cc97.pdf"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "havo_biologie_2023_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beredeneer dat buikademhaling een te hoge druk op de baarmoeder kan veroorzaken.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Layla is verloskundige. Ze begeleidt de zwangere Monique vanaf de prille zwangerschap tot en met de bevalling.</p><p>Monique kocht een zwangerschapstest bij de drogist nadat haar menstruatie uitbleef. Zo'n test toont het hormoon HCG in de urine aan. Het embryonaal deel van de placenta produceert gedurende het begin van de zwangerschap steeds meer HCG, dat in het bloed van de moeder terechtkomt.<br>Enkele bloedvaten zijn:<br>1 longader<br>2 longslagader<br>3 nierader<br>4 nierslagader<br>5 ader van de baarmoeder<br>6 slagader van de baarmoeder</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Bij elk bezoek controleert Layla Moniques bloeddruk. Bij sommige zwangere vrouwen komt namelijk een afwijkende bloeddruk voor die ongunstig kan zijn voor de foetus. De afwijkende bloeddruk ontstaat doordat stoffen uit de placenta de slagadertjes in het lichaam van de moeder laten vernauwen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Layla legt uit aan Monique hoe ze de weeën (samentrekkingen van de baarmoederwand) tijdens de bevalling zo goed mogelijk kan opvangen: \"In het begin is zuchten (rustige buikademhaling) gunstig voor de voortgang van de bevalling. Wanneer een wee te heftig wordt, kan je overgaan op puffen (snelle borstademhaling) zodat er nog niet te veel druk op de baarmoeder gezet wordt.\"</p>"
+    }
+  ],
+  "bijlages": []
+}

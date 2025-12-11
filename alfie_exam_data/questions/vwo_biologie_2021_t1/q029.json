@@ -1,0 +1,107 @@
+{
+  "id": "vwo_biologie_2021_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 34,
+          "name": "Reproductie van het organisme",
+          "prefix_code": 7
+        },
+        {
+          "id": 35,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 43,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        },
+        {
+          "id": 19,
+          "name": "Onderzoeken",
+          "prefix_code": 5
+        },
+        {
+          "id": 20,
+          "name": "Ontwerpen",
+          "prefix_code": 6
+        },
+        {
+          "id": 21,
+          "name": "Modelvorming",
+          "prefix_code": 7
+        },
+        {
+          "id": 22,
+          "name": "Natuurwetenschappelijk instrumentarium",
+          "prefix_code": 8
+        },
+        {
+          "id": 23,
+          "name": "Waarderen en oordelen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<ul><li>Geef de twee kruisingstabellen waaruit de genotypen in de F1 en de F2 blijken. Gebruik de symbolen B en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">B</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">s</mi>&#160;</mrow></mrow></msup></math>voor de allelen.</li><li>Geef in beide tabellen aan welk gedeelte kan zelfbestuiven.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Dankzij een innovatieve techniek, ontwikkeld door een Nederlands plantenveredelingsbedrijf, kunnen boeren verbeterde aardappels telen uit zaad in plaats van uit pootaardappels.</p><p>Aardappelplanten (Solanum tuberosum) krijgen bloemen die na bestuiving uitgroeien tot bessen met honderden zaden. Beter bekend is de voortplanting door ondergronds gevormde zetmeelrijke knollen: de aardappels (afbeelding 1). De teelt van consumptieaardappels in Nederland is vooral gebaseerd op het gebruik van de knollen: een teler koopt ze als pootaardappels bij een vermeerderingsbedrijf en zet ze in de grond. Uit elke pootaardappel groeit een aardappelplant die weer nieuwe knollen produceert.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_eaf5a70fecc6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5b3f58773d6743a1939f54fb345ac85e.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Zodra de pootaardappels of de uitlopers daarvan boven de grond uitkomen en er licht op valt, worden ze groen door de vorming van chlorofyl. In het licht neemt ook de hoeveelheid solanine, een giftige stof, in de bovengrondse delen van de plant snel toe. Solanine wordt niet afgebroken tijdens het koken. Het Voedingscentrum raadt daarom aan de groene delen van aardappels vóór bereiding ruim weg te snijden.<br>Een middelgrote aardappel weegt 50 gram. De niet-groene delen van aardappels bevatten maximaal 10 mg solanine per 100 gram. Vergiftigingsverschijnselen zoals misselijkheid, braken en hartritmestoornissen treden op bij een inname van 2,5 mg solanine per kilogram lichaamsgewicht per dag.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Tetraploïde (4n) aardappelplanten zijn vaak groter en produceren grotere knollen dan de diploïde planten. Doordat de rassen die in de landbouw worden gebruikt vrijwel allemaal tetraploïd zijn, is aardappelveredeling lastig.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Aardappelveredelaars hebben eeuwenlang getracht door kruising en selectie gewenste eigenschappen homozygoot in de tetraploïde planten te krijgen, zoals resistentie tegen het aardappelvirus PVS.<br>Een recessief allel r codeert voor deze resistentie.<br>Twee tetraploïde aardappelplanten met genotype RRrr worden met elkaar gekruist. Bij tetraploïde planten ontstaan na meiose diploïde geslachtscellen.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Tetraploïde aardappelrassen veredelen om een hogere opbrengst te verkrijgen, is moeilijk en tijdrovend. De Wageningse onderzoeker Pim Lindhout begon daarom met diploïde rassen. Hij kruiste een diploïde S. tuberosum die relatief grote knollen vormt, met de verwante soort S. chacoense die kleine knolletjes maakt.</p><p>Bij de in de landbouw gebruikte aardappelrassen komt alleen kruisbestuiving (bestuiving met stuifmeel van een andere plant) voor, wat het lastig maakt om een homozygote zuivere lijn te verkrijgen. S. chacoense-planten kunnen echter ook 'zelfbestuiven' (bevrucht worden door eigen stuifmeel) wanneer ze ten minste één <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">B</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">S</mi>&#160;</mrow></mrow></msup></math>-allel bezitten. Met een diploïd ras dat kan zelfbestuiven, wordt het veredelen een stuk eenvoudiger.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Lindhout voerde een kruising uit tussen een S. chacoense- en een S. tuberosum-plant. Bij de aardappelplanten die daaruit ontstonden (F1) werd zelfbestuiving toegepast om een F2 te krijgen.<br>Van de planten in de F1 kon ongeveer 50% zelfbestuiven en in de F2 waren dat er 10 van de 13.<br>Met behulp van een kruisingsschema kunnen deze verhoudingen worden verklaard.</p>"
+    }
+  ],
+  "bijlages": []
+}

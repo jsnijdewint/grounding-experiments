@@ -1,0 +1,71 @@
+{
+  "id": "vmbo_gl_aardrijkskunde_2024_t1_q39",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "aardrijkskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 71,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bekijk bron 34.<br>De drie bevolkingsdiagrammen van China in bron 34 zijn in willekeurige volgorde van de jaren 2000, 2010 en 2020.<br>Bij welke keuze staat de volgorde van de bevolkingsdiagrammen juist?</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom:1px solid !important;border-left-color:!important;border-left-style:none;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;\" colspan=\"1\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mn mathvariant=\"bold\">2</mn> <mn mathvariant=\"bold\">0</mn> <mn mathvariant=\"bold\">0</mn> <mn mathvariant=\"bold\">0</mn>&#160;</mrow></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mn mathvariant=\"bold\">2</mn> <mn mathvariant=\"bold\">0</mn> <mn mathvariant=\"bold\">1</mn> <mn mathvariant=\"bold\">0</mn>&#160;</mrow></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mn mathvariant=\"bold\">2</mn> <mn mathvariant=\"bold\">0</mn> <mn mathvariant=\"bold\">2</mn> <mn mathvariant=\"bold\">0</mn>&#160;</mrow></math></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">A</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">bevolkingsdiagram 1</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">bevolkingsdiagram 2</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">bevolkingsdiagram 3</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">B</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">bevolkingsdiagram 1</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">bevolkingsdiagram 3</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">bevolkingsdiagram 2</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">C</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">bevolkingsdiagram 2</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">bevolkingsdiagram 1</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">bevolkingsdiagram 3</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">D</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">bevolkingsdiagram 2</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">bevolkingsdiagram 3</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">bevolkingsdiagram 1</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">E</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">bevolkingsdiagram 3</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">bevolkingsdiagram 1</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">bevolkingsdiagram 2</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">F</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">bevolkingsdiagram 3</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">bevolkingsdiagram 2</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">bevolkingsdiagram 1</td></tr></tbody></table></figure>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_6727c2d95040.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9a055843eb2f4fb5838e8a6a327c2ba5.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_af463938e58d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6777026740c144ab8716379de0f0c365.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_17df56088bbb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/98c86070e0ee40768a4308c46fd76601.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_4c771ab631c7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cf02b36287614a75808ec06267b040aa.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_907bd5420a0a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e2bed8edf2a1417193ac136fe6ab3e98.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_8bb63a7136d4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dab821afe63b435babbce71dd01cd785.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

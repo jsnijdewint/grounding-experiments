@@ -1,0 +1,56 @@
+{
+  "id": "havo_bedrijfseconomie_2022_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "bedrijfseconomie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 33,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 102,
+          "name": "Financieren",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke toezichthouder controleert de prospectus?<br><strong>A </strong>de ACM<br><strong>B </strong>de AFM<br><strong>C </strong>de DNB</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Douwe Egberts NV is een van oorsprong Nederlands bedrijf dat handelt in koffie en thee. Vanwege overname- en uitbreidingsplannen wil Douwe Egberts vermogen aantrekken. Vermogen kan onderhands of openbaar aangetrokken worden.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Douwe Egberts kiest ervoor om per 1 april 2021 aandelen te emitteren. Bij de emissie van aandelen moet een prospectus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mn>1</mn> <mo stretchy=\"false\">)</mo>&#160;</mrow></msup></math>worden opgesteld. Deze moet door de toezichthouder worden gecontroleerd.<br>&nbsp;</p><p>noot 1 Prospectus: een wettelijk vereist document bij een emissie van financiële producten, zoals aandelen of obligaties. In de prospectus staan de voorwaarden en de risico's van de emissie vermeld.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_bijlag_70e2ce33bdc7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/644420d6788d4f0f80e381cd749535ed.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_uitwer_56a28eba2520.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2d2bf6c37a654f14bdb890765dd0cb67.pdf"
+    }
+  ]
+}

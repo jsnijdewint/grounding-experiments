@@ -1,0 +1,40 @@
+{
+  "id": "havo_economie_2025_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Uit onderzoek blijkt dat vooral buitenlandse verzekeraars gebruik maken van artificiële intelligentie om data te analyseren en daarmee gerichter de goede risico's aantrekken.<br>Leg de gevolgen van de grotere inzet van artificiële intelligentie door buitenlandse verzekeraars uit voor de winstgevendheid van binnenlandse verzekeraars.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Door de steeds grotere beschikbaarheid van gegevens en de sterk toegenomen rekenkracht van computers heeft artificiële intelligentie (AI) zich sinds 2023 snel ontwikkeld. Met behulp van artificiële intelligentie kunnen grote hoeveelheden gegevens worden geanalyseerd. Steeds meer verzekeraars maken gebruik van artificiële intelligentie bij het beoordelen van individuele risico's van verzekerden en daardoor bij het vaststellen van een premie per verzekerde.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "ha-1022-a-25-1-b.pdf",
+      "media_path": "media/bijlages/ha-1022-a-25-1-b_d22d3ea39f14.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bbaed4a5fde74a759025b6f0f5557449.pdf"
+    }
+  ]
+}

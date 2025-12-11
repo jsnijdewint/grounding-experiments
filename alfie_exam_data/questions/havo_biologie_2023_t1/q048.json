@@ -1,0 +1,101 @@
+{
+  "id": "havo_biologie_2023_t1_q48",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 110,
+          "name": "Onderzoeken",
+          "prefix_code": 5
+        },
+        {
+          "id": 111,
+          "name": "Ontwerpen",
+          "prefix_code": 6
+        },
+        {
+          "id": 112,
+          "name": "Modelvorming",
+          "prefix_code": 7
+        },
+        {
+          "id": 113,
+          "name": "Natuurwetenschappelijk instrumentarium",
+          "prefix_code": 8
+        },
+        {
+          "id": 114,
+          "name": "Waarderen en oordelen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke uitspraak is juist?<br>A geen van beide<br>B alleen 1<br>C alleen 2<br>D zowel 1 als 2</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De vader van Sem heeft last van nierstenen. Daarom zoekt Sem naar informatie over het voorkómen en behandelen ervan. Hierbij komt hij een artikel tegen van Amerikaanse wetenschappers die onderzochten of een ritje in de achtbaan helpt om nierstenen uit te plassen.</p><p>Nierstenen (afbeelding 1) ontstaan wanneer calciumzouten in de urine slecht oplossen en vervolgens kristallen vormen die steeds groter worden. Kleine nierstenen worden gewoon uitgeplast, maar grotere kunnen vast blijven zitten.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_31bf0416f1fb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2a3d4fc333ee4cc5b9009484f31fa5f6.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Calcium-ionen worden via de nieren uitgescheiden.<br>Een aantal delen van het uitscheidingsstelsel die door een calcium-ion gepasseerd worden zijn:<br>1 blaas<br>2 glomerulus<br>3 nierbuisje<br>4 urinebuis<br>5 urineleider<br>6 verzamelbuisje</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De Amerikaanse wetenschappers maakten een siliconen model van de nier van iemand met nierstenen (afbeelding 2). In dit model werden nierstenen op die posities geplaatst die overeenkomen met de plaatsen waar ze zaten in de echte nier (aangegeven met zwarte stippen). Hierna werd het model gevuld met urine en vervolgens verpakt in een rugzak. De rugzak werd rechtop vastgezet op een stoel van een achtbaan-wagentje. Na een ritje werd gecontroleerd waar de nierstenen zich bevonden. Nierstenen die zich in het reservoir onder in het model bevonden, werden beschouwd als uitgeplast.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_579fbc19d38b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7279e87117e244119e97cc96ce1e7f0a.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In tabel 1 staan de resultaten van het experiment. Aangegeven is hoeveel van het aantal geteste nierstenen na een rit in de achtbaan in het opvangreservoir terecht zijn gekomen ('uitgeplast'). Er zijn verschillende formaten nierstenen getest.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_5ac058d5b2ca.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/66ef236d6d344c509388ae83bf90100f.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Over de resultaten van het onderzoek worden de volgende uitspraken gedaan:<br>1 Hoe groter een niersteen, hoe kleiner de kans dat hij wordt uitgeplast.<br>2 Hoe hoger een niersteen zich bevindt, hoe groter de kans dat hij wordt uitgeplast.</p>"
+    }
+  ],
+  "bijlages": []
+}

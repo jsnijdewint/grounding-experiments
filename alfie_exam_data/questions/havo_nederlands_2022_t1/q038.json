@@ -1,0 +1,78 @@
+{
+  "id": "havo_nederlands_2022_t1_q38",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef van de drie groepen in de tabel aan wat die negatieve opmerkingen met betrekking tot taal inhouden.</p><p>Noteer het nummer van elke groep en noteer daarachter steeds wat de negatieve opmerking inhoudt.</p><p>Geef geen citaten.</p><p>&nbsp;</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">groep</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">negatieve opmerking</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">1</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Nederlanders</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">2</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Gymnasiumleerlingen</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">3</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Beleidsmakers</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr></tbody></table></figure><p>&nbsp;</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De eerste twee alinea’s van tekst 4 kunnen worden beschouwd als de inleiding van de tekst.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Uit tekst 4 is een ontwikkeling af te leiden die geleid zou hebben tot het ‘afsterven’ van het Duits en het Frans. Die ontwikkeling is weer te geven in het onderstaande oorzaak-gevolgschema.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_687c70c015b3.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6f1d8d18a26347aab40510dac3441fc1.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“Ze moeten wel, om te kunnen zeggen dat ze gymnasium doen.” (regels 44-45)</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>“Deze week kwam er een tegengeluid. Een noodkreet.” (regels 53-54)</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In alinea 6 somt de auteur argumenten op die het gelijk van de opstellers van het manifest moeten bewijzen. Deze argumenten zijn uiteindelijk terug te brengen tot twee hoofdargumenten.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>In tekst 4 worden bij verschillende groepen negatieve opmerkingen met betrekking tot taal gemaakt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2022_I_bijlage_92799e4db006.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a400249c9526410d9001698a4ae56d34.pdf"
+    }
+  ]
+}

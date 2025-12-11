@@ -1,0 +1,40 @@
+{
+  "id": "vwo_engels_2021_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "engels",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 1,
+      "domains": [
+        {
+          "id": 24,
+          "name": "Leesvaardigheid",
+          "prefix_code": "A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>\"a grand bazaar of golden caskets\" (paragraph 2)<br>Why does the writer characterise Tinder in this way?<br>He wants to make clear that using Tinder<br>A improves the process of finding a compatible partner for singles looking for true love.<br>B leads to indecisiveness as users are trapped in a never-ending cycle of swipes.<br>C offers numerous opportunities to find potential dates on the basis of superficial qualities only.<br>D results in people feeling isolated in a deceitful environment of fake interactions.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Engels 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2021_I_bijlage_d3e0516e090d.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5226717a0516479bbf99a8d1ff030091.pdf"
+    }
+  ]
+}

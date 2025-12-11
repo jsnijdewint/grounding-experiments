@@ -1,0 +1,58 @@
+{
+  "id": "havo_wiskunde_b_2023_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 102,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Stel op exacte wijze voor beide asymptoten een vergelijking op.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>&#8804;</mo> <mi>x</mi> <mo>&#8804;</mo> <mi>&#960;</mi>&#160;</math>wordt de functie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>gegeven door:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mfrac><mn>1</mn> <mrow><mn>4</mn> <mi>cos</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mn>2</mn> <mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mi>x</mi> <mo>&#8722;</mo> <mfrac><mn>1</mn> <mn>3</mn> </mfrac><mi>&#960;</mi> <mo data-mjx-texclass=\"CLOSE\">)</mo> </mrow><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></mrow></mfrac></math></p><p>In figuur 1 is de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_4711f56b9ec4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4748b0bd970849348afd1428f28e5878.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>heeft twee verticale asymptoten.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde B 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2023_I_uitwerkbijla_9ba57d6520e4.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9679abc20da6403596a9f0f1d8e1d3b8.pdf"
+    }
+  ]
+}

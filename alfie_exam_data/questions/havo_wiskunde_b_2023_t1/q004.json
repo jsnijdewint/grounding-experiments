@@ -1,0 +1,65 @@
+{
+  "id": "havo_wiskunde_b_2023_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 103,
+          "name": "Meetkundige berekeningen",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken exact de afstand tussen de twee cirkels.</p>",
+    "max_score": 6,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De cirkel <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi>&#160;</math>met middelpunt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi>&#160;</math>is gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo> <mi>x</mi> <mo>+</mo> <mn>6</mn> <msup><mo stretchy=\"false\">)</mo> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>+</mo> <mo stretchy=\"false\">(</mo> <mi>y</mi> <mo>&#8722;</mo> <mn>1</mn> <msup><mo stretchy=\"false\">)</mo> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>=</mo> <mn>49</mn>&#160;</math>. Ook is gegeven de lijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi>&#160;</math>met vergelijking <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi> <mo>=</mo> <mn>2</mn> <mi>x</mi>&#160;</math>. De cirkel en de lijn snijden elkaar in de punten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>. Punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>ligt onder de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as, punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>ligt boven de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as. Zie figuur 1 .</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_206a1c4df682.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5022a8bfb0d54f019a8dc6315f4f6e69.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De lijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi>&#160;</math>is de horizontale raaklijn aan de onderkant van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi>&#160;</math>. Het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi>&#160;</math>is het snijpunt van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi>&#160;</math>. Het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi>&#160;</math>ligt op <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi>&#160;</math>op een afstand 8 rechts van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi>&#160;</math>. De cirkel <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi>&#160;</math>heeft <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi>&#160;</math>als middelpunt en straal 3.</p><p>Zie figuur 2.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_7ed7b3efbefb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/30fa95043275478ea019764062326b56.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde B 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2023_I_uitwerkbijla_9ba57d6520e4.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9679abc20da6403596a9f0f1d8e1d3b8.pdf"
+    }
+  ]
+}

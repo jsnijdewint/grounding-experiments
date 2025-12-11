@@ -1,0 +1,40 @@
+{
+  "id": "vwo_maatschappijwetenschappen_2023_t1_q23",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "maatschappijwetenschappen",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 7,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg met twee typen machtsbronnen uit dat Jersey en Frankrijk een conflict over visserij hebben. Gebruik in je uitleg:</p><ul><li>twee typen machtsbronnen en per type machtsbron informatie uit tekst 6;</li><li>de omschrijving van het kernconcept conflict en informatie uit tekst 6 waaruit conflict blijkt.</li></ul>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave hoort tekst 6 uit het bronnenboekje.<br><br>Inleiding<br>In 2021 blokkeerden Franse vissers de haven van de hoofdstad van Jersey. Jersey is een eiland dat tussen het Verenigd Koninkrijk en Frankrijk ligt op 22 kilometer van de Franse kust. Jersey is een zelfstandige staat met zo'n honderdduizend inwoners. Jersey valt weliswaar onder de Britse kroon, maar het maakt geen deel uit van het Verenigd Koninkrijk. Ook is het geen lid van de Europese Unie. Deze opgave gaat over het visserijconflict tussen Jersey en Frankrijk in 2021.</p><p>Gebruik tekst 6.<br>In een conflict kunnen actoren verschillende machtsbronnen inzetten. In tekst 6 zijn voor Jersey en Frankrijk elk een ander type machtsbron te herkennen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijwetenschappen 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijwetenschappen_2023_7f49e6057214.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/141d1be7dea4424eb40447b4739a1b33.pdf"
+    }
+  ]
+}

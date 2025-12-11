@@ -1,0 +1,130 @@
+{
+  "id": "vmbo_gl_aardrijkskunde_2023_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "aardrijkskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 71,
+      "domains": [
+        {
+          "id": 106,
+          "name": "Weer en klimaat",
+          "prefix_code": "AK/K/4"
+        },
+        {
+          "id": 111,
+          "name": "Casus bevolking en ruimte: bevolking en ruimte in grootstedelijke gebieden",
+          "prefix_code": "AK/V/5"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wetenschappers verwachten dat orkanen in de toekomst krachtiger zullen worden.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Geef een oorzaak voor de krachtigere orkanen.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_7ac40b9b301f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/270f83f183a5464fba2cc05d320e0138.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_da1f74600f8a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/108179d7ea1b4000939f242e255c4706.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_91529e6a7be4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/70169ef9adef42b68171fbe42b8165e0.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>bron 4<br>Tekst met keuzemogelijkheden</p><p>Nederland en het noorden van Spanje kennen allebei een ... 1 ... (gematigd zeeklimaat / Middellandse Zeeklimaat). Toch bestaan er verschillen in het klimaat tussen beide landen. In Spanje is het warmer omdat Spanje op een ... 2 ... (hogere / lagere) breedte ligt dan Nederland. In Nederland ontstaat neerslag vaak door het botsen van luchtmassa's. In Noordwest-Spanje ontstaat neerslag voornamelijk doordat luchtmassa's ... 3 ... (opstijgen tegen een gebergte / sterk verhit worden door de zon).</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_63434f79bfef.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fdcf00db7c46427fb14badc058682e44.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_60df43c38875.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b29b642137984d6089daf8e530f9362a.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>bron 7<br>Krantenkop, 12 september 2021<br><br>\"Zuiden Spanje geteisterd door bosbranden, 2500 mensen geëvacueerd\"</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>bron 8<br>Klimaatconferentie in Glasgow, 2021</p><p>Twee doelstellingen uit het klimaatverdrag van Glasgow:</p><ul><li>De opwarming van de aarde moet lager zijn dan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <msup><mn>5</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>.</li><li>Het gebruik van steenkool moet worden verminderd.</li></ul>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_23c964e6c1e9.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d8c169d8d2bd4c00b995dc6266f920d1.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_36c7225f782b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b6aa21ecedbe4d15ba2298fa35663a05.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "image",
+      "media_path": "media/in-exam/img_f0ccffacbabc.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8eacc00a292a4d289db7e520362f653c.png",
+      "caption": ""
+    },
+    {
+      "order": 11,
+      "type": "image",
+      "media_path": "media/in-exam/img_dd742014791f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1d6327dfd89c4bbd88f1c60a5f1a121c.png",
+      "caption": ""
+    },
+    {
+      "order": 12,
+      "type": "text",
+      "text": "<p>bron 13<br>Krantenartikel, 29 augustus 2021</p><p>De zeer krachtige orkaan Ida heeft zondag de zuidkust van de Verenigde Staten bereikt. In de staat Louisiana kwamen al snel honderdduizenden mensen zonder stroom te zitten.</p>"
+    },
+    {
+      "order": 13,
+      "type": "image",
+      "media_path": "media/in-exam/img_38eac015b5f5.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6216f896bd1344988d7beae88a77c452.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

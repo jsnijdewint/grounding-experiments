@@ -1,0 +1,62 @@
+{
+  "id": "vwo_biologie_2024_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 36,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 37,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 38,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>- Licht toe hoe kortere poten de oppervlakte-inhoudsverhouding beïnvloeden.&nbsp;<br>- Licht toe hoe dit leidt tot een lager energieverbruik.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Door klimaatverandering wordt de vegetatie in arctische gebieden ’s winters steeds vaker door een ijslaag bedekt. De Noorse bioloog Brage Bremset Hansen en zijn collega’s hebben aangetoond dat het dieet van Spitsbergenrendieren dan verandert. Dit veroorzaakt een verandering in de nutriëntenkringloop in het ecosysteem.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_cad3b1efc5f9.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c10c8c2424704fcdb7d9ff06d3af3176.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een aantal aanpassingen maakten deze ondersoort geschikt om te overleven in de kou op Spitsbergen. Zo hebben ze een dikke vacht, waardoor ze minder energie verbruiken om warm te blijven, en door hun korte poten is hun oppervlakte-inhoudsverhouding gunstig.</p>"
+    }
+  ],
+  "bijlages": []
+}

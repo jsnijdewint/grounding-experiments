@@ -1,0 +1,60 @@
+{
+  "id": "havo_scheikunde_2021_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit met behulp van tekstfragment 1 en Binas-tabel 52A of ScienceData-tabel 9.1d, dat de kleur van het filtreerpapiertje eerst geel is en dan verandert naar blauw. Noteer je antwoord als volgt: eerst geel omdat ... verandert naar blauw doordat ...</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Schaliegas is aardgas dat in gesteente diep onder het aardoppervlak is opgesloten. Om schaliegas te winnen gebruikt men een methode die fracking wordt genoemd. Hierbij wordt een mengsel van water, zand en chemicalièn onder hoge druk in het gesteente gepompt zodat hierin scheurtjes ontstaan en het schaliegas vrijkomt. Bij fracking ontstaan grote hoeveelheden afvalwater dat onder andere <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Br</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-ionen, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Cl</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-ionen en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">I</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-ionen bevat. Deze ionen zijn afkomstig van goed oplosbare zouten die in het gesteente voorkomen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Op frackinglocaties worden regelmatig monsters van het grondwater genomen. Om op de frackinglocatie snel het bromidegehalte van het grondwater te bepalen is de methode ontwikkeld die in tekstfragment 1 is beschreven.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><strong>tekstfragment 1</strong></p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>1 Men maakt gebruik van filtreerpapiertjes waarop eerst een oplossing van chloramine-T en de zuur-base-indicator fenolrood is aangebracht en die men daarna heeft laten drogen.<br>2 Een druppel grondwater wordt op zo'n filtreerpapiertje aangebracht. Eventueel wordt het grondwater eerst verdund.<br>3 In aanwezigheid van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Br</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>vinden achtereenvolgens twee reacties plaats:</p><ul><li>Reactie 1: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Br</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>wordt door een reactie met chloramine-T omgezet tot onder andere broom.</li><li>Reactie 2: het ontstane broom reageert volledig met fenolrood tot onder andere broomfenolblauw.</li></ul><p>4 Door beide reacties wordt het gele filtreerpapiertje enigszins blauw.<br>5 De afname van de gele kleur wordt gemeten met een kleurdetector.<br>6 Met behulp van een ijklijn wordt het bromidegehalte bepaald.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De oplossing waarin de reacties plaatsvinden, heeft een pH van 4,6 . Het ontstane broomfenolblauw heeft bij deze pH een blauwe kleur.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2021_I_uitwerkbijla_1bb960b8859b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/de4ac50bb8424775a1d05546cf8e6711.pdf"
+    }
+  ]
+}

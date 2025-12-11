@@ -1,0 +1,62 @@
+{
+  "id": "vwo_biologie_2024_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 36,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 37,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 38,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de betreffende uitspraak juist of onjuist is.&nbsp;</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In het voorjaar van 2018 kwamen er verontrustende berichten over opvallend veel dode koolmeesjongen in nestkasten. Ook Henriëtte had zo’n nestje met dode koolmezen in de tuin.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_8f775272ba3a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cd2f0b49fb85425784fdf78eb62d61f3.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Veel insectenbestrijdingsmiddelen behoren tot de pyrethroïden. Deze stoffen verhinderen het sluiten van de spannings-afhankelijke Na+-kanalen in de uitlopers van neuronen. Over het effect van pyrethroïden op een neuron worden de volgende uitspraken gedaan:&nbsp;<br>1 Door pyrethroïden ontstaan er constant nieuwe impulsen in de axonen.&nbsp;<br>2 Doordat de Na+-kanalen niet sluiten, treedt hyperpolarisatie op.&nbsp;<br>3 De oorspronkelijke rustpotentiaal wordt niet meer bereikt.</p>"
+    }
+  ],
+  "bijlages": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "havo_geschiedenis_2024_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "geschiedenis",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 29,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 199,
+          "name": "Tijdvak 7 – Pruiken en revoluties",
+          "prefix_code": 7
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 4.&nbsp;<br><br>Dit artikel kan gebruikt worden voor een onderzoek naar continuïteit in de Franse samenleving in de achttiende eeuw.\"<br><br>Geef aan welke continuïteit op sociaal-maatschappelijk gebied blijkt uit dit artikel, waarbij je je antwoord ondersteunt met een verwijzing naar de bron.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de zestiende eeuw was er in Europa belangstelling voor de legende over 'pausin Johanna'. Volgens deze legende was een vrouw, die zich voordeed als man, paus geworden. Haar bedrog kwam uit toen ze beviel van een kind.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik bron 1. Stel: je besluit deze bron te gebruiken voor een onderzoek naar oorzaken van 'het conflict in de Nederlanden dat resulteerde in de stichting van een Nederlandse staat'.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2024_I_bijlage_ca421fa87c76.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e819c55e9496484aac48d85b1c4cc890.pdf"
+    }
+  ]
+}

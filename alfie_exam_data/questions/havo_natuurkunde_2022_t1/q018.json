@@ -1,0 +1,94 @@
+{
+  "id": "havo_natuurkunde_2022_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 133,
+          "name": "Kracht en beweging",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Omcirkel op de uitwerkbijlage in de tabel per fase met welk punt in de grafiek ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi> <mo>,</mo> <mi>b</mi> <mo>,</mo> <mi>c</mi> <mo>,</mo> <mi>d</mi> <mo>,</mo> <mi>e</mi>&#160;</math>of f) deze fase overeenkomt.</p>",
+    "max_score": 2,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "<p>maximumscore 2</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\">fase</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;text-align:center;width:auto;\">punt in de grafiek</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">McDougall komt los van de katapult.</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">b</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">McDougall bereikt het hoogste punt.</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">d</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">McDougall opent zijn parachute.</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">e</td></tr></tbody></table></figure><p>indien drie antwoorden juist<br>2<br>indien twee antwoorden juist<br>1<br>indien één of geen antwoord juist<br>0</p>",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Met een katapult kun je steentjes wegschieten. Zie figuur 1.<br>In Dubai heeft stuntman Chris McDougall zichzelf op een vergelijkbare manier vanaf de grond recht omhoog de lucht in geschoten. Hij gebruikte twee hijskranen als een soort reuzenkatapult. McDougall lag op een klein platform dat door de katapult werd versneld. Zie figuur 2.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_0475fa876ca1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8bebba5b3ba34b489b0183d89ac7efc8.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_0527a7ed3380.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9d479b2aae96453780783eb479f8a6d3.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De katapult oefende een grote kracht uit op het platform met McDougall. Hierdoor kreeg het platform met McDougall een grote versnelling in verticale richting. Op een bepaalde hoogte kwam hij los van het platform. Even na het bereiken van het hoogste punt opende hij een parachute om veilig te kunnen landen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De energie voor de lancering werd geleverd door een groot blok. Tijdens het lanceren viel het blok ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>blok </mtext></mrow></msub><mo>=</mo> <mn>27</mn> <mo>,</mo> <mn>5</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">ton</mi>&#160;</mrow></math>) van een kleine hoogte op de grond. Zie figuur 3.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_97563a3f123f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c319465c15624713bba7bb9154e6a10b.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Het blok viel over een afstand van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>8</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math>. De energie van het blok werd gebruikt om het platform met McDougall ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>total </mtext></mrow></msub><mo>=</mo> <mn>85</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">kg</mi>&#160;</mrow></math>) over een afstand van 34 m vanuit stilstand omhoog te versnellen. Op die hoogte verliet hij de katapult met een snelheid van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>59</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math>.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Van de stunt is een videometing gemaakt. In figuur 4 is de hoogte van McDougall tijdens het eerste deel van de stunt in een ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi> <mo>,</mo> <mi>t</mi>&#160;</math>)-diagram weergegeven. In dit diagram zijn geen waardes langs de assen weergegeven.</p><p>&nbsp;</p><p>Op de uitwerkbijlage staat een tabel met drie fases van de stunt.</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_11f0d8bface4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a1f51d1476514908bdbca22fbffbcef5.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2022_I_uitwerkbijl_81c84d6bcda8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5d2d7ab14a724c268e292e7f96ede649.pdf"
+    }
+  ]
+}

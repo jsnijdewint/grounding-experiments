@@ -1,0 +1,61 @@
+{
+  "id": "havo_nederlands_2023_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Citeer de woordgroep waarmee zorg ook wordt aangeduid in tekst 1.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De auteur van een tekst kan op verschillende manieren de belangstelling van de lezer wekken of het onderwerp introduceren, zoals:</p><p>1 de aanleiding schetsen</p><p>2 de centrale vraagstelling formuleren</p><p>3 een afweging maken</p><p>4 een persoonlijke ervaring vertellen</p><p>5 het belang voor de lezer benadrukken</p><p>6 het centrale standpunt benoemen</p><p>In alinea 1 tot en met 4 van tekst 1 zijn drie van deze manieren te herkennen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“Het recht om te verdwalen leerde mij juist om de weg terug te vinden” (regels 47-49)</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>“‘Door al deze nieuwe technologieën dreigen we controle te verwarren met zorg’, zegt techniekfilosoof Katleen Gabriels.” (regels 67-70)</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“‘Door al deze nieuwe technologieën dreigen we controle te verwarren met zorg’, zegt techniekfilosoof Katleen Gabriels.” (regels 67-70)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_4c535c813bac.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/31997ba285504e0396b7bc07c4c13230.pdf"
+    }
+  ]
+}

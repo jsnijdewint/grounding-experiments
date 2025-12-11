@@ -1,0 +1,53 @@
+{
+  "id": "vmbo_gl_biologie_2024_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 114,
+          "name": "Planten en dieren en hun samenhang: de eigen omgeving verkend",
+          "prefix_code": "BI/K/6"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In de tekst staan een aantal kenmerken van de koffieplant. Twee van deze kenmerken wijzen erop dat de koffieplant wordt bestoven door insecten.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Schrijf deze twee kenmerken op.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Koffie wordt gemaakt van heet water en gemalen koffiebonen. Koffiebonen zijn zaden van de koffieplant die zijn gedroogd en gebrand. Koffie bevat cafeïne. De cafeïne heeft een opwekkend effect. De bloemen van een koffieplant hebben opvallende, witgekleurde kroonbladeren. Diep in de bloem zitten nectarklieren. Elke bloem bevat mannelijke en vrouwelijke voortplantingsorganen. Na de bevruchting ontstaan er vruchten met elk twee zaden die na acht maanden rijp zijn. In die acht maanden verkleuren de vruchten van groen naar rood.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_46d3474a3c96.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1edd8593e84d4c9bb43a9b016d6c3142.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2024_I_uitwerkbijlage_c89173bb9d6c.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ce4f7301c75b48c7b4639aaa9b761e2a.pdf"
+    }
+  ]
+}

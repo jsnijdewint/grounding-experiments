@@ -1,0 +1,81 @@
+{
+  "id": "vwo_economie_2022_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 23,
+          "name": "Goede tijden, slechte tijden",
+          "prefix_code": "I"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat de flexibele schil ervoor zorgt dat de loongroei minder afneemt in een laagconjunctuur en minder toeneemt in een hoogconjunctuur.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een steeds kleiner deel van de economische groei is de afgelopen jaren ten goede gekomen aan de productiefactor arbeid. Econoom Van Nassau onderzocht in 2018 mogelijke oorzaken van deze daling van de loonquote (het totale loon van alle werknemers in bedrijven als percentage van de totale netto toegevoegde waarde van bedrijven). Hij gebruikt figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_77477b19b7ef.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ca7ac0ec97764235bed26e50adf0b529.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Toelichting: globalisering houdt in dat er sprake is van een groeiende internationale handel en buitenlandse investeringen en een toegenomen betekenis van multinationals.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Van Nassau verwacht echter dat krapte op de arbeidsmarkt tijdens de hoogconjunctuur in 2019 wel degelijk zal leiden tot een relatief sterkere ontwikkeling van de lonen, waardoor de loonquote in 2019 wel zal stijgen. Hij onderbouwt deze verwachting met gegevens uit tabel 1.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_bd4262ea182e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4320b28be97d42c891a4319a6cea0710.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Uit wetenschappelijk onderzoek blijkt dat werknemers met een flexibel contract gemiddeld een relatief laag loon hebben ten opzichte van werknemers met een vast contract. Op basis van dit onderzoek stelt econoom Van Houtven dat de ontwikkeling van de loonquote afhangt van de conjunctuur en de flexibele schil. De flexibele schil is het aantal flexibele contracten in verhouding tot het aantal vaste arbeidscontracten. Zij doet de volgende uitspraak: \"De flexibele schil zorgt ervoor dat de loongroei minder afneemt in een laagconjunctuur en minder toeneemt in een hoogconjunctuur. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mtext>.&#160;</mtext></mrow></msup></math>Dit is grafisch weergegeven in figuur 2.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_fd2c812a2a21.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f43779caa7484f4bb64626940dfe352e.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Toelichting: De loongroei is de ontwikkeling van het gemiddeld loonniveau. In de figuur wordt verondersteld dat de loongroei gelijk opgaat met de conjunctur</p>"
+    }
+  ],
+  "bijlages": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "havo_scheikunde_2023_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit hoeveel <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mo>=</mo> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>-bindingen voorkomen in het triglyceridemolecuul in figuur 1a.</p><ul><li>Gebruik de structuurformule.</li><li>Gebruik eventueel Binas-tabel 67G2 of ScienceData-tabel 13.2g.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Olieverf is een vloeibaar mengsel van kleurpigmenten en een olie, meestal lijnzaadolie. Lijnzaadolie bestaat uit triglyceriden. Triglyceriden zijn tri-esters van glycerol en vetzuren. In figuur 1a is de structuurformule weergegeven van een triglyceridemolecuul dat in lijnzaadolie voorkomt. In figuur 1b is een triglyceridemolecuul schematisch weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_200828d3a110.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f02a001ca2c14e60baee41a607745ea1.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_a6263f8c2250.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3cbd3d08fa054fd18dc2c1167c578d84.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De triglyceriden in lijnzaadolie bevatten veel <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mo>=</mo> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>-bindingen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2023_I_uitwerkbijla_6848f9a012f7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a0eaf6b74f434738aac19ad6e9c16d2f.pdf"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "havo_economie_2024_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 77,
+          "name": "Welvaart en groei",
+          "prefix_code": "H"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik uitspraak 2 van de econoom.<br>Leg uit dat de tariefaanpassing via de vraagzijde van de woningmarkt kan leiden tot een daling van de verkoopprijs van koopwoningen.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Uit een krant:<br>De huizenprijzen zijn in 2021 op een hoogtepunt na een lange periode van sterke prijsstijgingen. Nieuwkomers op de woningmarkt, ook wel starters genoemd, hebben nog geen vermogen opgebouwd en moeten de aankoop van een woning volledig financieren met een lening. Starters met een modaal inkomen kiezen er vaak voor om eerst een woning in de vrije sector te huren, voordat ze besluiten om een woning te kopen. In de vrije sector van de huurwoningenmarkt geldt geen maximale huurprijs. De woonlasten van deze huurders zijn doorgaans hoger dan de woonlasten van kopers van een vergelijkbare woning. Daarnaast groeit het vermogen van huurders niet mee met de stijging van de huizenprijzen. Hierdoor ontstaat een groeiende vermogensongelijkheid tussen kopers en huurders. Dat zorgt ervoor dat een toekomstige stap van huur naar koop alleen maar lastiger wordt.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Woningbezitters mogen de betaalde hypotheekrente aftrekken van de inkomstenbelasting. Dit belastingvoordeel bevordert eigenwoningbezit, en belemmert een goed functionerende verhuurmarkt. De overheid wil een evenwichtige woningmarkt bevorderen, en past daarom de tarieven van de hypotheekrenteaftrek aan. Zo wordt het marginale belastingtarief waartegen de hypotheekrente maximaal kan worden afgetrokken geleidelijk afgebouwd van 49,50% naar 37,05%.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_44bb3fb45065.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6812412a19884fa08551f1c8c8cf88e6.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Een econoom doet naar aanleiding van de tariefaanpassing twee uitspraken:<br>Uitspraak 1: \"Door de tariefaanpassing wordt de secundaire inkomensverdeling gelijker.\"<br>Uitspraak 2: \"Op de lange termijn kan de tariefaanpassing bijdragen aan de betaalbaarheid van koopwoningen.\"</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2024_I_bijlage_92c84f45cc20.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/67b732e325834a28a9d329f8cba100cd.pdf"
+    }
+  ]
+}

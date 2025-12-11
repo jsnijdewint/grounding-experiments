@@ -1,0 +1,58 @@
+{
+  "id": "vmbo_gl_biologie_2024_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 113,
+          "name": "Cellen staan aan de basis",
+          "prefix_code": "BI/K/4"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Het schildklierhormoon beïnvloedt de verbranding in de cellen van het lichaam.<br>Dit proces is weergegeven in het volgende schema.<br>glucose <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo> <mo>&#8230;</mo> <mo stretchy=\"false\">(</mo> <mn>1</mn> <mo stretchy=\"false\">)</mo> <mo>&#8230;</mo> <mo stretchy=\"false\">&#8594;</mo>&#160;</math>energie + koolstofdioxide <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo> <mo>&#8230;</mo> <mo stretchy=\"false\">(</mo> <mn>2</mn> <mo stretchy=\"false\">)</mo> <mo>&#8230;</mo>&#160;</math><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Wat moet er op de plaatsen (1) en (2) worden ingevuld?<br>Schrijf je antwoord zo op:<br>plaats (1):<br>plaats (2):</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Twee hormoonklieren zijn de hypofyse en de schildklier. De hypofyse maakt het hormoon TSH. TSH beïnvloedt de schildklier. De schildklier maakt schildklierhormoon, dat de verbranding in de cellen van het lichaam stimuleert.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_ae68d851d74f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5c46b1091a6d4a748309c85d703c55c9.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de afbeelding zie je de omtrek van het lichaam van een mens waarin vijf plekken zijn aangegeven met een letter.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2024_I_uitwerkbijlage_c89173bb9d6c.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ce4f7301c75b48c7b4639aaa9b761e2a.pdf"
+    }
+  ]
+}

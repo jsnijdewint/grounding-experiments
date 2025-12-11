@@ -1,0 +1,76 @@
+{
+  "id": "havo_bedrijfseconomie_2022_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "bedrijfseconomie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 33,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 97,
+          "name": "Persoonlijke financiële zelfredzaamheid",
+          "prefix_code": 1
+        },
+        {
+          "id": 98,
+          "name": "De oprichting van een eenmanszaak",
+          "prefix_code": 2
+        },
+        {
+          "id": 99,
+          "name": "Van eenmanszaak naar rechtspersoon",
+          "prefix_code": 3
+        },
+        {
+          "id": 100,
+          "name": "Perspectief op de organisatie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wat houdt een erfenis beneficiair aanvaarden in?</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bernhard Willems (98 jaar) vertelt zijn enige kind Victor dat hij op 12 juni 2020 een testament heeft laten opmaken. Bernhard is sinds enkele jaren weduwnaar.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><strong>Testament</strong></p><p><br>Vandaag, 12 juni 2020, verscheen voor mij, mr. Van der Laar, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"2em\"></mspace></mstyle></math><br>te Amsterdam:<br>Bernhard Antoon Willems.</p><p><br>De verschenen persoon verklaarde de volgende beschikkingen te maken:</p><p><br><strong>Erfstelling</strong><br>Ik benoem tot mijn erfgenamen, ieder voor een gelijk deel, mijn enig kind Victor Willems en de Stichting CliniClowns Nederland. Indien mijn kind tegelijk met mij of voor mij overlijdt of zijn erfdeel verwerpt, komt dat erfdeel eveneens toe aan de Stichting CliniClowns Nederland.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Zoon Victor ( 71 jaar) weet dat de Stichting CliniClowns is opgenomen in het testament. Hij wil graag weten waar CliniClowns het geld aan besteedt. Uit zijn onderzoek blijkt onder andere:</p><ul><li>De Stichting CliniClowns is een Algemeen Nut Beogende Instelling (ANBI) met als doel het bieden en bevorderen van afleiding, plezier en verlichting aan zieke, kwetsbare kinderen en volwassenen met een zorgbehoefte.</li><li>In de statuten van de CliniClowns is opgenomen dat erfenissen alleen beneficiair worden aanvaard.</li></ul>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_bijlag_70e2ce33bdc7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/644420d6788d4f0f80e381cd749535ed.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_uitwer_56a28eba2520.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2d2bf6c37a654f14bdb890765dd0cb67.pdf"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2024_t1_q38",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 140,
+          "name": "Stoffen en materialen",
+          "prefix_code": "NASK1/K/4"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wat is juist over verdampen en verbranden?</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">verdampen is een</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">verbranden is een</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">A</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">chemische reactie</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">natuurkundig proces</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">B</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">chemische reactie</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">chemische reactie</td></tr><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">C</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">natuurkundig proces</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">natuurkundig proces</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">D</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">natuurkundig proces</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">chemische reactie</td></tr></tbody></table></figure>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Daan vult een petroleumlamp met petroleum.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_48ce20b40cf5.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/71808b85ed564e86b44c5b95dfdc97fb.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_ffecd15951e9.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2c213973cd0944d3967e32dba26dc727.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Daan schenkt een volume van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>350</mn> <msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">cm</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn>&#160;</mrow></msup></math>petroleum in de petroleumlamp.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Daan steekt de lont van de lamp aan.<br>De petroleum verdampt voordat het verbrandt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2024_I_c96405ee1a91.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c258a8174cb04fbba9275f60e7aa3610.pdf"
+    }
+  ]
+}

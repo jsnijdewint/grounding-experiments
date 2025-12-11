@@ -1,0 +1,56 @@
+{
+  "id": "havo_economie_2021_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 75,
+          "name": "Samenwerken en onderhandelen",
+          "prefix_code": "F"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 2.<br>Leg uit waarom er geen gevangenendilemma zal zijn.<br>Doe het als volgt:</p><ul><li>Leg uit hoe de dominante strategie van elk van de twee partijen tot stand komt.</li><li>Beredeneer vervolgens dat er geen sprake is van een gevangenendilemma.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de periode 2012-2017 was India een van de snelst groeiende economieën van de wereld. Het nominale bruto binnenlands product (bbp) per hoofd van de bevolking is in die periode bijna verdubbeld. De groei van het nominale bbp is voornamelijk te verklaren door een toename van de consumptie van de middenklasse en door een toename van de buitenlandse investeringen.</p><p>Een Indiase econoom stelt:<br>1 \"Hoewel het nominale bbp per hoofd van de bevolking bijna is verdubbeld, betekent dat niet dat de welvaart in India ook bijna twee keer zo groot is.\"<br>2 \"Het belangrijkste probleem in India is de matige infrastructur. Daarom moet de overheid daar fors in investeren.\"</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Door de hoge economische groei is India voor de Europese Unie (EU) een potentieel grote afzetmarkt. Maar als gevolg van protectionistische maatregelen blijft de handel tussen India en de EU beperkt. Zo hebben Europese exporteurs van auto's te maken met 120% invoerrechten in India. De EU is nu met India in onderhandeling over het afschaffen van invoerrechten op Europese producten in ruil voor minder strenge Europese regelgeving voor producten uit India.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De econoom is positief over de onderhandelingen en stelt: \"Zowel India als de EU kan profiteren van meer vrijhandel. Ik heb de effecten hiervan onderzocht en in een pay-off-matrix gezet (zie bron 2). Hieruit blijkt dat er geen gevangenendilemma zal zijn.\"</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2021_I_bijlage_78b2ccc4e0ab.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e553e4fb92dd414ba69c047a982b4e48.pdf"
+    }
+  ]
+}

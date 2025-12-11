@@ -1,0 +1,59 @@
+{
+  "id": "vwo_natuurkunde_2024_t2_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 2
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit waardoor de activiteit van de twee <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-stralers constant is gebleven.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Lise Meitner (1878-1968, zie figuur 1) werd in totaal 48 maal genomineerd voor een Nobelprijs, maar kreeg de prijs nooit.</p><p>Rond 1910 deed Meitner onderzoek naar de eigenschappen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-straling. Ze gebruikte hierbij preparaten met thorium. Het bestaan van isotopen was in die tijd nog niet bekend. Nu weten we dat het preparaat niet alleen het instabiele Thorium- 232 bevatte, maar ook alle vervalproducten van Thorium-232 (ook wel de vervalreeks genoemd). Deze vervalreeks eindigt bij het stabiele isotoop <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Pb</mi> </mrow><mo>&#8722;</mo> <mn>208</mn>&#160;</math>.</p><p>In de vervalreeks van Th-232 zitten meerdere <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-stralers. Meitner was vooral geïnteresseerd in twee specifieke <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-stralers. Omdat Meitner nog niet in staat was om de afzonderlijke isotopen in het preparaat te identificeren, noemde ze deze <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-stralers 'Th-A' en 'Th-B'. Zie figuur 2, de isotoop ' <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi>&#160;</math>' is een onbekende <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi>&#160;</math>-straler.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_a76c33188e48.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e65c6a4029ed4ccb9673657e45944999.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_8606c03d422a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f720ff6a06bc4bb4ba4d54ffe3de288d.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Een aantal van de gebruikte thorium-preparaten wordt nog steeds bewaard in het Max Planck Instituut in Berlijn. De activiteit van de twee <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-stralers, die beide een halveringstijd hebben van minder dan één dag, is in meer dan 100 jaar nauwelijks afgenomen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vw-1023-a-24-2-u-spr.pdf",
+      "media_path": "media/bijlages/vw-1023-a-24-2-u-spr_7f55e6f292ee.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/58df80d921a54e229db05fc1537c094b.pdf"
+    }
+  ]
+}

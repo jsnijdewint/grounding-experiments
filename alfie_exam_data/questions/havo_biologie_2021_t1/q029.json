@@ -1,0 +1,55 @@
+{
+  "id": "havo_biologie_2021_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat het voor fytoplasma's gunstig is dat de geïnfecteerde plant bladeren vormt in plaats van bloemen.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>'Plants versus zombies' is een videospelletje waarin planten vechten tegen zombies. In werkelijkheid zijn sommige planten zelf zombies. Wetenschappers hebben ontdekt hoe bepaalde bacteriën sommige planten tot levende doden transformeren.</p><p>Deze bacteriën - fytoplasma's genaamd - kunnen een verscheidenheid aan gewassen besmetten, zoals tomatenplanten en appelbomen. Fytoplasma's leven en vermenigvuldigen zich in transportweefsel van deze planten. De bacteriën verhinderen de ontwikkeling van bloemen en stimuleren de vorming van extra bladeren. De geïnfecteerde plant kan zich hierdoor niet meer voortplanten en dient als groeiende voedselbron voor de bacteriën, vandaar de term zombieplanten.</p>"
+    }
+  ],
+  "bijlages": []
+}

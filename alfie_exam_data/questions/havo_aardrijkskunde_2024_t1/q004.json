@@ -1,0 +1,56 @@
+{
+  "id": "havo_aardrijkskunde_2024_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "aardrijkskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 46,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 93,
+          "name": "Samenhangen en verschillen in de wereld",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beredeneer waarom het onwaarschijnlijk is dat sheaboter palmolie zal verdringen als belangrijkste plantaardige vet op de wereldmarkt.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 1 en 2.&nbsp;<br><br>Gebruik de bronnen 1 en 2 en het kaartenkatern.&nbsp;<br><br>De wereld is verdeeld in zes landschapszones. In twee van deze landschapszones groeien karitébomen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik de bronnen 1 en 2. Door de toenemende aandacht voor duurzaamheid geven steeds meer consumenten de voorkeur aan producten waarin sheaboter in plaats van palmolie verwerkt is.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_bijlage_e5aee28a8749.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/852747fcf4004fde8244fbb76d88396b.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2024 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_kaartenk_be0f755c05aa.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b1aad8ed2f3d416c8a64def58f7e8c12.pdf"
+    }
+  ]
+}

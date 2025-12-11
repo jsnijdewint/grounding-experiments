@@ -1,0 +1,68 @@
+{
+  "id": "vwo_wiskunde_b_2022_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 46,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        },
+        {
+          "id": 47,
+          "name": "Differentiaal- en integraalrekening",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de oppervlakte van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi>&#160;</math>. Geef je eindantwoord in twee decimalen.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De functies <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi> <mrow data-mjx-texclass=\"ORD\"><mi>p</mi>&#160;</mrow></msub></math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>g</mi> <mrow data-mjx-texclass=\"ORD\"><mi>p</mi>&#160;</mrow></msub></math>zijn gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi> <mrow data-mjx-texclass=\"ORD\"><mi>p</mi> </mrow></msub><mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mi>p</mi> <mi>ln</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>g</mi> <mrow data-mjx-texclass=\"ORD\"><mi>p</mi> </mrow></msub><mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">e</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mfrac><mi>x</mi> <mi>p</mi>&#160;</mfrac></mrow></msup></math>, voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi> <mo>&#8800;</mo> <mn>0</mn>&#160;</math>.<br>De functies <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi> <mrow data-mjx-texclass=\"ORD\"><mi>p</mi>&#160;</mrow></msub></math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>g</mi> <mrow data-mjx-texclass=\"ORD\"><mi>p</mi>&#160;</mrow></msub></math>zijn elkaars inverse.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Neem <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi> <mo>=</mo> <mo>&#8722;</mo> <mn>1</mn> <mo>.</mo> <mi>V</mi>&#160;</math>is het gebied dat wordt ingesloten door de grafieken van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>f</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msub></math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>g</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msub></math>, de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as en de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-as. Zie figuur 1 .</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_469d601e2662.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7578e6f64dd3435ebe3f3e5ec6e1f6ee.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_b_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_b_formules_b48138dc5a3a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/525c78f394194c0a8345801ed3a1dab3.pdf"
+    },
+    {
+      "name": "Wiskunde B 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2022_I_uitwerkbijla_173a70b352ac.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/259b9a55e6ef41678c4a9891840ff9c0.pdf"
+    }
+  ]
+}

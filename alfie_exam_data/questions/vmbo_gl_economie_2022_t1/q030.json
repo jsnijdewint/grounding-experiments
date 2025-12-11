@@ -1,0 +1,56 @@
+{
+  "id": "vmbo_gl_economie_2022_t1_q30",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 124,
+          "name": "Arbeid en productie",
+          "prefix_code": "EC/K/5A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Youri: \"Als ons bedrijf kapitaalkrachtiger is, kunnen we ook grotere CG's gaan produceren en verhuren. Voor grotere boerenbedrijven in de omgeving kan dat een aantrekkelijk alternatief zijn: huren in plaats van te moeten kopen. Behalve voordelen voor ons zijn er ook nadelen aan verbonden.\"<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Noem voor Storm bv een financieel nadeel om de CG's te verhuren. Geef een verklaring voor je antwoord.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 6 in de bijlage.<br>Youri Storm is eigenaar van een bedrijf dat intelligente, computergestuurde grasmaaiers (CG's) produceert.<br>Zijn zus Marisa wordt binnenkort mede-eigenaar. De eenmanszaak zou dan een vennootschap onder firma worden, de vof Storm.</p><p>&nbsp;</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Het bedrijf is intussen uitgegroeid tot een van de grootste bedrijven in Nederland. Het marktaandeel, op basis van de omzet, bedraagt 64%. Een marktaandeel is ook te berekenen met gegevens van de afzet.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het marktaandeel kan ook berekend worden door naar de omzetgegevens te kijken. Het marktaandeel van vof Storm berekend op basis van de omzet ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>64</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>) is lager dan het marktaandeel op basis van de afzet ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>75</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>).</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_ef2c1b8354d0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dc02323a63d64258a36e6a9729a51c74.pdf"
+    }
+  ]
+}

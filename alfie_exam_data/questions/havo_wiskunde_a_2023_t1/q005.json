@@ -1,0 +1,63 @@
+{
+  "id": "havo_wiskunde_a_2023_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 174,
+          "name": "Rekenen",
+          "prefix_code": 1
+        },
+        {
+          "id": 175,
+          "name": "Algebra",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken het totale mobiele dataverbruik in Nederland in 2013. Geef je antwoord in hele miljoenen GB.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Op de hele wereld gebruiken mensen hun mobiele telefoon steeds meer. De hoeveelheid verbruikte mobiele data neemt daardoor elk jaar toe.</p><p>In Nederland was in 2017 het totale mobiele dataverbruik 325 miljoen gigabyte (GB), een stijging van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1050</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>ten opzichte van 2013.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_da0831a3e744.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cbd4a5c50ca34317aa3f6854ba60a1d5.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_4d920bc20d74.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7821571e97b2424c93d593bf5c1c1549.pdf"
+    },
+    {
+      "name": "Wiskunde A 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2023_I_uitwerkbijla_f478d7116e2f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/005ba0b28db44fed93da1d9c9f1c636a.pdf"
+    }
+  ]
+}

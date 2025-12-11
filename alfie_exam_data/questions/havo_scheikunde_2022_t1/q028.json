@@ -1,0 +1,120 @@
+{
+  "id": "havo_scheikunde_2022_t1_q28",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel ton palmpitolie minimaal nodig is voor de productie van 1,0 ton NLES.<br>Gebruik de volgende gegevens:</p><ul><li>1,0 ton <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo> <mn>1</mn> <mo>,</mo> <mn>0</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">kg</mi>&#160;</mrow></math>.</li><li>De molaire massa van NLES is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>421</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">g</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">mol</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math>.</li><li>Uit <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mo>,</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">mol</mi>&#160;</mrow></math>palmpitolie ontstaat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn> <mo>,</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">mol</mi>&#160;</mrow></math>NLES.</li><li>De (gemiddelde) molaire massa van palmpitolie is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>710</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">g</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">mol</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math>.</li></ul>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Natriumlaurylethersulfaat (NLES) is een synthetische zeep die wordt toegepast in textielwasmiddelen en in shampoos. NLES is opgebouwd uit natriumionen en laurylethersulfaat-ionen (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>E</mi><msup><mi>S</mi><mo>-</mo></msup></math>-ionen).<br>NLES is oplosbaar in water. De reinigende werking van NLES berust op de structuur van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>E</mi><msup><mi>S</mi><mo>-</mo></msup></math>-ionen. In figuur 1 zijn de structuurformule (figuur 1a), de ion-formule (figuur 1b) en de schematische notatie van het <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>E</mi><msup><mi>S</mi><mo>-</mo></msup></math>-ion (figuur 1c) weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2aaedf352a8e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8bfbbb8b27e74260aafeba8dfa626342.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In figuur 2 is de reinigende werking van NLES schematisch weergegeven:</p><ul><li>Een groepje vuilmoleculen dat aanwezig is op een textielvezel wordt omringd door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>E</mi><msup><mi>S</mi><mo>-</mo></msup></math>-ionen (figuur 2a).</li><li>Het 'vuil-<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>E</mi><msup><mi>S</mi><mo>-</mo></msup></math>-deeltje' dat daarbij ontstaat, laat vervolgens los van de textielvezel en gaat tussen de watermoleculen zitten (figuur 2b).</li></ul>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_fe75af021914.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9d8c012154cd4398870d6f750c667e18.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>NLES kan worden geproduceerd uit palmpitolie. Bij de productie van NLES wordt uit palmpitolie eerst dodecaan-1-ol <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>12</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>25</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">OH</mi> </mrow><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>gemaakt. Dodecaan-1-ol wordt vervolgens omgezet tot NLES. In figuur 3 zijn de stappen van de productie van dodecaan-1-ol vereenvoudigd in een blokschema weergegeven.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_9f494418eb35.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9a51949a4c5f4543922c1ea01dc72567.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Stap 1: palmpitolie wordt gehydrolyseerd tot vetzuren en glycerol, waarbij de glycerol wordt afgescheiden.<br>Stap 2: de vetzuren worden vervolgens met methanol omgezet tot esters en water. De ontstane waterlaag wordt afgevoerd.<br>Stap 3: de esters worden met waterstof omgezet tot alcoholen, waaronder dodecaan-1-ol en methanol. De methanol wordt direct afgescheiden.<br>Stap 4: dodecaan-1-ol wordt vervolgens gescheiden van de resterende alcoholen.</p><p>&nbsp;</p><p>In figuur 4 is een voorbeeld van een vet dat in palmpitolie voorkomt in structuurformule weergegeven.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_71aefe9ce724.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/93a8e6b5ad0642119a77400709b8cddd.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Bij de hydrolyse van dit vet (stap 1) ontstaan glycerol, dodecaanzuur <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>12</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>24</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>en één ander vetzuur.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>De scheiding in stap 4 vindt plaats op basis van verschil in kookpunt.</p>"
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Uitgaande van figuur 3 is het aannemelijk dat bepaalde stoffen worden gerecirculeerd.</p>"
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>Dodecaan-1-ol wordt vervolgens omgezet tot NLES. Dit is met een onvolledig blokschema weergegeven in figuur 5.</p>"
+    },
+    {
+      "order": 12,
+      "type": "image",
+      "media_path": "media/in-exam/img_311455a30f27.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/70632da44300472b949cbddf9e10fb75.png",
+      "caption": ""
+    },
+    {
+      "order": 13,
+      "type": "text",
+      "text": "<p>Stap 5: dodecaan-1-ol reageert met etheenoxide tot lauryletheralcohol volgens <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>12</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>25</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">OH</mi> </mrow><mo>+</mo> <mn>3</mn> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mo stretchy=\"false\">&#8594;</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>12</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>25</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">OC</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">OH</mi>&#160;</mrow></math>.<br>Stap 6: lauryletheralcohol reageert met zwaveltrioxide tot laurylethersulfonzuur <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>12</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>25</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">OC</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">OSO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>.<br>Stap 7: laurylethersulfonzuur wordt met een natriumhydroxide-oplossing omgezet tot een oplossing van NLES.</p><p>&nbsp;</p><p>De reactor waarin stap 5 plaatsvindt, wordt op een constante temperatur gehouden.</p>"
+    },
+    {
+      "order": 14,
+      "type": "text",
+      "text": "<p><p>De vergelijking van de omzetting van laurylethersulfonzuur (stap 7) is als volgt: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>12</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>25</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">OC</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">OSO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mo>+</mo> <msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">OH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> </mrow></msup><mo stretchy=\"false\">&#8594;</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>12</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>25</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">OC</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><msubsup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">OSO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> </mrow></msubsup><mo>+</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi>&#160;</mrow></math></p></p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2022_I_uitwerkbijla_f5e7f9155c59.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a02c79c5875f4978b042c59ce1514099.pdf"
+    }
+  ]
+}

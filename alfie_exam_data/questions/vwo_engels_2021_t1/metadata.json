@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 113,
+    "education_level": "vwo",
+    "discipline": "engels",
+    "year": 2021,
+    "tijdvak": 1
+  },
+  "question_count": 42
+}

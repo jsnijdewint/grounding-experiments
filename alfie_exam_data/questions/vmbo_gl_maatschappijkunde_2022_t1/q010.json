@@ -1,0 +1,70 @@
+{
+  "id": "vmbo_gl_maatschappijkunde_2022_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "maatschappijkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 63,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Lees tekst 6.<br>Welke <strong>twee</strong> bestuurslagen zijn in tekst 6 te herkennen?</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><strong>tabel 1</strong><br><strong>Samenstelling van de gemeenteraad van Sittard-Geleen</strong></p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\">partij</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">zetels</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">GOB</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">10</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">CDA</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">8</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">GroenLinks</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">4</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">PVV</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">3</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Stadspartij</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">3</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">D66</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">2</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">PvdA</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">2</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">DNA</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">1</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">VVD</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">1</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">50Plus</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">1</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">SPA</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">1</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Fractie Fredrix</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">1</td></tr></tbody></table></figure><p>bron: <a href=\"http://sittard-geleen.nl\">sittard-geleen.nl</a> van september 2019</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><strong>tekst 1</strong><br><strong>GroenLinks zit in veel provinciebesturen</strong><br>Nu elke provincie een nieuw bestuur heeft, is duidelijk dat GroenLinks de winnaar is geworden. GroenLinks heeft nu ... in acht provinciebesturen.</p><p><br>naar: <a href=\"http://nederlandsdagblad.nl\">nederlandsdagblad.nl</a> van 21 augustus 2019</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><strong>tekst 2</strong></p><p><strong>Demonstratie verboden</strong><br>Pegida mag overmorgen niet demonstreren in Eindhoven. Burgemeester Jorritsma vreest ernstige ongeregeldheden en heeft de betoging verboden.<br>Pegida is groot genoeg om regelmatig op te duiken bij de Nationaal Coördinator Terrorismebestrijding en Veiligheid. Die deelt de beweging in bij de ... groeperingen, \"die vooral actief zijn met intimiderende en radicale acties tegen de vermeende islamisering van Nederland, de komst van asielzoekers en het vermeende verlies van de Nederlandse identiteit.\"</p><p><br>naar: <a href=\"http://nos.nl\">nos.nl</a> van 4 juni 2019</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p><strong>tekst 3</strong><br><strong>Openbare verhoren onderzoek kinderopvangtoeslag afgesloten</strong><br>&nbsp;</p><p>De Parlementaire onderzoekcommissie Kinderopvangtoeslag heeft haar openbare verhoren afgesloten. De commissie biedt op 17 december 2020 haar verslag met bevindingen aan de Tweede Kamer aan. De Kamerleden kunnen dan op basis van deze bevindingen het debat aangaan met de verantwoordelijke bewindspersonen.<br>De commissie heeft een gerichte opdracht: zij doet onderzoek naar het fraudebeleid bij de kinderopvangtoeslag in de periode van 2013 tot en met november 2019. De commissie wilde in de openbare verhoren antwoorden op vragen zoals: wie wist wat wanneer? De commissie verhoorde getuigen en deskundigen onder ede en doet onderzoek op basis van openbare documenten en informatie die zij gevorderd heeft bij verschillende organisaties. Zo maakt zij een reconstructie van gebeurtenissen op ministeries en bij de Belastingdienst.</p><p><br>naar: <a href=\"http://tweedekamer.nl\">tweedekamer.nl</a> van 26 november 2020</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p><strong>tekst 4</strong><br><strong>Wie is waarvoor verantwoordelijk?</strong><br>&nbsp;</p><p>Op grond van de Gemeentewet is de ... 1 ... bevoegd verordeningen 1) vast te stellen en te wijzigen.<br>De uitvoering van de verordening en het toezicht op de naleving van de in de verordening opgenomen bepalingen behoort tot de verantwoordelijkheid van ... 2 ....<br>&nbsp;</p><p>noot 1 Een verordening is een wetgevende regeling op gemeentelijk niveau.<br>&nbsp;</p><p>naar: <a href=\"http://uwwet.nl\">uwwet.nl</a> van april 2020</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p><strong>tekst 5</strong><br><strong>'Kwetsende spotprenten'</strong><br>&nbsp;</p><p>De Chinese ambassadeur in Nederland verwacht dat de Nederlandse overheid ingrijpt als Nederlandse kranten en cartoonisten 'kwetsende spotprenten' over China publiceren.</p><p>Cartoonist Collignon reageert: \"Het is een goed teken als regeringen spotprenten niet prettig vinden. Een cartoon moet schuren en als dat lukt, is het raak. Soms gaat het dan de wereld over. Zo beïnvloedt een spotprent de publieke opinie. Geen ambassadeur die daartussen komt.\"<br>&nbsp;</p><p>naar: de Volkskrant van 5 februari 2020</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p><strong>tekst 6</strong><br><strong>Kan een minister een burgemeester ontslaan?</strong></p><p><br>De huidige bepalingen rond het ontslag van de burgemeester zijn in 2001 ingevoerd en sindsdien niet meer gewijzigd. De Gemeentewet bepaalt dat de burgemeester te allen tijde op voordracht van de minister van Binnenlandse Zaken kan worden ontslagen.<br>&nbsp;</p><p>naar: <a href=\"http://gemeente.nu\">gemeente.nu</a> van 4 juni 2020</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijkunde 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijkunde_2022_I_bijla_1fd39a85b14b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b66316467c294ba1abf44a12da236a28.pdf"
+    }
+  ]
+}

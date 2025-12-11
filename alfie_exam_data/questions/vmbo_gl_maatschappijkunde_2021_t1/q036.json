@@ -1,0 +1,40 @@
+{
+  "id": "vmbo_gl_maatschappijkunde_2021_t1_q36",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "maatschappijkunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 63,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zie tekst 4.<br>De overheid voert campagnes om burgers te informeren over haar beleid, maar ook om het gedrag van burgers te beïnvloeden. Media hebben een aantal functies.<br>Welke functie van de massamedia moet worden vervuld om de campagne uit tekst 4 succesvol te maken?<br>A de amusementsfunctie<br>B de controlefunctie<br>C de socialiserende functie<br>D de waakhondfunctie</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Inleiding<br>ledere Nederlander van 18 jaar en ouder is verplicht om een ziektekostenverzekering af te sluiten, de zogenaamde zorgverzekering. Voor die zorgverzekering moet premie betaald worden. In 2020 was die ongeveer 120 euro per persoon per maand. Met deze verzekering heb je recht op vergoedingen uit het basispakket.<br>De overheid bepaalt welke zorg er in het basispakket komt. Elk jaar wordt het basispakket een beetje veranderd: er gaan bijvoorbeeld bepaalde medicijnen uit en andere komen er juist in.<br>ledere verzekerde moet de eerste 385 euro per jaar aan zorgkosten zelf betalen. Dit heet het eigen risico. Een bezoek aan de huisarts valt niet onder het eigen risico.<br>De premie die verzekerden betalen voor de zorg is lager dan de kosten voor de zorg. Er wordt door de overheid meer geld voor de zorg uitgegeven dan dat er binnenkomt. Die kosten worden per jaar hoger.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijkunde 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijkunde_2021_I_bijla_fb908480e3d9.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/916d422a2bf5449fba8906e7418cd830.pdf"
+    }
+  ]
+}

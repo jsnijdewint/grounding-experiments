@@ -1,0 +1,34 @@
+{
+  "id": "vwo_duits_2025_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "duits",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 10,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Het beoefenen van een nieuwe sport heeft volgens de tekst meerdere voordelen.<br>Geef van elk van de onderstaande voordelen aan of dat wel of niet in de tekst aan bod komt.<br>1 goed voor het brein<br>2 zorgt voor een gevoel van geluk<br>3 goed voor de bloedsomloop<br>4 men leert nieuwe mensen kennen<br>Noteer achter elk nummer op het antwoordblad 'wel' of 'niet'.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "vw-1004-a-25-1-b.pdf",
+      "media_path": "media/bijlages/vw-1004-a-25-1-b_f3e7a5de2cf6.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7956ac4e758d4ed490060540d9d8659c.pdf"
+    }
+  ]
+}

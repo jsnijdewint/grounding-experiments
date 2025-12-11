@@ -1,0 +1,63 @@
+{
+  "id": "havo_natuurkunde_2021_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 136,
+          "name": "Zonnestelsel en heelal",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de frequentie die hoort bij deze <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#955;</mi> <mrow data-mjx-texclass=\"ORD\"><mo movablelimits=\"true\" data-mjx-texclass=\"OP\">max</mo>&#160;</mrow></msub></math>.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De planeet Jupiter heeft meerdere manen. Zie figuur 1. Deze figuur is niet op schaal. Een van deze manen heet Europa. Gegevens over de maan Europa zijn te vinden in Binas-tabel 31 of Sciencedata-tabel 3.3a.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_5f931f796e83.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b59de8d1d1d44b8bbcb35fe9bc0d2739.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De straal van de baan van Europa is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>670</mn> <mo>,</mo> <mn>9</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>6</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math>.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De oppervlaktetemperatuur van Europa is 173 K . Dit is bepaald door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#955;</mi> <mrow data-mjx-texclass=\"ORD\"><mo movablelimits=\"true\" data-mjx-texclass=\"OP\">max</mo>&#160;</mrow></msub></math>te meten van het infraroodspectrum dat deze maan uitzendt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2021_I_uitwerkbijl_615e0715d0ed.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ae05f1ce95cd4d549a2e6c6e34cdeacc.pdf"
+    }
+  ]
+}

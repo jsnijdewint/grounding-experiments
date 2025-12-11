@@ -1,0 +1,109 @@
+{
+  "id": "vwo_wiskunde_c_2022_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [
+        {
+          "id": 52,
+          "name": "Verbanden",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel minuten korter die gaartijd volgens de vuistregel is. Geef je antwoord in gehele minuten.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In restaurants en bij hobbykoks is het zogeheten vacuúmgaren, een methode voor het gaar laten worden van voedsel, steeds meer in opmars. Bij vacuûmgaren wordt, bijvoorbeeld, vlees in een vacuûmzak gegaard in een warmwaterbak, ook wel sous-vide genoemd.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_a2b558df6f48.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/af02f21ae1064689a64359582e62c593.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_c1dd92c4c3f3.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/42995330a5ab4e23a2153218b73f0f4c.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De bak waarin het water zit, heeft bij benadering de vorm van een balk met binnenafmetingen van 27,5 bij 19,5 bij <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn> <mo>,</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">cm</mi>&#160;</mrow></math>(respectievelijk lengte, breedte en hoogte). In de bak zit 2,0 cm onder de rand een maatstreepje. Als het vlees in de vacuúmzak in de waterbak ligt, mag de waterspiegel niet boven dit maatstreepje uitkomen.</p><p>Op foto 2 is een entrecote in een vacuûmzak afgebeeld die in de sous-vide van foto 1 gegaard wordt. Foto's 1 en 2 zijn niet op dezelfde schaal afgebeeld.</p><p>De entrecote op foto 2 is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn> <mo>,</mo> <mn>5</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">cm</mi>&#160;</mrow></math>dik. Het boven- en onderoppervlak van de entrecote zijn gelijk, met elk een oppervlakte van ongeveer <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>120</mn> <msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">cm</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></math>. Het volume van de vacuûmzak mag worden verwaarloosd.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Hoelang vlees in een sous-vide gegaard moet worden, hangt af van het soort vlees en van de dikte. Hoe dikker een stuk vlees, hoe langer dit gegaard zal moeten worden.</p><p>&nbsp;</p><p>In de rest van de opgave bekijken we de <strong>gaartijd </strong>van een entrecote. Dat is de minimale tijd die nodig is om een entrecote in een sous-vide te garen. Deze is gaar als de kern ervan een temperatuur van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>56</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>bereikt heeft.<br>De Engelse fabrikant van een bepaald merk sous-vide heeft een tabel gemaakt voor het verband tussen de gaartijd van een entrecote en de dikte in inches ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">inch</mi> </mrow><mo>=</mo> <mn>2</mn> <mo>,</mo> <mn>54</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">cm</mi>&#160;</mrow></math>). In de volgende tabel is een deel hiervan weergegeven.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_2209f7e869ad.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3b290e21cb45426c9272d76181a457f9.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De fabrikant heeft daarbij de volgende opmerking geplaatst:</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Als de dikte van het vlees toeneemt, neemt de gaartijd exponentieel toe.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Uit de waarden in de tabel volgt echter dat dit geen exponentieel verband is.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>De fabrikant geeft naast de tabel ook een grafiek voor het verband tussen de dikte en de gaartijd. Zie de figuur.</p>"
+    },
+    {
+      "order": 10,
+      "type": "image",
+      "media_path": "media/in-exam/img_624a2c736020.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a3ebe3db034b4344906a1b593329f397.png",
+      "caption": ""
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>Bij het maken van de tabel en de figuur blijkt de fabrikant uit te zijn gegaan van een kwadratisch verband tussen de dikte en de gaartijd. Dit verband wordt gegeven door de formule:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mo>=</mo><mn>0</mn><mo>,</mo><mn>5916</mn><msup><mi>d</mi><mn>2</mn></msup><mo>+</mo><mn>0</mn><mo>,</mo><mn>0689</mn><mi>d</mi><mo>+</mo><mn>0</mn><mo>,</mo><mn>3329</mn><mo>&#160;</mo><mtext>met&#160;</mtext><mi>d</mi><mo>&#8805;</mo><mn>0</mn><mo>,</mo><mn>5</mn></math></p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi>&#160;</math>de dikte van de entrecote in inches. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi>&#160;</math>is de gaartijd in uren. Er zijn koks die als vuistregel hanteren dat een entrecote met een dikte van een inch een gaartijd van een uur heeft en dat de gaartijd recht evenredig is met de dikte. Een entrecote met een dikte van, bijvoorbeeld, 1,5 inch heeft dan dus een gaartijd van 1,5 uur. Voor een entrecote van 1,3 inch is de gaartijd volgens de vuistregel van de kok korter dan de gaartijd volgens de formule.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2022_I_uitwerkbijla_88029eac1d9f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e2af97078af344c6a48ef1f748b398b8.pdf"
+    }
+  ]
+}

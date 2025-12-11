@@ -1,0 +1,40 @@
+{
+  "id": "havo_maatschappijwetenschappen_2024_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "maatschappijwetenschappen",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 34,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik figuur 1.<br>Figuur 1 is gebaseerd op informatie uit De Fryske Taalatlas 2020. In deze taalatlas staan de uitkomsten van een taalonderzoek dat in 2019 gedaan is. Door middel van een enquête is aan inwoners van Fryslân (Friesland) gevraagd in hoeverre ze de Friese taal beheersen en gebruiken. Bijna 6.500 inwoners van Friesland hebben de enquête ingevuld. In figuur 1 zijn alleen de uitkomsten onder de mensen tot en met 64 jaar weergegeven. In figuur 1 wordt de samenhang tussen twee variabelen weergegeven.<br>a Noem deze twee variabelen.<br>b Leg uit op basis van figuur 1 of er sprake is van een positieve correlatie tussen de twee variabelen. Gebruik in je uitleg een omschrijving van positieve correlatie.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen tekst 1 en figuur 1 uit het bronnenboekje.&nbsp;<br><br>Inleiding&nbsp;<br>Sinds 1 januari 2014 is het Fries, naast het Nederlands, erkend als officiële taal in de provincie Friesland. Twee Tweede Kamerleden vonden echter dat er te weinig gebeurde op het gebied van bevordering van de Friese taal. Meer zichtbaarheid van het Fries in openbare ruimtes zou daar volgens hen een bijdrage aan kunnen leveren. Daarom dienden de Kamerleden in 2020 een motie in, waarin de regering werd verzocht een akkoord met de provincie Friesland te sluiten om de zichtbaarheid van het Fries te vergroten. De motie werd aangenomen en leidde tot het Zichtbaarheidsakkoord Friese taal en cultuur. In het Zichtbaarheidsakkoord staat dat het Rijk zich inzet om de tijdelijke bewegwijzering en andere openbare tijdelijke informatievoorziening rondom rijkswegen binnen de provincie Friesland aan te passen naar tweetalige teksten. Verder staat er dat de provincie Friesland zich inspant voor meer Fries- of tweetalige bebording aan provinciale (water)wegen. Tekst 1 gaat over dit akkoord.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijwetenschappen 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijwetenschappen_2024_5481391f6f48.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f0f7f53089eb41ba824956534fc5ec44.pdf"
+    }
+  ]
+}

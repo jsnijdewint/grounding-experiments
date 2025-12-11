@@ -1,0 +1,81 @@
+{
+  "id": "havo_wiskunde_a_2022_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 174,
+          "name": "Rekenen",
+          "prefix_code": 1
+        },
+        {
+          "id": 175,
+          "name": "Algebra",
+          "prefix_code": 2
+        },
+        {
+          "id": 176,
+          "name": "Tabellen",
+          "prefix_code": 1
+        },
+        {
+          "id": 177,
+          "name": "Grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        },
+        {
+          "id": 178,
+          "name": "Formules met één of meer variabelen",
+          "prefix_code": 3
+        },
+        {
+          "id": 179,
+          "name": "Lineaire verbanden",
+          "prefix_code": 4
+        },
+        {
+          "id": 180,
+          "name": "Exponentiële verbanden",
+          "prefix_code": 5
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Onderzoek hoe hoog de AOW-uitkering per persoon in 2023 moet zijn, zodat het totaalbedrag aan AOW-uitkeringen in 2023 hetzelfde is als het totaalbedrag aan AOW-uitkeringen in 2012.</p>",
+    "max_score": 6,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Alle inwoners van Nederland ontvangen op basis van de Algemene Ouderdomswet (AOW) vanaf een bepaalde leeftijd (de AOW-leeftijd) een uitkering van de overheid: de AOW-uitkering. Tot en met 2012 was de AOW-leeftijd 65 jaar. Wanneer iemand de AOW-leeftijd heeft bereikt, noemt men hem of haar AOW-gerechtigd. In deze opgave nemen we aan dat iedere AOW-gerechtigde dezelfde AOW-uitkering ontvangt. In 2012 was deze uitkering 10980 euro per persoon per jaar.</p><p>Het aantal ouderen in Nederland neemt toe. Als de Algemene Ouderdomswet niet verandert, zal het jaarlijkse totaalbedrag aan AOW-uitkeringen toenemen. Daarom wordt de AOW-leeftijd sinds 2013 met stappen verhoogd. lemand stelt voor om bovendien de AOW-uitkering per persoon te verlagen, zodat het totaalbedrag aan AOW-uitkeringen in 2023 hetzelfde is als het totaalbedrag aan AOW-uitkeringen in 2012. Om de hoogte van deze nieuwe AOW-uitkering te berekenen, nemen we het volgende aan:</p><ul><li>Het aantal inwoners is gedurende elk jaar constant.</li><li>In 2012 was dit aantal inwoners 16,7 miljoen.</li><li>Sinds 2012 neemt het aantal inwoners elk jaar toe met 0,44%.</li></ul><p>Verder nemen we aan:</p><ul><li>Het aantal AOW-gerechtigden is gedurende elk jaar een constant percentage van het aantal inwoners van Nederland.</li><li>In 2012 was dit percentage 16,2%.</li><li>In 2023 is dit percentage <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>17</mn> <mo>,</mo> <mn>7</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>.</li></ul>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_47358876a1f1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/481e05ea1b3d4f8abbc66849e31c4129.pdf"
+    },
+    {
+      "name": "Wiskunde A 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2022_I_uitwerkbijla_ed3f16cbc21f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7a0c7f08da744830b81b66f1bba66954.pdf"
+    }
+  ]
+}

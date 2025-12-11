@@ -1,0 +1,81 @@
+{
+  "id": "vwo_natuurkunde_2024_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leid af, met behulp van formule (1), dat N s <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>3</mn>&#160;</mrow></msup></math>een eenheid is van Z.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Met behulp van echografie wordt een afbeelding gemaakt van weefsel onder de huid. Zie figuur 1 en 2.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_b09bbe541305.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4d3d6a50ff74412c91113b5c1be2ef77.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_84587bb797a3.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ff5fe964d3294fd9b495a02a580bc1f3.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Een transducer zendt ultrasoon geluid uit, dat in het lichaam op elke grens tussen verschillende weefsellagen gedeeltelijk wordt teruggekaatst en doorgelaten. De transducer vangt het teruggekaatste geluid weer op en een computer verwerkt de informatie tot beelden. Zie figuur 3.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_b2d734fb8edc.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3e0b9bef126047a294f04307b26b5d5d.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Hoeveel geluid wordt doorgelaten hangt af van het verschil in de akoestische weerstand Z van de opeenvolgende (weefsel)lagen. Bij een groot verschil in akoestische weerstand wordt weinig geluid doorgelaten. Voor de akoestische weerstand van een stof geldt:</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi> <mo>=</mo> <mi>&#961;</mi> <mo>&#8901;</mo> <mi>v</mi>&#160;</math> &nbsp; &nbsp;(1)<br><br>Hierin is:<br>- ρ de dichtheid van de stof<br>- <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi>&#160;</math>de voortplantingssnelheid van geluid door de stof</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>De dichtheden van zachte lichaamsweefsels, zoals de huid en vetweefsel, zijn vergelijkbaar met die van water.<br>Als eenheid van de akoestische weerstand wordt vaak N s <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>3</mn>&#160;</mrow></msup></math>gebruikt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2024_I_uitwerkbijl_53e920c4cfe0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9441e6eda69e41e0ab819d8b89d60c78.pdf"
+    }
+  ]
+}

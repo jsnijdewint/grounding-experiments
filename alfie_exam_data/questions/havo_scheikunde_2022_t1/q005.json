@@ -1,0 +1,67 @@
+{
+  "id": "havo_scheikunde_2022_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de gemiddelde reactiesnelheid, in mol per <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi>&#160;</math>water per seconde, waarmee hexaan werd gevormd gedurende de reactietijd van 12,0 uur.</p><ul><li>Neem aan dat bij dit experiment 9,5 mL water is gebruikt.</li><li><strong>Geef de uitkomst in het juiste aantal significante cijfers.</strong></li></ul>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Wereldwijd is er een toenemende aandacht voor het maken van biobrandstoffen uit biomassa. Gelet op duurzaamheid verdient het verbranden van biobrandstoffen de voorkeur boven het verbranden van fossiele brandstoffen. Zo draagt bijvoorbeeld het verbranden van fossiele brandstoffen meer bij aan het versterkt broeikaseffect dan het verbranden van biobrandstoffen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Biomassa bestaat voor een groot deel uit cellulose. Onderzoekers hebben ontdekt dat cellulose kan worden omgezet tot hexaan. Dit experiment is vereenvoudigd weergegeven in figuur 1 . Een kleine reactor werd gevuld met water, dodecaan ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>12</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>26</mn>&#160;</mrow></msub></math>), cellulose, twee verschillende katalysatoren en waterstof (figuur 1a). Het reactiemengsel werd vervolgens gedurende een aantal uren verwarmd, terwijl het krachtig werd geroerd (figuur 1b). Na het experiment werd het reactiemengsel geanalyseerd.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_6272f752350e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0036de0b4d494b979168926e9959f3a6.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Tijdens het experiment wordt eerst cellulose gehydrolyseerd tot glucose. Vervolgens wordt glucose door een reactie met waterstof omgezet tot hexaan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>6</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>14</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>en water. Na de reactie mengt het gevormde hexaan zich met de laag dodecaan (zie figuur 1c).</p><p>Cellulose is een polysacharide die uitsluitend is opgebouwd uit glucose-eenheden. Op de uitwerkbijlage is de vergelijking van de hydrolyse van het uiteinde van een cellulosemolecuul onvolledig weergegeven.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De vloeistoffen water en dodecaan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>12</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>26</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>mengen niet goed (zie figuur 1a en 1c).</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Bij een experiment werd <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>50</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">g</mi>&#160;</mrow></math>cellulose in een mengsel van water, dodecaan, waterstof en de twee katalysatoren gebracht. Het ontstane mengsel werd gedurende 12,0 uur geroerd bij een temperatuur van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>190</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Na</mi> </mrow><mn>12</mn> <mo>,</mo> <mn>0</mn>&#160;</math>uur was <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mo>,</mo> <mn>56</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>3</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">mol</mi>&#160;</mrow></math>hexaan gevormd.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2022_I_uitwerkbijla_f5e7f9155c59.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a02c79c5875f4978b042c59ce1514099.pdf"
+    }
+  ]
+}

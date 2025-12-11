@@ -1,0 +1,58 @@
+{
+  "id": "havo_nederlands_2022_t1_q34",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Vul dit schema in door de nummers 1 t/m 6 over te nemen en daarachter de letter van het bijbehorende informatie-element (a t/m g) te noteren. Let op! Er blijft één informatie-element over.</p><p>&nbsp;</p><p>Kies uit de volgende informatie-elementen:</p><p>a Duits en Frans verdwijnen als taal gesproken door Nederlanders.</p><p>b Er zijn minder leraren, vertalers, lezers en cultuurdragers in deze talen.</p><p>c Er zijn minder studenten in deze talen.</p><p>d Exacte studies worden gepromoot.</p><p>e Hoogopgeleid zijn is geen garantie meer voor beheersing van Duits en Frans.</p><p>f Minder leerlingen kiezen voor Duits en/of Frans.</p><p>g Scholen kiezen zelf of Frans en Duits examenvakken zijn op hun school.</p><p>&nbsp;</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De eerste twee alinea’s van tekst 4 kunnen worden beschouwd als de inleiding van de tekst.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Uit tekst 4 is een ontwikkeling af te leiden die geleid zou hebben tot het ‘afsterven’ van het Duits en het Frans. Die ontwikkeling is weer te geven in het onderstaande oorzaak-gevolgschema.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_687c70c015b3.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6f1d8d18a26347aab40510dac3441fc1.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2022_I_bijlage_92799e4db006.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a400249c9526410d9001698a4ae56d34.pdf"
+    }
+  ]
+}

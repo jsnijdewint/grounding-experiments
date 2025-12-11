@@ -1,0 +1,72 @@
+{
+  "id": "havo_biologie_2021_t1_q35",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In welke richting stroomt het bloed? En wordt hierdoor de bloeddruk in de longen hoger of lager?</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-right-color:!important;border-right-style:none;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-color:!important;border-right-style:none;border-top-style:solid !important;border-top-width:1px !important;width:auto;\" rowspan=\"2\">richting</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-style:solid !important;border-top-width:1px !important;width:auto;\" rowspan=\"2\">bloeddruk longen</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">A</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">van linkerkamer naar rechterkamer</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">hoger</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">B</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">linkerkamer naar rechterkamer</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">lager</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">C</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">van rechterkamer naar linkerkamer</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">hoger</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">D</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">van rechterkamer naar linkerkamer</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">lager</td></tr></tbody></table></figure>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Maranja is een meisje van bijna twee jaar oud met het 18p-tetrasomiesyndroom. Door haar ontwikkelingsachterstand heeft Maranja veel zorg nodig.</p><p>18p-tetrasomie is een zeldzame afwijking waarbij elke lichaamscel naast de normale set chromosomen een extra chromosoom bevat. Dit extra chromosoom (i18p) bestaat uit twee keer de korte arm van chromosoom 18 (afbeelding 1).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2c4f8dbd1489.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6b6e88e44b184deda90ca533b892571e.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een aantal genen komt hierdoor vier keer voor in elke cel. Dit verstoort de aanleg van organen tijdens de ontwikkeling van het kind in de baarmoeder.</p><p>De diagnose 18p-tetrasomiesyndroom werd bij Maranja bevestigd door haar karyotype te bepalen uit een karyogram. Het karyotype beschrijft per lichaamscel het totale aantal chromosomen, de geslachtschromosomen, en eventuele extra chromosomen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Maranja heeft, net als veel andere mensen met 18p-tetrasomie, een opening tussen de twee hartkamers. Hierdoor stroomt bloed van de ene hartkamer naar de andere.</p>"
+    }
+  ],
+  "bijlages": []
+}

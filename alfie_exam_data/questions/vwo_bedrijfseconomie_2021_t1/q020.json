@@ -1,0 +1,56 @@
+{
+  "id": "vwo_bedrijfseconomie_2021_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 12,
+          "name": "Marketingbeleid",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken als gevolg van de verkopen en het onderhoud de bedragen die op de winst- en verliesrekening of op het liquiditeitsoverzicht of op beide met betrekking tot het eerste kwartaal van 2021 moeten worden opgenomen.<br>Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In deze opgave is de btw 21%.</p><p>Brait bv is een dienstverlenende onderneming in lampen. De klanten van Brait kunnen in de fysieke winkel van Brait aankopen doen, maar ook via de webshop van Brait.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Brait wil de onderstaande financiële feiten verwerken in de winst- en verliesrekening over en het liquiditeitsoverzicht van het eerste kwartaal van 2021:</p><ol><li>Verkopen</li></ol><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\">&nbsp;</td><td style=\"border-bottom:1px solid !important;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top:1px solid !important;text-align:center;\" colspan=\"7\">getallen x €1.000</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom:1px solid !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;\" colspan=\"4\">2020</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\" colspan=\"3\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mn mathvariant=\"bold\">2</mn> <mn mathvariant=\"bold\">0</mn> <mn mathvariant=\"bold\">2</mn> <mn mathvariant=\"bold\">1</mn>&#160;</mrow></math></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">oktober</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">november</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">december</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">januari</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">februari</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">maart</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\" rowspan=\"2\">&nbsp;</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">verkopen</td></tr><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">inclusief</td></tr><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">21% btw</td></tr></tbody></table></figure></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">100</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">120</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">130</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">125</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">135</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">140</td></tr></tbody></table></figure><ul><li>Van de verkopen is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>60</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> op rekening.</li><li>De krediettermijn debiteuren is 1,5 maand en hiervan wordt volledig gebruikgemaakt.</li><li>De verkopen vinden gelijkmatig verspreid binnen een maand plaats.<br><br>&nbsp;</li></ul><p>2. Onderhoud<br>ledere maand wordt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>1.000</mn>&#160;</math> gedoteerd aan de Voorziening Onderhoud. In maart 2021 wordt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>20.000</mn>&#160;</math> inclusief <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>21</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>btw betaald aan een schildersbedrijf voor het onderhoud van het pand van Brait.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2021_I_bijlag_18aa5fbf9016.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/92d29866f40a4864b5a50055e02b1aec.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2021_I_uitwer_a63059d5a495.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3ae5187256fd457fb1ae4f6556df1ea7.pdf"
+    }
+  ]
+}

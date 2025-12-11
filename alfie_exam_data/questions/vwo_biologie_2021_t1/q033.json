@@ -1,0 +1,62 @@
+{
+  "id": "vwo_biologie_2021_t1_q33",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 40,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 41,
+          "name": "Zelforganisatie van ecosystemen",
+          "prefix_code": 2
+        },
+        {
+          "id": 42,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<ul><li>Verklaar waardoor meer mensen de ziekte oplopen door de beet van een nimf dan door de beet van een larve.</li><li>Verklaar waardoor meer mensen de ziekte oplopen door de beet van een nimf dan door de beet van een adult.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De ziekte van Lyme wordt veroorzaakt door een bacterie die meestal op de mens wordt overgedragen door een besmette schapenteek. Onderzoek laat zien dat het aantal tekenbeten en het aantal besmette teken de laatste jaren toeneemt.</p><p>Teken zijn spinachtigen die voorkomen in bossen en velden. Ze leven van het bloed van gewervelde dieren.<br>In afbeelding 1 is de levenscyclus van de schapenteek Ixodes ricinus weergegeven. De cyclus kan twee tot zes jaar duren en bestaat uit vier fasen: ei, larve, nimf en adult. Van elke levensfase overleeft ongeveer tien procent. Om een volgende fase te bereiken, heeft een teek meestal maar één bloedmaaltijd nodig.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_93bfc1d3ec24.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ab6b3fc148c44731b66877c72bfacb0b.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De bloedmaaltijd van een teek duurt enkele dagen tot een week. De tijdsduur hangt samen met de grootte van de teek. De schapenteek kan als larve, nimf en adult ook een mens of een hond gebruiken als gastheer. Tijdens de bloedmaaltijd kan de bacterie Borrelia burgdorferi worden opgezogen uit de gastheer. Deze bacterie vermenigvuldigt zich in de darmen van de teek. B. burgdorferi wordt niet overgedragen op de eitjes, maar kan wel via het speeksel worden overgedragen op een nieuwe gastheer. Bij mensen kan deze bacterie de ziekte van Lyme veroorzaken.</p><p>Als je de ziekte van Lyme hebt, is de kans groter dat je de ziekte hebt opgelopen door de beet van een nimf dan door de beet van een larve of een adult van de schapenteek.</p>"
+    }
+  ],
+  "bijlages": []
+}

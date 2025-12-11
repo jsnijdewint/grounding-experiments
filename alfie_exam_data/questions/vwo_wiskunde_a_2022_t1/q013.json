@@ -1,0 +1,63 @@
+{
+  "id": "vwo_wiskunde_a_2022_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 78,
+          "name": "Standaardfuncties",
+          "prefix_code": 1
+        },
+        {
+          "id": 79,
+          "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bepaal met behulp van figuur 1 de hartslag van deze persoon.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het hart pompt bloed door het menselijk lichaam. Als het hart samentrekt, wordt bloed in de bloedvaten gepompt, met als gevolg dat deze onder druk komen te staan. Als het hart zich weer ontspant, neemt de druk in de bloedvaten weer af.<br>Dit proces herhaalt zich voortdurend en het aantal keren per minuut dat dit gebeurt, noemen we de <strong>hartslag</strong>. Tijdens dit proces neemt de druk in de bloedvaten dus steeds toe en weer af. De hoogste druk wordt de <strong>bovendruk </strong>genoemd en de laagste druk noemt men de <strong>onderdruk</strong>. Van een bepaalde persoon is in figuur 1 de bloeddruk uitgezet tegen de tijd.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_126973a94916.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3ef51cac53f9422dbde4842d46b12ce4.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_73fca02d2c1b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5d05a69549d843d992d31326c4d8bd2f.pdf"
+    },
+    {
+      "name": "Wiskunde A 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2022_I_uitwerkbijla_986f038aa607.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/05b11d946a864537912b61b903133caa.pdf"
+    }
+  ]
+}

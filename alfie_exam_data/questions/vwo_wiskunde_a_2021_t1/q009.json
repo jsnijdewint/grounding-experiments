@@ -1,0 +1,104 @@
+{
+  "id": "vwo_wiskunde_a_2021_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 78,
+          "name": "Standaardfuncties",
+          "prefix_code": 1
+        },
+        {
+          "id": 79,
+          "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken met behulp van de formule <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mo>=</mo> <mn>30</mn> <mo>&#8901;</mo> <mi>sin</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mfrac><mi>&#960;</mi> <mn>10</mn> </mfrac><mo>&#8901;</mo> <mi>t</mi> <mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>hoeveel procent van de tijd het huis zich minder dan 15 meter van de west-oost-as bevindt. Geef je antwoord in gehele procenten.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Op de Hasseltrotonde in Tilburg staat een huis. Eigenlijk is 'staat' niet het goede woord, want het huis beweegt: het draait in het rond. Het gevolg is dat elke keer dat je langs de rotonde rijdt, het huis op een andere plaats kan staan. Het is een kunstproject, ontworpen door John Körmeling. Zie foto 1 en foto 2 hieronder.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_524bf58d0157.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2aa2a9a3f5374e44a74fd63f2c7c5547.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_102b677bfd00.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c6b647affc3a4988902d4c3d89145e08.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Het huis legt in 20 uur één ronde af, zodat je, als je de rotonde elke dag op hetzelfde tijdstip passeert, het huis geen twee opeenvolgende dagen op dezelfde plaats ziet.</p><p>Op een maandag staat het huis om acht uur 's morgens (08.00 uur) precies aan de oostkant van de rotonde. Voor het vervolg van de opgave is dit <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>0</mn>&#160;</math>. In figuur 1 is een overzicht van de situatie te zien. Het huis is in figuur 1 weergegeven als vierkantje en bevindt zich in punt O .</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_86af71932320.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2d39a2de16db401ab81093f2dfba7856.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Het huis draait met de rijrichting van het verkeer mee.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De straal van de cirkel waarover het huis beweegt, is 30 meter. De afstand <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>in meters van het huis tot de west-oost-as gedurende een rondgang over de rotonde kan worden weergegeven met de formule <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mo>=</mo> <mn>30</mn> <mo>&#8901;</mo> <mi>sin</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mfrac><mi>&#960;</mi> <mn>10</mn> </mfrac><mo>&#8901;</mo> <mi>t</mi> <mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>, met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi>&#160;</math>de tijd in uren, en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>0</mn>&#160;</math>op het moment dat het huis in O is. Hierbij worden afstanden onder de west-oost-as als negatieve getallen weergegeven.</p><p>Je kunt de formule ook zó schrijven dat het beginpunt ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>0</mn>&#160;</math>) in het noorden, in punt N ligt. De formule heeft dan de volgende vorm:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi> <mo>=</mo> <mn>30</mn> <mo>&#8901;</mo> <mi>sin</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mfrac><mi>&#960;</mi> <mn>10</mn> </mfrac><mo>&#8901;</mo> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo>&#8722;</mo> <mi>d</mi> <mo stretchy=\"false\">)</mo> <mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math></p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>In figuur 2 zie je aan de vetgemaakte cirkeldelen waar het huis zich minder dan 15 meter van de west-oost-as bevindt.</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_d26d16ab8d0b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6ad89bd04d064e3287ed21864684f504.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_66115931efb1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a82d76c736914785983bf91c92b9a256.pdf"
+    },
+    {
+      "name": "Wiskunde A 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2021_I_uitwerkbijla_3883774f4ae1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cdb796394a4c4a968d52b9ce2edc08ed.pdf"
+    }
+  ]
+}

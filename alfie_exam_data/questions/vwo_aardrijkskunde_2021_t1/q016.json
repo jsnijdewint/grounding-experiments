@@ -1,0 +1,61 @@
+{
+  "id": "vwo_aardrijkskunde_2021_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "aardrijkskunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 21,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 3,
+          "name": "De aarde als natuurlijk systeem; samenhangen en diversiteit",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beschrijf het ontstaan van de koude winters in Vladivostok.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 9 tot en met 12.<br>Gebruik de bronnen 9 en 10 en het kaartenkatern.<br>De Trans-Siberische Lijn is een spoorlijn van Moskou naar Vladivostok. In het zuidoosten van Rusland heeft deze spoorlijn drie vertakkingen:</p><ul><li>de Bajkal-Amur-Magistrale;</li><li>de Trans-Mantsjoerische Lijn;</li><li>de Trans-Mongolische Lijn.</li></ul>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik de bronnen 11 en 12.<br>De Trans-Siberische Lijn komt van west naar oost langs de plaatsen Moskou, Omsk, Ulan Ude en Chabarovsk (zie bron 9). In bron 11 staan de klimaatgrafieken van deze vier plaatsen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Gebruik bron 12 en het kaartenkatern.<br>In Vladivostok, het eindpunt van de Trans-Siberische Lijn, zijn de winters ondanks de zuidelijkere ligging en de ligging aan het water kouder dan de winters in Moskou, het beginpunt van de Trans-Siberische Lijn.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2021_I_bijlage_1de9ee212266.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3bcf64b646bb4388813bec93b28b6c85.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2021 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2021_I_kaartenk_576987338d70.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/734331e338bb414c87f337f1f9517536.pdf"
+    }
+  ]
+}

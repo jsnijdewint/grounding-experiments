@@ -1,0 +1,99 @@
+{
+  "id": "vwo_biologie_2021_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 40,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 41,
+          "name": "Zelforganisatie van ecosystemen",
+          "prefix_code": 2
+        },
+        {
+          "id": 42,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        },
+        {
+          "id": 19,
+          "name": "Onderzoeken",
+          "prefix_code": 5
+        },
+        {
+          "id": 20,
+          "name": "Ontwerpen",
+          "prefix_code": 6
+        },
+        {
+          "id": 21,
+          "name": "Modelvorming",
+          "prefix_code": 7
+        },
+        {
+          "id": 22,
+          "name": "Natuurwetenschappelijk instrumentarium",
+          "prefix_code": 8
+        },
+        {
+          "id": 23,
+          "name": "Waarderen en oordelen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Een zwakke zwemmer, zoals een glasaaltje, moet soms wachten voor hij door de stroom meegevoerd wordt in de richting van het IJsselmeer. Hoelang moet dit visje volgens het computermodel in het ongunstigste geval wachten?<br>A ongeveer 2 uur<br>B ongeveer 6 uur<br>C ongeveer 12 uur<br>D ongeveer 18 uur</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tijdens de grote onderhoudsbeurt die voor de Afsluitdijk gepland is, wordt de migratieroute voor trekvissen hersteld.</p><p>Het huidige IJsselmeer (afbeelding 1) was vroeger een estuarium: een brede riviermonding die uitliep in de Zuiderzee. Estuaria zijn over het algemeen relatief warme en rijke ecosystemen en voor veel vissoorten een belangrijk deel van de trekroute tussen zout water en zoet water. Door de aanleg van de Afsluitdijk werd deze route voor trekvissen geblokkeerd en veranderde de zoute Zuiderzee in het zoete IJsselmeer. Voor veel vissoorten is een estuarium een aantrekkelijke plaats om eitjes af te zetten, omdat de uitgekomen vislarven er snel en veilig kunnen opgroeien. In het relatief warme IJsselmeerwater groeien vislarven sneller dan in de Waddenzee.</p><p>&nbsp;</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Een koker dwars door de Afsluitdijk, met aansluitend een kilometerslange brakwaterrivier, maakt het IJsselmeer weer bereikbaar voor veel vissoorten. Afbeelding 2 geeft een impressie hiervan.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_43624e184600.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/94419e3692684231b76db0e707501e09.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Bij eb stroomt zoet water uit het IJsselmeer door deze vismigratierivier richting Waddenzee. Bepaalde trekvissen zullen dan, aangelokt door het zoete water, tegen de stroom in naar binnen zwemmen. Dat lukt alleen de sterke zwemmers, zoals de zalm. Bij vloed stroomt zout zeewater de vismigratierivier in en dan pas kunnen ook zwakke zwemmers, zoals jonge palingen (glasaaltjes), het IJsselmeer bereiken. De koker van de vismigratierivier wordt afgesloten zodra de zoutbelasting van het IJsselmeer te groot wordt.</p><p>Ecologen gebruikten een computermodel om de omstandigheden in het sterkst stromende deel van de geplande vismigratierivier te simuleren. Afbeelding 3 toont het resultaat hiervan voor een periode van 48 uur.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_f433f8576429.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/75c5e73598694156a61a1c43e57923af.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

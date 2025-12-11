@@ -1,0 +1,91 @@
+{
+  "id": "vwo_scheikunde_2022_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de massa in gram lactaat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>5</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><msup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> </mrow></msup><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>die in die tijd is omgezet. Neem aan dat in de brandstofcel geen andere reacties optreden. <strong>Geef de uitkomst in het juiste aantal significante cijfers.</strong></p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Onderzoekers hebben een pleister ontwikkeld die stroom kan opwekken als hij op de huid is geplakt. Op de pleister is een brandstofcel aangebracht. Met de geleverde energie kunnen bijvoorbeeld medische sensoren worden gevoed.<br>De elektrodes van de brandstofcel zijn aangebracht op een onderlaag van een niet-geleidend polymeer. De vorming van dit polymeer uit de monomeren is in figuur 1 vereenvoudigd weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_755e8c0fc7b7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5dcf526564c14248b4c9fe9cc0a7cc97.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Op de uitwerkbijlage is het mechanisme van een van de stappen in de vorming van het polymeer onvolledig weergegeven.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Op de onderlaag zijn poreuze elektrodes aangebracht. Op de negatieve elektrodes is het enzym lactaat-oxidase (LOx) aanwezig. Op de positieve elektrodes is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Ag</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi>&#160;</mrow></math>aangebracht.<br>In figuur 2 is schematisch weergegeven welke reacties in de elektrodes verlopen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_2145b550614b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/81c42917a1a243c895b753d7d6ecf71f.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Tijdens lichamelijke inspanning ontstaat in de spieren melkzuur (2-hydroxypropaanzuur, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>6</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn>&#160;</mrow></msub></math>). Een deel van het melkzuur wordt met het zweet uitgescheiden. In zweet bevinden zich hierdoor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo>&#160;</mrow></msup></math>-ionen en lactaat-ionen (de zuurrest-ionen van melkzuur). Het enzym (LOx) maakt de omzetting van de lactaat-ionen naar <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn>&#160;</mrow></msub></math>-ionen mogelijk.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De onderzoekers hebben onderzocht hoe de stroomsterkte <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi>&#160;</math>afhangt van de concentratie lactaat. In figuur 3 zijn de resultaten van hun metingen vereenvoudigd weergegeven.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_257005afa356.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1a22998fa2834cf8a5e4d6840c00bb4c.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Figuur 3 kan ook worden gelezen als een diagram waarin de reactiesnelheid van de omzetting van lactaat is uitgezet tegen de concentratie lactaat. Men zorgde ervoor dat tijdens het experiment de hoeveelheid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Ag</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi>&#160;</mrow></math>en enzym niet veranderde.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>In een praktijkproef werd een pleister op de arm van een sporter bevestigd. Tijdens lichamelijke inspanning werd gedurende 10 minuten gemiddeld een lading van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>2</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>3</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>per seconde getransporteerd. Een mol elektronen heeft een lading van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn> <mo>,</mo> <mn>65</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2022_I_uitwerkbijla_da6165cccfb5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/974fdb9ad1284f7b8d5e91874b964a37.pdf"
+    }
+  ]
+}

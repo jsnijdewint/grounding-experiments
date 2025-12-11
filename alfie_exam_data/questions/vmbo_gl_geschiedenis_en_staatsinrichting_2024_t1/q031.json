@@ -1,0 +1,34 @@
+{
+  "id": "vmbo_gl_geschiedenis_en_staatsinrichting_2024_t1_q31",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "geschiedenis_en_staatsinrichting",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 65,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Hieronder staan vijf gebeurtenissen die te maken hebben met Nederland tijdens de Tweede Wereldoorlog:<br>1 De Nederlandse regering en het Koninklijk Huis vluchten naar Groot-Brittannië.<br>2 Duizenden personeelsleden van de Nederlandse Spoorwegen leggen het werk neer om operatie Market Garden te ondersteunen.<br>3 In Amsterdam vinden de eerste razzia's van Nederland plaats.<br>4 Nederlandse soldaten vechten mee in het Duitse leger tijdens de Slag bij Stalingrad.<br>5 Vrouwen die een relatie hebben gehad met Duitse soldaten, worden in het openbaar vernederd door ze kaal te scheren.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Zet de gebeurtenissen in de juiste volgorde, van vroeger naar later. Doe het zo:<br>Eerst ..., dan ..., daarna ..., vervolgens ... en ten slotte ... (vul nummers in).</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Geschiedenis en staatsinrichting 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_en_staatsinrichti_4f526b664c19.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/09443fc76e444069a8a9993ec0fca9c8.pdf"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "vwo_economie_2024_t1_q19",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 23,
+          "name": "Goede tijden, slechte tijden",
+          "prefix_code": "I"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit of de verschuiving van de MB-curve in Oostland duidt op een lagere of hogere inflatiedoelstelling van de centrale bank.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Westland en Oostland hebben na jaren van economische groei nu de potentiële productie bereikt. Binnenkort zijn er verkiezingen in Westland. De regering van Westland wil de tarieven van de inkomstenbelasting en de winstbelasting verlagen.&nbsp;<br><br>In Oostland heeft de centrale bank besloten&nbsp; om de inflatiedoelstelling te veranderen. De centrale bank van Oostland&nbsp; past daarom het monetair beleid aan.<br><br>Een wetenschapper gebruikt het IS-MB-GA model om de gevolgen te analyseren van beide beleidsvoornemens (zie figuren 1 en 2). De wetenschapper neemt voor beide landen aan dat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle mathsize=\"10px\"><msub><mi>Y</mi><mn>0</mn></msub><mo>=</mo><mo>&#160;</mo><mi>Y</mi><mo>*</mo></mstyle></math>&nbsp;</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_dcdc8932f0da.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d1c098ed591e4015a69422ccb0060a10.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Door het plan van de regering van Westland om de inkomstenbelasting te verlagen verschuift <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle mathsize=\"10px\"><msub><mi>IS</mi><mn>0</mn></msub></mstyle></math> naar <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle mathsize=\"10px\"><msub><mi>IS</mi><mn>1</mn></msub></mstyle></math> .</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Door de veranderde inflatiedoelstelling van de Oostlandse centrale bank verschuift <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle mathsize=\"12px\"><mi>M</mi><msub><mi>B</mi><mn>0</mn></msub></mstyle></math> naar <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle mathsize=\"12px\"><mi>M</mi><msub><mi>B</mi><mn>1</mn></msub></mstyle></math> .</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Economie_2024_I_uitwerkbijlage_1a973a084ece.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4c41604ce9b148bcac3ea440f8fd9796.pdf"
+    }
+  ]
+}

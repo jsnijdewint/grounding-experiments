@@ -1,0 +1,75 @@
+{
+  "id": "havo_natuurkunde_2023_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 133,
+          "name": "Kracht en beweging",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Schets in de figuur op de uitwerkbijlage de grafiek voor het afremmen van de vrachtwagen onder dezelfde omstandigheden op een bevroren noodstopstrook.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In bergachtige gebieden liggen naast snelwegen vaak noodstopstroken. Een noodstopstrook is een lange bak, gevuld met grind. Zie figuur 1.</p><p>Als de remmen van een vrachtwagen tijdens het afdalen weigeren, kan de chauffeur de noodstopstrook gebruiken. Hoe verder de vrachtwagen de strook oprijdt, hoe dieper de grindlaag wordt waar de vrachtwagen doorheen rijdt. De remkracht van het grind op de vrachtwagen neemt daardoor toe.</p><p>Van een remmende vrachtwagen in het grind is een ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi> <mo>,</mo> <mi>t</mi>&#160;</math>)-diagram gemaakt Zie fiauur 2<br>figuur 2</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_1165f98531e0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/097e373d646344da8369af7cfe3a92b9.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_101c5ebed8a6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7589878233e64651832e93836a1ad2e4.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Figuur 2 is ook op de uitwerkbijlage afgedrukt.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Uit veiligheidsoverwegingen is een ontwerp-eis van een noodstopstrook dat de vertraging van de vrachtwagen niet groter mag zijn dan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>90</mn> <mo>&#8901;</mo> <mi>g</mi>&#160;</math>. Figuur 2 is nogmaals op de uitwerkbijlage afgedrukt.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In koude gebieden kan het grind aan elkaar vriezen, waardoor de vrachtwagen er niet meer zo ver in wegzakt.<br>Figuur 2 is nogmaals op de uitwerkbijlage afgedrukt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2023_I_uitwerkbijl_b84551b8ec5a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2016336bf8d54298886022aa1e155445.pdf"
+    }
+  ]
+}

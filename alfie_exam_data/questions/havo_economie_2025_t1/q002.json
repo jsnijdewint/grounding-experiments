@@ -1,0 +1,47 @@
+{
+  "id": "havo_economie_2025_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg de uitspraak van econoom 2 uit.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Nederland heeft een wettelijk minimumuurloon voor alle werknemers van 15 jaar en ouder. In een talkshow debatteren twee economen over de gevolgen van het verhogen van dit minimumuurloon.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_7c8d122e8343.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/caac5c46da624874afecc15f1ed5337d.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "ha-1022-a-25-1-b.pdf",
+      "media_path": "media/bijlages/ha-1022-a-25-1-b_d22d3ea39f14.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bbaed4a5fde74a759025b6f0f5557449.pdf"
+    }
+  ]
+}

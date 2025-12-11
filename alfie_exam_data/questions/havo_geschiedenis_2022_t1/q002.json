@@ -1,0 +1,51 @@
+{
+  "id": "havo_geschiedenis_2022_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "geschiedenis",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 29,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 197,
+          "name": "Tijdvak 5 – Ontdekkers en hervormers",
+          "prefix_code": 5
+        },
+        {
+          "id": 198,
+          "name": "Tijdvak 6 – Regenten en vorsten",
+          "prefix_code": 6
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef voor elk van beide bepalingen aan waardoor die de Spaanse overheersing van Amerika bevorderde.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 1518 ondertekende de Spaanse koning Karel I een wet waarin hij bepaalde dat:<br>1 het toegestaan was om slaafgemaakten uit Afrika naar Amerika te vervoeren.<br>2 deze slaafgemaakten tijdens de reis moesten worden bekeerd tot het christendom.<br>Karel I wilde met deze wet de Spaanse overheersing van Amerika beyorderen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2022_I_bijlage_efc832c5bc6a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4c75dd86a687428f8575622947101fb2.pdf"
+    }
+  ]
+}

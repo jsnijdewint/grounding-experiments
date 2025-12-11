@@ -1,0 +1,40 @@
+{
+  "id": "vwo_maatschappijwetenschappen_2024_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "maatschappijwetenschappen",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 7,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik tekst 1.<br>Er zijn drie vormen van socialisatie te onderscheiden: primaire, secundaire en tertiaire socialisatie. Volgens tekst 1 draagt een van deze vormen van socialisatie bij aan de populariteit van het versieren van nagels.<br>Beredeneer dat in de vorm van socialisatie die aan die populariteit bijdraagt globalisering te herkennen is.<br>Gebruik in je redenering:</p><ul><li>de naam en een omschrijving van een vorm van socialisatie en informatie uit tekst 1 waaruit de gekozen vorm blijkt;</li><li>de omschrijving van het kernconcept globalisering en informatie uit tekst 1 waaruit globalisering blijkt.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave hoort tekst 1 uit het bronnenboekje.<br><br>Inleiding<br>In Nederland laten steeds meer mensen hun nagels versieren met glitters, kleuren en printjes. Tussen 2018 en 2023 groeide het aantal nagelsalons met 44 procent. Het versieren van nagels wordt nailart genoemd. Deze opgave gaat over de groeiende populariteit van nailart.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijwetenschappen 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijwetenschappen_2024_98cea78b7fa5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8e85cb23d45841fdb8ba7f057b8117c3.pdf"
+    }
+  ]
+}

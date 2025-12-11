@@ -1,0 +1,41 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_2_2024_t1_q25",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_2",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 53,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welk van onderstaande begrippen past bij de vloeistoffen in het opvangvat?<br><strong>A </strong>bezinksel<br><strong>B </strong>destillaat<br><strong>C </strong>filtraat<br><strong>D </strong>neerslag<br><strong>E </strong>residu</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Parfum is een heldere vloeistof die geurstoffen en alcohol bevat. De geurstoffen kunnen worden verkregen uit bloemblaadjes door er stoom door te leiden. Hieronder is een vereenvoudigde opstelling voor dit proces afgebeeld.<br>De stoom trekt de geurstoffen uit de bloemblaadjes in de kolf. De stoom met geurstoffen wordt vervolgens door een koeler geleid. In de koeler vindt een faseovergang plaats. De opgevangen vloeistof vormt in het opvangvat twee lagen. De onderste laag bestaat voornamelijk uit water. De bovenste laag bevat de geurstoffen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_f57ec9d23b02.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/29048172b6494127a0476b5f910debf7.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

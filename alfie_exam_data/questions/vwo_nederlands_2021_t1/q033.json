@@ -1,0 +1,46 @@
+{
+  "id": "vwo_nederlands_2021_t1_q33",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 53,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg de essentie van deze figuurlijke spagaat uit. Geef antwoord in een of meer volledige zinnen en gebruik voor je antwoord niet meer dan 30 woorden.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In alinea 2 van tekst 3 is sprake van een spagaat waarin de journalist zit.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2021_I_bijlage_a140e076680b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8f09b902c8234f79a5b66b53e4cd1e25.pdf"
+    }
+  ]
+}

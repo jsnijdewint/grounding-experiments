@@ -1,0 +1,46 @@
+{
+  "id": "vwo_engels_2022_t1_q43",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "engels",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 1,
+      "domains": [
+        {
+          "id": 24,
+          "name": "Leesvaardigheid",
+          "prefix_code": "A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Er worden in dit overzicht drie boeken aangeraden die duidelijk politiek van aard zijn. De beschrijvingen van die drie boeken zijn als volgt:<br>1 een informatieve analyse<br>2 een instructieve handleiding<br>3 een verhelderende geschiedenis<br><br>Geef voor elk van deze beschrijvingen aan welk boek bedoeld wordt.<br>Noteer de juiste titel achter elk nummer op het antwoordblad.<br>Let op: je mag elke beschrijving slechts één keer gebruiken.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Lees bij de volgende opgave eerst de vraag voordat je de bijbehorende tekst raadpleegt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Engels 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2022_I_bijlage_dacd7860cc8f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5a350af12163418d849c72d09710a439.pdf"
+    }
+  ]
+}

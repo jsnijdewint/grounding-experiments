@@ -1,0 +1,45 @@
+{
+  "id": "havo_maatschappijwetenschappen_2022_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "maatschappijwetenschappen",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 34,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik figuur 1.<br>In het adviesrapport van de ROB wordt in verband met de politieke participatie van jongeren ook ingegaan op verschillen tussen generaties.<br>Figuur 1 toont de mate waarin verschillende generaties netto profijt hebben van overheidsbeleid.<br>Leg uit dat uit figuur 1 blijkt dat er sprake is van sociale ongelijkheid. Gebruik in je uitleg:</p><ul><li>de omschrijving van het kernconcept sociale ongelijkheid;</li><li>gegevens uit figuur 1.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen tekst 2 en figuur 1 uit het bronnenboekje.<br><br>Inleiding<br>De leeftijd waarop men in Nederland mag stemmen voor een volksvertegenwoordiging is 18 jaar en vastgelegd in de Grondwet. In juni 2019 kwam de Raad voor het Openbaar Bestuur (ROB) met het adviesrapport 'Jong geleerd, oud gedaan'. In dit rapport adviseert de ROB om de kiesgerechtigde leeftijd uit de Grondwet te halen, zodat het mogelijk is om te experimenteren met stemrecht voor 16- en 17-jarigen op gemeentelijk en provinciaal niveau.<br>De ROB stelt dat uit onderzoek blijkt dat \"de verlaging van de kiesgerechtigde leeftijd een positief effect kan hebben op onder andere politieke kennis en interesse van jongeren en op hun opkomst bij verkiezingen. Bovendien lijkt dit effect langdurig te zijn, in de zin dat wanneer jongeren ouder worden hun opkomst structureel hoger blijft.\"</p><p>In het adviesrapport van de ROB staat dat de politieke betrokkenheid van jongeren in Nederland laag is, in vergelijking met oudere leeftijdsgroepen en in vergelijking met landen die enigszins lijken op ons land. Slechts 4 op de 10 jongeren in Nederland zijn tamelijk tot zeer geïnteresseerd in de politiek. Een van de duidelijkste signalen voor de lage betrokkenheid van jongeren is volgens de ROB hun lage opkomst bij verkiezingen. Volgens de ROB is de lage opkomst van jongeren problematisch. Jongeren maken zich zorgen over andere politieke vraagstukken dan ouderen of hebben andere opvattingen over bestaande maatschappelijke problemen, zo staat er in het adviesrapport.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Er is een verschil tussen actief kiesrecht en passief kiesrecht. Zowel een verlaging van de leeftijdsgrens voor het actief kiesrecht naar 16 jaar als een verlaging van de leeftijdsgrens voor het passief kiesrecht naar 16 jaar, kan leiden tot een hogere representatie van jongeren in een volksvertegenwoordiging zoals een gemeenteraad.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijwetenschappen 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijwetenschappen_2022_b839328547bf.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/300a452244ca4ad0aade610c9e6fe2bc.pdf"
+    }
+  ]
+}

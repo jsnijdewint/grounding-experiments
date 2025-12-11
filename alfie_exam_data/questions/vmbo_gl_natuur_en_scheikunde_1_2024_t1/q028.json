@@ -1,0 +1,84 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2024_t1_q28",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 141,
+          "name": "Elektrische energie",
+          "prefix_code": "NASK1/K/5"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Om de motor op te kunnen starten is een stroomsterkte van 90 A nodig. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Noteer het aantal rijen met halve citroenen dat daarvoor nodig is. Het aantal halve citroenen in elke rij blijft gelijk.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een monteur probeert met 1000 halve citroenen de motor van een auto te starten.<br>Door citroenen met metalen plaatjes en draden te verbinden ontstaat er een citroenaccu als spanningsbron.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_e3bfbd7517bc.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/78ce986b6f284b91b18b8eb41b8c6dc9.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_6f1b74d7e238.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/15742c452fd445fd89e010012652f6b2.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Je ziet een schematische afbeelding van de schakeling met citroenen. Er zijn in totaal 50 rijen met 20 halve citroenen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_99e0a1bef7cc.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c697b757fdf14d9baa848a799268cd2a.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De stroomsterkte die de citroenaccu met 50 rijen halve citroenen levert is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>50</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">A</mi>&#160;</mrow></math>.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_09538c48f531.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5c14607411944433a2c5f6ef934101c5.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2024_I_c96405ee1a91.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c258a8174cb04fbba9275f60e7aa3610.pdf"
+    }
+  ]
+}

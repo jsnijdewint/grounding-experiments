@@ -1,0 +1,70 @@
+{
+  "id": "havo_wiskunde_b_2023_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 103,
+          "name": "Meetkundige berekeningen",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bewijs dat formule 1 juist is. Je kunt hierbij de figuur op de uitwerkbijlage gebruiken.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Transition </i>is een kunstwerk dat langs de autoweg N34 bij Eext in Drenthe staat. Het is een gekromde buis die gedeeltelijk ingegraven is in de grond. Zie de foto.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_f7ad49aa556c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9a501a7763454b83b8b4955a784f38e2.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de figuur is een model weergegeven van een van de uiteindes van de buis: een cirkel met middelpunt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi>&#160;</math>en straal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi>&#160;</math>. Punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi>&#160;</math>is het hoogste punt van de buis. De <strong>doorgang </strong>van de buis is het deel van de cirkel boven lijnstuk <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi>&#160;</math>. De basis van de doorgang is lijnstuk <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi>&#160;</math>. De lengte van de <strong>basis </strong>is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi>&#160;</math>. Punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi>&#160;</math>is het midden van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi>&#160;</math>. De afstand tussen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi>&#160;</math>is de hoogte <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi>&#160;</math>van de doorgang. Lijnstuk <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi> <mi>D</mi>&#160;</math>staat loodrecht op <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi>&#160;</math>. Er geldt dus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi> <mi>M</mi> <mo>=</mo> <mi>h</mi> <mo>&#8722;</mo> <mi>r</mi>&#160;</math>. De figuur staat ook op de uitwerkbijlage.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_34bd0745f997.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dfb376962bd4430785b87c956c32c11c.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Er is een formule waarmee je de straal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi>&#160;</math>kunt berekenen bij de gegeven basis en hoogte, namelijk:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi> <mo>=</mo> <mfrac><mrow><mfrac><mn>1</mn> <mn>4</mn> </mfrac><msup><mi>b</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>+</mo> <msup><mi>h</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup></mrow><mrow><mn>2</mn> <mi>h</mi>&#160;</mrow></mfrac></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (formule 1)<br>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi>&#160;</math>de straal, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi>&#160;</math>de lengte van de basis <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi>&#160;</math>de hoogte <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi> <mi>D</mi>&#160;</math>. Er geldt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi> <mo>&#8805;</mo> <mi>r</mi>&#160;</math>.</p><p>&nbsp;</p><p>Met behulp van driehoek <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>C</mi> <mi>M</mi>&#160;</math>kun je bewijzen dat formule 1 juist is.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde B 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2023_I_uitwerkbijla_9ba57d6520e4.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9679abc20da6403596a9f0f1d8e1d3b8.pdf"
+    }
+  ]
+}

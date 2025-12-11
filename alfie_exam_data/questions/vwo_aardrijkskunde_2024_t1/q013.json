@@ -1,0 +1,66 @@
+{
+  "id": "vwo_aardrijkskunde_2024_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "aardrijkskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 21,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 3,
+          "name": "De aarde als natuurlijk systeem; samenhangen en diversiteit",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef&nbsp;<br>- een argument waarom Pakistan een punt heeft door de schuld van klimaatverandering bij het Westen te leggen;&nbsp;<br>- een maatregel die de Pakistaanse overheid kan nemen om de kans op overstromingen te verminderen</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gebruik bron 7 en het kaartenkatern.&nbsp;<br>In bron 7 staan foto's van vier rivieren: Indus, Mekong, Mississippi en Ob</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik bron 8 en het kaartenkatern.&nbsp;<br><br>Overstromingen van de Indus treffen Pakistan vooral in de periode juli september. Een van de oorzaken hiervan is de vele neerslag in deze periode.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Gebruik bron 8 en het kaartenkatern. Niet alleen grote hoeveelheden neerslag, maar ook kenmerken van het landschap van Pakistan dragen bij aan overstromingen. Zo stroomt in de bovenloop van de Indus door het steile reliëf het water daar snel af.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "Gebruik bron 8.\r\n\r\nVolgens de Pakistaanse minister wordt klimaatverandering veroorzaakt\r\ndoor het Westen. Klimaatonderzoeker Pieter Pauw stelt dat Pakistan\r\nzeker een punt heeft, maar dat Pakistan ook zijn eigen aandeel in de\r\noverstromingsramp moet erkennen"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_bijlage_5d21ee139256.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b59abf07fb0546d7b053e9a0b057d44d.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2024 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_kaartenk_7cdee1f1797d.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a91a8df27bf04e42855ea2418d56e940.pdf"
+    }
+  ]
+}

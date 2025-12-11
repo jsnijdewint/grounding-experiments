@@ -1,0 +1,61 @@
+{
+  "id": "vwo_nederlands_2022_t1_q27",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 53,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Hoe moeten bovenstaande twee zinnen worden begrepen in het licht van de tekst als geheel?</p><p><strong>A</strong> Doordat de overheid zich weinig bemoeit met dataverzameling en -verwerking, richten nieuwe bedrijven zich hierop.</p><p><strong>B</strong> Hoewel er met databewerking veel geld te verdienen is, moeten deze activiteiten voorbehouden blijven aan de overheid.</p><p><strong>C</strong> Omdat bedrijven gemakkelijker internationaal opereren, zijn zij in het voordeel als het gaat om dataverzameling en -verwerking.</p><p><strong>D</strong> Weliswaar valt innovatie door bedrijven te prijzen, maar in dit geval mogen ze niet ongecontroleerd hun gang gaan.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>“De eerste stap in de moderne revolutie is de privatisering van alles.” (regels 50-51) Volgens het tekstgedeelte dat bestaat uit alinea 1 tot en met 5 van tekst 3 doet deze privatisering zich voor in verschillende beroepsdomeinen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“De eerste stap in de moderne revolutie is de privatisering van alles.” (regels 50-51)</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In tekst 3 staat de ontwikkeling centraal in het eigenaarschap van data. Deze ontwikkeling kent drie fasen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“Nu is het uiteraard fijn dat bedrijven kansen zien in nieuwe technologieën. Maar het is minder fijn dat democratieën hun politieke macht zo snel uit handen geven.” (regels 66-70)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2022_I_bijlage_4ae2d5f8192e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dea44ec2b1b74c9cbd02db396bb8609a.pdf"
+    }
+  ]
+}

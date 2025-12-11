@@ -1,0 +1,46 @@
+{
+  "id": "vmbo_gl_biologie_2024_t1_q42",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 115,
+          "name": "Het lichaam in stand houden: voeding en genotmiddelen, energie, transport en uitscheiding",
+          "prefix_code": "BI/K/9"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In welke delen van een nier wordt het bloed gefilterd?&nbsp;<br>A in het nierbekken en het niermerg&nbsp;<br>B in het nierbekken en de nierschors&nbsp;<br>C in de nierschors en het niermerg</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Als nieren minder goed functioneren, worden afvalstoffen niet goed uit het bloed gefilterd. Dit wordt nierfalen genoemd. Diabetes of een hoge bloeddruk kunnen een oorzaak zijn van nierfalen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2024_I_uitwerkbijlage_c89173bb9d6c.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ce4f7301c75b48c7b4639aaa9b761e2a.pdf"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "vmbo_gl_maatschappijkunde_2023_t1_q33",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "maatschappijkunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 63,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zie tekst 1.<br>In de Europese Unie werken landen samen als problemen moeilijk op nationaal niveau kunnen worden aangepakt.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Leg uit dat de bescherming van wolven moeilijk alleen op nationaal niveau kan worden aangepakt.<br>Doe het zo: neem het onderstaande over en vul het antwoord aan.&nbsp;</p><p>Het is moeilijk om de bescherming van wolven alleen op nationaal niveau aan te pakken, want ...</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Maatschappijkunde 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijkunde_2023_I_bijla_da96e858ca42.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1c7050d771db4fa89a761f752fd7e2ce.pdf"
+    }
+  ]
+}

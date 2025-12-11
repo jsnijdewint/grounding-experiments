@@ -1,0 +1,52 @@
+{
+  "id": "havo_scheikunde_2025_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:</p><ul><li>Geef de naam van het meest voorkomende bindingstype in staal.</li><li>Licht toe op microniveau dat staal door verhitten beter vervormbaar wordt.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Staal is een legering die voornamelijk uit ijzer bestaat. Plaatstaal is een toepassing van staal die onder andere in auto's en treinen wordt gebruikt. Plaatstaal wordt gemaakt door middel van walsen. Hierbij worden langwerpige blokken staal verhit tot <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>1200</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math> en vervolgens tussen verwarmde rollen geperst. Zo ontstaat een lange plaat. Door het staal meerdere malen achter elkaar te walsen, kan de gewenste plaatdikte worden verkregen. De lange plaat wordt vervolgens opgerold en afgekoeld. Zie figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_29ab8df87680.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a7c50a96887946e78196477216347074.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De reden dat staal eerst wordt verhit voordat het geperst wordt, is dat staal bij kamertemperatuur moeilijk vervormbaar is.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "ha-1028-a-25-1-u.pdf",
+      "media_path": "media/bijlages/ha-1028-a-25-1-u_c2bab5b58221.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f3aee0d3e8b747e2b4f1a424e9bd0f04.pdf"
+    }
+  ]
+}

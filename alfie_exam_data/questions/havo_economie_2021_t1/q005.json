@@ -1,0 +1,56 @@
+{
+  "id": "havo_economie_2021_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 73,
+          "name": "Markt",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik uitspraak 2 en bron 2.<br>Bereken welke prijs bij uitspraak 2 moet worden ingevuld.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>uit een krant: Een garnalenkotter uit Arnemuiden vangt dagelijks duizenden kilo’s Hollandse garnalen. Op dit moment zijn ze “goud” waard. De prijzen rijzen de pan uit. “Ik heb dit nog nooit meegemaakt”, zegt schipper Rinus. “Verse garnalen zijn kort houdbaar. We brengen onze vangst altijd meteen naar de visveiling en hopen op een goede prijs. We hadden verwacht ongeveer € 3,50 per kilo te krijgen, nu stopt de veilingklok op € 8.” Rinus vermoedt dat de prijsstijging te maken heeft met de verminderde garnalenstand in de Noordzee als gevolg van ongunstige weersomstandigheden.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Schipper John wil maximaal profiteren van de hoge garnalenprijs. Hij overweegt om te investeren in een technische aanpassing van zijn garnalenkotter, zodat de vangstcapaciteit toeneemt. Met een grotere vangstcapaciteit denkt hij zijn maximale winst te kunnen verhogen.</p><p>Gebruik het inleidende krantenfragment en bron 2.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Rinus vindt de voorgenomen investering van John niet verstandig en doet de volgende uitspraken:<br>1 \"De hoge prijs van Hollandse garnalen is waarschijnlijk van korte duur. Veranderingen in vraag en aanbod kunnen via het marktmechanisme zowel tot hogere als tot lagere prijzen leiden.\"<br>2 \"Als John zijn investering realiseert, mag de prijs van de Hollandse garnaal niet onder de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo>&#160;</math>€... per kilo komen, anders wordt zijn maximale totale winst in de nieuwe situatie lager dan in de oude situatie.\"</p><p>Gebruik uitspraak 1.<br>Hieronder staan vijf gebeurtenissen.<br>a Roestziekte, die vooral bij kreeften voorkomt, treft nu ook garnalen.<br>b Wijting, de natuurlijke vijand van de Hollandse garnaal, is gesignaleerd in de Noordzee.<br>c Een deel van de consumenten van Hollandse garnalen is overgestapt op de consumptie van Noorse garnalen.<br>d De hoge garnalenprijs trekt nieuwe garnalenvissers aan.<br>e Een groot aantal restaurants heeft de Hollandse garnaal van de menukaart gehaald.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2021_I_bijlage_78b2ccc4e0ab.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e553e4fb92dd414ba69c047a982b4e48.pdf"
+    }
+  ]
+}

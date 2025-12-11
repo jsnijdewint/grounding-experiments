@@ -1,0 +1,72 @@
+{
+  "id": "vwo_economie_2023_t1_q19",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 20,
+          "name": "Samenwerken en onderhandelen",
+          "prefix_code": "F"
+        },
+        {
+          "id": 22,
+          "name": "Welvaart en groei",
+          "prefix_code": "H"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Benoem deze twee voorwaarden.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In het land Nambia is de economie voornamelijk gericht op visserij. Ruim de helft van het nationaal inkomen wordt hiermee verdiend. De zeer arbeidsintensieve visserijbedrijven opereren op een markt van volledige mededinging. De overheid van Nambia maakt zich zorgen over het risico op overbevissing en vraagt econoom Laura Haddok onderzoek te doen naar de visstand. De visstand is de totale hoeveelheid beschikbare vis in de wateren voor de kust van Nambia. Econoom Haddok stelt een model op in figuur 1 en tabel 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_99cb3d06b4ce.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/390ca204fd7a4e70920807d701480413.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In dit model worden de vaste (constante) kosten achterwege gelaten.&nbsp;<br><br>Econoom Haddok stelt dat bij een evenwicht op de collectieve vismarkt in Nambia, en als de huidige situatie zich voortzet, de toekomst van de visindustrie in Nambia steeds sneller zal verslechteren.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Visserijbedrijven willen investeren in innovatieve technologieën om hun visvangst en hun marktpositie te verbeteren. Haddok onderzoekt dit en reageert met behulp van figuur 1:&nbsp;<br>i “Door de investeringen veranderen de kosten voor een individuele visser en verschuift een curve in het rechterdiagram,&nbsp;<br>ii Daardoor verandert het evenwicht op de collectieve markt,&nbsp;<br>iii Hierdoor zal de situatie van overbevissing juist verder verslechteren.”</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Om overbevissing te stoppen moet de visvangst gelijk zijn aan de groei. Om dit te bereiken zou de overheid een heffing per ton vis kunnen opleggen.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De overheid wil vergunningen uitgeven met een visquotum. Haddok zegt hierover: “Het uitgeven van vergunningen kan de overbevissing ook stoppen. Maar er moet worden voldaan aan twee voorwaarden.”</p>"
+    }
+  ],
+  "bijlages": []
+}

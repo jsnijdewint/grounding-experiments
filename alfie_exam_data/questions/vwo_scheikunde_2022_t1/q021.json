@@ -1,0 +1,55 @@
+{
+  "id": "vwo_scheikunde_2022_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Maak op de uitwerkbijlage het mechanisme compleet.</p><ul><li>Teken in het omkaderde deel de niet-bindende elektronenparen.</li><li>Geef in het omkaderde deel met pijlen weer hoe elektronenparen worden verplaatst tijdens de reactie.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_ef739a485046.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3e9d7d6901804c11a6d1b20a077d908f.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Onderzoekers hebben een pleister ontwikkeld die stroom kan opwekken als hij op de huid is geplakt. Op de pleister is een brandstofcel aangebracht. Met de geleverde energie kunnen bijvoorbeeld medische sensoren worden gevoed.<br>De elektrodes van de brandstofcel zijn aangebracht op een onderlaag van een niet-geleidend polymeer. De vorming van dit polymeer uit de monomeren is in figuur 1 vereenvoudigd weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_755e8c0fc7b7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5dcf526564c14248b4c9fe9cc0a7cc97.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Op de uitwerkbijlage is het mechanisme van een van de stappen in de vorming van het polymeer onvolledig weergegeven.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2022_I_uitwerkbijla_da6165cccfb5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/974fdb9ad1284f7b8d5e91874b964a37.pdf"
+    }
+  ]
+}

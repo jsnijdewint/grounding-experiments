@@ -1,0 +1,103 @@
+{
+  "id": "havo_biologie_2023_t1_q38",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 122,
+          "name": "Zelforganisatie van cellen",
+          "prefix_code": 3
+        },
+        {
+          "id": 123,
+          "name": "Erfelijke eigenschap",
+          "prefix_code": 7
+        },
+        {
+          "id": 124,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 130,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Ryans zus Noa heeft geen bèta-thalassemie, maar ze is mogelijk wel drager van de ziekte.<br>Hoe groot is de kans dat Noa drager is van bèta-thalassemie?<br>A <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn> <mn>4</mn>&#160;</mfrac></math><br>B <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn> <mn>3</mn>&#160;</mfrac></math><br>C <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>2</mn> <mn>3</mn>&#160;</mfrac></math><br>D <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>3</mn> <mn>4</mn>&#160;</mfrac></math></p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij zijn geboorte leek Ryan gezond. Als het jongetje een half jaar oud is, blijkt hij echter onvoldoende gegroeid te zijn en ziet hij erg bleek.</p><p>Na bloedonderzoek blijkt Ryan de ziekte bèta-thalassemie te hebben, een erfelijke ziekte als gevolg van een mutatie in een gen voor hemoglobine. De mutatie veroorzaakt een verhoogde afbraak van rode bloedcellen. De ziekte kan worden behandeld met stamcellen uit het beenmerg van een donor.</p><p>Stamcellen uit het beenmerg doorlopen verschillende stadia voordat ze als reticulocyten in de bloedbaan komen (afbeelding 1). Vervolgens ontwikkelen ze zich daar in 24 uur tot erytrocyten: rijpe rode bloedcellen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_ad3db9f763ef.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f39623210aee45ba8907d22aec8a1a8b.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Rijpe rode bloedcellen leven gemiddeld drie maanden, maar bij Ryan worden ze al na enkele dagen afgebroken. Om het tekort aan rode bloedcellen gedeeltelijk te compenseren, is de activiteit van het rode beenmerg verhoogd.</p><p>Een medisch laborant maakt een preparaat van een druppel bloed van Ryan en bepaalt met de microscoop de verhouding tussen de reticulocyten en de rijpe rode bloedcellen. In afbeelding 2 zijn twee bloedbeelden te zien, een ervan is dat van Ryan, het andere is een normaal bloedbeeld.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_8cd9fe9334df.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a28c0b1a454141559a02a39c692077f7.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Ryan krijgt elke drie weken een bloedtransfusie via een infuus in een bloedvat in zijn arm. Afbeelding 3 is een schematische tekening van de bloedsomloop.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_ac1a20a408ad.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c73e1448e7a54058ae46de92e362c502.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Bij een stamceltransplantatie voor een bèta-thalassemiepatiënt worden de stamcellen van de patiënt gedood en vervangen door stamcellen van een donor. Een deel van deze stamcellen zal zich ontwikkelen tot rode bloedcellen, een ander deel tot afweercellen. Het is belangrijk dat bepaalde membraaneiwitten (HLA-eiwitten) van de donorcellen zo veel mogelijk overeenkomen met die van de patiënt om een immuunreactie te voorkómen. Deze immuunreactie ontstaat als de gedoneerde stamcellen die zich tot afweercellen hebben ontwikkeld, de HLA-eiwitten van de patiënt als lichaamsvreemd herkennen.</p><p>Over de immuunreactie die kan optreden na de stamceltransplantatie worden de volgende uitspraken gedaan:<br>1 Bij de immuunreactie zijn de HLA-eiwitten de antigenen.<br>2 Bij de immuunreactie worden cellen van gezonde weefsels van de patiënt aangevallen.<br>3 De immuunreactie wordt veroorzaakt doordat de donorstamcellen als lichaamsvreemd worden herkend.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Bèta-thalassemie erft autosomaal recessief over. Ryans ouders zijn beiden drager van het gemuteerde gen, maar hebben geen verschijnselen van bèta-thalassemie.</p><p>In afbeelding 4 zijn vijf lichaamscellen ( P, Q, R, S en T ) schematisch afgebeeld. In elke cel is slechts één chromosomenpaar getekend. Het gemuteerde hemoglobine-gen is met zwart aangegeven.</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_132833e77124.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ff8fc52c8f4b4f3192f3de8aa376c8ae.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 76,
+    "education_level": "havo",
+    "discipline": "engels",
+    "year": 2022,
+    "tijdvak": 1
+  },
+  "question_count": 43
+}

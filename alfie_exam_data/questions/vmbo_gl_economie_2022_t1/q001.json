@@ -1,0 +1,46 @@
+{
+  "id": "vmbo_gl_economie_2022_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 123,
+          "name": "Consumptie",
+          "prefix_code": "EC/K/4A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Maak van onderstaande zinnen een economisch juiste tekst door de juiste woorden te kiezen.<br>Doe het zo: Noteer de nummers (1), (2) en (3) op je antwoordblad. Vul bij de nummers de juiste woorden in. Kies uit de woorden die tussen haakjes staan.<br>Als Munir en Nellie gaan sparen verplaatsen ze ...(1)... (huidige / toekomstige) consumptie naar ...(2)... (de toekomst / het heden). Als de inflatie hoger is dan de ontvangen rente zal de ...(3)... (koopkracht / nominale waarde / rente) van hun spaargeld dalen.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 1 en 2 in de bijlage.</p><p>Munir en Nellie hebben in de loop van de jaren een mooi bedrag gespaard. De rente bij de spaarbank is de laatste jaren erg laag. \"Het spaargeld levert te weinig op\", zegt Munir. \"Wij willen met dit geld een hogere opbrengst bereiken.\"</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_ef2c1b8354d0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dc02323a63d64258a36e6a9729a51c74.pdf"
+    }
+  ]
+}

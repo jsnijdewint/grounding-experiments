@@ -1,0 +1,141 @@
+{
+  "id": "vwo_nederlands_2024_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 53,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef aan of het negatieve oordeel over pulpboeken uit tekst 1 wel of niet eenduidig wordt afgewezen in tekstfragment 3, en citeer de zin uit tekstfragment 3 waaruit dit blijkt.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Na publicatie van tekst 1 verschenen hierop landelijk verscheidene reacties. Vier van deze reacties staan als fragment in het tekstboekje, na tekst 1. Behalve vragen over tekst 1 bevat dit examen vragen over deze reacties in samenhang met tekst 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Tekst 1 Fastfood voor jonge lezers: de schadelijke promotie van pulp in het onderwijs</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>\r\nTekst 1 kun je met onderstaande kopjes in vier opeenvolgende delen onderverdelen:\r\n</p><p>- deel 1: Het probleem van de ontlezing\r\n</p><p>- deel 2: Een verkeerde overheidsmaatregel\r\n</p><p>- deel 3: De schade aan jongeren ontrafeld\r\n</p><p>- deel 4: Juiste overheidsinitiatieven?</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“Wat hebben we nodig om ontlezing een halt toe te roepen? Mooie verhalen natuurlijk, maar ook ‘mooie lezers’.” (regels 1-4)</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Uit alinea 5 is het standpunt af te leiden dat de Nederlandse overheid haar “eigen cultuuronderwijs” momenteel onvoldoende serieus neemt.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>“Nederland zou zijn eigen cultuuronderwijs serieuzer moeten nemen.” (regels 55-57)</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Zowel in de titel van tekst 1 als in de supermarktmetafoor in alinea 5 worden de boeken op de shortlist van de Jonge Jury vergeleken met voedsel.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>In alinea 7 worden negatieve kenmerken van pulp genoemd, waaronder:</p><p>1 Pulp bevestigt lezers in seksistisch denken.</p><p>2 Pulp bevestigt lezers in racistisch denken.</p><p>3 Pulp jaagt bij lezers vooral een kick na.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>“Met zulke lelijke teksten kweek je geen mooie lezers.” (regels 122-123)</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>“Literatuur draagt bij aan empathie en aan burgerschap.” (regels 151-152)</p>"
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>“Dat in het Nederlandse onderwijs op de basisschool en in het voortgezet onderwijs het lezen van onze internationaal geprezen jeugdliteratuur, denk aan Anna Woltz, Simon van der Geest, Martha Heesen of Bart Moeyaert, niet verplicht is (…)” (regels 153-160)</p>"
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>Reacties op tekst 1</p>"
+    },
+    {
+      "order": 12,
+      "type": "text",
+      "text": "<p>Lees tekstfragment 1.</p>"
+    },
+    {
+      "order": 13,
+      "type": "text",
+      "text": "<p>In tekstfragment 1 worden twee kritiekpunten ingebracht tegen de opvattingen over leesonderwijs uit tekst 1.</p>"
+    },
+    {
+      "order": 14,
+      "type": "text",
+      "text": "<p>Lees tekstfragment 2.</p>"
+    },
+    {
+      "order": 15,
+      "type": "text",
+      "text": "<p>“ik ben het absoluut met u eens dat het schadelijk is om seksueel geweld zo vaak in te zetten, puur als plotwending.” (regels 2-3, tekstfragment 2) Een kritische lezer zou kunnen vinden dat deze bewering over thrillers in strikte zin in tegenspraak is met een andere bewering uit tekstfragment 2.</p>"
+    },
+    {
+      "order": 16,
+      "type": "text",
+      "text": "<p>In tekstfragment 2 worden twee argumenten ingebracht tegen de argumentatie in tekst 1.</p>"
+    },
+    {
+      "order": 17,
+      "type": "text",
+      "text": "<p>“Wat ik niet begrijp en nooit heb begrepen, is wat er zo verkeerd is aan leesplezier.” (regels 12-13, tekstfragment 2) Een kritische lezer kan vinden dat deze uitspraak geen recht doet aan de inhoud van tekst 1.</p>"
+    },
+    {
+      "order": 18,
+      "type": "text",
+      "text": "<p>“Waarom er een elitaire minderheid is, die vindt dat we áltijd neerbuigend moeten doen over Young Adult-boeken voor jongeren (en feelgoodromans voor volwassenen, trouwens).” (regels 13-15, tekstfragment 2) Een kritische lezer kan vinden dat het standpunt van tekst 1 in dit citaat wordt vertekend.</p>"
+    },
+    {
+      "order": 19,
+      "type": "text",
+      "text": "<p>Lees tekstfragment 3.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_ac05fe426b26.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fb5d918d91ec4599a96647704fa584d3.pdf"
+    }
+  ]
+}

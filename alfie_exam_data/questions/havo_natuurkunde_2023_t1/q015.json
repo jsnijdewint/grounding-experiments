@@ -1,0 +1,75 @@
+{
+  "id": "havo_natuurkunde_2023_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 131,
+          "name": "Informatieoverdracht",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg met behulp van formule (2) uit of de waargenomen frequentie toeneemt of afneemt.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Sinds de uitvinding van de telescoop hebben sterrenkundigen steeds meer ontdekt over de sterrenhemel. Een bekende telescoop is de Hubble telescoop. Zie figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_c43788c85d18.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b23d4ca5f1364782b065b6a20a2a9920.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De Hubble is een ruimtetelescoop.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Sommige sterren zitten in een dubbelster-systeem. Dit is een systeem van twee sterren die om een gemeenschappelijk zwaartepunt Z draaien. Zie schematisch in figuur 2.</p><p>&nbsp;</p><p>Een bepaalde dubbelster heeft de naam KIC9832227 (KIC) gekregen. Deze dubbelster staat op <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>70</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>19</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math>afstand van de aarde.</p><p>&nbsp;</p><p>Of twee sterren van een dubbelster met een telescoop als afzonderlijke lichtbronnen waar te nemen zijn, hangt af van een aantal variabelen. Twee sterren zijn nog net van elkaar te onderscheiden als geldt:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>1</mn> <mo>,</mo> <mn>22</mn> <mo>&#8901;</mo> <mi>&#955;</mi> </mrow><mi>D</mi> </mfrac><mo>=</mo> <mfrac><mi>d</mi> <mi>&#8467;</mi>&#160;</mfrac></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(1)</p><p>Hierin is:</p><ul><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#955;</mi>&#160;</math>de grootte van de golflengte van het licht dat van het object wordt waargenomen;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi>&#160;</math>de diameter van de telescoop;</li><li> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi></math>de afstand tussen de middelpunten van de sterren;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#8467;</mi></math> de afstand van de aarde tot de dubbelster.</li></ul><p>Hubble heeft een diameter van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mo>,</mo> <mn>4</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math>. Voor KIC geldt: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi> <mo>=</mo> <mn>4</mn> <mo>,</mo> <mn>18</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>9</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math>. Hubble neemt elektromagnetische straling waar met een fotonenergie van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">eV</mi>&#160;</mrow></math>.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_76404fc85c15.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/57574663a96a4e2da63ccd7db71a01e3.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Voor het verband tussen de omlooptijd <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi>&#160;</math>van de twee sterren van KIC en de onderlinge afstand <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi>&#160;</math>geldt:</p><p>&nbsp;</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi>d</mi> <mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msup><msup><mi>T</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup></mfrac><mo>=</mo> <mi>k</mi></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (2)</p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi>&#160;</math>een constante.</p><p><br>Enkele jaren geleden is bij dubbelster KIC geconstateerd dat de frequentie waarmee de twee sterren om het gemeenschappelijke zwaartepunt heen draaien verandert. Astronomen concludeerden uit deze verandering dat de sterren steeds dichter naar elkaar toe bewegen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2023_I_uitwerkbijl_b84551b8ec5a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2016336bf8d54298886022aa1e155445.pdf"
+    }
+  ]
+}

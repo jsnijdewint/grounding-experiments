@@ -1,0 +1,51 @@
+{
+  "id": "vmbo_gl_geschiedenis_en_staatsinrichting_2023_t1_q43",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "geschiedenis_en_staatsinrichting",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 65,
+      "domains": [
+        {
+          "id": 136,
+          "name": "Historisch overzicht vanaf 1900",
+          "prefix_code": "GS/K/10"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In het dagboek wordt een historische gebeurtenis beschreven.</p><p>Welke historische gebeurtenis wordt bedoeld?</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 19.</i></p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik bron 20.</p><p>&nbsp;</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis en staatsinrichting 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_en_staatsinrichti_cf7c6ce6a4c9.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f132077dcc6e486c9c4eeb9328bce439.pdf"
+    }
+  ]
+}

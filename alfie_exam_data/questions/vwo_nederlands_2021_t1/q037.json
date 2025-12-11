@@ -1,0 +1,66 @@
+{
+  "id": "vwo_nederlands_2021_t1_q37",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 53,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wat zorgt er volgens tekst 3 met name voor dat die opgave uitputtend is?</p><p><strong>A</strong> de eis om zaken beknopt op te schrijven</p><p><strong>B</strong> de snelheid waarmee geantwoord moet worden</p><p><strong>C</strong> het gebrek aan begrip bij geïnterviewden</p><p><strong>D</strong> het streven naar maximale verdieping</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In alinea 2 van tekst 3 is sprake van een spagaat waarin de journalist zit.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“(…) maar nogal wat journalisten weten die spagaat om te zetten in een mooi ballet” (regels 36-38)</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In tekst 3 worden de kwaliteiten van de journalistiek langs de meetlat gelegd.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In alinea 6 en 7 van tekst 3 worden twee verklaringen gegeven waarom veel wetenschappers niet levendig, helder en eenduidig schrijven.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In alinea 8 van tekst 3 wordt gesproken over de opgave waarvoor een wetenschapsjournalist gesteld wordt. Die opgave wordt ‘uitputtend’ genoemd.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2021_I_bijlage_a140e076680b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8f09b902c8234f79a5b66b53e4cd1e25.pdf"
+    }
+  ]
+}

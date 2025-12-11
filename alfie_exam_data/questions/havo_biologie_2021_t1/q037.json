@@ -1,0 +1,52 @@
+{
+  "id": "havo_biologie_2021_t1_q37",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 128,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 129,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zoals gebruikelijk ontbreken in dit voedselweb de reducenten zoals P. destructans. Noteer de naam van het andere trofisch niveau dat ontbreekt in dit voedselweb.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In Noord-Amerika werden in 2006 opeens veel dode vleermuizen gevonden. Ze bleken besmet met een schimmel. Onderzoekers doen onderzoek om het uitsterven van vleermuissoorten te voorkomen. De schimmel Pseudogymnoascus destructans tast het huidweefsel van de snuit, oren en vleugels van vleermuizen aan. Doordat de neus wit kleurt (afbeelding 1) wordt de ziekte witteneuzensyndroom (WNS) genoemd. Vleermuizen zijn voor hun voedsel afhankelijk van vliegende insecten. 's Winters overbruggen vleermuizen</p><p>deze voedselloze periode door in winterslaap te gaan: ze verlagen hun stofwisselingsniveau waardoor hun lichaamstemperatuur daalt. Gedurende de winterslaap worden ze enkele keren actief, waarbij hun lichaamstemperatuur kortdurend stijgt. Wanneer de lichaamstemperatuur van de vleermuizen laag is, slaat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>. destructans toe.&nbsp;</p><p>In afbeelding 2 zie je een vereenvoudigd voedselweb waarvan vleermuizen in Noord-Amerika deel uitmaken.</p><p>&nbsp;</p><p><br>&nbsp;</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_d37c559df3c4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/556108c73fe14080a9a43b6b3e82fc6b.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

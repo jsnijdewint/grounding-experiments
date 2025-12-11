@@ -1,0 +1,89 @@
+{
+  "id": "havo_biologie_2022_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 128,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 129,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beschrijf een risico voor inheemse planten als gevolg van het introduceren van Portugese zonnedauw in Nederland.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Aan de universiteit van Cádiz in Spanje onderzoekt Nils Bertol hoe de Portugese zonnedauw insecten aantrekt.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De Portugese zonnedauw (Drosophyllum Iusitanicum, afbeelding 1) is een vleesetende plant die vóórkomt op droge bodems in het noorden van Marokko en het zuiden van Spanje en Portugal. De plant is voor zijn stikstofverbindingen afhankelijk van insecten. De insecten worden gevangen door de plakkerige uitscheidingsproducten van de klieren die zich op de lange bladeren bevinden. Andere klieren in het blad scheiden enzymen uit waardoor de insecten worden verteerd.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_c6f5c82218cb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2b95eaf597474d3798567ea03b499675.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De bladcellen nemen het bij vertering ontstane ammonium op en gebruiken dit als bouwstof voor aminozuren. Deze aminozuren worden vervolgens via de vaatbundels getransporteerd naar andere delen van de plant.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De Portugese zonnedauw is ook voor bestuiving afhankelijk van insecten. Nils onderzocht of de insectensoorten die Portugese zonnedauw bestuiven ook door de plant worden gevangen.<br>Hij observeerde bloeiende Portugese zonnedauw en noteerde welke insectensoorten de meeldraden en stempel aanraakten en welke insectensoorten door de bladeren werden gevangen.</p><p>&nbsp;</p><p>Met de tellingen kan worden bepaald:<br>a het aantal soorten dat zowel bestuiver als prooi is<br>b het aantal soorten dat alleen bestuiver is<br>c het aantal soorten dat alleen prooi is</p><p><br>Met deze waarden kan worden berekend in welke mate de bestuivende insecten ook als prooi dienen. Dit wordt de similariteit tussen prooien en bestuivers genoemd. Dit getal wordt berekend met de onderstaande formule.</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>similariteit </mtext><mo>=</mo> <mfrac><mi>a</mi> <mrow><mi>a</mi> <mo>+</mo> <mi>b</mi> <mo>+</mo> <mi>c</mi>&#160;</mrow></mfrac></math></p><p>Een similariteit van 1 betekent dus dat alle bestuivers van de plant ook prooi voor deze plant zijn.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In tabel 1 staan de gegevens van de tellingen. Het was niet mogelijk om alle insecten op soort te determineren. Ga er bij het beantwoorden van vraag 15 van uit dat elke regel in de tabel één soort weergeeft.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_7709a0544d6c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6f022e1ffe0e49a1a8635d2ab798b864.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Uit tabel 1 blijkt dat sommige soorten zowel bestuiver als prooi zijn.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Een onderzoeker in Nederland wil een vervolg-experiment doen met de Portugese zonnedauw. Hij doet deze proeven in een afgesloten plantenkas in verband met de risico's van het introduceren van een exoot.</p>"
+    }
+  ],
+  "bijlages": []
+}

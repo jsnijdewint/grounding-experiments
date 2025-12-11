@@ -1,0 +1,51 @@
+{
+  "id": "vwo_aardrijkskunde_2023_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "aardrijkskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 21,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 3,
+          "name": "De aarde als natuurlijk systeem; samenhangen en diversiteit",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noteer de namen van deze vier plaatsen op je antwoordblad. Schrijf achter elke plaats de letter van de juiste grafiek uit bron 8.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 7 tot en met 9.&nbsp;<br><br>Gebruik de bronnen 7 tot en met 9. De Kaspische Zee krijgt het meeste water van de Volga. In het stroomstelsel van deze rivier liggen van noord naar zuid de plaatsen Perm, Samara, Volgograd en Astrachan. In bron 8 zijn de klimaatgrafieken van deze plaatsen weergegeven.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2023_I_bijlage_248a50c12d53.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7f989d72434c4d799e087d834390e90f.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2023 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2023_I_kaartenk_e5ac5704001a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/87a0b7c501054137ad17a7a871b8eb90.pdf"
+    }
+  ]
+}

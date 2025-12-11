@@ -1,0 +1,106 @@
+{
+  "id": "vwo_scheikunde_2022_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:</p><ul><li>Teken de structuurformule van cyanopyridine.</li><li>Verklaar dat het kookpunt van picolinamide hoger is dan dat van cyanopyridine. Gebruik hierbij begrippen op microniveau.</li></ul>",
+    "max_score": 4,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_0c529d32581a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3a4059dd4ea44141931edbdc0ad18079.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Polycarbonaat is een veelgebruikte kunststof die wordt verwerkt in de omhulsels van elektronische apparatuur en in auto's. Begin deze eeuw werd het grootste deel van alle polycarbonaat nog geproduceerd door middel van de condensatie-polymerisatie van bisfenol-A en fosgeen. De totaalvergelijking van alle reacties in dit productieproces van polycarbonaat is in figuur 1 vereenvoudigd weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_c4f0691341e2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/242e2ff366b644479bc0e4a50a8f0964.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Bij dit productieproces worden de beginstoffen gemengd volgens de molverhoudingen in figuur 1. De molaire massa's van de stoffen uit figuur 1 zijn in de tabel gegeven.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_3ea99a513ac8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2db649e638a24ed2a38e9d2eedd5cbe2.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Dit productieproces heeft een rendement van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>92</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Bij dit proces komt een grote hoeveelheid afval vrij. In een studie is een nieuw productieproces onderzocht dat minder afval veroorzaakt. In het onderzochte proces wordt eerst dimethylcarbonaat (DMC) uit methanol gevormd.<br>Op de uitwerkbijlage bij vraag 7 is het blokschema van het nieuwe proces onvolledig weergegeven. In figuur 2 is reactie 1 gegeven, dit is de reactie die in reactor 1 (R1) verloopt.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_966f09842661.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cbfd6a6060414e638a13d882ad64f485.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>De reactiewarmte van de reactie naar rechts is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo> <mn>0</mn> <mo>,</mo> <mn>67</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>5</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">J</mi>&#160;</mrow></math>per mol DMC. De vormingswarmte van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">OH</mi> </mrow><mo stretchy=\"false\">(</mo> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">g</mi> </mrow><mo stretchy=\"false\">)</mo>&#160;</math>bedraagt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8722;</mo> <mn>2</mn> <mo>,</mo> <mn>02</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>5</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">J</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">mol</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math>.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Om een zo hoog mogelijke omzettingssnelheid te bereiken, is in het onderzoek gebruikgemaakt van een katalysator voor reactie 1.<br>Op de uitwerkbijlage is in diagram 1 het energiediagram van de vorming van DMC zonder katalysator onvolledig weergegeven.<br>Daarnaast is in diagram 2 het energiediagram van de vorming van DMC mét katalysator onvolledig weergegeven. In beide diagrammen ontbreken de energieniveaus van de geactiveerde toestand en die van de reactieproducten. Beide diagrammen zijn op dezelfde schaal weergegeven.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>In R1 wordt ook continu de stof cyanopyridine toegevoegd. Deze stof reageert met het in reactie 1 gevormde water. De toevoer van cyanopyridine is zo afgesteld dat geen water R1 verlaat.</p>"
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>In R1 reageert 1 mol cyanopyridine met 1 mol water, waarbij uitsluitend 1 mol picolinamide wordt gevormd. De structuurformule van picolinamide is hiernaast weergegeven.</p><p>In scheidingsruimte 1 (S1) wordt het reactiemengsel gescheiden door middel van destillatie. De overmaat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>en methanol wordt als twee aparte stofstromen gerecirculeerd naar R1. De overige stoffen worden gescheiden in afzonderlijke stromen, te weten DMC, cyanopyridine en picolinamide. In R1 ontstaan ook <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">NH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn>&#160;</mrow></msub></math>en andere bijproducten, die de fabriek verlaten als afval.<br>De cyanopyridine en picolinamide hebben de hoogste kookpunten van de aanwezige stoffen. Het picolinamide verlaat S1 aan de onderzijde omdat het een hoger kookpunt heeft dan cyanopyridine.</p>"
+    },
+    {
+      "order": 11,
+      "type": "image",
+      "media_path": "media/in-exam/img_4aebd6562e8a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fee595e43d6d4c5eaf8ae6e28d9a5608.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2022_I_uitwerkbijla_da6165cccfb5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/974fdb9ad1284f7b8d5e91874b964a37.pdf"
+    }
+  ]
+}

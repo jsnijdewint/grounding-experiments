@@ -1,0 +1,52 @@
+{
+  "id": "vwo_natuurkunde_2024_t2_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 2
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:</p><ul><li>Leg uit in welke orde van grootte de breedte van de spleten maximaal mag zijn om het patroon van figuur 1 mogelijk te maken. Kies hierbij uit: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>mm</mi><mo>,</mo><mo>&#160;</mo><mi>&#956;</mi><mi mathvariant=\"normal\">m</mi><mo>,</mo><mo>&#160;</mo><mi>nm</mi><mo>,</mo><mo>&#160;</mo><mi>pm</mi></math>.</li><li>Geef aan wat je op het scherm zou zien als er geen buiging zou zijn.</li></ul>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een belangrijk principe in de quantumfysica is de golf-deeltjedualiteit. In deze opgave passen we dit dualiteitsprincipe toe op het dubbelspleetexperiment met licht. In dit experiment valt zichtbaar licht met één golflengte op twee smalle spleten en ontstaat op een scherm achter de spleten een interferentiepatroon van maxima en minima. Zie figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_307f6e164895.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/44a52be6a5814c8989e0eb681bddc7dd.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Bij het dubbelspleet-experiment kan het interferentiepatroon alleen ontstaan als er bij elk van de twee spleten buiging optreedt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vw-1023-a-24-2-u-spr.pdf",
+      "media_path": "media/bijlages/vw-1023-a-24-2-u-spr_7f55e6f292ee.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/58df80d921a54e229db05fc1537c094b.pdf"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "vwo_nederlands_2021_t1_q19",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [
+        {
+          "id": 33,
+          "name": "Argumentatieve vaardigheden",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Met welke twee argumenten wordt in tekstfragment 1 het nut van historische kennis gerelativeerd? Noteer de nummers van twee van onderstaande argumenten. Het nut van historische kennis is volgens tekstfragment 1 beperkt, want</p><p>1 door te verwijzen naar het verleden krijgt het unieke van nieuwe ontwikkelingen te weinig aandacht.</p><p>2 het is lastig om nut en onnut te onderscheiden binnen wat we leren van de geschiedenis</p><p>3 het steevast vergelijken van het heden met het verleden is een vorm van gemakzucht.</p><p>4 historische kennis beperkt de mogelijkheid om nieuwe oplossingen te verzinnen.</p><p>5 in maatschappelijke besluitvorming werkt historische kennis contraproductief.</p><p>6 regelmatig worden veranderingen tegengehouden met een beroep op historische kennis.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De tekst ‘We leren (n)iets van de geschiedenis’ kan door middel van onderstaande kopjes in zes delen worden onderverdeeld:</p><p>deel 1: Inleiding</p><p>deel 2: Het (on)nut van historische kennis</p><p>deel 3: Ons (on)vermogen lessen te trekken uit het verleden</p><p>deel 4: Vergelijkingen tussen heden en verleden</p><p>deel 5: Poging tot toepassing in de praktijk</p><p>deel 6: Slot</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In alinea 4 van tekst 1 vind je een argumentatie. De functie van elk gedeelte in deze argumentatie kan met behulp van functiewoorden worden weergeven.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In alinea 3 en 4 van tekst 1 komt de vraag aan de orde of historische kennis zinvol is of niet.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“We hadden op 4 en 5 mei beter gratis poffertjes kunnen uitdelen; dat had evenveel geholpen als al die prachtige toespraken van de afgelopen zeventig jaar.” (regels 101-105)</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>“Als er al een periode is uit ons nationale verleden die velen beschouwen als een leerzaam en bruikbaar verleden, dan is het wel de Duitse bezetting.” (regels 60-64)</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In alinea 19 en 20 van tekst 1 wordt geargumenteerd op basis van vergelijking.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>In alinea 10 tot en met 13 van tekst 1 staan woorden die suggereren dat er sprake is van een negatieve houding ten opzichte van de media.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>“En geldt dat eigenlijk ook niet voor de EU?” (regels 177-178) Volgens tekst 1 is het antwoord op deze vraag ontkennend.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>In het tekstgedeelte van de alinea’s 10 tot en met 14 van tekst 1 wordt een aantal historische analogieën besproken en telkens ontkracht.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>In tekst 1 wordt gesteld dat de historicus “kan uitleggen waarom een analogie niet deugt als basis voor besluitvorming.” (regels 238-240)</p>"
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Hieronder staan acht zinnen in alfabetische volgorde; de zinnen zijn al dan niet woordelijk aan de tekst ontleend.</p>"
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>“Iedereen met gezond verstand had dit zelf kunnen bedenken.” (regels 234-235)</p>"
+    },
+    {
+      "order": 12,
+      "type": "text",
+      "text": "<p><strong>tekstfragment 1</strong></p>"
+    },
+    {
+      "order": 13,
+      "type": "text",
+      "text": "<p><strong>(1)</strong> Volgens de Delftse toekomstonderzoeker, econoom en docent Van der Duin, ook verbonden aan de Fontys Hogeschool in Tilburg, kan de focus op historische parallellen contraproductief werken in maatschappelijke besluitvorming. ‘Steeds verwijzen naar de Amerikaanse invasie in Irak in 2003 slaat bijvoorbeeld de discussie over grondtroepen in Syrië dood. Lessen uit het verleden zijn beperkt. Ik pleit voor meer vrijheid van denken over wat er in deze situatie zou kunnen gebeuren, lukken en misgaan.’</p><p><strong>(2)</strong> De automatische nadruk op historische continuïteit is volgens Van der Duin niet alleen een vorm van gemakzucht, maar heeft bij bedrijven en overheden ook te maken met gevestigde belangen. ‘De meeste instanties denken op korte termijn, waar veranderingen geleidelijk gaan, behapbaar zijn en dus beheersbaar. Het echt nieuwe is ongrijpbaar en dus moeilijk op te pakken. Voor het gemak negeren ze het dan maar.’</p><p>&nbsp;</p><p><i>naar: Martijn van Calmthout uit: de Volkskrant, 8 december 2015</i></p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2021_I_bijlage_a140e076680b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8f09b902c8234f79a5b66b53e4cd1e25.pdf"
+    }
+  ]
+}

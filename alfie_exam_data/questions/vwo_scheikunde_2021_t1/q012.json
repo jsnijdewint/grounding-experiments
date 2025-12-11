@@ -1,0 +1,52 @@
+{
+  "id": "vwo_scheikunde_2021_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leid met behulp van het gegeven voorbeeld af wat de notatie is van de hierboven beschreven mutatie die hemochromatose veroorzaakt.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Hemochromatose of ijzerstapeling is een erfelijke ziekte waarbij te veel ijzerionen uit de darminhoud worden opgenomen terwijl het lichaam niet in staat is de overmaat aan ijzerionen uit te scheiden. Deze ziekte wordt vaak veroorzaakt door een mutatie in het gen dat codeert voor het eiwit HFE. HFE speelt een rol bij de opname van ijzerionen. Bij de synthese van HFE wordt in eerste instantie mRNA gevormd dat bestaat uit 2727 basen. De eerste 221 basen spelen echter geen rol bij de synthese van HFE. Het startcodon begint pas bij base nummer 222. Dit is tevens het codon voor het aminozuur met nummer 1. Hieronder is een deel van de mRNA-volgorde bij mensen zonder en mensen met hemochromatose weergegeven. De mutatie treedt op bij base nummer 1066.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_3d0c52bed6ea.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/497e506b9c024a4083f761d0f08f9da3.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Met behulp van de 1-lettersymbolen van aminozuren kan men dit soort mutaties vereenvoudigd weergeven. Zo kan een mutatie waarbij op plaats 86 van een eiwit een glutaminezuur-eenheid is ingebouwd in plaats van een glutamine-eenheid, worden weergeven als Q86E.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2021_I_uitwerkbijla_19d95dde309e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1b51fa23f34e49019700aa8a5bf7165f.pdf"
+    }
+  ]
+}

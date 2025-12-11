@@ -1,0 +1,84 @@
+{
+  "id": "vwo_biologie_2023_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 30,
+          "name": "Eiwitsynthese",
+          "prefix_code": 1
+        },
+        {
+          "id": 31,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 32,
+          "name": "Zelforganisatie van cellen",
+          "prefix_code": 3
+        },
+        {
+          "id": 33,
+          "name": "Moleculaire en cellulaire interactie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de betreffende uitspraak <strong>juist </strong>of <strong>onjuist</strong> is.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Onderzoekers van het Roslin-instituut in Edinburgh zijn erin geslaagd haantjes zo te modificeren dat zij dochters krijgen die onvruchtbaar zijn. Deze hennen kunnen daardoor als ‘draagmoeder’ fungeren voor zeldzame kippenrassen zoals Rumpless Game (afbeelding 1).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2bc6b99043e6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/13d8e3b9846642adbcf8420be44d7b64.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het transgeen maken van vogels is erg moeilijk. Genetisch gemodificeerde embryo’s kunnen bijvoorbeeld niet geïmplanteerd worden in een ei. Daarom wordt nu onderzoek gedaan naar het genetisch modificeren van de embryonale stamcellen van vogels. Vroeg in de embryonale ontwikkeling zijn bij vogels twee typen embryonale stamcellen aanwezig. Het ene type kan zich differentiëren tot alle celtypen behalve geslachtscellen. Het andere type, de primordiale geslachtscel (PGC), kan zich juist alleen ontwikkelen tot geslachtscellen. Beide typen stamcellen kunnen in een vroeg stadium uit kippenembryo’s gehaald worden en genetisch gemodificeerd worden. De Schotse onderzoekers wilden genetisch gemodificeerde embryonale stamcellen inbrengen bij kippenembryo’s, om deze kippen – als ze volwassen zijn – transgeen nageslacht te laten produceren.<br><br>De Schotse onderzoekers kozen ervoor om PGC’s te modificeren, en niet het andere type embryonale stamcellen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Om de PGC’s genetisch te modificeren, werkten de onderzoekers van het Roslin-instituut met een genetische techniek die gebruikmaakt van TALEN (Transcription Activator-Like Effector Nucleases). TALEN zijn eiwitten die het DNA op een specifieke plaats kunnen knippen. Zo’n eiwit is opgebouwd uit twee delen: een herkenningssequentie die bindt aan een bepaald stuk DNA en een endonuclease (Fok1). Om het DNA te knippen zijn twee TALEN-eiwitten nodig: een linker en een rechter. De twee Fok1-delen van deze eiwitten maken de knip (afbeelding 2). Op de knipplaats kan vervolgens een gewenst nieuw stuk DNA ingebouwd worden.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_5f2ee587bd92.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e85b21eed8cf4d9c9debb2a09fb89a0e.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Een TALEN-eiwit bindt op dezelfde manier aan DNA als de transcriptiefactor die bindt aan de TATA-box.<br>Over de binding van deze transcriptiefactor worden de volgende uitspraken gedaan:<br>1 De transcriptiefactor bindt aan het DNA door middel van basenparing.<br>2 De transcriptiefactor bindt aan de promotor van een gen.<br>3 De transcriptiefactor bindt aan een stukje niet-coderend DNA.</p>"
+    }
+  ],
+  "bijlages": []
+}

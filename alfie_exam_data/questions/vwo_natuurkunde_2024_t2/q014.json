@@ -1,0 +1,117 @@
+{
+  "id": "vwo_natuurkunde_2024_t2_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 2
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:</p><ul><li>Leid formule (1) af met behulp van formules uit het informatieboek.</li><li>Leg met behulp van formule (1) en figuur 6 uit welke <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-straler, Th-A of Th-B, de meest energierijke <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-deeltjes produceert.</li></ul>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Lise Meitner (1878-1968, zie figuur 1) werd in totaal 48 maal genomineerd voor een Nobelprijs, maar kreeg de prijs nooit.</p><p>Rond 1910 deed Meitner onderzoek naar de eigenschappen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-straling. Ze gebruikte hierbij preparaten met thorium. Het bestaan van isotopen was in die tijd nog niet bekend. Nu weten we dat het preparaat niet alleen het instabiele Thorium- 232 bevatte, maar ook alle vervalproducten van Thorium-232 (ook wel de vervalreeks genoemd). Deze vervalreeks eindigt bij het stabiele isotoop <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Pb</mi> </mrow><mo>&#8722;</mo> <mn>208</mn>&#160;</math>.</p><p>In de vervalreeks van Th-232 zitten meerdere <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-stralers. Meitner was vooral geïnteresseerd in twee specifieke <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-stralers. Omdat Meitner nog niet in staat was om de afzonderlijke isotopen in het preparaat te identificeren, noemde ze deze <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-stralers 'Th-A' en 'Th-B'. Zie figuur 2, de isotoop ' <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi>&#160;</math>' is een onbekende <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi>&#160;</math>-straler.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_a76c33188e48.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e65c6a4029ed4ccb9673657e45944999.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_8606c03d422a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f720ff6a06bc4bb4ba4d54ffe3de288d.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Een aantal van de gebruikte thorium-preparaten wordt nog steeds bewaard in het Max Planck Instituut in Berlijn. De activiteit van de twee <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-stralers, die beide een halveringstijd hebben van minder dan één dag, is in meer dan 100 jaar nauwelijks afgenomen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Elk van de isotopen in de vervalreeks zendt gammafotonen uit met specifieke energieën. Daardoor straalt een Th-232-preparaat een herkenbaar spectrum van gamma-energieën uit. Figuur 3 geeft meetwaarden weer van een Th-232-preparaat.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_7ba5e9fcebbd.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/45c78c2511c74a0498d7adc539d69f2d.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Meitner gebruikte ijzeren plaatjes (dikte 2,5 mm) om haar meetinstrumenten van te maken. Dit materiaal houdt slechts een klein gedeelte van de gammafotonen van het preparaat tegen. In figuur 4 is voor ijzer de relatie weergegeven tussen de energie van de gammastraling en de halveringsdikte.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_b5aa317f93b4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a14264f65d104c7da159ab47d09f27a9.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Voor haar onderzoek naar <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-deeltjes ontwierp Meitner de zogenaamde magnetische spectrometer. Zie figuur 5.</p>"
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_d9094e1b269c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9e1d4ecaa9e241a5a1de1530b6cba94d.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Het thorium-preparaat is geplaatst bij I in figuur 5. Vervolgens wordt er een vacuüm gecreëerd in de spectrometer. De <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-straling komt door een spleet (II in figuur 5) met hoge snelheid een halfronde ruimte in. Onder invloed van een sterk homogeen magnetisch veld voeren de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-deeltjes een eenparige cirkelbeweging uit, waarna ze bij III op een fotogevoelige plaat terechtkomen. Op de plaats waar de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-deeltjes het fotogevoelige materiaal treffen, vindt een verkleuring plaats. De verkleuring is een maat voor het aantal deeltjes dat op die locatie de plaat heeft getroffen.</p>"
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>Met haar magnetische spectrometer deed Meitner onderzoek aan de twee <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-stralers Th-A en Th-B. In figuur 6 is het meetresultaat van haar onderzoek, de fotogevoelige plaat, weergegeven. De linkerkant van de plaat bevond zich in de opstelling het dichtst bij de spleet (II in figuur 5).</p>"
+    },
+    {
+      "order": 12,
+      "type": "image",
+      "media_path": "media/in-exam/img_16440e98e370.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e7569661a1344da28ca7c2f4deac54a4.png",
+      "caption": ""
+    },
+    {
+      "order": 13,
+      "type": "text",
+      "text": "<p>Voor de straal van de cirkelbaan die een bètadeeltje aflegt in de spectrometer geldt:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi> <mo>=</mo> <mfrac><mi>p</mi> <mrow><mi>B</mi> <mi>q</mi>&#160;</mrow></mfrac></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(1)</p><p>Hierin is:</p><ul><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi>&#160;</math>de straal van de cirkelbaan</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi>&#160;</math>de impuls van het <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-deeltje</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>de sterkte van het magnetisch veld in de spectrometer</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>q</mi>&#160;</math>de lading van het <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-deeltje</li></ul>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vw-1023-a-24-2-u-spr.pdf",
+      "media_path": "media/bijlages/vw-1023-a-24-2-u-spr_7f55e6f292ee.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/58df80d921a54e229db05fc1537c094b.pdf"
+    }
+  ]
+}

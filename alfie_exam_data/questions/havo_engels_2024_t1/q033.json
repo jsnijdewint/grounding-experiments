@@ -1,0 +1,34 @@
+{
+  "id": "havo_engels_2024_t1_q33",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "engels",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 28,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>What is the main point made about ‘expressive writing’ in paragraph 4?&nbsp;<br>A It cannot be combined with other remedies.&nbsp;<br>B It cannot be used to manage serious illnesses.&nbsp;<br>C It is not a substitute for professional care.&nbsp;<br>D It is not as beneficial as some people claim.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Engels 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2024_I_bijlage_25cdf7f0d775.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cee1f26d8ed54416ab379491be4f82c8.pdf"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "havo_aardrijkskunde_2022_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "aardrijkskunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 46,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 95,
+          "name": "Gebiedskenmerken",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Verwacht jij dat het aandeel van Brazilië in de wereldhandel in 2025 <strong>wel </strong>of <strong>niet </strong>boven <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>blijft?<br>Geef twee argumenten voor je keuze.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Bij deze opgave horen de bronnen 11 en 12.</i></p><p><br><i>Gebruik bron 11.</i><br>Hieronder staan drie uitspraken over de import en export van Brazilië.<br>Uitspraak 1: Brazilië heeft in 1997 en in 2017 een positieve handelsbalans.<br>Uitspraak 2: tussen 1997 en 2017 is het aandeel van de triadelanden in de handel met Brazilië toegenomen.<br>Uitspraak 3: de handel van Braziliè profiteert van global shift.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De omvang van de Braziliaanse handel is het grootst van alle landen van Zuid-Amerika (zie bron 12). Toch kun je op basis hiervan geen conclusies trekken over de welvaart van het land.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Braziliè claimt binnen Zuid-Amerika een centrumpositie.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 12.</i><br>In 2015 was het aandeel van Braziliee in de wereldhandel toegenomen tot meer dan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2022_I_bijlage_782c0ac44adb.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8bb9ac59533e4060acee8bf226c73127.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2022 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2022_I_kaartenk_fad448d9d313.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9fba758e0ba449bda998b8165ed93023.pdf"
+    }
+  ]
+}

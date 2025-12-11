@@ -1,0 +1,51 @@
+{
+  "id": "vwo_wiskunde_b_2023_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 47,
+          "name": "Differentiaal- en integraalrekening",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bewijs dit.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De functie <i>f</i> wordt gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>f</mi>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>x</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo>=</mo>\r\n  <mfrac>\r\n    <mn>1</mn>\r\n    <mrow>\r\n      <msup>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mi mathvariant=\"normal\">e</mi>\r\n        </mrow>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mi>x</mi>\r\n        </mrow>\r\n      </msup>\r\n      <mo>+</mo>\r\n      <mn>1</mn>\r\n    </mrow>\r\n  </mfrac>\r\n</math>.</p><p>&nbsp;</p><p>De grafiek van<i> f</i> heeft twee horizontale asymptoten</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Een primitieve van <i>f </i>is <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>F</mi>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>x</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo>=</mo>\r\n  <mi>x</mi>\r\n  <mo>&#8722;</mo>\r\n  <mi>ln</mi>\r\n  <mo data-mjx-texclass=\"NONE\">&#8289;</mo>\r\n  <mrow data-mjx-texclass=\"INNER\">\r\n    <mo data-mjx-texclass=\"OPEN\">(</mo>\r\n    <msup>\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi mathvariant=\"normal\">e</mi>\r\n      </mrow>\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi>x</mi>\r\n      </mrow>\r\n    </msup>\r\n    <mo>+</mo>\r\n    <mn>1</mn>\r\n    <mo data-mjx-texclass=\"CLOSE\">)</mo>\r\n  </mrow>\r\n</math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_b_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_b_formules_84daf09e2c5a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1ca38286256f423c923a34eb38578ea3.pdf"
+    }
+  ]
+}

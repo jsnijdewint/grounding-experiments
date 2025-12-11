@@ -1,0 +1,121 @@
+{
+  "id": "havo_biologie_2023_t1_q23",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke prikkel is geschikt om de pupilreflex te testen? En welke spieren in de iris trekken samen tijdens de pupilreflex?</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;text-align:center;width:auto;\">prikkel voor pupilreflex</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;text-align:center;width:auto;\">samentrekkende spieren</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">A een voorwerp richting het oog bewegen</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">kringspieren</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">B een voorwerp richting het oog bewegen</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">straalsgewijs lopende spieren</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">C licht in het oog schijnen</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">kringspieren</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">D licht in het oog schijnen</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">straalsgewijs lopende spieren</td></tr></tbody></table></figure>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Layla is verloskundige. Ze begeleidt de zwangere Monique vanaf de prille zwangerschap tot en met de bevalling.</p><p>Monique kocht een zwangerschapstest bij de drogist nadat haar menstruatie uitbleef. Zo'n test toont het hormoon HCG in de urine aan. Het embryonaal deel van de placenta produceert gedurende het begin van de zwangerschap steeds meer HCG, dat in het bloed van de moeder terechtkomt.<br>Enkele bloedvaten zijn:<br>1 longader<br>2 longslagader<br>3 nierader<br>4 nierslagader<br>5 ader van de baarmoeder<br>6 slagader van de baarmoeder</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Bij elk bezoek controleert Layla Moniques bloeddruk. Bij sommige zwangere vrouwen komt namelijk een afwijkende bloeddruk voor die ongunstig kan zijn voor de foetus. De afwijkende bloeddruk ontstaat doordat stoffen uit de placenta de slagadertjes in het lichaam van de moeder laten vernauwen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Layla legt uit aan Monique hoe ze de weeën (samentrekkingen van de baarmoederwand) tijdens de bevalling zo goed mogelijk kan opvangen: \"In het begin is zuchten (rustige buikademhaling) gunstig voor de voortgang van de bevalling. Wanneer een wee te heftig wordt, kan je overgaan op puffen (snelle borstademhaling) zodat er nog niet te veel druk op de baarmoeder gezet wordt.\"</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Layla wordt gebeld als de weeën bij Monique zijn begonnen. Als na een paar uur de bevalling niet snel genoeg vordert, stuurt Layla Monique naar het ziekenhuis. Daar draagt Layla de bevalling over aan de gynaecoloog. De gynaecoloog legt twee banden met meetapparatuur om Moniques buik om via een cardiotocograaf de hartactiviteit van de baby en de weeënactiviteit van de baarmoeder te registreren (afbeelding 1).<br>De registratie is te zien op een monitor en wordt geprint op een rol papier: het cardiotocogram (CTG). In afbeelding 2 is een deel van een CTG afgebeeld. Aan de bovenste lijn is te zien dat de hartslagfrequentie van de baby ligt tussen 110 en 150 slagen per minuut. De onderste lijn geeft de druk op de buikwand weer, die tijdens een wee ongeveer verdubbeld is.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_360b27127e24.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/92de7a4fa94248ff92367660f6e5835f.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_79e1a5608933.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/360c4e44112c41bc93056592d2dd21e7.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De hartslagfrequentie van een ongeboren baby ligt normaal tussen 110 en 150 slagen per minuut. De gynaecoloog leest het CTG regelmatig af. Ze let daarbij onder andere op versnellingen en vertragingen van de hartslagfrequentie in combinatie met de weeënactiviteit.</p><p>Aan de hand van het CTG kan de gynaecoloog bepalen hoe het met de baby gaat.<br>Drie situaties die kunnen worden afgeleid uit een CTG zijn:<br>1 De baby reageert op een wee met een verhoogde afgifte van noradrenaline.<br>2 Tijdens een wee is de activiteit van het parasympatisch zenuwstelsel van de baby verhoogd.<br>3 De bloedstroom naar de baby is langer dan drie minuten ernstig verstoord.</p><p>In afbeelding 3 zijn drie delen van CTG's aangegeven met P,Q en R .</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_dc3389c5ecdd.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/26d07f75f8084faaa2e6f8c4d665a699.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Het CTG van Monique wijst erop dat de bloedstroom naar haar baby verstoord is. De gynaecoloog voert daarom een bloedonderzoek uit. Via de vagina van Monique neemt zij een druppeltje bloed af uit de hoofdhuid van de baby. Hiervan wordt de pH bepaald. Wanneer de pH van dit bloed lager is dan 7,2 moet de baby snel geboren worden.</p><p>Een lage pH van bloed wijst op zuurstofgebrek. Een lage pH wordt namelijk veroorzaakt door een veel te hoge <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-concentratie in het bloed.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>De pH van het bloed van de baby is 7,1 . Omdat de bevalling niet vordert, besluit de gynaecoloog in overleg met Monique tot een keizersnede. Monique krijgt eerst een ruggenprik. Hierbij wordt een verdovend middel gespoten in het vocht rondom het ruggenmerg. Dit middel blokkeert daar de impulsgeleiding over de uitlopers van bepaalde cellen van het perifeer zenuwstelsel. Pijn in het onderlichaam wordt hierdoor niet door de hersenen waargenomen.</p>"
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Hieronder is een beschrijving van de operatie weergegeven. Op vier plaatsen zijn een aantal woorden weggelaten.</p><p>De gynaecoloog maakt een horizontale snede vlak boven het schaambeen (afbeelding 4).<br>Na de snede door ...(1)... wordt ...(2)... doorgesneden.<br>Door ...(3)... opzij te duwen opent ze de buikholte.<br>Vervolgens wordt ... (4)... naar beneden geschoven. Daarna maakt ze een dwarse snede in de baarmoeder en haalt ze de baby eruit.</p><p>De woorden die in de beschrijving zijn weggelaten zijn:</p><ul><li>de blaas</li><li>de huid</li><li>de laag vet- en bindweefsel</li><li>het buikspierweefsel</li></ul>"
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>Nadat de baby is geboren, wordt de navelstreng doorgeknipt. Monique krijgt een hormoon toegediend om de baarmoeder te laten samentrekken, waardoor overmatig bloedverlies wordt voorkomen. Dit is hetzelfde hormoon dat aan het begin van de bevalling de weeën opwekte.</p>"
+    },
+    {
+      "order": 12,
+      "type": "text",
+      "text": "<p>Monique kijkt mee hoe haar baby gecontroleerd wordt. De kleur, hartslag, ademhaling en spierspanning zijn goed. Ook de reflexen zoals de pupilreflex zijn in orde.</p>"
+    }
+  ],
+  "bijlages": []
+}

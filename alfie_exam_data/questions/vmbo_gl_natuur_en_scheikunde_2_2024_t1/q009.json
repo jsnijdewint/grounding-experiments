@@ -1,0 +1,41 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_2_2024_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_2",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 53,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke kleur heeft een oplossing van koper(II)nitraat?<br><strong>A</strong> blauw<br><strong>B </strong>bruin<br><strong>C </strong>geel<br><strong>D </strong>kleurloos</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De klas krijgt een huiswerkopdracht: bedenk hoe je kunt onderzoeken of de witte stof die jullie hebben gekregen natriumcarbonaat off natriumfosfaat is. Salty en Salin overleggen over deze huiswerkopdracht. Hun overleg is hiernaast weergegeven.</p><p>De volgende les voeren ze hun proeven uit. Ze maken een oplossing van de witte stof en vullen daarna twee reageerbuizen met deze oplossing.</p><p>Proef 1: Aan de eerste reageerbuis wordt een oplossing van koper(II)nitraat toegevoegd. Er ontstaat een neerslag. Proef 2: Aan de tweede reageerbuis voegen ze een oplossing van zwavelzuur toe. Ze zien geen reactieverschijnselen.</p><p>Salty en Salin trekken uit hun resultaten twee conclusies:</p><ul><li>De witte stof is natriumfosfaat.</li><li>Het neerslag bij proef 1 bestaat dus uit koper(II)fosfaat.</li></ul><p>Deze conclusies zijn inderdaad juist.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_6fe891c3755d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7e17a925b254484eb0009934523b48c9.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

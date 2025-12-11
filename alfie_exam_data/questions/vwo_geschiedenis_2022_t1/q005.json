@@ -1,0 +1,51 @@
+{
+  "id": "vwo_geschiedenis_2022_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 187,
+          "name": "Tijdvak 4 – Steden en staten",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Licht deze anekdote toe door:</p><p>- aan te geven welke economische verandering Margaretha in Brugge bevorderde met het verlenen van de privileges en</p><p>- te beredeneren welk economisch en welk politiek bezwaar de poorters van Brugge hadden tegen het verlenen van de privileges.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De Normandiërs veroverden in 1066 Engeland, waarna hun aanvoerder, Willem de Veroveraar, Engelse landerijen toewees aan Normandische edelen die mee hadden gestreden. De Normandiërs introduceerden daarna de primogenituur, de bepaling dat de oudste zoon alles erfde, terwijl eventuele dochters en jongere zonen werden uitgesloten van de erfenis.</p><p>Volgens historici ondersteunde de introductie van de primogenituur de invoering van het feodale stelsel.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Een anekdote:</p><p>Vanaf 1252 verleende gravin Margaretha II van Vlaanderen privileges aan kooplieden uit Duitsland, Frankrijk en Spanje. De kooplieden mochten zich in de stad Brugge vestigen, betaalden minder tol, mochten huizen in de stad kopen en tegen gunstige voorwaarden kelders en pakhuizen huren. De poorters van Brugge verzetten zich aanvankelijk tegen haar besluit die privileges te verlenen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2022_I_bijlage_a36412ab6c17.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ffb233ca393f4e5495872a5032cf7133.pdf"
+    }
+  ]
+}

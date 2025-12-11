@@ -1,0 +1,40 @@
+{
+  "id": "havo_maatschappijwetenschappen_2024_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "maatschappijwetenschappen",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 34,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik regel 39 tot en met 83 van tekst 3.<br>Leg uit dat deelnemers aan vTaiwan macht hebben.<br>Gebruik in je uitleg:</p><ul><li>de omschrijving van het kernconcept macht;</li><li>informatie uit regel 39 tot en met 83 van tekst 3 waaruit het kernconcept macht blijkt.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave hoort tekst 3 uit het bronnenboekje.<br><br>Inleiding<br>Deze opgave gaat over vTaiwan, een online platform in Taiwan dat ontwikkeld is naar aanleiding van protesten tegen de overheid. Bij deze protesten werd de overheid verweten onvoldoende naar de burgers te luisteren. vTaiwan is een online platform dat kan worden ingezet bij politieke besluitvorming. Burgers kunnen op vTaiwan hun standpunten rondom een politieke kwestie kenbaar maken. Daarnaast kunnen ze ook aangeven of ze het eens of oneens zijn met de standpunten van anderen. Wat vTaiwan onderscheidt van andere sociale mediaplatforms, is dat vTaiwan bewust gericht is op het creëren van consensus en geen aandacht geeft aan uitspraken die verdeeldheid zaaien. Met behulp van kunstmatige intelligentie worden de standpunten waarover veel mensen het eens zijn zichtbaar gemaakt en worden er clusters van mensen getoond met overeenkomstige standpunten.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijwetenschappen 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijwetenschappen_2024_5481391f6f48.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f0f7f53089eb41ba824956534fc5ec44.pdf"
+    }
+  ]
+}

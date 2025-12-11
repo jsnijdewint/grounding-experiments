@@ -1,0 +1,41 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_2_2024_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_2",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 53,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Het koelwater passeert de stoom met geurstoffen. Als gevolg van het temperatuurverschil wordt warmte overgedragen, waardoor de gewenste koeling plaatsvindt.<br>Het koelwater stroomt van beneden naar boven.<br>Door welke van de volgende redenen gaat het koelen dan beter?<br>I Dan vult de koeler zich helemaal met water en blijft niet gedeeltelijk gevuld met lucht.<br>II Als het koelwater bovenin wordt ingeleid, wordt de stoom onder in de koeler mogelijk niet meer voldoende gekoeld.<br><strong>A </strong>alleen I<br><strong>B </strong>alleen II<br><strong>C </strong>beide: I en II<br><strong>D </strong>geen van beide</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Parfum is een heldere vloeistof die geurstoffen en alcohol bevat. De geurstoffen kunnen worden verkregen uit bloemblaadjes door er stoom door te leiden. Hieronder is een vereenvoudigde opstelling voor dit proces afgebeeld.<br>De stoom trekt de geurstoffen uit de bloemblaadjes in de kolf. De stoom met geurstoffen wordt vervolgens door een koeler geleid. In de koeler vindt een faseovergang plaats. De opgevangen vloeistof vormt in het opvangvat twee lagen. De onderste laag bestaat voornamelijk uit water. De bovenste laag bevat de geurstoffen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_f57ec9d23b02.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/29048172b6494127a0476b5f910debf7.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

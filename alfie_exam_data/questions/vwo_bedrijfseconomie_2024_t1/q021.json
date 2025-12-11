@@ -1,0 +1,97 @@
+{
+  "id": "vwo_bedrijfseconomie_2024_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 13,
+          "name": "Vastleggen van financiële en niet financiële informatie",
+          "prefix_code": 1
+        },
+        {
+          "id": 14,
+          "name": "Kosten- en winstvraagstukken",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken het bedrag waarmee de vlottende activa inclusief liquide middelen op de balans van 1 januari 2024 veranderen door de investering en financiering.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De btw in deze opgave bedraagt 21%. Van Bella Cucina bv, een pizzarestaurant met drie vestigingen, is onderstaande grafiek gegeven voor de maand december 2023.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_fbd6b7c5f445.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/310e1c15679b4b1287d21abf70c957dd.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Overige gegevens:&nbsp;<br> Bella Cucina verkoopt alleen pizza’s.&nbsp;<br> Bella Cucina verkoopt alle pizza’s tegen dezelfde verkoopprijs.&nbsp;<br> De variabele kosten per pizza zijn bij alle soorten pizza’s gelijk.&nbsp;<br><br>In december 2023 zijn er 9.200 pizza’s verkocht.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_eed20dc3972b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ed40877af06143b78be2ce5b60e04a73.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Om de omzet en het resultaat te verbeteren, investeert Bella Cucina per 1 januari 2024 in drie extra ovens model K, zodat iedere vestiging over een extra oven beschikt. De ovens worden direct betaald en in gebruik genomen.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_ffde341a04e7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/43f7bc2300c647bbbc52a8b5e734abd6.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Voor de financiering van de ovens (inclusief installatie en btw) heeft Bella Cucina op 1 januari 2024 € 10.000 aan liquide middelen beschikbaar. Voor het ontbrekende bedrag neemt Bella Cucina een zakelijke banklening per 1 januari 2024. De bank stelt hierbij als eis dat de solvabiliteit (eigen vermogen/totaal vermogen x 100%) van Bella Cucina op 1 januari 2024, na investering en financiering, minimaal 30% moet zijn. De bank zal daarom maar een deel van het ontbrekende financieringsbedrag financieren en eist dat de aandeelhouders zelf ook nieuw kapitaal inbrengen.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>De investering en financiering van de ovens zijn van invloed op activa die op de balans zijn opgenomen onder de “vlottende activa”.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_bijlag_7eadadfb909b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b308f8bea0724a7aafeda7412effc100.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_uitwer_83345fd16197.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9381244ee6040b2bd0134a67d821ddb.pdf"
+    }
+  ]
+}

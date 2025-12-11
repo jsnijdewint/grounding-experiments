@@ -1,0 +1,46 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2023_t1_q43",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 145,
+          "name": "Veiligheid in het verkeer",
+          "prefix_code": "NASK1/V/1"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Een bepaalde meteoroïde beweegt door de ruimte met een snelheid van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>0</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>. De bewegingsenergie van deze meteoroïde is 1000 MJ .<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Bereken de massa van deze meteoroïde.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Meteoroïden zijn voorwerpen die met grote snelheid door de ruimte bewegen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2023_I_146f2ef32a60.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a553a8c7e49437a900373fa6ec9748e.pdf"
+    }
+  ]
+}

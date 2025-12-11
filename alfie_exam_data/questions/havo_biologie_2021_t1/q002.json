@@ -1,0 +1,92 @@
+{
+  "id": "havo_biologie_2021_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        },
+        {
+          "id": 110,
+          "name": "Onderzoeken",
+          "prefix_code": 5
+        },
+        {
+          "id": 111,
+          "name": "Ontwerpen",
+          "prefix_code": 6
+        },
+        {
+          "id": 112,
+          "name": "Modelvorming",
+          "prefix_code": 7
+        },
+        {
+          "id": 113,
+          "name": "Natuurwetenschappelijk instrumentarium",
+          "prefix_code": 8
+        },
+        {
+          "id": 114,
+          "name": "Waarderen en oordelen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>De dikte van de opperhuid van een mens is tussen 30 en 2500 micrometer dik, afhankelijk van de plaats op het lichaam.</p><ul><li>Bepaal, aan de hand van afbeelding 2, hoeveel micrometer de zuigsnuit van de teek kan doordringen in de menselijke huid. Noteer je berekening.</li><li>Licht toe dat dit voldoende is om bloedvaten van een mens te kunnen bereiken.</li></ul>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tenzij anders vermeld, is er sprake van normale situaties en gezonde organismen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Tijdens een introductieactiviteit van de hbo-opleiding Bos- en natuurbeheer spelen Stijn en zijn medestudenten een kennismakingsspel in het bos. Aan het eind van de dag wordt tegen alle studenten gezegd dat ze zich goed moeten controleren op teken.</p><p>Teken (Ixodes ricinus, afbeelding 1) wachten in het gras of in laag struikgewas op voorbijkomende dieren of mensen die hun een bloedmaaltijd kunnen verschaffen. Ze hechten zich met hun zuigsnuit (afbeelding 2) aan hun slachtoffer en voeden zich vervolgens met bloed uit de bloedvaten van de huid.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_e89ae00df0a6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ebf1cc5b791949a79541a63337be0a37.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": "vwo_natuurkunde_2023_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 44,
+          "name": "Informatieoverdracht",
+          "prefix_code": 1
+        },
+        {
+          "id": 45,
+          "name": "Medische beeldvorming",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bepaal de akoestische lengte van buis 1 met behulp van figuur 2. Noteer je antwoord in twee significante cijfers.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Jelle heeft een set van acht boomwhackers. Zie figuur 1. Boomwhackers zijn kunststof buizen met twee open uiteinden waarmee je muziek kunt maken. Als je met een boomwhacker ergens tegenaan tikt, ontstaat er een toon doordat er staande golven in de buis ontstaan. De lengte van de buis bepaalt de hoogte van de toon.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_c50363481e8d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/04fe3798434d4055a72a9fb899e6066c.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Jelle meet de frequenties van de grondtoon en de boventonen van buis 1. Zijn meetresultaten wijken een klein beetje af van wat hij verwacht op basis van de lengte van de buis. Dit komt doordat de buiken niet exact samenvallen met de uiteinden van de buis. De afstand tussen de buiken aan beide uiteinden van de buis wordt de akoestische lengte genoemd. Deze akoestische lengte bepaalt dus de toonhoogte.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In figuur 2 staat weergegeven welke frequenties vóórkomen in de toon van buis 1. De meting is gedaan bij een temperatuur van 20 °C.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_77fa55a8594a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d225ba52a4454e13bcbe75b664f07fb3.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2023_I_uitwerkbijl_dcb32a1b5377.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e8c6f0ebe587432bb96bfde82bed13ab.pdf"
+    }
+  ]
+}

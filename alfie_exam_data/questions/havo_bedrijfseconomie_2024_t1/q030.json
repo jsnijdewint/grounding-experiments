@@ -1,0 +1,61 @@
+{
+  "id": "havo_bedrijfseconomie_2024_t1_q30",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "bedrijfseconomie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 33,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 103,
+          "name": "Marketingbeleid",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit of Adidas een push- of pull-strategie hanteert bij shirtreclame op tv.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de zomer van 2024 wordt het Europees Kampioenschap (EK) voetbal georganiseerd in Duitsland. Adidas sponsort vele evenementen waaronder het EK voetbal van 2024 en verschillende nationale teams.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Voorafgaand en tijdens het EK kunnen Adidas voetbalshirts van nationale ploegen gekocht worden in de winkels van Adidas en in de stadions waar gespeeld wordt. De uitbreiding van het assortiment voetbalshirts met je favoriete rugnummer of je eigen naam erop, is een vorm van …(1)…. De wereldwijde verkoop van Adidas voetbalshirts via webshops is een vorm van …(2)…. De prijs van een Adidas voetbalshirt ligt hoger dan die van een voetbalshirt zonder bekend merk. Dit is een vorm van …(3)….</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Pieter en Edwin zijn consumenten die veel Adidas producten kopen. Zij bekijken een EK-voetbalwedstrijd op tv en zien dat Adidas shirtsponsor is van het Duitse nationale team. Na het zien van de wedstrijd bestelt Pieter een EK-voetbalshirt van het Duitse nationale team.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_bijlag_2e10e0982197.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a7a15ca0f9d2401aa24055b39fdd0a81.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_uitwer_e1cba7355851.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/555ba55aca42476292c914bf8a9a09fe.pdf"
+    }
+  ]
+}

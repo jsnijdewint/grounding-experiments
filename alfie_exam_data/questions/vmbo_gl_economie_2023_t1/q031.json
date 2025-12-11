@@ -1,0 +1,68 @@
+{
+  "id": "vmbo_gl_economie_2023_t1_q31",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 126,
+          "name": "Internationale ontwikkelingen",
+          "prefix_code": "EC/K/7"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Costa Rica behoort nu tot de categorie landen met een middeninkomen.<br>Dit is mede een gevolg van de jarenlange structurele ontwikkelingshulp vanuit Nederland.<br>Hieronder staan vijf economische verschijnselen:<br>1 de inzet van structurele ontwikkelingshulp, vanuit Nederland aan Costa Rica<br>2 het scholingsniveau in Costa Rica is gestegen<br>3 het nationaal inkomen stijgt<br>4 de overheid investeert meer in het onderwijs<br>5 Costa Rica is nu een land met een middeninkomen<br>In welke regel staan deze verschijnselen zo dat een logische<br>gedachtegang ontstaat?<br>A <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>4</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>5</mn>&#160;</math><br>B <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>4</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>5</mn>&#160;</math><br>C <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>4</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>5</mn>&#160;</math><br>D <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>4</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>5</mn>&#160;</math><br>E <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>4</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>5</mn>&#160;</math><br>F <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>4</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>5</mn></math></p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 10 en 11 in de bijlage.&nbsp;<br><br>Costa Rica is een land in Midden-Amerika. De economie van Costa Rica was vroeger erg afhankelijk van de export van bananen, koffie en ananas. Veel van deze landbouwproducten worden geëxporteerd naar de Europese Unie via de haven van Rotterdam. In de afgelopen jaren kende Costa Rica een sterke economische groei.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_b1d89d8ed467.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/16863beb0046469ca6b6223875202344.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de laatste jaren is Costa Rica minder afhankelijk geworden van de export van landbouwproducten.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In 2000 behoorde Costa Rica nog tot de landen met een laag inkomen. De 20% inwoners met de hoogste inkomens ontving toen 70% van het nationaal inkomen. Vanwege de economische groei wordt Costa Rica door de Wereldbank ingedeeld in de categorie landen met een middeninkomen per hoofd van de bevolking.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In 2000 ontving 50% van de inkomensontvangers met het laagste inkomen, 5% van het nationaal inkomen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2023_I_bijlage_d07fb50732d7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/37a7c03aae784b9f89ef1c2fe31fa61d.pdf"
+    }
+  ]
+}

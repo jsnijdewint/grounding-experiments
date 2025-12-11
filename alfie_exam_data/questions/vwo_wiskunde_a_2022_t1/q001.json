@@ -1,0 +1,56 @@
+{
+  "id": "vwo_wiskunde_a_2022_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 76,
+          "name": "Algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 77,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Onderzoek op welke manieren deze partijen van Piet Roozenburg verdeeld kunnen zijn in aantallen keren winst, verlies en remise.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Blindsimultaandammen is een tak van de damsport waarbij een dammer het gelijktijdig opneemt tegen meerdere tegenstanders. De dammer in kwestie ziet de speelborden en tegenstanders niet en speelt dus alle partijen uit zijn hoofd. Deze opgave gaat over deze damsportvariant.</p><p>De puntentelling bij dammen is als volgt: de winnaar krijgt 2 punten, de verliezer 0 . Bij gelijkspel (dat wordt remise genoemd) krijgen beide spelers 1 punt. Een dammer die het wereldrecord blindsimultaandammen wil verbreken, moet tegen meer tegenstanders spelen dan de zittende wereldrecordhouder. Bovendien moet hij minstens <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>70</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>van het maximaal te behalen aantal punten scoren.</p><p>In 1950 scoorde de Nederlandse dammer Piet Roozenburg tegen in totaal 5 tegenstanders precies 70%. Met deze score werd hij toen recordhouder.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_73fca02d2c1b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5d05a69549d843d992d31326c4d8bd2f.pdf"
+    },
+    {
+      "name": "Wiskunde A 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2022_I_uitwerkbijla_986f038aa607.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/05b11d946a864537912b61b903133caa.pdf"
+    }
+  ]
+}

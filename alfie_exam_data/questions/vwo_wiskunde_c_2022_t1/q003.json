@@ -1,0 +1,63 @@
+{
+  "id": "vwo_wiskunde_c_2022_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [
+        {
+          "id": 53,
+          "name": "Veranderingen",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel punten de eerste plaats in deze puntentelling krijgt.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Begin 2015 werd Sjinkie Knegt in Dordrecht voor de tweede maal in zijn carrière Europees kampioen shorttrack. Zo'n kampioenschap bestaat uit het schaatsen van de vier afstanden <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>500</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><mo>,</mo> <mn>1000</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math>, 1500 m en 3000 m . Per afstand kun je punten verdienen. Degene met de meeste punten na vier afstanden is de winnaar.<br>De beste acht deelnemers per afstand krijgen de volgende aantallen punten:</p><ul><li>de eerste plaats krijgt 34 punten;</li><li>de tweede plaats krijgt 21 punten;</li><li>de derde plaats krijgt het aantal punten van de eerste plaats verminderd met het aantal punten van de tweede plaats, dus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>34</mn> <mo>&#8722;</mo> <mn>21</mn> <mo>=</mo> <mn>13</mn>&#160;</math>punten;</li><li>de vierde plaats krijgt het aantal punten van de tweede plaats verminderd met het aantal punten van de derde plaats, dus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>21</mn> <mo>&#8722;</mo> <mn>13</mn> <mo>=</mo> <mn>8</mn>&#160;</math>punten;</li><li>zo gaat het verder, tot 1 punt voor de achtste plaats.</li></ul><p>Op die manier ontstaat een deel van de rij van Fibonacci.</p><p><br>Deelnemers die op plaats 9 of lager eindigen, krijgen voor die afstand geen punten.<br>In werkelijkheid kunnen er op sommige afstanden extra punten worden behaald in tussensprints. Deze laten we voor deze opgave buiten beschouwing.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_e747ab9a6c39.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a2b15d13560946f0b930f4e4a00ad5ac.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een deelnemer staat na drie van de vier afstanden op de derde plaats met 6 punten voorsprong op degene die op de vierde plaats staat, nummer vier dus. Nummer twee is niet meer in te halen. Nummer drie overweegt daarom als tactiek voor de vierde afstand om precies achter de nummer vier te blijven en te finishen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De organisatie overweegt om in een andere shorttrackwedstrijd dezelfde structuur in de puntentelling toe te passen. Nu wil men echter aan de eerste twaalf plaatsen per afstand punten toekennen, waarbij plaats <strong>twaalf </strong>1 punt krijgt en plaats elf 2 punten en elke volgende plaats de som van de vorige twee puntenaantallen.</p><p>Dit is weergegeven in de volgende recursieve formule, die geldt voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi> <mo>&#8804;</mo> <mn>10</mn>&#160;</math>:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>u</mi> <mrow data-mjx-texclass=\"ORD\"><mi>n</mi> </mrow></msub><mo>=</mo> <msub><mi>u</mi> <mrow data-mjx-texclass=\"ORD\"><mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow></msub><mo>+</mo> <msub><mi>u</mi> <mrow data-mjx-texclass=\"ORD\"><mi>n</mi> <mo>+</mo> <mn>2</mn> </mrow></msub><mtext>met </mtext><msub><mi>u</mi> <mrow data-mjx-texclass=\"ORD\"><mn>12</mn> </mrow></msub><mo>=</mo> <mn>1</mn> <mtext>en </mtext><msub><mi>u</mi> <mrow data-mjx-texclass=\"ORD\"><mn>11</mn> </mrow></msub><mo>=</mo> <mn>2</mn></math></p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>u</mi> <mrow data-mjx-texclass=\"ORD\"><mi>n</mi>&#160;</mrow></msub></math>het aantal punten dat plaats <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi>&#160;</math>krijgt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2022_I_uitwerkbijla_88029eac1d9f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e2af97078af344c6a48ef1f748b398b8.pdf"
+    }
+  ]
+}

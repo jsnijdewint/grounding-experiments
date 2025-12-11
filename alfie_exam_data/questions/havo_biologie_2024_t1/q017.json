@@ -1,0 +1,79 @@
+{
+  "id": "havo_biologie_2024_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 122,
+          "name": "Zelforganisatie van cellen",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke temperatuur is het meest geschikt om thaumetopoïne onschadelijk te maken: 60 °C of –20 °C? Verklaar je keuze.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Geert komt thuis van een schoolkamp met op zijn borst en armen rode bultjes die erg jeuken. De bultjes zijn veroorzaakt door brandharen van eikenprocessierupsen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_5bc1d9e765c4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9840620df56e4d86b5b1dc598e3fc147.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Er zijn meerdere vlinders waarvan de rupsen brandharen hebben die huidirritatie kunnen veroorzaken. In de tabel staan de wetenschappelijke naam van een aantal van deze vlinders en de habitat van hun rupsen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_ebac91f15580.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f4b40c43c7414b5788b767d31c0fd2c1.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Zonder een vergrootglas zijn details vanaf een grootte van 0,1 mm meestal te zien. Een brandhaar van de eikenprocessierups (afbeelding 2) is langer dan 0,1 mm, maar is toch niet te zien met het blote oog.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De losgelaten brandharen worden door de wind verspreid en kunnen zo in contact komen met de huid en de kleding van mensen. De brandharen maken piepkleine wondjes in de huid, waarbij het eiwit thaumetopoïne vrijkomt. Dit giftige eiwit veroorzaakt de afgifte van stoffen in de huid die bultjes veroorzaken. Ook prikkelen deze stoffen de uiteinden van gevoelszenuwcellen, waardoor jeuk ontstaat en een krabreflex kan volgen.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De brandharen zitten ook in de kleren die Geert tijdens het kamp gedragen heeft. Door de kleine weerhaakjes zijn de brandharen moeilijk te verwijderen. Om de brandharen onschadelijk te maken, wil Geert de kleren wassen bij 60 °C. Geerts vader stelt voor om de kleren een nacht in de vriezer (–20 °C) te leggen.</p>"
+    }
+  ],
+  "bijlages": []
+}

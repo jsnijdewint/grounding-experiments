@@ -1,0 +1,40 @@
+{
+  "id": "vmbo_gl_geschiedenis_en_staatsinrichting_2022_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "geschiedenis_en_staatsinrichting",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 65,
+      "domains": [
+        {
+          "id": 138,
+          "name": "Verrijkingsdeel bij historisch overzicht vanaf 1900",
+          "prefix_code": "GS/V/9"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In de Sovjet-Unie werd onder Stalin een begin gemaakt met de collectivisatie van de landbouw.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Leg uit waarom de collectivisatie van de landbouw past bij de communistische ideologie.<br>Doe dit door:</p><ul><li>eerst aan te geven wat de collectivisatie van de landbouw inhield, en</li><li>daarna aan te geven waarom de collectivisatie van de landbouw past bij de communistische ideologie.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Geschiedenis en staatsinrichting 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_en_staatsinrichti_d97a81606872.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a82c2a3d929949f1803bcca598ae713f.pdf"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "havo_geschiedenis_2022_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "geschiedenis",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 29,
+      "domains": [
+        {
+          "id": 248,
+          "name": "Door de tijd heen",
+          "prefix_code": "1"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zet deze liefdesparen in de juiste chronologische volgorde, van vroeger naar later. Noteer alleen de nummers.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De volgende beroemde liefdesparen staan in willekeurige volgorde:<br>1 Bonnie Parker en Clyde Barrow beroofden na de beurskrach banken in de Verenigde Staten.<br>2 De popmuzikant John Lennon en zijn vrouw Yoko Ono bleven een week in bed om aandacht voor wereldvrede te vragen. Beelden van deze 'Bed-In' waren wereldwijd op televisie te zien.<br>3 De schilder Rembrandt van Rijn had in de bloeitijd van de Republiek een relatie met zijn huishoudster Hendrickje Stoffels. Zij stond waarschijnlijk model voor Rembrandts schilderij Badende vrouw.<br>4 Napoleon Bonaparte trouwde tijdens de democratische revolutie in Frankrijk met zijn grote liefde Josephine de Beauharnais en kroonde haar later tot zijn keizerin.<br>5 Harriet Giles en Sophia Packard startten in Atlanta een school voor vrouwen van Afrikaans-Amerikaanse afkomst, waarmee ze de beginnende emancipatie van vrouwen wilden bevorderen.<br>6 Keizer Karel V had een relatie met Johanna van der Gheynst, de dochter van een tapijtverkoper uit Gent. Hun dochter Margaretha werd landvoogdes van de Nederlanden, de hoogste vertegenwoordigster van de Spaanse vorst.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2022_I_bijlage_efc832c5bc6a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4c75dd86a687428f8575622947101fb2.pdf"
+    }
+  ]
+}

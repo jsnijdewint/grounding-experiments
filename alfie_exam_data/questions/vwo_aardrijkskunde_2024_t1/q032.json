@@ -1,0 +1,56 @@
+{
+  "id": "vwo_aardrijkskunde_2024_t1_q32",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "aardrijkskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 21,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 5,
+          "name": "Nationale en regionale vraagstukken",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef het verband tussen de uitkomsten van de Leefbaarometer en de WOZ-waarde binnen de stad Utrecht.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 18 tot en met 21.&nbsp;<br><br>Gebruik de bronnen 18 en 19. Het ruimtelijk beleid ten aanzien van de Randstad tot ongeveer 1990 heeft bijgedragen aan het ontstaan van een concentratie van sociaaleconomische problemen in bepaalde wijken. Deze wijken werden aandachtswijken genoemd.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik de bronnen 20 en 21. Binnen de stad Utrecht bestaat een verband tussen de uitkomsten van de Leefbaarometer en de WOZ-waarde.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_bijlage_5d21ee139256.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b59abf07fb0546d7b053e9a0b057d44d.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2024 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_kaartenk_7cdee1f1797d.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a91a8df27bf04e42855ea2418d56e940.pdf"
+    }
+  ]
+}

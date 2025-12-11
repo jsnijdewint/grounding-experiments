@@ -1,0 +1,142 @@
+{
+  "id": "vwo_biologie_2023_t1_q28",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 40,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 41,
+          "name": "Zelforganisatie van ecosystemen",
+          "prefix_code": 2
+        },
+        {
+          "id": 42,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Verklaar hoe gebruik van sorghum als veevoer kan leiden tot vermindering van de uitstoot van methaan door een rund.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In Nederland wordt snijmais op grote schaal geteeld als veevoer. Onderzoekers bekijken of de problemen die samenhangen met de grootschalige teelt van mais kunnen worden vermeden door de introductie van sorghum (afbeelding 1).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_5918a5f827d7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7496b4bd008e4df8852c3bfcd5fa3ff8.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een van de problemen bij maisteelt is de maisstengelboorder, de rups van de nachtvlinder Ostrinia nubilalis. Deze rups vreet gangen in de stengels en kolfstelen van de maisplanten, met als gevolg uitgeholde en geknikte stengels en een verminderde groei van de maiskolven.</p><p>De maisstengelboorder komt oorspronkelijk uit Zuid-Europa. Vanaf het begin van de twintigste eeuw komt hij voor in Noord-Amerika, en sinds 2010 wordt hij ook in Nederlandse maisvelden waargenomen. De maisstengelboorder wordt in Noord-Amerika als exoot beschouwd, maar in Nederland niet.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De vraat van de maisstengelboorder leidt ertoe dat de schimmel Fusarium graminearum gemakkelijk maisplanten kan infecteren. De schimmelinfectie heeft tot gevolg dat de maiskolven zich niet volledig ontwikkelen. Bovendien kunnen maisstengelboorders zich sneller ontwikkelen in maisplanten die geïnfecteerd zijn met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi>&#160;</math>. graminearum.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Onderzoekers van het Louis Bolk Instituut onderzochten of sorghum (Sorghum bicolor) een geschikt alternatief is voor mais. Op een aantal proefvelden werden mais en twee sorghumrassen geteeld.</p><p>Van de geoogste gewassen werden het versgewicht per hectare en het droge-stofgehalte (ds) bepaald (tabel 1), zodat de productie van droge stof per hectare kon worden berekend.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_c8f59c144e4e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4c8fb755752740ec9a09ef3e6d0a53fc.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Een van de twee sorghumrassen produceert per hectare veel meer droge stof dan mais.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>De onderzoekers bepaalden ook hoeveel procent van de droge stof van mais en van sorghum door het verteringsstelsel van runderen kan worden geresorbeerd (VCOS: verteringscoëfficiënt van de organische stof, tabel 2).</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_4a5b0efe5148.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/13365f36f444482c9cf6e77929a15dfd.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>De energie die via voeding is ingenomen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">I</mi> </mrow><mo stretchy=\"false\">)</mo>&#160;</math>is op te delen in drie energiestromen: P (productiviteit), F (energieverlies in de vorm van feces) en R (energieverlies door dissimilatie).</p>"
+    },
+    {
+      "order": 10,
+      "type": "image",
+      "media_path": "media/in-exam/img_b56b6ac0158e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/49471e698b124c25baadebda7895c544.png",
+      "caption": ""
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>Behalve de hogere opbrengst hebben de sorghumrassen nog een voordeel ten opzichte van mais: de melkproductie en vleesproductie van runderen die met sorghum gevoerd worden, nemen toe. Dit is te verklaren door het hogere percentage eiwitten in sorghum (tabel 3).</p>"
+    },
+    {
+      "order": 12,
+      "type": "image",
+      "media_path": "media/in-exam/img_9f79d6657db0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9c61c03c2e20464faa0a0407c8f11fa2.png",
+      "caption": ""
+    },
+    {
+      "order": 13,
+      "type": "text",
+      "text": "<p><p>In het spijsverteringsstelsel van runderen leven de micro-organismen van koolhydraten uit het voer. Hierbij ontstaat methaan (afbeelding 2).</p></p>"
+    },
+    {
+      "order": 14,
+      "type": "image",
+      "media_path": "media/in-exam/img_c53cade54db7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9023292c33424d68a84fc1b86dd6177b.png",
+      "caption": ""
+    },
+    {
+      "order": 15,
+      "type": "text",
+      "text": "<p>De omzetting door methaanbacteriën leidt ertoe dat de rundveeteelt een sterke bijdrage levert aan klimaatverandering.</p>"
+    },
+    {
+      "order": 16,
+      "type": "text",
+      "text": "<p>Mogelijk zou het gebruik van sorghum als veevoer in plaats van mais, kunnen leiden tot een verlaging van de uitstoot van methaan door runderen.</p>"
+    }
+  ],
+  "bijlages": []
+}

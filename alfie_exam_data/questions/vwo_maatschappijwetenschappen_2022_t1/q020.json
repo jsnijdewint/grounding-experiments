@@ -1,0 +1,40 @@
+{
+  "id": "vwo_maatschappijwetenschappen_2022_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "maatschappijwetenschappen",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 7,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik de inleiding van de opgave.<br>De FARC is een marxistische guerrillabeweging.<br>Beredeneer dat de FARC is opgericht vanuit een marxistische ideologie.<br>Gebruik in je uitleg:</p><ul><li>een kenmerk van de marxistische theorie;</li><li>informatie uit de inleiding waaruit het gekozen kenmerk blijkt;</li><li>de omschrijving van het kernconcept ideologie.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de teksten 6 en 7 en figuur 3 uit het bronnenboekje.</p><p>Inleiding<br>Colombia kent een lange geschiedenis van binnenlandse gewapende conflicten en wijdverbreid geweld. In de jaren zeventig van de vorige eeuw verschenen de FARC en andere guerrillabewegingen in Colombia. Zij zijn ontstaan in reactie op de grootschalige corruptie bij overheidsorganisaties en de groeiende ongelijkheid tussen grootgrondbezitters en arme kleine boeren door de opkomst van grootschalige intensieve landbouw. De langdurige burgeroorlog tussen de regering en de guerrillabeweging FARC eindigde met een vredesakkoord tussen beide partijen in 2016. Dat akkoord leidde echter niet tot het beëindigen van het geweld. Deze opgave gaat over de rol die de FARC speelde in de Colombiaanse samenleving en over de situatie na het vertrek van de FARC met het vredesakkoord van 2016.</p><p>Gebruik de inleiding van de opgave.<br>De FARC is een marxistische guerrillabeweging.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijwetenschappen 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijwetenschappen_2022_19cdf7984b8f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c4e70652626249c99da19b2d37708a4d.pdf"
+    }
+  ]
+}

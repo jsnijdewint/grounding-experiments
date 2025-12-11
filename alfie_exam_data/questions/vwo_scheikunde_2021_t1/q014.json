@@ -1,0 +1,84 @@
+{
+  "id": "vwo_scheikunde_2021_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef de structuurformule van het fragment <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8764;</mo> <mi>B</mi> <mo>&#8722;</mo> <mi>A</mi> <mo>&#8722;</mo> <mi>E</mi>&#160;</math>van een molecuul desferrioxamine.</p>",
+    "max_score": 3,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_ee8f063e037c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a717f9d029c4e498e58b6bb12df4219.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Hemochromatose of ijzerstapeling is een erfelijke ziekte waarbij te veel ijzerionen uit de darminhoud worden opgenomen terwijl het lichaam niet in staat is de overmaat aan ijzerionen uit te scheiden. Deze ziekte wordt vaak veroorzaakt door een mutatie in het gen dat codeert voor het eiwit HFE. HFE speelt een rol bij de opname van ijzerionen. Bij de synthese van HFE wordt in eerste instantie mRNA gevormd dat bestaat uit 2727 basen. De eerste 221 basen spelen echter geen rol bij de synthese van HFE. Het startcodon begint pas bij base nummer 222. Dit is tevens het codon voor het aminozuur met nummer 1. Hieronder is een deel van de mRNA-volgorde bij mensen zonder en mensen met hemochromatose weergegeven. De mutatie treedt op bij base nummer 1066.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_3d0c52bed6ea.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/497e506b9c024a4083f761d0f08f9da3.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Met behulp van de 1-lettersymbolen van aminozuren kan men dit soort mutaties vereenvoudigd weergeven. Zo kan een mutatie waarbij op plaats 86 van een eiwit een glutaminezuur-eenheid is ingebouwd in plaats van een glutamine-eenheid, worden weergeven als Q86E.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De uit de darminhoud opgenomen ijzerionen komen in het bloed terecht. Daar worden deze ionen gebonden door het eiwit transferrine en worden zo getransporteerd naar de lever en naar de plaatsen waar de productie van rode bloedlichaampjes plaatsvindt. Het binden en afstaan van de ijzerionen door transferrine is afhankelijk van de pH. Daarbij zijn de restgroepen van de aminozuren Tyr, Asp en His betrokken. Hiernaast is schematisch weergegeven hoe een <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Fe</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> <mo>+</mo>&#160;</mrow></msup></math>-ion in een molecuul transferrine is gebonden.<br>Bij de pH van bloed <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo> <mn>7</mn> <mo>,</mo> <mn>4</mn> <mo stretchy=\"false\">)</mo>&#160;</math>zijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Fe</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> <mo>+</mo>&#160;</mrow></msup></math>-ionen sterk gebonden aan transferrine. Op de plaatsen in het lichaam waar transferrine de gebonden <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Fe</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> <mo>+</mo>&#160;</mrow></msup></math>-ionen moet afstaan, is de pH aanzienlijk lager. De <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Fe</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> <mo>+</mo>&#160;</mrow></msup></math>-ionen komen dan vrij uit de moleculen transferrine.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_b839828a7e9b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/37a412598a4e42989be55959f872e345.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Patienten met hemochromatose kunnen worden behandeld met desferrioxamine, een stof die in opgeloste vorm met behulp van een infuus wordt toegediend. Desferrioxamine bindt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Fe</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> <mo>+</mo>&#160;</mrow></msup></math>. Via de nieren wordt de ontstane verbinding uitgescheiden.<br>Een molecuul desferrioxamine ontstaat uit één molecuul ethaanzuur ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi>&#160;</math>), twee moleculen butaandizuur (B) en drie moleculen van een stof <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>. De structuurformule van stof A is hieronder weergegeven.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_4157b02dcd42.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3912c317433b4770a96cf490293ab1da.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Deze zes moleculen worden in de volgorde <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">A</mi> </mrow><mo>&#8722;</mo> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">B</mi> </mrow><mo>&#8722;</mo> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">A</mi> </mrow><mo>&#8722;</mo> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">B</mi> </mrow><mo>&#8722;</mo> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">A</mi> </mrow><mo>&#8722;</mo> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">E</mi>&#160;</mrow></math>gekoppeld. Daarbij worden alleen C-N-bindingen gevormd. Per ontstane <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mo>&#8722;</mo> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">N</mi>&#160;</mrow></math>-binding wordt één molecuul water afgesplitst.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2021_I_uitwerkbijla_19d95dde309e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1b51fa23f34e49019700aa8a5bf7165f.pdf"
+    }
+  ]
+}

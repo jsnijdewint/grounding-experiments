@@ -1,0 +1,87 @@
+{
+  "id": "vwo_biologie_2021_t1_q39",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 40,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 41,
+          "name": "Zelforganisatie van ecosystemen",
+          "prefix_code": 2
+        },
+        {
+          "id": 42,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noteer een aanvullende handeling die nodig is om het aantal teken te verminderen bij het op deze manier inzetten van lokschapen.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De ziekte van Lyme wordt veroorzaakt door een bacterie die meestal op de mens wordt overgedragen door een besmette schapenteek. Onderzoek laat zien dat het aantal tekenbeten en het aantal besmette teken de laatste jaren toeneemt.</p><p>Teken zijn spinachtigen die voorkomen in bossen en velden. Ze leven van het bloed van gewervelde dieren.<br>In afbeelding 1 is de levenscyclus van de schapenteek Ixodes ricinus weergegeven. De cyclus kan twee tot zes jaar duren en bestaat uit vier fasen: ei, larve, nimf en adult. Van elke levensfase overleeft ongeveer tien procent. Om een volgende fase te bereiken, heeft een teek meestal maar één bloedmaaltijd nodig.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_93bfc1d3ec24.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ab6b3fc148c44731b66877c72bfacb0b.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De bloedmaaltijd van een teek duurt enkele dagen tot een week. De tijdsduur hangt samen met de grootte van de teek. De schapenteek kan als larve, nimf en adult ook een mens of een hond gebruiken als gastheer. Tijdens de bloedmaaltijd kan de bacterie Borrelia burgdorferi worden opgezogen uit de gastheer. Deze bacterie vermenigvuldigt zich in de darmen van de teek. B. burgdorferi wordt niet overgedragen op de eitjes, maar kan wel via het speeksel worden overgedragen op een nieuwe gastheer. Bij mensen kan deze bacterie de ziekte van Lyme veroorzaken.</p><p>Als je de ziekte van Lyme hebt, is de kans groter dat je de ziekte hebt opgelopen door de beet van een nimf dan door de beet van een larve of een adult van de schapenteek.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Teken hebben een stekende zuigsnuit om de huid van hun gastheer te doorboren, waarna ze bloed kunnen opzuigen.<br>In het bloed kunnen de volgende processen plaatsvinden:<br>1 activatie van T-lymfocyten<br>2 antistofproductie<br>3 migratie van macrofagen</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Om een immuunreactie van de gastheer tegen te gaan, spuit een teek altijd eerst wat speeksel bij de gastheer naar binnen. Een van de speekseleiwitten remt afweercellen die een sleutelrol spelen bij het opwekken van een immuunrespons bij de gastheer.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Gewoonlijk wordt een infectie met een bepaalde ziekteverwekker vastgesteld door een bloedonderzoek waarmee de aanwezigheid van de betreffende ziekteverwekker direct of indirect kan worden aangetoond.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De enige preventieve maatregel tegen het krijgen van de ziekte van Lyme is het vermijden van een tekenbeet. Om het risico op tekenbeten te verkleinen moet het aantal teken verminderd worden. Een mogelijke aanpak is het gebruik van nematoden, microscopisch kleine rondwormen, die bepaalde symbiotische bacteriën bij zich dragen. Wanneer de nematode een teek binnendringt, gaan deze bacteriën zich ten koste van de teek vermenigvuldigen. De nematode voedt zich vervolgens met deze bacteriën. Naar aanleiding van deze gegevens wordt de volgende stelling gedaan: De relatie tussen de nematode en de bacteriën die hij bij zich draagt, is mutualisme.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Schapen worden wel tekenstofzuigers genoemd, omdat ze heel aantrekkelijk zijn voor teken zonder er zelf veel last van te hebben. Onderzocht wordt of het inzetten van 'lokschapen' langs paden waar mensen lopen, een significante vermindering van het aantal teken kan opleveren.</p>"
+    }
+  ],
+  "bijlages": []
+}

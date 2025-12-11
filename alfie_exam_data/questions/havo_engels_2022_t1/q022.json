@@ -1,0 +1,56 @@
+{
+  "id": "havo_engels_2022_t1_q22",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "engels",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 28,
+      "domains": [
+        {
+          "id": 79,
+          "name": "Leesvaardigheid",
+          "prefix_code": "A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef per persoon aan welke uitspraak samenvat wat hij zegt over Stan Lee.<br>Noteer de letter van de uitspraak achter elk nummer op het antwoordblad.<br>Let op: er blijven twee uitspraken over.<br>a He embodies a period in the history of comic books.<br>b He underestimated how much of his fiction could become reality.<br>c People can identify with his main characters.<br>d Rivalling comic writers tended to be jealous of him.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>\"Stan Lee's legacy\" (title)</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>\"Where would Lee be without radiation?\" (paragraph 4)</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In deze tekst zeggen de volgende personen iets over Stan Lee:<br>1 Parker Shaw (alinea 3)<br>2 Neil Gaiman (alinea 6)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Engels 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2022_I_bijlage_2ef595049e9a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/407e5d12769249eda6e9de9eee380d0f.pdf"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "havo_wiskunde_a_2022_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 176,
+          "name": "Tabellen",
+          "prefix_code": 1
+        },
+        {
+          "id": 177,
+          "name": "Grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        },
+        {
+          "id": 178,
+          "name": "Formules met één of meer variabelen",
+          "prefix_code": 3
+        },
+        {
+          "id": 179,
+          "name": "Lineaire verbanden",
+          "prefix_code": 4
+        },
+        {
+          "id": 180,
+          "name": "Exponentiële verbanden",
+          "prefix_code": 5
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bepaal met behulp van de tabel op de uitwerkbijlage de luchtvochtigheid op dat moment.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Lucht bevat waterdamp. Hoeveel waterdamp er in de lucht zit, varieert. De (relatieve) <strong>luchtvochtigheid </strong>is een percentage dat aangeeft hoe vochtig de lucht is. Dit ligt tussen 0% (zeer droge lucht) en 100% (verzadigde lucht).</p><p>De luchtvochtigheid kan worden gemeten met een <strong>psychrometer</strong>. Dit is een apparaatje met twee thermometers. De ene thermometer is een gewone thermometer: deze meet de luchttemperatuur. De andere thermometer heeft een natte kous om het vloeistofreservoir. Zie de foto.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_8f4bb247c10b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/66eed15b77d14032b1751101a80b2d67.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Door de psychrometer rond te draaien, verdampt water uit de natte kous. Daardoor koelt de kous af en zal de thermometer met de natte kous een lagere temperatuur aangeven dan de luchttemperatuur. We noemen deze temperatuur de natte temperatuur.</p><p>Met de luchttemperatuur én het verschil tussen de luchttemperatuur en de natte temperatuur kun je de luchtvochtigheid bepalen. Hiervoor gebruik je de tabel die op de uitwerkbijlage staat.</p><p>Ahmed gebruikt op een bepaald moment een psychrometer. De luchttemperatuur is volgens de gewone thermometer <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>22</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>, de natte temperatuur is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>17</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_47358876a1f1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/481e05ea1b3d4f8abbc66849e31c4129.pdf"
+    },
+    {
+      "name": "Wiskunde A 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2022_I_uitwerkbijla_ed3f16cbc21f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7a0c7f08da744830b81b66f1bba66954.pdf"
+    }
+  ]
+}

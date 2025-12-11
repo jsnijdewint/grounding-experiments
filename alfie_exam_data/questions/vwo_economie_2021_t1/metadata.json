@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 117,
+    "education_level": "vwo",
+    "discipline": "economie",
+    "year": 2021,
+    "tijdvak": 1
+  },
+  "question_count": 29
+}

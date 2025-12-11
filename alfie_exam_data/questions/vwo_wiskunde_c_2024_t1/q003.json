@@ -1,0 +1,69 @@
+{
+  "id": "vwo_wiskunde_c_2024_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken op welke hoogte deze foto genomen is. Geef je antwoord in gehele centimeters</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Op de Oude Groenmarkt in Haarlem staat het beeld <i>Van A tot Z</i> van de Nederlandse beeldhouwer en landschapskunstenaar Marinus Boezem, uit 2007. Het is een monument voor de Haarlemse tekstdichter Lennaert Nijgh (1945–2002). Het kunstwerk bestaat uit twee massief marmeren letters <i>A </i>en <i>Z</i>. Zie de foto.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_30b9f0d39d67.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/04ad7e88b8a943ec9594a3fffa501b00.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de figuur staat een bovenaanzicht van de letter Z met daarin ook enkele afmetingen (in cm). De zithoogte is 40 cm.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_fd66b1ff046c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/afce6169255e4a5b9cb3d7c571de08be.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Op de uitwerkbijlage is een begin gemaakt van een zijaanzicht van het kunstwerk, gezien vanaf links. De letter Z is al in het zijaanzicht op de uitwerkbijlage getekend. De letters A en Z zijn even dik en ze staan loodrecht ten opzichte van elkaar (zie de foto). De letter A is 120 cm hoog en de afstand tussen de A en de Z is 140 cm.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De foto staat ook op de uitwerkbijlage. Zoals eerder vermeld is de zithoogte van de letter Z 40 cm.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2024_I_uitwerkbijla_ba7fbca6f6ec.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d5fa61ef232d4c3195ae03fd7f6d41cb.pdf"
+    }
+  ]
+}

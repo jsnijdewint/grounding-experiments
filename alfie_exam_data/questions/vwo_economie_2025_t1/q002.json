@@ -1,0 +1,45 @@
+{
+  "id": "vwo_economie_2025_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit of averechtse selectie kan optreden binnen de zorgverzekeringen.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In een land gaan inwoners voor zorgbehandelingen naar zorgaanbieders zoals huisartsen, fysiotherapeuten of ziekenhuizen. De overheid van het land bewaakt en controleert de kwaliteit van de geleverde zorg.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De overheid vindt dat iedereen in het land recht heeft op gezondheidszorg. Om de kosten te kunnen dekken, komt er een verplichte zorgverzekering. Zorgverzekeraars kunnen verzekerden niet weigeren. Verzekerden betalen maandelijks premie aan een zorgverzekeraar. De zorgverzekeraars zijn niet in staat om vooraf te bepalen of de verzekerden goede of slechte risico's zijn.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vw-1022-a-25-1-u.pdf",
+      "media_path": "media/bijlages/vw-1022-a-25-1-u_90e7cccc7fef.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/48e2754d6ace4abd9ac3ac8836680c67.pdf"
+    }
+  ]
+}

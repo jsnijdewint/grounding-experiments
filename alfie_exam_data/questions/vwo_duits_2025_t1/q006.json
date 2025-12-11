@@ -1,0 +1,34 @@
+{
+  "id": "vwo_duits_2025_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "duits",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 10,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>\"Was müsste ... Fairness wird?\" (regel 20-22)<br>Welke twee antwoorden geeft Alizadeh op deze vraag? (alinea 3) Vul aan in het Nederlands:<br>&nbsp;</p><p>Ten eerste moet men ermee stoppen om <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"2em\"></mspace></mstyle></math>(1) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"2em\"></mspace></mstyle></math>als het allerbelangrijkste te beschouwen en ten tweede moet men anders omgaan met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"2em\"></mspace></mstyle></math>(2) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"2em\"></mspace></mstyle></math><br><br>Schrijf nummer 1 en 2 op en noteer jouw antwoord.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "vw-1004-a-25-1-b.pdf",
+      "media_path": "media/bijlages/vw-1004-a-25-1-b_f3e7a5de2cf6.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7956ac4e758d4ed490060540d9d8659c.pdf"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "havo_natuurkunde_2021_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 135,
+          "name": "Eigenschappen van stoffen en materialen",
+          "prefix_code": 1
+        },
+        {
+          "id": 137,
+          "name": "Gebruik van elektriciteit",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken na hoeveel tijd het ijzer begint te smelten.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Voor deze opgave moet je gebruikmaken van de tabel met stofeigenschappen van ijzer in figuur 1.</i></p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_b031b6225845.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d497dc837581464e885a23601fab0729.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Lassen is een techniek om metalen delen aan elkaar te bevestigen. Dit kan door die delen met een brander zo te verhitten dat op de plek van de verhitting het materiaal van beide delen smelt en vervolgens na afkoeling tot één geheel samen vast wordt. Zie figuur 2. Deze plek wordt een 'las' genoemd.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_e14abafc7aca.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/eadb78bcf6024edb8e1bcfdc39a7bfdb.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Het smeltpunt kan ook bereikt worden door een elektrische stroom door de metalen delen te laten lopen. Hiervoor wordt een puntlasapparaat gebruikt. Een puntlasapparaat levert een hoge stroomsterkte bij een lage spanning over twee elektroden. Twee plaatjes ijzer worden met een puntlasapparaat aan elkaar gelast. Zie figuur 3. De plaatjes worden op elkaar gelegd en krachtig op elkaar gedrukt door de twee elektroden.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_487ca182c99a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b7a0e0ad8f9b4592b6cb0afbe3f10425.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Als de elektroden tegen de plaatjes worden gedrukt gaat er een stroom <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi>&#160;</math>door het ijzer tussen de elektroden lopen. Het ijzer tussen de elektroden is bij benadering cilindervormig. Zie figuur 4 a . De ijzeren plaatjes tussen de elektroden zijn samen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>8</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">mm</mi>&#160;</mrow></math>dik en raken elkaar alleen tussen de elektroden. De oppervlakte <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>waarmee de ijzeren plaatjes elkaar raken, is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn> <mo>,</mo> <mn>4</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>5</mn> </mrow></msup><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></math>; deze is even groot als de oppervlakte van de punt van een elektrode. Zie figuur 4a en 4b.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_5bf3ff587a91.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a5be9b39c1d44a098f540c2fd30bf3ba.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_47d2b4441f2c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5675bb86371c4bf78b1409ae228990fe.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Over de plaatjes staat een spanning van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>20</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">V</mi>&#160;</mrow></math>. De stroomsterkte door het ijzer is op dat moment gelijk aan 68 kA.</p>"
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>De massa van het cilindervormige deel ijzer tussen de elektroden is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn> <mo>,</mo> <mn>1</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>4</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">kg</mi>&#160;</mrow></math>. Het ijzer heeft een begintemperatuur van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>20</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>. Van de warmte die ontstaat tussen de elektroden wordt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>15</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>gebruikt om het ijzer tussen de elektroden tot het smeltpunt te verhitten. De weerstand van het ijzer tussen de elektroden wordt als constant beschouwd.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2021_I_uitwerkbijl_615e0715d0ed.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ae05f1ce95cd4d549a2e6c6e34cdeacc.pdf"
+    }
+  ]
+}

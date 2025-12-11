@@ -1,0 +1,81 @@
+{
+  "id": "vwo_biologie_2022_t1_q32",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 36,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 37,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 38,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Waar bevindt zich het ademcentrum? En in welke bloedvaten bevinden zich de chemoreceptoren die bij de ademreflex betrokken zijn?</p><p>&nbsp;</p><p>&nbsp;</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top:1px solid !important;\" colspan=\"2\">ademcentrum in de</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">chemoreceptoren in de</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">A hersenschors</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">aorta en halsslagaders</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">B hersenschors</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">bovenste holle ader en halsaders</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">C hersenschors</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">longaders</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">D hersenstam</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">aorta en halsslagaders</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">E hersenstam</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">bovenste holle ader en halsaders</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">F hersenstam</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">longaders</td></tr></tbody></table></figure><p>&nbsp;</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Lachgas <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">N</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>wordt door jongeren steeds vaker gebruikt als partydrug. Zij beschouwen het als een relatief onschadelijk middel dat je een lachkick bezorgt. Vwo-scholier Lia liep ernstige zenuwschade op door het gebruik van lachgas.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Bij lachgasgebruik wordt een ballon gevuld met het gas. Vervolgens wordt een paar keer in- en uitgeademd in de ballon. Hierdoor ontstaat een kortdurend vrolijk gevoel. Dit gevoel ontstaat waarschijnlijk doordat lachgas NMDA-receptoren in synapsen in de hersenen blokkeert. Er ontstaat ook duizeligheid door een tijdelijk zuurstofgebrek in de hersenen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De NMDA-receptor is een ionkanaal dat geactiveerd wordt als glutaminezuur en glycine er tegelijk aan binden. Geactiveerde NMDAreceptoren veroorzaken excitatie van het postsynaptisch neuron.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">N</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi>&#160;</mrow></math>werkt snel. Binnen een minuut is het effect op de hersenen merkbaar, maar dit effect is even snel alweer voorbij.<br>Enkele bloedvaten zijn:<br>1 aorta<br>2 halsader<br>3 halsslagader<br>4 longader<br>5 longslagader<br>6 onderste holle ader</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Doordat de lucht in de ballon geen zuurstof bevat, daalt tijdens het in- en uitademen in de ballon de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">pO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>in de longen naar ongeveer 6 kPa . Bovendien stijgt het koolstofdioxidegehalte <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">pCO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>in de longen.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Lia gebruikte lachgas gelukkig nooit samen met alcohol. De combinatie van lachgas en alcohol kan namelijk leiden tot een levensgevaarlijke onderdrukking van de ademreflex. Alcohol onderdrukt het ademcentrum en lachgas onderdrukt de respons van de betrokken chemoreceptoren.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2022_I_uitwerkbijlage_78c37bbf4d16.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/214a33aa9bdb4fb98f309ba6558eee12.pdf"
+    }
+  ]
+}

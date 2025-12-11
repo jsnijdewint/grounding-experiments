@@ -1,0 +1,77 @@
+{
+  "id": "vwo_scheikunde_2024_t1_q19",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:&nbsp;</p><p>- Teken in het omkaderde gedeelte de niet-bindende elektronenparen, waarbij alle atomen voldoen aan de oktetregel. - Geef met pijlen weer hoe elektronenparen worden verplaatst tijdens deze omzetting</p>",
+    "max_score": 2,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_cdfa7acf4f5b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/255e3f1a443746b39e69e129ee8db66e.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Creatine speelt een belangrijke rol in de energiehuishouding van de spieren en de hersenen. In de biosynthese van creatine wordt onder invloed van het enzym AGAT eerst de stof glycocyamine (zie figuur 1) gevormd uit de aminozuren glycine en arginine.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_3f1128ba37fd.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/60e3fa8ec0124b08a99069dfa2d91bc0.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Bij de vorming van glycocyamine wordt het stikstofatoom van glycine aan een van de koolstofatomen in de restgroep van arginine gekoppeld. Hierbij ontstaat ook ornithine. Ornithine is een aminozuur dat niet is vermeld in het informatieboek.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De glycocyamine wordt vervolgens omgezet tot creatine (zie figuur 2) onder invloed van het enzym GAMT.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_0689e326fd9d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d80e6f163b794ce28f51e625adf8687d.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Op de uitwerkbijlage is weergegeven hoe een glycocyamine-deeltje in het actieve centrum van GAMT is gebonden. Bij de heersende pH hebben alle aanwezige carboxylgroepen een <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">H</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>+</mo>\r\n    </mrow>\r\n  </msup>\r\n</math> afgestaan. Tussen dit glycocyamine-deeltje en GAMT bestaan elektrostatische interacties. Door deze interacties (bindingstypen) heeft het glycocyaminedeeltje een bepaalde ruimtelijke oriëntatie, waardoor de omzetting tot creatine mogelijk wordt. Neem aan dat vanderwaalsbindingen geen rol spelen in de oriëntatie van het glycocyamine-deeltje.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Bij de omzetting van glycocyamine tot creatine wordt een methylgroep overgedragen van een deeltje SAM naar het deeltje glycocyamine. Op de uitwerkbijlage is het mechanisme van de omzetting van glycocyamine tot creatine onvolledig weergegeven. Het deeltje SAM is hierbij vereenvoudigd weergegeven.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2024_I_uitwerkbijla_afd0d648d809.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a48af7b1aec24f97bcb1032e6d3b2773.pdf"
+    }
+  ]
+}

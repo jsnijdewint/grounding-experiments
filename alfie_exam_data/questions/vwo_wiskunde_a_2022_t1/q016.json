@@ -1,0 +1,90 @@
+{
+  "id": "vwo_wiskunde_a_2022_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 78,
+          "name": "Standaardfuncties",
+          "prefix_code": 1
+        },
+        {
+          "id": 79,
+          "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken welke bovendruk en onderdruk de verpleegkundige rapporteert. Geef je antwoord in gehele getallen.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het hart pompt bloed door het menselijk lichaam. Als het hart samentrekt, wordt bloed in de bloedvaten gepompt, met als gevolg dat deze onder druk komen te staan. Als het hart zich weer ontspant, neemt de druk in de bloedvaten weer af.<br>Dit proces herhaalt zich voortdurend en het aantal keren per minuut dat dit gebeurt, noemen we de <strong>hartslag</strong>. Tijdens dit proces neemt de druk in de bloedvaten dus steeds toe en weer af. De hoogste druk wordt de <strong>bovendruk </strong>genoemd en de laagste druk noemt men de <strong>onderdruk</strong>. Van een bepaalde persoon is in figuur 1 de bloeddruk uitgezet tegen de tijd.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_126973a94916.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3ef51cac53f9422dbde4842d46b12ce4.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Als model van de bloeddruk wordt vaak een sinusoïde van de vorm <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi> <mo>=</mo> <mi>a</mi> <mo>+</mo> <mi>b</mi> <mi>sin</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mi>c</mi> <mo>&#8901;</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo>&#160;</math>gebruikt. Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>de bloeddruk, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi>&#160;</math>de tijd in seconder en zijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi> <mo>,</mo> <mi>b</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi>&#160;</math>constanten. Deze constanten zijn afhankelijk van de hartslag en worden zo gekozen dat maximum en minimum van de sinusoïde overeenkomen met bovendruk en onderdruk.</p><p>Een tweede persoon heeft een hartslag van 66 slagen per minuut. Zijn bovendruk is 124 en ziin onderdruk is 82 .</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De eenheid van bloeddruk is 'millimeter kwikdruk', afgekort mmHg. Een modernere maat voor bloeddruk is kilopascal ( kPa ). Het is vrij eenvoudig om mmHg om te rekenen naar kPa . Daarvoor gebruiken we dat het verband tussen kPa en mmHg recht evenredig is en dat de gemiddelde luchtdruk op aarde gelijk is aan 760 mmHg , maar ook gelijk is aan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>101</mn> <mo>,</mo> <mn>325</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">kPa</mi>&#160;</mrow></math>.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Bloeddruk meten wordt meestal gedaan met de methode van Riva-Rocci, genoemd naar de Italiaanse uitvinder ervan.<br>Die werkt als volgt: met een opblaasbare band om de bovenarm wordt de polsslagader afgekneld, zodat er geen bloed meer doorheen stroomt. Daarna laat men langzaam de lucht uit de band lopen, totdat er voor het eerst weer een bloedstroming waarneembaar is. De bijbehorende druk is de bovendruk. Daarna laat men de band nog verder leeglopen, totdat de bloedstroming niet meer waarneembaar is. De druk die daarbij hoort is de onderdruk.</p><p>In figuur 2 staat een schets die bij deze methode past.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_25482ac56429.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9c73fc8bc30c47489c4e1b7d1bf7e5de.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>In figuur 2 gaat de lijn van de bloeddrukmeter precies door twee toppen van de bloeddruk. In werkelijkheid is dit meestal niet zo, omdat het verloop van deze lijn afhangt van hoe ver de band opgeblazen wordt en hoe snel deze leegloopt. Daarom is een dergelijke bloeddrukmeting nooit helemaal nauwkeurig. Boven- en onderdruk (of eigenlijk benaderingen daarvan) worden gevonden door te bepalen waar de twee grafieken elkaar voor het eerst en voor het laatst snijden.</p><p>Van een patiënt kan de bloeddruk benaderd worden met de formule:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><mo>=</mo><mn>110</mn><mo>+</mo><mn>23</mn><mi>sin</mi><mo>&#8289;</mo><mo>(</mo><mn>2</mn><mi>&#960;</mi><mi>t</mi><mo>)</mo><mspace width=\"1em\"/><mo>(</mo><mtext>met&#160;</mtext><mi>P</mi><mo>&#160;</mo><mtext>in&#160;mmHg&#160;</mtext><mo>&#160;</mo><mtext>en&#160;</mtext><mi>t</mi><mo>&#160;</mo><mtext>in seconden)&#160;</mtext></math></p><p>Bij een bloeddrukmeting volgens de methode van Riva-Rocci pompt een verpleegkundige een bloeddrukmeter op tot een waarde van 170 mmHg . Daarna laat hij, vanaf <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>0</mn>&#160;</math>, de druk gelijkmatig afnemen met 10 mmHg per seconde.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_73fca02d2c1b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5d05a69549d843d992d31326c4d8bd2f.pdf"
+    },
+    {
+      "name": "Wiskunde A 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2022_I_uitwerkbijla_986f038aa607.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/05b11d946a864537912b61b903133caa.pdf"
+    }
+  ]
+}

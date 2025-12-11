@@ -1,0 +1,96 @@
+{
+  "id": "vwo_wiskunde_c_2024_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bepaal met behulp van de figuur op de uitwerkbijlage de maximale toenamesnelheid van het gewicht. Licht je antwoord toe en geef je antwoord in gehele grammen per mm.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De laatste tientallen jaren is het in Nederland voor veel weidevogels lastiger geworden om geschikte broedplaatsen te vinden. Dit komt doordat landbouwgrond steeds intensiever en gevarieerder wordt gebruikt, en doordat steden voortdurend verder uitbreiden.&nbsp;</p><p>Grasland is het voornaamste broedgebied voor weidevogels. Uit een onderzoek van Sovon Vogelonderzoek Nederland blijkt dat in de jaren vanaf 1990 tot en met 2014 ruim 150 000 hectare grasland verloren is gegaan. Dat is een daling van 14 procent.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Een van de weidevogelsoorten die het meest in aantal is afgenomen, is de veldleeuwerik. In de jaren vanaf 1990 tot en met 2000 bleef de procentuele afname per jaar ten opzichte van het jaar ervoor nagenoeg gelijk. Dit gold ook voor de jaren vanaf 2001 tot en met 2005. In figuur 1 zijn deze jaarlijkse procentuele afnames voor deze twee periodes weergegeven voor drie verschillende soorten gebieden: duingebieden, heidegebieden en agrarische gebieden.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_49b1806ce229.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/132dbe4b610748cba5ff31b9a5effe72.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In de figuur is bijvoorbeeld te zien dat in de jaren vanaf 2001 tot en met 2005 het aantal veldleeuweriken in duingebieden jaarlijks met 7,8% afnam.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In figuur 2 zie je voor heel Nederland hoe het percentage veldleeuweriken zich in de jaren vanaf 1990 tot en met 2014 ontwikkelde ten opzichte van het totale aantal veldleeuweriken in 1990.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_97b049d7ae35.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3fe93b00ee49427e99015e680be1644c.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>We voeren de variabelen <i>P </i>en <i>t</i> in. Hierin is P het percentage veldleeuweriken ten opzichte van het totale aantal veldleeuweriken in 1990 in Nederland en is t de tijd in jaren met <i>t</i> = 0 in het jaar 1990.</p><p>Ondanks de schommelingen kan het verband tussen <i>P </i>en <i>t </i>in de jaren vanaf 1990 tot en met 2005 goed benaderd worden met een rij die hoort bij een exponentieel verband.</p><p>Uit figuur 2 valt af te lezen dat het totale aantal veldleeuweriken in Nederland in 2005 nog maar 40% was van het totale aantal veldleeuweriken in 1990.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Sovon deed niet alleen onderzoek naar het aantal veldleeuweriken in Nederland, maar ving ook regelmatig jonge veldleeuweriken om ze te meten en te wegen. In figuur 3 is van 265 gevangen jonge veldleeuweriken het gewicht uitgezet tegen de zogeheten <strong>tarsuslengte<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><maction actiontype=\"argument\"><mrow/></maction><mrow><mn>1</mn><mo>)</mo></mrow></msup></math></strong>, dat is de lengte van het onderbeen.</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_f66515b89584.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3b184f547d5547ecbb7e0ebe92f7b973.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>In figuur 3 is ook een kromme weergegeven die het verband tussen het gewicht en de tarsuslengte benadert. Deze kromme kan worden beschreven met de formule:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>G</mi>\r\n  <mo>=</mo>\r\n  <mfrac>\r\n    <mn>22</mn>\r\n    <mrow>\r\n      <mn>1</mn>\r\n      <mo>+</mo>\r\n      <mn>1420</mn>\r\n      <mo>&#8901;</mo>\r\n      <mn>2</mn>\r\n      <mo>,</mo>\r\n      <msup>\r\n        <mn>72</mn>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mo>&#8722;</mo>\r\n          <mn>0</mn>\r\n          <mo>,</mo>\r\n          <mn>307</mn>\r\n          <mo>&#8901;</mo>\r\n          <mi>T</mi>\r\n        </mrow>\r\n      </msup>\r\n    </mrow>\r\n  </mfrac>\r\n  <mo>+</mo>\r\n  <mn>9</mn>\r\n</math></p><p>Hierin is <i>G</i> het gewicht in grammen en <i>T</i> de tarsuslengte in millimeters.&nbsp;</p><p>Het gewicht van een jonge veldleeuwerik heeft een grenswaarde</p>"
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Het gewicht van jonge veldleeuweriken neemt in het begin steeds sneller toe naarmate de tarsuslengte toeneemt. Op een bepaald moment is deze toenamesnelheid maximaal. Op de uitwerkbijlage is de grafiek van <i>G </i>uit figuur 3 vergroot weergegeven.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2024_I_uitwerkbijla_ba7fbca6f6ec.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d5fa61ef232d4c3195ae03fd7f6d41cb.pdf"
+    }
+  ]
+}

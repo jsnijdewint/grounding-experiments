@@ -1,0 +1,51 @@
+{
+  "id": "vwo_natuurkunde_2024_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 44,
+          "name": "Informatieoverdracht",
+          "prefix_code": 1
+        },
+        {
+          "id": 45,
+          "name": "Medische beeldvorming",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef de vergelijking van deze kernreactie.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In een kernfusiereactor is het mogelijk om twee lichte atoomkernen te laten fuseren tot één zwaardere atoomkern. Hierbij komt veel energie vrij. Deuterium (H-2) en een tweede atoomkern kunnen gefuseerd worden tot een He-4 kern en een neutron.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2024_I_uitwerkbijl_53e920c4cfe0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9441e6eda69e41e0ab819d8b89d60c78.pdf"
+    }
+  ]
+}

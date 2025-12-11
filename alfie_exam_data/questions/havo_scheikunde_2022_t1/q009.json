@@ -1,0 +1,59 @@
+{
+  "id": "havo_scheikunde_2022_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit of gasmengsel <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi>&#160;</math>(stap 2) in plaats van gas <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Y</mi>&#160;</math>gebruikt kan worden om de gewenste stoffen in stap 6 te produceren.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Wind-energie en zonne-energie kunnen nog niet grootschalig worden opgeslagen in Nederland. Daardoor kunnen deze duurzame energievormen, wanneer er veel wind of zon is, niet altijd optimaal benut worden. Op de Technische Universiteit Delft is onderzoek gedaan naar de mogelijkheid om de energie-overschotten op te slaan in de vorm van ammoniak <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">NH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>. Deze manier van energieopslag wordt het 'power-to-ammonia'-proces genoemd en bestaat uit vier stappen:</p><p>&nbsp;</p><p>Stap 1: in een waterstoffabriek worden wind-energie en zonne-energie gebruikt om water door middel van elektrolyse om te zetten tot waterstof en zuurstof.<br>Stap 2: in een luchtscheider wordt stikstof gescheiden van de overige gassen die in lucht voorkomen.<br>Stap 3: in een ammoniakfabriek reageert waterstof vervolgens met stikstof tot ammoniakgas.<br>Stap 4: ammoniakgas wordt vloeibaar gemaakt en daarna opgeslagen in tanks.</p><p>&nbsp;</p><p>In figuur 1 is het power-to-ammonia-proces met een vereenvoudigd blokschema weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_fa51c66728a7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/46a3b53fe00c4b3eaeb548e08dd1703e.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In tijden waarin te weinig elektriciteit kan worden opgewekt uit zon of wind kan de opgeslagen ammoniak weer worden omgezet tot energie, door de ammoniak als brandstof te gebruiken in elektriciteitscentrales.<br>Dit verloopt als volgt:</p><p><br>Stap 5: vloeibare ammoniak wordt gasvormig gemaakt.<br>Stap 6: ammoniakgas wordt onder gecontroleerde omstandigheden verbrand tot stikstof en water in een daarvoor geschikte elektriciteitscentrale.</p><p>&nbsp;</p><p>In figuur 2 is het gehele proces met een vereenvoudigd blokschema weergegeven.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_cc515199f4a3.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/79ea0a73cc2a4d67ba4db34543a88261.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2022_I_uitwerkbijla_f5e7f9155c59.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a02c79c5875f4978b042c59ce1514099.pdf"
+    }
+  ]
+}

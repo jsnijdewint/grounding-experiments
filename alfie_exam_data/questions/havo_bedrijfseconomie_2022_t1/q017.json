@@ -1,0 +1,83 @@
+{
+  "id": "havo_bedrijfseconomie_2022_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "bedrijfseconomie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 33,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 97,
+          "name": "Persoonlijke financiële zelfredzaamheid",
+          "prefix_code": 1
+        },
+        {
+          "id": 98,
+          "name": "De oprichting van een eenmanszaak",
+          "prefix_code": 2
+        },
+        {
+          "id": 99,
+          "name": "Van eenmanszaak naar rechtspersoon",
+          "prefix_code": 3
+        },
+        {
+          "id": 100,
+          "name": "Perspectief op de organisatie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Controleer met een berekening of de uitspraak van Sam juist is.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In een studentenhuis staat al lange tijd een vaatwasser op het verlanglijstje, maar helaas ontbreekt het aan geld. Student Yacien is belast met het onderzoek naar koop op afbetaling of huren van een vaatwasser en heeft de onderstaande twee opties gevonden.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_322b55eb792c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/46785fdddd90439c8aa68786af72f0c5.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>noot 1 Bij een looptijd van bijvoorbeeld 12 maanden is het maandelijkse termijnbedrag <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>61</mn> <mo>,</mo> <mn>37</mn>&#160;</math>. Bij de maximale looptijd van 58 maanden is het maandelijkse termijnbedrag € 15,09. In alle gevallen geldt een interest van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>79</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>per maand.</p><p><br>noot 2 Bij huren sluit de klant een abonnement af. Het artikel wordt gratis door Coolblue afgeleverd en geplaatst. Wanneer het artikel kapot is, wordt het gratis gerepareerd of vervangen door een nieuw artikel. Bij verhuizen kan de klant het artikel gratis laten meeverhuizen door Coolblue. Het abonnement is overdraagbaar op anderen, wat voor studenten in een studentenhuis handig kan zijn wanneer zij klaar zijn met de studie.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In het studentenhuis wordt door de studenten flink gediscussieerd over de onderzoeksresultaten van Yacien. Enkele uitspraken staan hieronder:</p><p>&nbsp;</p><p>Irene: \"Alle kredieten die iemand heeft, worden geregistreerd bij Bureau Krediet Registratie (BKR) in Tiel en dat kan nadelige consequenties hebben als je later voor de aankoop van een huis een hypothecaire lening wil afsluiten. Ik heb daarom een voorkeur voor één van deze twee opties.\"</p><p>&nbsp;</p><p>Sam: \"Wanneer je koopt op afbetaling zijn de kredietkosten over de gehele looptijd bij de keuze voor 58 maanden meer dan 4 keer zo hoog als bij de keuze voor 12 maanden.\"</p><p>&nbsp;</p><p>Yacien: \"De restschuld bij koop op afbetaling neemt snel af. Elke maand stijgt het aflossingsbestanddeel in de annuïteit en na twee maanden is de restschuld al minder dan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>600</mn>&#160;</math>.\"</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_bijlag_70e2ce33bdc7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/644420d6788d4f0f80e381cd749535ed.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_uitwer_56a28eba2520.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2d2bf6c37a654f14bdb890765dd0cb67.pdf"
+    }
+  ]
+}

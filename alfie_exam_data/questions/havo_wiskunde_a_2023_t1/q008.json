@@ -1,0 +1,122 @@
+{
+  "id": "havo_wiskunde_a_2023_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 176,
+          "name": "Tabellen",
+          "prefix_code": 1
+        },
+        {
+          "id": 177,
+          "name": "Grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        },
+        {
+          "id": 178,
+          "name": "Formules met één of meer variabelen",
+          "prefix_code": 3
+        },
+        {
+          "id": 179,
+          "name": "Lineaire verbanden",
+          "prefix_code": 4
+        },
+        {
+          "id": 180,
+          "name": "Exponentiële verbanden",
+          "prefix_code": 5
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Stel een formule op van dit verband.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Op de hele wereld gebruiken mensen hun mobiele telefoon steeds meer. De hoeveelheid verbruikte mobiele data neemt daardoor elk jaar toe.</p><p>In Nederland was in 2017 het totale mobiele dataverbruik 325 miljoen gigabyte (GB), een stijging van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1050</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>ten opzichte van 2013.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_da0831a3e744.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cbd4a5c50ca34317aa3f6854ba60a1d5.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In figuur 1 is te zien dat het mobiele dataverbruik per simkaart <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mn>1</mn> <mo stretchy=\"false\">)</mo>&#160;</mrow></msup></math>in diverse Europese landen in de periode 2008-2017 enorm is gestegen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_3f33df24bc73.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b70f2bfa94954b5c868a0b788cd1ae5f.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Je kunt in figuur 1 aflezen dat in Finland in het jaar 2013 het mobiele dataverbruik per simkaart 1,6 GB per maand was. Dit was in 2017 gegroeid naar 12,0 GB per maand. Neem aan dat er in deze periode sprake was van exponentiële groei.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>noot 1 Een simkaart is een chip die in een mobiel apparaat gedaan wordt. In deze opgave wordt steeds het <strong>gemiddelde </strong>mobiele dataverbruik per simkaart bedoeld. SIM staat voor Subscriber Identity Module.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>In 2017 was het mobiele dataverbruik per simkaart per maand in Finland 12 keer zo groot als in Nederland. Dit is deels te verklaren door het feit dat het dataverbruik in Finland een stuk goedkoper was. De providers in Nederland brachten in 2017 gemiddeld ongeveer 14 keer zoveel in rekening als de providers in Finland voor het verbruik van dezelfde hoeveelheid mobiele data.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>In figuur 2 is voor het jaar 2017 het verband tussen de gemiddelde prijs <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo> <mi>P</mi> <mo stretchy=\"false\">)</mo>&#160;</math>van het mobiele dataverbruik en het verbruik ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi>&#160;</math>) per simkaart per maand weergegeven.</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_72cf7b31e4bf.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/abb446095afc4ec8bf742fe3a2afbc45.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>In figuur 2 is te zien: hoe hoger de prijs in een bepaald land is, hoe lager het dataverbruik. Bij de trendlijn hoort een omgekeerd evenredig verband.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_4d920bc20d74.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7821571e97b2424c93d593bf5c1c1549.pdf"
+    },
+    {
+      "name": "Wiskunde A 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2023_I_uitwerkbijla_f478d7116e2f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/005ba0b28db44fed93da1d9c9f1c636a.pdf"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "vmbo_gl_economie_2024_t1_q33",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 126,
+          "name": "Internationale ontwikkelingen",
+          "prefix_code": "EC/K/7"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik informatiebron 9.<br>Bereken hoeveel procent Nederland uitleent van het totaalbedrag dat door rijkere landen aan armere EMU-landen is uitgeleend. Schrijf je berekening op.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 9 in de bijlage.&nbsp;<br><br>Italië is lid van de Europese Monetaire Unie (EMU) en heeft een enorme staatsschuld van € 1.800.000.000.000. Net als in Spanje, Griekenland en Portugal groeit de Italiaanse staatsschuld sneller dan de staatsschuld van de overige EMU-landen zoals Nederland en Frankrijk.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_bea0580dea4b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1964119a380f493cb7c1741901cbf69b.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De EMU-landen ondersteunen elkaar doordat de rijkere EMU-landen, zo ook Nederland, geld uitlenen aan de armere EMU-landen die geld nodig hebben.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2024_I_bijlage_68e3a54200e0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/35a3df9330b8418abfd3d4840ad98390.pdf"
+    }
+  ]
+}

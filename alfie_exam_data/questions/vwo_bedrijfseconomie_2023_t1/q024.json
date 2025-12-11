@@ -1,0 +1,66 @@
+{
+  "id": "vwo_bedrijfseconomie_2023_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 6,
+          "name": "Persoonlijke financiële zelfredzaamheid",
+          "prefix_code": 1
+        },
+        {
+          "id": 7,
+          "name": "De oprichting van een eenmanszaak",
+          "prefix_code": 2
+        },
+        {
+          "id": 8,
+          "name": "Van eenmanszaak naar rechtspersoon",
+          "prefix_code": 3
+        },
+        {
+          "id": 9,
+          "name": "Perspectief op de organisatie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Hoe heet het gedeelte van de erfenis waarop een kind dat in een testament is onterfd toch recht heeft?</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de informatiebronnen 6 en 7.<br><br>Bente is enig kind van Saar en Kees. Na de scheiding van haar ouders is Bente opgegroeid bij haar moeder Saar en haar nieuwe partner Dawid. Dawid heeft twee dochters (Kira en Elsa) uit een eerdere relatie. Kees heeft na de scheiding geen nieuwe partner gevonden en geen andere kinderen gekregen.</p><p>In januari 2020 krijgt Bente een bericht dat haar vader Kees is overleden en dat een testament is opgemaakt waaruit blijkt dat de gehele erfenis naar een kerkelijke stichting gaat.</p><p>Het huis van Kees heeft een WOZ-waarde <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mn>1</mn> <mo stretchy=\"false\">)</mo>&#160;</mrow></msup></math>van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>167.500</mn>&#160;</math>. De WOZ-waarde van een woning wordt als basis gebruikt bij erfbelasting. Het huis is vrij van hypotheek. Verder heeft Kees nog een spaarrekening met daarop een tegoed van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>45.000</mn>&#160;</math>. Ondanks het testament vermoedt Bente dat ze toch recht heeft op een deel van de erfenis.<br><br><p>noot 1 De Waardering Onroerende Zaken (WOZ) bepaalt de hoogte van belastingen en gemeentelijke heffingen. De gemeente stelt de WOZ-waarde van uw huis vast aan de hand van een taxatie.</p></p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2023_I_bijlag_d64fcf93e008.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2763f88cc19e45ebafaa21f3ba086d88.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2023_I_uitwer_9a6536b72e12.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a2433ed1fec3429b8d8cd024f74ceb08.pdf"
+    }
+  ]
+}

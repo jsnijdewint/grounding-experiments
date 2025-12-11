@@ -1,0 +1,82 @@
+{
+  "id": "havo_biologie_2022_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Op grond van welk kenmerk kan De Jaeger vaststellen dat dit eencellig organisme tot de dieren behoort en <strong>niet </strong>tot de schimmels?<br><strong>A </strong>Er is geen celkern.<br><strong>B </strong>Er is geen celwand.<br><strong>C </strong>Er zijn geen chloroplasten.<br><strong>D </strong>Er zijn geen mitochondrièn.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Door de aanleg van oliepalmplantages in Zuidoost-Azië gaan vele hectaren oerwoud verloren. Mede daarom wordt palmolie door milieu-organisaties als niet-duurzaam bestempeld. Voor onderzoeker Lenny de Jaeger (afbeelding 1) was dit een reden om op zoek te gaan naar een manier om olie te produceren met behulp van algen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_fd8178fcb28b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6f0a94e79dec4dca8754e080e8ce3c8a.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Palmolie wordt gewonnen uit de olierijke vruchten van de oliepalm en wordt gebruikt als ingrediënt van veel voedingsmiddelen en verzorgingsproducten, maar ook voor de productie van biodiesel. Olie geproduceerd door algen in kwekerijen in Nederland kan een duurzaam alternatief bieden voor palmolie.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Boskap leidt tot het verkleinen van leefgebied voor planten en dieren. Dit is een argument om het gebruik van palmolie vanuit ecologisch oogpunt niet-duurzaam te noemen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De Jaeger vond een veelbelovende kandidaat: de eencellige alg Scenedesmus obliquus. Deze alg maakt monosachariden met behulp van zonlicht en zet die onder bepaalde omstandigheden om in zetmeel, aminozuren of vetzuren. De vetzuren kunnen worden gebruikt als grondstof voor de productie van plantaardige olie.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Een van de risico's bij de kweek van algen is besmetting met virussen, eencellige schimmels of eencellige dieren.<br>Met een microscoop bekijkt De Jaeger een preparaat van een algenkweek en hij ziet dat de kweek is vervuild met een eencellig organisme.</p>"
+    }
+  ],
+  "bijlages": []
+}

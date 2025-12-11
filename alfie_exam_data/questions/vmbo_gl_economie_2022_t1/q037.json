@@ -1,0 +1,58 @@
+{
+  "id": "vmbo_gl_economie_2022_t1_q37",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 123,
+          "name": "Consumptie",
+          "prefix_code": "EC/K/4A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wat wordt bedoeld met het modaal inkomen in Nederland?<br>A het gemiddelde inkomen in Nederland<br>B het hoogste inkomen dat in Nederland wordt verdiend<br>C het inkomen dat het meest voorkomt in Nederland<br>D het laagste inkomen dat in Nederland wordt verdiend</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Zoals bij iedere Prinsjesdag doen kranten verslag van de plannen van de regering voor het komende jaar. Het onderwerp waarover op Prinsjesdag het meest wordt geschreven is de koopkracht van de burger.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_f0c8c9a4b15f.webp",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e51eb4f342f04b019720b11d8e8a4f32.webp",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In het Financieele Dagblad (FD) staat een overzicht van de veranderingen in koopkracht voor verschillende bevolkingsgroepen. Daarbij wordt het begrip modaal inkomen gebruikt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_ef2c1b8354d0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dc02323a63d64258a36e6a9729a51c74.pdf"
+    }
+  ]
+}

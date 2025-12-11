@@ -1,0 +1,56 @@
+{
+  "id": "vwo_geschiedenis_2024_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 187,
+          "name": "Tijdvak 4 – Steden en staten",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beredeneer:&nbsp;<br> op welke wijze Arnolfini als bankier een positie kreeg die ertoe leidde dat Filips de Goede hem een belangrijke functie gaf aan het hof, en&nbsp;<br> welk politiek motief Filips de Goede had voor de benoeming van Arnolfini in een ridderorde.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gebruik bron 2.&nbsp;<br>De maker heeft zich bij het vervaardigen van deze tekening waarschijnlijk gebaseerd op Romeinse voorbeelden van steden.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik bron 3.&nbsp;<br>Deze beschrijving is bruikbaar voor een onderzoek naar de Vlaamse economie in de twaalfde eeuw.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De schatrijke Italiaanse bankier Giovanni Arnolfini vestigde zich in Brugge. Rond 1461 besloot de Bourgondische hertog Filips de Goede om Arnolfini een belangrijke functie aan zijn hof te geven en hem te benoemen in een ridderorde.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2024_I_bijlage_57b61674271e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/293f53e566cc48c6b58f4d54b880c393.pdf"
+    }
+  ]
+}

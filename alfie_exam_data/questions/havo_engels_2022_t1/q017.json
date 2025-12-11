@@ -1,0 +1,46 @@
+{
+  "id": "havo_engels_2022_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "engels",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 28,
+      "domains": [
+        {
+          "id": 79,
+          "name": "Leesvaardigheid",
+          "prefix_code": "A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>How is Stan Lee introduced in paragraph 1?<br><strong>A </strong>by analysing which elements are behind his success<br><strong>B </strong>by applauding the timeless quality of his creative work<br><strong>C </strong>by giving an example of an exciting storyline written by him<br><strong>D </strong>by glorifying the originality of the characters he created<br><strong>E </strong>by highlighting how well he made use of special effects</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>\"Stan Lee's legacy\" (title)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Engels 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2022_I_bijlage_2ef595049e9a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/407e5d12769249eda6e9de9eee380d0f.pdf"
+    }
+  ]
+}

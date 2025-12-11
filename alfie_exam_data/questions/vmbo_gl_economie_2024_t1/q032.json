@@ -1,0 +1,53 @@
+{
+  "id": "vmbo_gl_economie_2024_t1_q32",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 126,
+          "name": "Internationale ontwikkelingen",
+          "prefix_code": "EC/K/7"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Nadat Italië lid werd van de EMU daalde het rentepercentage, ondanks de hoge staatsschuld. Het maken van nieuwe schulden werd daardoor voor Italië goedkoper.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Maak van onderstaande zinnen een economisch juiste tekst door de juiste woorden te kiezen.<br>Doe het zo: Noteer de nummers (1) en (2) op je antwoordblad. Vul bij de nummers de juiste woorden in. Kies uit de woorden die tussen haakjes staan.<br>Daling van het rentepercentage betekent dat Italië goedkoper geld kan Ienen. De Italiaanse bestedingen in de EMU-landen kunnen daardoor<br>(1)... (dalen / stijgen). Hierdoor zal de inflatie in de EMU-landen kunnen<br>.. (2)... (afnemen / toenemen) als de productie gelijk blijft.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 9 in de bijlage.&nbsp;<br><br>Italië is lid van de Europese Monetaire Unie (EMU) en heeft een enorme staatsschuld van € 1.800.000.000.000. Net als in Spanje, Griekenland en Portugal groeit de Italiaanse staatsschuld sneller dan de staatsschuld van de overige EMU-landen zoals Nederland en Frankrijk.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_bea0580dea4b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1964119a380f493cb7c1741901cbf69b.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2024_I_bijlage_68e3a54200e0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/35a3df9330b8418abfd3d4840ad98390.pdf"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "vwo_biologie_2022_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 34,
+          "name": "Reproductie van het organisme",
+          "prefix_code": 7
+        },
+        {
+          "id": 35,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 43,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat de voortplantingswijze van de robuuste variant van invloed kan zijn geweest op het uitsterven van de populatie in de Nederlandse Waddenzee.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Zeegrasvelden zijn ecosystemen die bijdragen aan een grote biodiversiteit in kustgebieden. Van de 15.000 hectare zeegras die oorspronkelijk in de Nederlandse Waddenzee aanwezig was, is nu nog maar zo'n vijf hectare over. De Waddenvereniging, Rijkswaterstaat en Natuurmonumenten proberen nu de zeegrasvelden weer te herstellen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Groot zeegras (Zostera marina) is een zaadplant die permanent in brak en zout water kan leven. Groot zeegras kent twee varianten: een flexibele eenjarige variant en een robuuste variant die meestal meerjarig is. Deze varianten komen elk in een eigen zone voor. Door de getijdenverschillen komt de flexibele variant regelmatig droog te liggen (afbeelding 1); de robuuste variant is permanent ondergedoken (afbeelding 2).</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_d5f1b8e1954c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/472f96eac4d24d61ba7e7f0a3d4e009f.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_cf8be28defd3.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f328420e2b7b42b88b07ec560fbb9d05.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In afbeelding 3 zijn verschillende delen van zeegras aangegeven.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_687685403e1e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b6fe44473c9b4c18a53a4adad753979b.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De stevigheid van de varianten groot zeegras verschilt. De bladschedes van de flexibele variant zijn slapper dan die van de robuuste.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Als gevolg van een wereldwijd optredende ziekte, stierf de robuuste variant van groot zeegras rond 1930 in de Nederlandse Waddenzee uit. Herintroductie van de robuuste variant van groot zeegras is alleen mogelijk als zowel de visserij met sleepnetten als de eutrofiëring van het water wordt beperkt.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Flexibel zeegras plant zich voornamelijk voort door middel van zaden, terwijl de robuuste variant zich vooral uitbreidt via wortelstokken.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2022_I_uitwerkbijlage_78c37bbf4d16.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/214a33aa9bdb4fb98f309ba6558eee12.pdf"
+    }
+  ]
+}

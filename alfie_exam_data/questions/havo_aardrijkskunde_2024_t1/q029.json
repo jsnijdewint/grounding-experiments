@@ -1,0 +1,63 @@
+{
+  "id": "havo_aardrijkskunde_2024_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "aardrijkskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 46,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 96,
+          "name": "Nationale en regionale vraagstukken",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Neem de letters a tot en met d uit onderstaande tabel over op je antwoordblad en schrijf achter elke letter een juist antwoord.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 15 tot en met 18.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik bron 18. Het ontbreken van een goede aansluiting op het spoornet heeft op verschillende schaalniveaus invloed op de leefbaarheid. In de Noordoostpolder kan de Lelylijn bijdragen aan het oplossen van een demografisch vraagstuk. Op hogere schaalniveaus kan de Lelylijn bijdragen aan het oplossen van andere vraagstukken.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_067891265710.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bac66e3cf6eb4a669fbcf8c3d14d07ca.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_bijlage_e5aee28a8749.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/852747fcf4004fde8244fbb76d88396b.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2024 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_kaartenk_be0f755c05aa.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b1aad8ed2f3d416c8a64def58f7e8c12.pdf"
+    }
+  ]
+}

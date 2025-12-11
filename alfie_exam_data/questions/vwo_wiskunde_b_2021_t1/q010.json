@@ -1,0 +1,79 @@
+{
+  "id": "vwo_wiskunde_b_2021_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 46,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [
+        {
+          "id": 83,
+          "name": "Meetkundige vaardigheden",
+          "prefix_code": 1
+        },
+        {
+          "id": 84,
+          "name": "Algebraïsche methoden in de vlakke meetkunde",
+          "prefix_code": 2
+        },
+        {
+          "id": 85,
+          "name": "Vectoren en inproduct",
+          "prefix_code": 3
+        },
+        {
+          "id": 86,
+          "name": "Toepassingen",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken exact deze limiet.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De beweging van een punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>wordt beschreven door de volgende bewegingsvergelijkingen:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">{</mo> <mtable rowspacing=\"4pt\"><mtr><mtd><mi>x</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <msup><mi>t</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup></mtd></mtr><mtr><mtd><mi>y</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <msup><mi>t</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>&#8722;</mo> <mn>2</mn> <mi>t</mi>&#160;</mtd></mtr></mtable><mo symmetric=\"true\" stretchy=\"true\" fence=\"true\" data-mjx-texclass=\"CLOSE\"></mo></mrow></math></p><p>Gegeven is de lijn met vergelijking <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi> <mo>=</mo> <mi>a</mi>&#160;</math>, waarbij <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi> <mo>&#62;</mo> <mn>0</mn>&#160;</math>. Deze lijn snijdt de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as in punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi>&#160;</math>en de baan van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>in de punten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi>&#160;</math>, waarbij de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-coördinaat van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi>&#160;</math>groter is dan de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-coördinaat van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi>&#160;</math>. Zie de figuur.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_5138857de066.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4bef8fb1872c4dcfb94cdb660bdfa60b.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Als <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi>&#160;</math>onbegrensd toeneemt, nadert de verhouding <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>Q</mi> <mi>R</mi> </mrow><mrow><mi>Q</mi> <mi>S</mi>&#160;</mrow></mfrac></math>tot een limiet.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_3a0824c1577f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c4b8e721c4c94202abb8ace2ac024907.pdf"
+    }
+  ]
+}

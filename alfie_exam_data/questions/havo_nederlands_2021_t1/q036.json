@@ -1,0 +1,63 @@
+{
+  "id": "havo_nederlands_2021_t1_q36",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [
+        {
+          "id": 88,
+          "name": "Argumentatieve vaardigheden",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Vul het schema aan op grond van de informatie in de alinea's 7 tot en met 9. Neem daartoe onderstaande termen over en zet de bijbehorende informatie erachter.<br>Standpunt:<br>Subargument 1.1:<br>Argument 3:<br>Subargument 3.1:<br>Argument 4:<br>Geef antwoord in volledige zinnen.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de eerste twee alinea's van tekst 4 worden twee groepen dieren tegenover elkaar geplaatst.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>\"Met deze praktische oplossing verdwijnt echter de lol van het leven.\" (regels 18-19)</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de alinea's 7 tot en met 9 is sprake van een standpunt en argumentatie, die in schemavorm als volgt is weer te geven. Daarbij is een aantal plekken bewust leeg gelaten.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_c3f24278a623.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8be8acc1a25a421a86705a96db40b62d.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2021_I_bijlage_e60e6a5a7984.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dbb0cc971e994b9eb7113dc9995dc0c6.pdf"
+    }
+  ]
+}

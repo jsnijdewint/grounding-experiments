@@ -1,0 +1,53 @@
+{
+  "id": "vmbo_gl_economie_2023_t1_q27",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 126,
+          "name": "Internationale ontwikkelingen",
+          "prefix_code": "EC/K/7"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Door de sterke groei van het nationaal inkomen is de import van Costa Rica sterk gestegen.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Leg uit dat door de sterke groei van het nationaal inkomen de import van Costa Rica sterk is gestegen.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 10 en 11 in de bijlage.&nbsp;<br><br>Costa Rica is een land in Midden-Amerika. De economie van Costa Rica was vroeger erg afhankelijk van de export van bananen, koffie en ananas. Veel van deze landbouwproducten worden geëxporteerd naar de Europese Unie via de haven van Rotterdam. In de afgelopen jaren kende Costa Rica een sterke economische groei.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_b1d89d8ed467.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/16863beb0046469ca6b6223875202344.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2023_I_bijlage_d07fb50732d7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/37a7c03aae784b9f89ef1c2fe31fa61d.pdf"
+    }
+  ]
+}

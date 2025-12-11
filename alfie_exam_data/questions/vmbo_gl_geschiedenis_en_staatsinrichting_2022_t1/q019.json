@@ -1,0 +1,45 @@
+{
+  "id": "vmbo_gl_geschiedenis_en_staatsinrichting_2022_t1_q19",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "geschiedenis_en_staatsinrichting",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 65,
+      "domains": [
+        {
+          "id": 135,
+          "name": "Staatsinrichting van Nederland",
+          "prefix_code": "GS/K/5"
+        },
+        {
+          "id": 136,
+          "name": "Historisch overzicht vanaf 1900",
+          "prefix_code": "GS/K/10"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 9.<br>De tekenaar laat een tegenstelling zien tussen Hitler en een Grieks-Romeinse god. Met deze tegenstelling wil de tekenaar een politieke boodschap over de Olympische Spelen van 1936 overbrengen.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Leg met behulp van een onderdeel van de bron uit, welke politieke boodschap de tekenaar wil duidelijk maken.<br>Doe dit door:</p><ul><li>eerst aan te geven wat de politieke boodschap van de tekening is, en</li><li>daarna de tegenstelling in de bron te noemen waarmee de tekenaar die boodschap duidelijk maakt.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Geschiedenis en staatsinrichting 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_en_staatsinrichti_d97a81606872.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a82c2a3d929949f1803bcca598ae713f.pdf"
+    }
+  ]
+}

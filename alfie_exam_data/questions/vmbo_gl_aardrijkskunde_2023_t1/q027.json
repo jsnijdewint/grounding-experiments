@@ -1,0 +1,124 @@
+{
+  "id": "vmbo_gl_aardrijkskunde_2023_t1_q27",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "aardrijkskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 71,
+      "domains": [
+        {
+          "id": 107,
+          "name": "Water",
+          "prefix_code": "AK/K/6"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Lees en bekijk bron 27 .<br>Stelling: 'Het Sahara Forest Project wordt gezien als een voorbeeld van duurzame landbouw.'<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Geef twee argumenten voor deze stelling.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_77579113f32b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/03b3196543844cbab0934bdc52dc4029.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_9567a72415d7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0716fea3ef6e4bcdadfeafaa288842dc.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_d8b14d59506e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3510354cb47d4d689f59f14746e1e3fa.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_60b39570f557.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b82257bcbba84578863205af4c00f08b.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_162d3e428f77.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2c1ba64d45244f8c8eaf388e9e3115cc.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>bron 20<br>Tekst met keuzemogelijkheden</p><p>In de zomer van 2021 viel er in Zuid-Limburg in korte tijd heel veel regen, waardoor het riviertje de Geul overstroomde. De hevige regenval veroorzaakte in korte tijd een ... 1 ... (stormvloed / piekafvoer). De Geul heeft in Valkenburg ... 2 ... (veel / weinig) ruimte, waardoor het waterpeil te snel steeg.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_5aedccd3e904.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/69af66eecb2941ad97811f14b0f6452f.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_bb69306cc5e3.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a135b2b23df645a6964bb50605703eab.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_4f1d4fec5483.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/48485cf136b2492eb87ebffaa73d5650.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_aa937835eda9.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/41063f3c17204feb99b3913d5e00bf35.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "image",
+      "media_path": "media/in-exam/img_e7dcc01eb700.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c894f8d4619343f18ec27598aded04ba.png",
+      "caption": ""
+    },
+    {
+      "order": 11,
+      "type": "image",
+      "media_path": "media/in-exam/img_9286331c7434.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2700713814fe4ae1814dce5383031c1a.png",
+      "caption": ""
+    },
+    {
+      "order": 12,
+      "type": "image",
+      "media_path": "media/in-exam/img_187b95438ad2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3d4aaa69642c435c9c586f6f8748b6b8.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

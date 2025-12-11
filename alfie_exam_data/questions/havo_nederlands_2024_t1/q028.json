@@ -1,0 +1,61 @@
+{
+  "id": "havo_nederlands_2024_t1_q28",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wat is het antwoord op deze vraag, volgens tekst 3? Geef antwoord in één of meer volledige zinnen.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In alinea 2 tot en met 5 wordt de inspanning op het gebied van lezen vergeleken met die op het gebied van fietsen. Je kunt de ontwikkelingen in deze inspanningen weergeven met behulp van onderstaande tabel.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“Het is – wat klinkt dat vervelend – een letterlijk “asociale” bezigheid.” (regels 80-81) In deze zin geeft de auteur zelf commentaar op het gebruik van het woord “asociale”.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>“Lezen lukt vaak alleen in alle rust en stilte. Kom daar eens om in deze tijd.” (regels 85-87)</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“Wat heeft dat ‘lastige lezen’ meer te bieden dan kijken?” (regels 97-99)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_fba5d5bcdd9a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e64529d1393448beb9499f8bd4fb3aaa.pdf"
+    }
+  ]
+}

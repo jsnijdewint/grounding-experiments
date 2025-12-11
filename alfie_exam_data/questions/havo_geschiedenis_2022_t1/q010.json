@@ -1,0 +1,51 @@
+{
+  "id": "havo_geschiedenis_2022_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "geschiedenis",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 29,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 201,
+          "name": "Tijdvak 8 – Burgers en stoommachines",
+          "prefix_code": 8
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Ondersteun deze bewering door:</p><ul><li>aan te geven welke oplossing voor de sociale kwestie Robert Owen nastreefde en</li><li>te verklaren dat de boodschap van het boek van Samuel Smiles populair was bij liberale ondernemers.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gebruik bron 4.<br>Stel: je schrijft een verslag van je onderzoek naar de Britse overheersing van India en je vindt deze bron.<br>Je hebt twee hoofdstukken:<br>1 De acceptatie van het Britse gezag door de bevolking van India<br>2 Het superioriteitsgevoel van de Britse bestuurders</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De Schotse journalist Samuel Smiles schreef in de jaren 1840 artikelen waarin hij de ideeēn van Robert Owen steunde. In 1859 publiceerde Smiles vervolgens een boek waarin hij schreef dat mensen uit de laagste sociale klassen hun levensomstandigheden moesten verbeteren door hard te werken en door in de avond zelf scholing te organiseren. Een bewering: Met de boodschap van zijn boek brak Samuel Smiles met de ideeën van Robert Owen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2022_I_bijlage_efc832c5bc6a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4c75dd86a687428f8575622947101fb2.pdf"
+    }
+  ]
+}

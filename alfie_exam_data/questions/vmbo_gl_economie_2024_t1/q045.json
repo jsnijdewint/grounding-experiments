@@ -1,0 +1,63 @@
+{
+  "id": "vmbo_gl_economie_2024_t1_q45",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 124,
+          "name": "Arbeid en productie",
+          "prefix_code": "EC/K/5A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Om transportbedrijven naar de regio te krijgen heeft REWIN een aanbeveling aan de overheid gedaan: \"Verbreed de snelweg A58.\"<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Maak van onderstaande zinnen een economisch juiste tekst door de juiste woorden te kiezen.<br>Doe het zo: Noteer de nummers (1), (2) en (3) op je antwoordblad. Vul bij de nummers de juiste woorden in. Kies uit de woorden die tussen haakjes staan.<br>De verbreding van de snelweg A58 kan zorgen voor ... (1)... (negatieve / positieve) externe effecten voor het milieu. De externe effecten van de verbreding van de snelweg zijn een voorbeeld van ...(2)...<br>(afschrijvingskosten / bedrijfskosten / maatschappelijke kosten) en zijn ... (3)... (niet / wel) doorberekend in de kostprijs van een transportbedrijf.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 12 in de bijlage.&nbsp;<br><br>Door de jaren heen was de werkgelegenheid in West-Brabant afhankelijk van enkele grote multinationals. Veel van deze bedrijven zijn na 2000 vertrokken uit de regio en hebben zich in het buitenland gevestigd. De werkloosheid in de regio nam hierdoor flink toe.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_26adc07e64dc.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/def304ed562b4f5d98ffbb974795353a.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een van die multinationals is Philips nv in Roosendaal. Bas werkte 20 jaar bij Philips nv op de productieafdeling van tl-balken. Per 1 januari 2019 kreeg hij zijn ontslag en werd werkloos. Door dit ontslag had hij recht op een financiële vergoeding van Philips nv, de transitievergoeding.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Om mensen als Bas weer aan het werk te krijgen, heeft de regio West-Brabant samen met de gemeenten de regionale ontwikkelingsmaatschappij REWIN opgezet. REWIN ondersteunt bedrijven bij het zoeken naar een geschikte locatie, maar zorgt er ook voor dat scholen en overheid aansluiten bij de bedrijven in de omgeving</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2024_I_bijlage_68e3a54200e0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/35a3df9330b8418abfd3d4840ad98390.pdf"
+    }
+  ]
+}

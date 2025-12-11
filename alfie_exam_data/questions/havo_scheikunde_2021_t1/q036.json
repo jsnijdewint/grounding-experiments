@@ -1,0 +1,89 @@
+{
+  "id": "havo_scheikunde_2021_t1_q36",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef, aan de hand van de samenstelling van het alvleessap, de naam van het deeltje dat de pH-verandering veroorzaakt. Maak gebruik van Binas-tabel 82F of ScienceData-tabel 22.7.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Voedsel bevat de voedingsstoffen die het lichaam nodig heeft. Deze voedingsstoffen kunnen op basis van de chemische structur in drie groepen worden ingedeeld. De eiwitten vormen een van deze groepen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Tijdens het eten belandt voedsel via de mond in de maag. De vloeistof in de maag is zuur, doordat bepaalde cellen van de maagwand zoutzuur afgeven. Dit zoutzuur kan worden opgevat als een oplossing die <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn> <mo>,</mo> <mn>8</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">g</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">HCl</mi>&#160;</mrow></math>per liter bevat.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De zure maagvloeistof bevat ook het enzym pepsine. Pepsine is een eiwit dat de afbraak van voedseleiwitten versnelt. Bij deze afbraak wordt steeds een binding tussen twee aminozuureenheden in de keten van een voedseleiwitmolecuul verbroken.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Het verbreken van deze bindingen is een proces dat in 2 stappen verloopt. Dit proces is vereenvoudigd weergegeven in figuur 1. In figuur 1 zijn ook twee zijgroepen van het pepsinemolecuul weergegeven. Zijgroep A is geïoniseerd doordat deze een <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo>&#160;</mrow></msup></math>-ion heeft afgestaan.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_e094af9bac65.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7421ef44fe214192a18cc905f8e33ef6.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Zowel uit de tekst van deze opgave als uit figuur 1 blijkt dat pepsine een enzym is.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Hieronder is een fragment weergegeven van de primaire structur van een eiwitmolecuul dat in voedsel kan voorkomen.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8764;</mo>&#160;</math>Cys-Phe-Asp-Val-Phe-Lys-Glu~<br>Dit fragment kan met behulp van een pepsinemolecuul worden afgebroken tot onder meer het onderstaande molecuul.</p><p>Phe-Asp-Val</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Pepsinemoleculen kunnen niet tussen alle aminozuureenheden bindingen verbreken, maar wel:</p><ul><li>de binding tussen twee aminozuureenheden met beide een hydrofobe zijgroep,</li><li>de binding tussen een aminozuureenheid met een hydrofobe zijgroep en een aminozuureenheid met een zwavelbevattende zijgroep.</li></ul>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Na verloop van tijd belandt het deels verteerde voedsel vanuit de maag in de darm. Hier wordt het alvleessap toegevoegd (figuur 2), waardoor de pH in de darm anders is dan die in de maag. Door deze pH-verandering verandert de activiteit van pepsine. Dit is weergegeven in figuur 3.</p>"
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_b512a2a093bb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6e636b4016194b9b98fbac3a67883430.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2021_I_uitwerkbijla_1bb960b8859b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/de4ac50bb8424775a1d05546cf8e6711.pdf"
+    }
+  ]
+}

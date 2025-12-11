@@ -1,0 +1,46 @@
+{
+  "id": "havo_nederlands_2021_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit in welk opzicht de journalistiek is veranderd door de verandering <strong>van </strong>het journalistieke veld, volgens alinea 3.</p><p>Geef antwoord in een of meer volledige zinnen en gebruik voor je antwoord niet meer dan 20 woorden.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de regels 31 tot en met 35 lijkt sprake te zijn van een bewuste woordkeuze: een verandering in het journalistieke veld wordt geplaatst naast een verandering <strong>van </strong>het journalistieke veld.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2021_I_bijlage_e60e6a5a7984.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dbb0cc971e994b9eb7113dc9995dc0c6.pdf"
+    }
+  ]
+}

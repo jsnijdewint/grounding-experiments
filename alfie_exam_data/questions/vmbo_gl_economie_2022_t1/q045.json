@@ -1,0 +1,63 @@
+{
+  "id": "vmbo_gl_economie_2022_t1_q45",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 125,
+          "name": "Overheid en bestuur",
+          "prefix_code": "EC/K/6"
+        },
+        {
+          "id": 127,
+          "name": "Verrijkingsstof",
+          "prefix_code": "EC/V/1"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voor de overheid ontstaan er nog meer uitgaven die verband houden met de toenemende vergrijzing in Nederland. De overheid wil bezuinigen op deze uitgaven.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Maak van de onderstaande zinnen een economisch juiste tekst door de juiste woorden te kiezen.<br>Doe het zo: Noteer de nummers (1) en (2) op je antwoordblad. Vul bij de nummers de juiste woorden in. Kies uit de woorden die tussen haakjes staan.<br>Een manier waarop de overheid kan bezuinigen op de sociale zekerheid is de leeftijd waarop men aanspraak kan maken op een AOW-uitkering te<br>(1)... (verhogen / verlagen). De AOW-uitkering wordt deels betaald uit<br>(2)... (sociale premies / zorgpremies) van de werkenden en in toenemende mate door belastinginkomsten.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Wim, 61 jaar, had een tijdelijk contract als leraar op een middelbare school. Wims contract werd niet verlengd door zijn werkgever en hij heeft zich aangemeld bij het UWV.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_71d6402ffb13.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1cf12da2e312400daa26c590f74233f8.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Wim verdiende als leraar een maandinkomen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>1.982</mn>&#160;</math>. De WW-uitkering bedraagt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>70</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> van het laatstverdiende loon. Als de alleenstaande Wim na 24 maanden WW-uitkering nog geen werk heeft gevonden, stopt de WW-uitkering. Hij kan daarna een bijstandsuitkering van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>933</mn> <mo>,</mo> <mn>65</mn>&#160;</math> per maand ontvangen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_ef2c1b8354d0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dc02323a63d64258a36e6a9729a51c74.pdf"
+    }
+  ]
+}

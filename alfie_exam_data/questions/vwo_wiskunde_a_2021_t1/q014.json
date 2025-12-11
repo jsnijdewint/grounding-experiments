@@ -1,0 +1,73 @@
+{
+  "id": "vwo_wiskunde_a_2021_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 76,
+          "name": "Algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 77,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel verschillende samenstellingen er mogelijk zijn van twee aanvallers, één verdediger en twee ondersteunende helden.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Electronic Sports, afgekort <strong>E-Sports</strong>, is de term die wordt gebruikt voor het competitief spelen van computerspellen. Hoewel het tegen andere spelers spelen van computerspellen al bijna net zo lang bestaat als de spellen zelf, wordt algemeen aangenomen dat E-Sports bestaat sinds 1998. Dat is namelijk het jaar dat er voor het eerst een officieel E-Sportstoernooi gehouden werd waarbij geldprijzen te winnen waren.</p><p>In 1998 was er in totaal zo'n 100000 dollar te verdienen door de spelers. Sinds dat jaar is E-Sports uitgegroeid tot een internationaal fenomeen. In 2016 streden tienduizenden spelers in zo'n honderd verschillende spellen om een totale prijzenpot van ruim 95 miljoen dollar.</p><p>In figuur 1 is de ontwikkeling weergegeven van het totale prijzengeld dat in E-Sports omgaat.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_a38aaeacddcb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5682daea4a644bf783ece0286747c763.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De totale prijzenpot nam van 2009 tot en met 2016 toe van 3,7 miljoen tot 95,1 miljoen dollar. Als we ervan uitgaan dat deze groei exponentieel was en ook na 2016 exponentieel doorzet, dan zal het totale prijzengeld binnen enkele jaren tot boven de 1 miljard dollar stijgen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Bijna de helft van het totale prijzengeld in E-Sports wordt gewonnen door spelers van één bepaald spel. Dit spel wordt gespeeld door twee teams van elk vijf spelers, waarbij elk van de spelers een eigen held bestuurt. De spelers proberen met hulp van door de computer bestuurde troepen het gebied van de tegenstander te veroveren.</p><p>Er zijn bij dit spel 112 verschillende helden, die worden onderverdeeld in drie categorieën: er zijn 49 aanvallers, 27 verdedigers en de overige helden zijn ondersteunende helden.</p><p>Aan het begin van het spel kiezen de teams volgens een gecompliceerd systeem beurtelings hun helden. ledere held kan hierbij slechts één keer gekozen worden.</p><p>Het is gebruikelijk dat een team bestaat uit twee aanvallers, één verdediger en twee ondersteunende helden.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_66115931efb1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a82d76c736914785983bf91c92b9a256.pdf"
+    },
+    {
+      "name": "Wiskunde A 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2021_I_uitwerkbijla_3883774f4ae1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cdb796394a4c4a968d52b9ce2edc08ed.pdf"
+    }
+  ]
+}

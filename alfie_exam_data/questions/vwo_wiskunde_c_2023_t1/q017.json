@@ -1,0 +1,80 @@
+{
+  "id": "vwo_wiskunde_c_2023_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [
+        {
+          "id": 52,
+          "name": "Verbanden",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken in welk jaar de totale cementproductie in dat geval voor het eerst meer is dan 4500 miljoen ton per jaar volgens het artikel.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Cement is een belangrijk bouwmateriaal. Het wordt voornamelijk gebruikt bij het maken van beton.</p><p>&nbsp;</p><p>In figuur 1 staat de wereldwijde cementproductie tussen 1970 en 2010 in miljoenen tonnen per jaar.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_d8a5d8db72a8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/209cc4675eee4088868935b265f85e51.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In figuur 1 is te zien dat de cementproductie (ongeveer) exponentieel toenam van 575 miljoen ton in 1970 tot 3800 miljoen ton in 2010.</p><p>&nbsp;</p><p>In 2010 was de verwachting dat de wereldwijde cementproductie ook na 2010 exponentieel door zou blijven stijgen tot ten minste 5000 miljoen ton per jaar. Voor de volgende vraag gaan we van deze verwachting uit.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In werkelijkheid heeft de exponentiële stijging zich niet doorgezet. In de periode 2010-2013 was er nog wel sprake van (niet-exponentiële) toename, maar in de periode 2013-2017 bleef de wereldwijde cementproductie nagenoeg stabiel op 4300 miljoen ton per jaar. Dit is te zien in figuur 2.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_7d148771e219.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6e4c47daa9e24617baa1abc473d88bf6.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Volgens een artikel van de BBC uit 2018 zal de vraag naar beton, en dus ook de productie van cement, na 2017 weer sterk toenemen. Het artikel stelt dat er in 2030 wereldwijd 25% meer cement geproduceerd zal worden dan in 2017.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Neem aan dat de toename na 2017 lineair verloopt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2023_I_uitwerkbijla_d26cf5047c40.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5daa39e9d7114989a2f0a9cab3045d3b.pdf"
+    }
+  ]
+}

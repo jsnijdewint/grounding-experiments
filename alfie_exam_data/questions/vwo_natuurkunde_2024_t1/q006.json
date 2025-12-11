@@ -1,0 +1,73 @@
+{
+  "id": "vwo_natuurkunde_2024_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 46,
+          "name": "Kracht en beweging",
+          "prefix_code": 1
+        },
+        {
+          "id": 47,
+          "name": "Energie en wisselwerking",
+          "prefix_code": 2
+        },
+        {
+          "id": 48,
+          "name": "Gravitatie",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Toon aan dat de baanstraal van de exoplaneet gelijk is aan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mo>,</mo> <mn>8</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>10</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math></p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Exoplaneten zijn planeten die om een andere ster draaien dan onze zon. In 2018 werd de ruimtetelescoop TESS gelanceerd om met de zogenaamde transit-methode nieuwe exoplaneten te ontdekken. Bij een transit beweegt een exoplaneet voor de ster langs. Hierbij zal de (licht)intensiteit die vanaf de aarde wordt waargenomen tijdelijk afnemen. TESS meet deze afname in intensiteit. Zie figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_a7870d923e2d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ab473eb2bc2048358cce9ebcf77ecbfb.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een van de eerste ontdekkingen van TESS was de exoplaneet HD21749b (in het vervolg van de opgave aangeduid met ‘exoplaneet’). Deze exoplaneet is groter dan de aarde en cirkelt rond de ster HD21749 (in het vervolg ‘ster’ genoemd). De massa van deze ster is 67% van de massa van de zon. Via de transit-methode is de omlooptijd <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi>&#160;</math>van de exoplaneet bepaald op<br>36 dagen. Met behulp van de derde wet van Kepler kan vervolgens de baanstraal van de exoplaneet berekend worden.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De derde wet van Kepler luidt:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi>r</mi> <mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msup><msup><mi>T</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup></mfrac><mo>=</mo> <mfrac><mrow><mi>G</mi> <mi>M</mi> </mrow><mrow><mn>4</mn> <msup><mi>&#960;</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></mrow></mfrac></math> &nbsp; &nbsp; &nbsp;(1)</p><p>Hierin is:</p><p>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\">&#160;<mo>&#8722;</mo> <mi>r</mi>&#160;</math>de baanstraal<br>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\">&#160;<mo>&#8722;</mo> <mi>T</mi>&#160;</math>de omlooptijd<br>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\">&#160;<mo>&#8722;</mo> <mi>M</mi>&#160;</math>de massa van de ster waar de exoplaneet omheen draait<br>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\">&#160;<mo>&#8722;</mo> <mi>G</mi>&#160;</math>de gravitatieconstante</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2024_I_uitwerkbijl_53e920c4cfe0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9441e6eda69e41e0ab819d8b89d60c78.pdf"
+    }
+  ]
+}

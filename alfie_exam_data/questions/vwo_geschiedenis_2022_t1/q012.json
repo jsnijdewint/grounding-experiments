@@ -1,0 +1,66 @@
+{
+  "id": "vwo_geschiedenis_2022_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 190,
+          "name": "Tijdvak 7 – Pruiken en revoluties",
+          "prefix_code": 7
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Licht beide gegevens toe door:</p><p>- uit te leggen dat de inhoud van het pamflet voor de jakobijnen reden was Olympe de Gouges ter dood te veroordelen en</p><p>- met een ander voorbeeld van het werk van Olympe de Gouges de mening van de ooggetuige dat zij had bijgedragen aan de revolutie te ondersteunen.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 3.</i></p><p>De stad Antwerpen neemt vanaf 1585 een belangrijke plaats in als onderwerp van propaganda tijdens de periode van de Opstand.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 4.</i></p><p>Henry Stubbe krijgt 200 pond van de Engelse koning voor zijn pamflet.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 5.</i></p><p>Een bewering: Pierre-Augustin Caron de Beaumarchais wil verlichte denkbeelden verspreiden.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p><i>Een anekdote:</i></p><p>De componist Mozart maakte van Figaro (zie bron 5) een opera. Hij veranderde de kritiek van het originele toneelstuk in kritiek op herendiensten. Voor keizer Jozef II was dit een voorwaarde om de uitvoering van Figaro goed te keuren.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Twee gegevens over de veroordeling van Olympe de Gouges:</p><p>1 In 1793 werd Olympe de Gouges ter dood veroordeeld na de publicatie van een pamflet waarin ze schreef dat de bevolking zou moeten kunnen kiezen welke staatsvorm Frankrijk zou moeten krijgen: een constitutionele monarchie of een republiek.</p><p>2 Een anonieme ooggetuige gaf kritiek op haar veroordeling, waarbij hij zei dat Olympe de Gouges gratie moest krijgen vanwege haar bijdrage aan de revolutie.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2022_I_bijlage_a36412ab6c17.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ffb233ca393f4e5495872a5032cf7133.pdf"
+    }
+  ]
+}

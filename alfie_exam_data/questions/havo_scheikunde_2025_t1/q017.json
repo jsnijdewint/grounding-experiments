@@ -1,0 +1,47 @@
+{
+  "id": "havo_scheikunde_2025_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:</p><ul><li>Geef de formule van stof A.</li><li>Geef de naam van het type afbraakreactie waarmee PET-ase de groep met cijfer 2 in figuur 1 verbreekt.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het polymeer polyethyleentereftalaat (PET), waarvan PET-flessen worden gemaakt, is slecht afbreekbaar en wordt vaak op vuilnisbelten gestort. Japanse onderzoekers hebben in 2016 in slib van een vuilnisbelt een soort bacterie aangetroffen die PET kan afbreken. Deze bacterie bleek het enzym PET-ase te produceren, dat de afbraak van PET mogelijk maakt. Dit enzym kan de oplossing zijn voor onze berg PET-afval die steeds groter wordt. In figuur 1 is de eerste stap van deze afbraakreactie weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_6664aea270f7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8c0792c4615f4c37be47e0b6f9a890d1.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "ha-1028-a-25-1-u.pdf",
+      "media_path": "media/bijlages/ha-1028-a-25-1-u_c2bab5b58221.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f3aee0d3e8b747e2b4f1a424e9bd0f04.pdf"
+    }
+  ]
+}

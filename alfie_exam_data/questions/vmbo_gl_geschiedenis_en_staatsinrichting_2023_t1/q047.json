@@ -1,0 +1,48 @@
+{
+  "id": "vmbo_gl_geschiedenis_en_staatsinrichting_2023_t1_q47",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "geschiedenis_en_staatsinrichting",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 65,
+      "domains": [
+        {
+          "id": 136,
+          "name": "Historisch overzicht vanaf 1900",
+          "prefix_code": "GS/K/10"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p><i>Gebruik de tijdbalk hierboven.</i></p><p>Hieronder staan vijf organisaties:<br>1 Europese Unie<br>2 Gestapo<br>3 NAVO<br>4 Volkenbond<br>5 Vrije Vrouwen Vereniging<br><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Geef per organisatie aan in welke periode (a,b,c of d) die is opgericht.<br><strong>Let op! </strong>Een periode mag meer dan één keer gebruikt worden.<br>Doe het zo:<br>Bij organisatie 1 hoort periode ... (vul letter in).<br>(enzovoort tot en met organisatie 5)</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_63f4e4e478ea.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a8381951381b4ec8ac5a9cd2fea21c9c.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis en staatsinrichting 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_en_staatsinrichti_cf7c6ce6a4c9.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f132077dcc6e486c9c4eeb9328bce439.pdf"
+    }
+  ]
+}

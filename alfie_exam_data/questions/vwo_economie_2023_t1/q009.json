@@ -1,0 +1,62 @@
+{
+  "id": "vwo_economie_2023_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 22,
+          "name": "Welvaart en groei",
+          "prefix_code": "H"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Toon met een berekening aan hoeveel AWG door de centrale bank medio 2019 wordt opgekocht om de koersdaling tegen te gaan.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In deze opgave wordt er ter vereenvoudiging van uitgegaan dat in Aruba alleen de Arubaanse florin wordt geaccepteerd als betaalmiddel.&nbsp;<br><br>Aruba heeft een eigen centrale bank en een eigen munt, de Arubaanse florin (AWG). Aruba heeft sinds 1986 een vaste wisselkoersverhouding van de AWG ten opzichte van de (stabiele) Amerikaanse dollar (USD) waarbij 1 AWG = 0,558 USD. De Verenigde Staten zijn een belangrijke handelspartner van Aruba.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Aruba heeft vrij kapitaalverkeer met het buitenland. Er is sprake van een trilemma bij het monetair beleid: de centrale bank van Aruba kan geen onafhankelijke rentepolitiek voeren.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Begin 2019 (= uitgangssituatie) zijn de vraag- en aanbodfuncties van de Arubaanse florin op de valutamarkt op een bepaalde dag als in tabel 1.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_3ef91e25803f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e603861b062e4ce689b1b6ded9fe317e.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Medio 2019 kiezen meer Amerikaanse toeristen voor een vakantie naar Aruba als substitutiegoed voor een reis naar Cuba en de Dominicaanse Republiek. Tegelijkertijd investeren Amerikaanse bedrijven niet meer in windturbines en zonnepanelen op Aruba.&nbsp;<br><br>Deze twee ontwikkelingen zorgen voor een tegengesteld effect op de wisselkoers van de AWG in USD. Zonder valuta-interventie daalt de wisselkoers van de AWG naar 0,50 USD.</p>"
+    }
+  ],
+  "bijlages": []
+}

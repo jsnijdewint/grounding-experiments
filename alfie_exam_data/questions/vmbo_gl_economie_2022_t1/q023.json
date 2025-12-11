@@ -1,0 +1,61 @@
+{
+  "id": "vmbo_gl_economie_2022_t1_q23",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 125,
+          "name": "Overheid en bestuur",
+          "prefix_code": "EC/K/6"
+        },
+        {
+          "id": 127,
+          "name": "Verrijkingsstof",
+          "prefix_code": "EC/V/1"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Robin: \"Dus als de werkgelegenheid stijgt, dan stijgt ook het besteedbaar inkomen.\"<br>Hieronder staan vijf economische verschijnselen:<br>1 De werkgelegenheid stijgt.<br>2 De loonheffing kan worden verlaagd.<br>3 De uitgaven aan sociale zekerheid dalen.<br>4 De werkloosheid daalt.<br>5 Het besteedbaar inkomen stijgt.<br>In welke regel staan deze verschijnselen zo, dat een logische gedachtegang ontstaat?<br>A <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>4</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>5</mn>&#160;</math><br>B <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>4</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>5</mn>&#160;</math><br>C <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>4</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>5</mn>&#160;</math><br>D <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>4</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>5</mn>&#160;</math><br>E <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>4</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>5</mn>&#160;</math><br>F <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>4</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>5</mn></math></p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 5 in de bijlage.</p><p>Tijdens Prinsjesdag wordt er veel gesproken over de financiële gevolgen van de regeringsplannen voor verschillende bevolkingsgroepen. Ook bij Robin thuis vragen ze zich af wat er gaat veranderen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Op het loon van Robins vader, de heer Tichelaar, wordt loonheffing ingehouden. De loonheffing bestaat uit loonbelasting en premies volksverzekeringen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Uit een krant:</p><ul><li>Komend jaar zullen meer mensen een baan hebben door economische groei.</li><li>Tweeverdieners met elk een bruto-inkomen tussen de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>50.000</mn>&#160;</math> en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>75.000</mn>&#160;</math> gaan er <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>6</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> op vooruit.</li></ul>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_ef2c1b8354d0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dc02323a63d64258a36e6a9729a51c74.pdf"
+    }
+  ]
+}

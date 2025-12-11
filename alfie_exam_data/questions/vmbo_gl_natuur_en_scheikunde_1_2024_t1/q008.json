@@ -1,0 +1,58 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2024_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 141,
+          "name": "Elektrische energie",
+          "prefix_code": "NASK1/K/5"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wat is de spanning van één batterij?<br><strong>A <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>6</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">V</mi>&#160;</mrow></math></strong><br><strong>B </strong><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>9</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">V</mi>&#160;</mrow></math><br><strong>C </strong><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>5</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">V</mi>&#160;</mrow></math><br><strong>D </strong><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>8</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">V</mi>&#160;</mrow></math><br><strong>E </strong><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mo>,</mo> <mn>4</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">V</mi>&#160;</mrow></math><br><strong>F </strong><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mo>,</mo> <mn>7</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">V</mi>&#160;</mrow></math></p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tijdens de natuurkundeles maakt Ayoup een schakeling met leds. Je ziet een afbeelding van zijn opstelling en het schakelschema.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_bf0cb161f2cb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a21bdaad01fe4e7b8b42a854782033c6.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De spanning over elke led is 2,7 V. De spanning over de weerstand is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>8</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">V</mi>&#160;</mrow></math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2024_I_c96405ee1a91.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c258a8174cb04fbba9275f60e7aa3610.pdf"
+    }
+  ]
+}

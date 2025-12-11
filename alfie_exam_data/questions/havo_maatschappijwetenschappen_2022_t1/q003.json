@@ -1,0 +1,45 @@
+{
+  "id": "havo_maatschappijwetenschappen_2022_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "maatschappijwetenschappen",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 34,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit of er bij naleving van deze maatregel sprake is van informele of formele sociale controle. Gebruik in je uitleg een omschrijving van de gekozen soort sociale controle.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave hoort tekst 1 uit het bronnenboekje.<br>Gebruik tekst 1.<br>In het project dat gestart is om het alcoholgebruik binnen bepaalde studentenverenigingen te verminderen, hebben de betrokkenen een aantal afspraken gemaakt. Een voorbeeld van een afspraak is dat elke vereniging ernaar streeft om de toegang tot de sociēteit te weigeren aan leden die te veel alcohol hebben gedronken.<br>Socialisatie heeft een aantal functies.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De afspraken die de acht studentenverenigingen met de gemeente Groningen, de Hanzehogeschool Groningen en de Rijksuniversiteit Groningen hebben gemaakt, zijn vastgelegd in een convenant dat door alle partijen is ondertekend. Het wel of niet naleven van de maatregelen in het convenant door de studentenverenigingen kan gevolgen hebben voor de studentenverenigingen.<br>Een maatregel in het convenant is dat leden die zich misdragen hebben omdat ze te veel alcohol gedronken hebben, zullen worden aangesproken door iemand van het verenigingsbestuur en zullen worden geconfronteerd met hun gedrag.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijwetenschappen 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijwetenschappen_2022_b839328547bf.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/300a452244ca4ad0aade610c9e6fe2bc.pdf"
+    }
+  ]
+}

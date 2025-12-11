@@ -1,0 +1,34 @@
+{
+  "id": "havo_engels_2024_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "engels",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 28,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Which of the following fits the gap in the second letter?&nbsp;<br>A a substantial reduction in experienced motorists on our motorways&nbsp;<br>B a surge of new taxi companies set up to transport the elderly&nbsp;<br>C a swell of mobility scooters crowding the streets and pavements&nbsp;<br>D an increase in road rage incidents triggered by inexperienced driving</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Engels 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2024_I_bijlage_25cdf7f0d775.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cee1f26d8ed54416ab379491be4f82c8.pdf"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "vwo_wiskunde_a_2021_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 78,
+          "name": "Standaardfuncties",
+          "prefix_code": 1
+        },
+        {
+          "id": 79,
+          "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Onderzoek of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi>&#160;</math>in 2014 bij het secundair inkomen meer of minder dan 30000 euro lager is dan bij het primair inkomen.</p>",
+    "max_score": 7,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het <strong>primair inkomen</strong> van een huishouden bestaat uit de som van alle bruto inkomens uit werk en vermogen van alle personen uit dat huishouden. Als in een huishouden niemand betaald werk heeft of over vermogen beschikt, dan is het primair inkomen van dit huishouden gelijk aan nul.</p><p>Het totale primair inkomen van alle huishoudens in Nederland in 2014 was 376,3 miljard euro. Er waren toen in totaal 7,8 miljoen huishoudens en 16,7 miljoen personen.</p><p>In de tabel zijn alle huishoudens op basis van hun primair inkomen gerangschikt en verdeeld in tien groepen die elk ongeveer evenveel huishoudens bevatten. De eerste groep bevat de huishoudens met de laagste primaire inkomens en de tiende groep bevat die met de hoogste primaire inkomens.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_4cbb0afd6bb0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dd86562750f54293af4c841a16ea373b.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de tabel kun je bijvoorbeeld zien dat de groep met de hoogste primaire inkomens 776000 huishoudens bevat en uit 2535000 personen bestaat. Van het totale primair inkomen van 376,3 miljard euro is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>35</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>van deze groep. Dit is 131,705 miljard euro.</p><p>De mate van inkomensongelijkheid tussen personen wordt weergegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi>&#160;</math>. We definiëren <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi>&#160;</math>als volgt:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi>&#160;</math>is het gemiddeld inkomen <strong>per persoon</strong> in de tiende groep min het gemiddeld inkomen <strong>per persoon</strong> in de eerste groep.<br>Je kunt met de bovenstaande gegevens berekenen dat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi>&#160;</math>bij het primair inkomen ongeveer 51955 euro is.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Door uitkeringen te geven en belastingen te heffen, verkleint de Nederlandse overheid de inkomensongelijkheid. Als we bij het primair inkomen van een huishouden alle ontvangen uitkeringen optellen en alle betaalde belastingen eraf halen, krijgen we het <strong>secundair inkomen</strong> van het huishouden.</p><p>In de figuur staat voor dezelfde tien groepen huishoudens als in de tabel het verschil tussen het secundair en primair inkomen per huishouden.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_831c40a8383d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/267cdafba2734145abba8b8a43931ace.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In de figuur kun je bijvoorbeeld zien dat het secundair inkomen per huishouden in de eerste vijf groepen hoger is dan het primair inkomen. Er is dan een hoger bedrag aan uitkeringen ontvangen dan er aan belasting is betaald.</p><p>Door de uitkeringen en belastingen zal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi>&#160;</math>bij het secundair inkomen kleiner zijn dan bij het primair inkomen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_66115931efb1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a82d76c736914785983bf91c92b9a256.pdf"
+    },
+    {
+      "name": "Wiskunde A 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2021_I_uitwerkbijla_3883774f4ae1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cdb796394a4c4a968d52b9ce2edc08ed.pdf"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "havo_biologie_2023_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 128,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 129,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noteer de biologische term voor een organisme dat zich door menselijke activiteiten heeft gevestigd in een gebied waar het oorspronkelijk niet vandaan komt.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 2009 kocht Wouter van Eck een akker waarop jarenlang mais was verbouwd. Hij heeft er voedselbos Ketelbroek aangelegd, een combinatie van landbouw en natuur (afbeelding 1).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_c51b6db59c4f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/36c3662ea66b42718c3862648704f6cd.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In het voedselbos staan meer dan 350 verschillende plantensoorten, die allemaal iets eetbaars opleveren: notenbomen, tamme kastanjes, kiwi's, bessenstruiken en kruiden als daslook en tijm. Na het planten heeft Wouter het gebied met rust gelaten: hij ploegt niet, gebruikt geen mest en geen chemische bestrijdingsmiddelen. Hij snoeit en oogst alleen maar.</p><p>Op de akkers rondom het voedselbos worden alleen aardappelen verbouwd. Zo'n monocultuur is gevoeliger voor plagen dan een voedselbos.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In een niet-verstoorde bodem vormen bodemschimmels uitgebreide netwerken van schimmeldraden. De schimmels dringen de wortels van planten binnen om daar organische stoffen op te nemen. De schimmeldraden nemen anorganische stoffen uit de bodem op, die vervolgens ook gebruikt worden door de plant.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Wouter gebruikt geen kunstmest of compost in zijn voedselbos. Bladeren die van de bomen vallen en kruidachtige planten die afsterven, voegen voldoende organische stof toe aan de bodem. De organische stikstofverbindingen worden in verschillende stappen door bodembacteriën omgezet naar nitraat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">NO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><msup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> </mrow></msup><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>.<br>Groepen bodembacteriën zijn:<br>1 denitrificerende bacteriën<br>2 nitraatbacteriën<br>3 nitrietbacteriën<br>4 rottingsbacteriën</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Wouter heeft een aantal olijfwilgen aangeplant in het voedselbos. Deze struiken met eetbare rode bessen bezitten wortelknolletjes waarin bacteriën leven. De bacteriën binden stikstof <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">N</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>uit de lucht, waardoor een stof ontstaat die de planten kunnen gebruiken voor het maken van organische stikstofverbindingen. In afbeelding 2 is dit proces schematisch weergegeven.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_422aaad37d5f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/651d04b829784d56b292ebe3fa30c8be.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>In afbeelding 2 moeten op de plaats van de nummers de volgende stoffen en processen ingevuld worden:</p><ul><li>aminozuur</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8722;</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">NH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn>&#160;</mrow></msub></math></li><li>stikstofassimilatie</li><li>stikstoffixatie</li></ul>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>De abiotische factoren in het voedselbos variëren sterk van plaats tot plaats. Daslook (afbeelding 3), met blaadjes die naar knoflook smaken, groeit goed op schaduwrijke plaatsen. Tijm (afbeelding 4), een kruid dat in veel gerechten wordt gebruikt, groeit alleen op zonnige open plaatsen.</p>"
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_d93956e93805.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f4053976e5a7455f98e85f905c2736f4.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>In Ketelbroek staan ook bomen en struiken uit andere delen van de wereld, zoals de Sichuan-peperboom uit China, de Siberische honingbes en de Koreaanse pijnboom. Soms kunnen geïmporteerde plantensoorten zich vestigen in Nederlandse ecosystemen.</p>"
+    }
+  ],
+  "bijlages": []
+}

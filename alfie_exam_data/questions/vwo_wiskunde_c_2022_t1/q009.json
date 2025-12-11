@@ -1,0 +1,46 @@
+{
+  "id": "vwo_wiskunde_c_2022_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [
+        {
+          "id": 52,
+          "name": "Verbanden",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel procent van de tijd er dan na drie jaar nog aan het ontwikkelen van nieuwe software wordt besteed. Geef je antwoord in gehele procenten.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Softwarebedrijven maken nieuwe software maar moeten ook aandacht besteden aan het geven van support aan hun klanten. Het geven van deze support kost bij veel softwarebedrijven steeds meer tijd. Als een softwarebedrijf vervolgens geen nieuw personeel wil aannemen, gaat de toenemende tijd die besteed wordt aan support ten koste van de tijd voor het ontwikkelen van nieuwe software.</p><p>Bij softwarebedrijf X -tent- O is geconstateerd dat men, als gevolg van deze toenemende vraag naar support, elke maand minder tijd dan in de maand daarvoor besteedt aan het ontwikkelen van nieuwe software.</p><p>Alleen voor de volgende vraag gaan we ervan uit dat er door de toenemende vraag naar support elke maand <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>minder tijd aan ontwikkelen besteed wordt dan in de maand daarvoor. Ga er ook van uit dat er in de beginsituatie geen tijd besteed wordt aan support.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2022_I_uitwerkbijla_88029eac1d9f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e2af97078af344c6a48ef1f748b398b8.pdf"
+    }
+  ]
+}

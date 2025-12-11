@@ -1,0 +1,84 @@
+{
+  "id": "havo_biologie_2022_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Verklaar waardoor de dwarslaesie geen effect heeft op de kniepeesreflex.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Door een auto-ongeluk is het ruggenmerg van Tobias dusdanig beschadigd dat hij zijn benen niet meer kan bewegen en voelen. Met de BerkelBike kan hij misschien toch weer fietsen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De BerkelBike (afbeelding 1) - met een trapsysteem voor handen en benen - is in Nederland ontworpen voor mensen die net als Tobias de controle over hun benen kwijt zijn.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_a903b05caec1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f0ac7307be174a5d9e2d72328b49756d.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De kliniek waar Tobias revalideert, beveelt hem de BerkelBike aan om zijn beenspieren in conditie te houden. Afbeelding 2 laat zien op welke plaats bij Tobias de beschadiging van het ruggenmerg (dwarslaesie) is opgetreden.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_2f2fd0501c0c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f7e0a38442bb4e02b91496cb585873c2.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Om gebruik te maken van een BerkelBike moeten de zenuwen van het ruggenmerg naar de beenspieren nog functioneren. Om dit te controleren test een arts de reflexen van de benen. Met een hamertje tikt zij tegen de kniepees van Tobias, waarna spieren in Tobias' dijbeen samentrekken.</p>"
+    }
+  ],
+  "bijlages": []
+}

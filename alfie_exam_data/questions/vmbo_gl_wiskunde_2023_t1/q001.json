@@ -1,0 +1,58 @@
+{
+  "id": "vmbo_gl_wiskunde_2023_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "wiskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 67,
+      "domains": [
+        {
+          "id": 162,
+          "name": "Meetkunde",
+          "prefix_code": "WI/K/6"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Laat met een berekening zien dat de inhoud van de kegel afgerond <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>262</mn> <msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">cm</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn>&#160;</mrow></msup></math>is.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_3771e9eae769.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/52b03012ca8f48f393a95adb32205801.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Je ziet links een tuimelaar. Dit is een speelgoedpoppetje met een bolvormige onderkant. Bushra wil zelf tuimelaars maken met een 3D-printer. De tuimelaars worden massief, dus niet hol van binnen. Haar ontwerp zie je rechts. De tuimelaar bestaat uit een kegel en een halve bol. De diameter en de hoogte van de kegel zijn beide 10 cm .</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_2023_I_uitwerkbijlage_f78e70c4ddca.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bbc4a2194fa64bb89fa2eea23545d325.pdf"
+    },
+    {
+      "name": "VMBO_2023_wiskunde_formules.pdf",
+      "media_path": "media/bijlages/VMBO_2023_wiskunde_formules_374f78ca5ba1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/be7c655fbdc04d4d80359acdbaf873fa.pdf"
+    }
+  ]
+}

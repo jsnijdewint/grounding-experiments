@@ -1,0 +1,58 @@
+{
+  "id": "vwo_wiskunde_c_2021_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 90,
+          "name": "Rekenen en algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 91,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de afmetingen van het rechthoekige gat. Je mag hierbij de randen om de vierkanten buiten beschouwing laten. Geef je antwoord in een geheel aantal cm .</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Op de foto zie je een zogenoemde Fibonaccitafel van de firma NautaBene Design. Het patroon van het tafelblad is geïnspireerd op de rij van Fibonacci:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>1</mn> <mo>,</mo> <mn>2</mn> <mo>,</mo> <mn>3</mn> <mo>,</mo> <mn>5</mn> <mo>,</mo> <mn>8</mn> <mo>,</mo> <mn>13</mn> <mo>,</mo> <mn>21</mn> <mo>,</mo> <mo>&#8230;</mo></math></p><p>Het tafelblad bestaat uit vier vierkanten en een rechthoekig gat.<br>De zijden van de vierkanten verhouden zich als <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn> <mo>:</mo> <mn>8</mn> <mo>:</mo> <mn>13</mn> <mo>:</mo> <mn>21</mn>&#160;</math>.<br>De tafel is 120 cm lang en 74 cm breed.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_692eeb583423.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1739156c18074b94a889955a433f7189.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2021 I_Uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2021_I_Uitwerkbijla_c2ab79fdeabf.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e31735869591448eb6382933321c0f9b.pdf"
+    }
+  ]
+}

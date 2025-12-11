@@ -1,0 +1,34 @@
+{
+  "id": "havo_duits_2025_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "duits",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 37,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Aus welchem Grund ist unbekannt, ob eine Einordnung mit PfotenSymbolen ein Erfolg werden kann? (Absatz 2)<br>A Es gibt bei DTV und HTG noch keine Mitarbeiter, die Ferienhäuser bewerten können.<br>B Es gibt bis jetzt noch keine Ergebnisse, weil das Projekt relativ neu ist.<br>C Es gibt noch immer zu wenig Vermieter, die am Projekt teilnehmen wollen.<br>D Es gibt wenige Hundebesitzer, die klassifizierte Ferienhäuser mieten.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "ha-1004-a-25-1-b.pdf",
+      "media_path": "media/bijlages/ha-1004-a-25-1-b_948476e0bad8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/deb0deb7d01b47d3803d8905237560e0.pdf"
+    }
+  ]
+}

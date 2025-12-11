@@ -1,0 +1,34 @@
+{
+  "id": "vmbo_gl_geschiedenis_en_staatsinrichting_2024_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "geschiedenis_en_staatsinrichting",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 65,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bij de Pacificatie in 1917 werd de financiële gelijkstelling van het bijzonder en openbaar onderwijs ingevoerd. Dat was een belangrijk doel van een bepaalde politieke groep in Nederland. De socialisten kregen tijdens de Pacificatie ook hun zin, maar behaalden een ander doel waar ze jarenlang voor gestreden hadden.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Noem eerst een politieke groep die haar zin kreeg met de gelijkstelling van het bijzonder en openbaar onderwijs.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Noem daarna het doel dat de socialisten behaalden.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Geschiedenis en staatsinrichting 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_en_staatsinrichti_4f526b664c19.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/09443fc76e444069a8a9993ec0fca9c8.pdf"
+    }
+  ]
+}

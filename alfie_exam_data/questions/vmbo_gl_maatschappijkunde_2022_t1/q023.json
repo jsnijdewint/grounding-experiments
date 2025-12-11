@@ -1,0 +1,64 @@
+{
+  "id": "vmbo_gl_maatschappijkunde_2022_t1_q23",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "maatschappijkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 63,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bekijk afbeelding 2 en lees tekst 13.<br>De maatregel uit tekst 13 is ingegaan op 16 december 2019. Stel dat na een jaar de maatregel beoordeeld wordt op effectiviteit.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Bij welk resultaat kun je de conclusie trekken dat de maatregel uit tekst 13 effectief is?<br>Doe het zo: neem het onderstaande over en vul het antwoord aan. De maatregel is effectief als ...</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_712b7c946619.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/27c1cfe3520741b2aa540b9cc3f7b449.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><strong>tekst 11</strong><br><strong>Rechters leggen zwaardere straffen op voor ernstige misdrijven</strong><br>&nbsp;</p><p>Rechters hebben de laatste twintig jaar zwaardere straffen opgelegd. Dit blijkt uit een onderzoek van de Raad voor de rechtspraak. Vooral geweldsmisdrijven worden nu fors zwaarder bestraft. Ook vernielingen en misdrijven tegen orde en gezag worden zwaarder bestraft. Het lijkt er dus op dat de rechters reageren op de roep uit de samenleving om strengere straffen, concludeert onderzoeker Frank van Tulder.</p><p><br>naar: Trouw van 6 december 2019</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><strong>tekst 12</strong></p><p><strong>Agressieve en stelende klanten harder aangepakt</strong></p><p><br>Wie in Doetinchem tot twee keer toe agressie toont of een diefstal pleegt in een supermarkt, loopt vanaf 1 januari het risico een winkelverbod te krijgen voor twee jaar.<br>Eigenaren van elf supermarkten tekenden een overeenkomst met de politie van Doetinchem.<br>&nbsp;</p><p>naar: <a href=\"http://ad.nl\">ad.nl</a> van 11 december 2019</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_e2bd9cdb7082.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/99414996756c43abb26ccb66491aa5d5.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p><strong>tekst 13</strong><br><strong>Geldautomaten voortaan 's nachts dicht wegens plofkraken</strong></p><p><br>Geldautomaten worden per direct 's nachts buiten werking gesteld in de strijd tegen plofkraken. Tussen 23.00 uur en 07.00 uur staan automaten uit waardoor het voor criminelen lastiger wordt om tot een succesvolle kraak te komen. Dat meldt de Nederlandse Vereniging van Banken.<br>&nbsp;</p><p>naar: <a href=\"http://telegraaf.nl\">telegraaf.nl</a> van 16 december 2019</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijkunde 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijkunde_2022_I_bijla_1fd39a85b14b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b66316467c294ba1abf44a12da236a28.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "havo_biologie_2022_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 110,
+          "name": "Onderzoeken",
+          "prefix_code": 5
+        },
+        {
+          "id": 111,
+          "name": "Ontwerpen",
+          "prefix_code": 6
+        },
+        {
+          "id": 112,
+          "name": "Modelvorming",
+          "prefix_code": 7
+        },
+        {
+          "id": 113,
+          "name": "Natuurwetenschappelijk instrumentarium",
+          "prefix_code": 8
+        },
+        {
+          "id": 114,
+          "name": "Waarderen en oordelen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<ul><li>Beschrijf een onderzoeksopzet die past bij deze onderzoeksvraag.</li><li>Noteer welke meting daarbij moet worden uitgevoerd.</li></ul>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Chris Calewaert raakte tijdens zijn opleiding tot biotechnologisch ingenieur gefascineerd door okselgeur. Op een morgen werd hij wakker met een zeer onprettige geur, ondanks dat hij zich de avond ervoor nog goed had gewassen. Andere okselbacteriën hadden de overhand gekregen, mogelijk doordat hij in het bed van iemand anders had geslapen en zo met deze bacteriën in contact was gekomen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Zweetklieren in de oksels scheiden behalve water en zouten ook organische stoffen uit. Deze organische stoffen zijn een voedingsbodem voor bacteriën.<br>Ondanks dat iedereen dezelfde stoffen uitscheidt bij het zweten, kan de geur van zweet erg verschillen. De geur is afhankelijk van de soorten bacteriën die op je huid vóórkomen. In de levensgemeenschap van bacteriën in de oksel is meestal één geslacht dominant. Vaak is dat <i>Staphylococcus</i>, soms is dat <i>Corynebacterium</i>. Deze laatste produceert stinkende gassen bij de afbraak van organische stoffen.</p><p>&nbsp;</p><p>Ook Chris bleek last te hebben van <i>Corynebacterium</i>. Hij veronderstelde dat als <i>Corynebacterium </i>opeens zijn oksels kan koloniseren, andere bacteriên die géén stinkende stoffen produceren dat ook kunnen doen. Om dit te onderzoeken ontwierp hij een experiment.</p><p>&nbsp;</p><p>Chris vroeg proefpersonen zich enkele dagen niet te wassen, geen deodorant te gebruiken en gedurende die tijd wattenschijfjes onder hun oksels te dragen. Een geurpanel beoordeelde vervolgens de okselgeur bij de personen zelf (afbeelding 1), en de geur van de wattenschijfjes zonder dat de proefpersonen erbij waren.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_3fef4e34080f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c76b05b3d0af4c759b85dd974f9b9e63.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Voor het vervolg van zijn onderzoek - het transplanteren van okselbacteriën - selecteerde Chris proefpersonen bij wie Corynebacterium domineerde in de oksel. Voor elke proefpersoon zocht hij een familielid zonder slechte okselgeur als bacteriedonor. Deze donor mocht een week de oksels niet wassen en moest gedurende deze week wattenschijfjes onder de oksels dragen. Deze wattenschijfjes werden vervolgens een week gedragen door de proefpersoon, om zo te proberen de okselbacteriën te transplanteren. Om de transplantatie succesvol te laten zijn, werden de oksels van de proefpersonen drie dagen voor de transplantatie behandeld met een antibioticum.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Chris kwam uiteindelijk van zijn stinkende okselgeur af doordat hij een oud T-shirt is gaan dragen dat hij vaak aan had gehad tijdens het klussen. Door deze waarneming kreeg Chris ideeën voor vervolgonderzoek.<br>Waarschijnlijk zaten er nog oude okselbacteriën in het shirt, ondanks dat het vaak gewassen was.<br>Een mogelijke onderzoeksvraag is:<br>Wat is het effect van het gebruik van wasmiddel tijdens het wassen van kleding op het overleven van bacteriën van het geslacht <i>Corynebacterium</i>?</p>"
+    }
+  ],
+  "bijlages": []
+}

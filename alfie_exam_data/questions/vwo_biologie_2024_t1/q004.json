@@ -1,0 +1,77 @@
+{
+  "id": "vwo_biologie_2024_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 34,
+          "name": "Reproductie van het organisme",
+          "prefix_code": 7
+        },
+        {
+          "id": 35,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 43,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noteer de naam van dit proces.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het is al lang bekend dat roken tijdens de zwangerschap kan leiden tot een miskraam, een laag geboortegewicht, vroeggeboorte en nadelige gezondheidseffecten bij de baby. Amerikaanse wetenschappers van de Stanford University School of Medicine hebben een model ontwikkeld om te onderzoeken hoe nicotine een embryo beïnvloedt.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_6c733b08a416.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6097201d78184ba7829af47c61d63f3c.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Over afbeelding 1 worden de volgende uitspraken gedaan:&nbsp;<br>1 Nicotine is een antagonist van acetylcholine.<br>2 Dopamine komt via endocytose in de synapsspleet terecht.&nbsp;<br>3 Heropname van dopamine vindt plaats door dopaminereceptoren.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Nicotine wordt niet afgebroken door acetylcholinesterase, dat in de weefselvloeistof aanwezig is.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De gifstof nicotine wordt gemaakt door planten van de familie Solanaceae. In deze familie worden de grootste hoeveelheden nicotine geproduceerd door de planten van het geslacht Nicotiana.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Nicotiana-soorten die gebruikt worden voor de productie van tabak hebben hogere gehaltes aan nicotine dan wilde tabaksplanten. Dit komt door een bepaald proces waarbij door middel van kruisingen en selectie een hogere aanmaak van nicotine in deze productiesoorten is verkregen.</p>"
+    }
+  ],
+  "bijlages": []
+}

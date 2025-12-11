@@ -1,0 +1,40 @@
+{
+  "id": "vwo_scheikunde_2023_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel procent van glyfosaat aanwezig is als <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>H</mi><mi>G</mi><mi>l</mi><mi>y</mi><mi>f</mi></mrow><mo>&#8722;</mo></msup></math> bij pH = 7,00. Neem aan dat alleen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>H</mi><mi>G</mi><mi>l</mi><mi>y</mi><mi>f</mi></mrow><mo>&#8722;</mo></msup></math> en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>G</mi><mi>l</mi><mi>y</mi><mi>f</mi></mrow><mrow><mn>2</mn><mo>&#8722;</mo></mrow></msup></math> aanwezig zijn.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Glyfosaat (<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">H</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi data-mjx-auto-op=\"false\">Glyf</mi>\r\n  </mrow>\r\n</math>) wordt wereldwijd op grote schaal gebruikt als onkruidverdelgingsmiddel. In water komt glyfosaat vooral voor in de vorm van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>G</mi><mi>l</mi><mi>y</mi><mi>f</mi></mrow><mrow><mn>2</mn><mo>&#8722;</mo></mrow></msup></math> en . <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>H</mi><mi>G</mi><mi>l</mi><mi>y</mi><mi>f</mi></mrow><mo>&#8722;</mo></msup></math>De <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>K</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi>z</mi>\r\n    </mrow>\r\n  </msub>\r\n</math> van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>H</mi><mi>G</mi><mi>l</mi><mi>y</mi><mi>f</mi></mrow><mo>&#8722;</mo></msup></math> &nbsp;bedraagt <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>2</mn>\r\n  <mo>,</mo>\r\n  <mn>5</mn>\r\n  <mo>&#8901;</mo>\r\n  <msup>\r\n    <mn>10</mn>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8722;</mo>\r\n      <mn>6</mn>\r\n    </mrow>\r\n  </msup>\r\n</math>.</p><p>&nbsp;</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2023_I_uitwerkbijla_fef9b863f829.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9a46ef7a7642413db915d3023305e22a.pdf"
+    }
+  ]
+}

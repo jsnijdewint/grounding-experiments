@@ -1,0 +1,53 @@
+{
+  "id": "havo_wiskunde_b_2023_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 102,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de waarden van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi>&#160;</math>. Geef niet-gehele waarden in je eindantwoord in één decimaal.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De tienkamp is een sportwedstrijd waarbij atleten gedurende twee dagen tien atletiekonderdelen moeten afleggen. Twee onderdelen van de tienkamp zijn hoogspringen en 1500 m hardlopen.</p><p>Met formules worden de resultaten van de onderdelen omgezet in punten. Vervolgens worden alle punten die de atleet op de onderdelen heeft behaald, opgeteld. De atleet met de meeste punten wint de tienkamp.</p><p>Per onderdeel is ooit bepaald wat de ondergrens is om punten te scoren. Bij het hoogspringen was die ondergrens een hoogte van 75 cm . Daarom krijgt de atleet 0 punten als hij 75 cm of lager springt. Bij sprongen met een hoogte boven 75 cm behaalt de atleet wél punten. Bij een sprong met een hoogte van 220 cm krijgt hij 1000 punten.</p><p>Bij het hoogspringen gebruikte men tot het jaar 1920 voor sprongen vanaf 75 cm een lineaire formule van de volgende vorm:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi> <mo>=</mo> <mi>a</mi> <mo>&#8901;</mo> <mo stretchy=\"false\">(</mo> <mi>H</mi> <mo>&#8722;</mo> <mi>b</mi> <mo stretchy=\"false\">)</mo></math></p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>het aantal punten en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi>&#160;</math>de gesprongen hoogte in centimeters <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo> <mi>H</mi> <mo>&#8805;</mo> <mn>75</mn> <mo stretchy=\"false\">)</mo>&#160;</math>en zijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi>&#160;</math>constanten.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_e5ada43b6584.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4bc2a9855d874687a1cf50c88bb717b8.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde B 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2023_I_uitwerkbijla_9ba57d6520e4.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9679abc20da6403596a9f0f1d8e1d3b8.pdf"
+    }
+  ]
+}

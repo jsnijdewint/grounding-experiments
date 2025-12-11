@@ -1,0 +1,51 @@
+{
+  "id": "vwo_geschiedenis_2023_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 193,
+          "name": "Tijdvak 9 – Wereldoorlogen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 11.<br>Twee gegevens:<br>1 Deze foto wordt door de Nederlandse legervoorlichtingsdienst afgekeurd voor publicatie.<br>2 Hugo Wilmar schrijft in 1946 aan zijn ouders: \"Wat de publicatie [van zijn foto's] betreft: deze wordt zoveel mogelijk geblokkeerd en tegengegaan. Schandelijk! Het Nederlandse Volk leeft daarom in de stellige overtuiging dat we hier rustig in ons mooie Indië zitten en toch maar boffen.\"<br>Je gebruikt deze foto voor een onderzoek naar de dekolonisatieoorlog in Indonesië.<br>Licht je keuze toe door:</p><ul><li>een verklaring te geven voor het besluit van de Nederlandse legervoorlichtingsdienst deze foto voor publicatie af te keuren (gegeven 1), en</li><li>uit te leggen dat je de foto bruikbaar vindt voor je onderzoek, waarbij je je antwoord ondersteunt met gegeven 2.</li></ul>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In november 1830 stemde het Nationaal Congres van de nieuwe staat België over verschillende kwesties:<br>1 Het Congres stemde in met het voorstel dat België een monarchie werd.<br>2 Het Congres nam een grondwettelijke tekst aan met daarin de bepaling \"dat de leden van het stamhuis van Oranje-Nassau voor altijd uit alle macht of gezag in België uitgesloten zijn\".</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Hoofdredactrice Clara Zetkin schreef in 1898 in het Duitse tijdschrift Die Gleichheit (Gelijkheid): \"Een tijdschrift als Die Gleichheit kan geen beweging veroorzaken [bij vrouwelijke arbeiders] maar kan werken binnen die beweging, door scholing en aanmoediging te geven; en dat heeft Die Gleichheit gedaan. Die Gleichheit heeft als hoofddoel de vrouwelijke kameraden aan te spreken die in de frontlinie staan bij onze strijd.\" Clara Zetkin wil met Die Gleichheit de koers van de Duitse feministische beweging veranderen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2023_I_bijlage_55374cf5cbf5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5244a635b97841b7b1e77f67a3c0f38a.pdf"
+    }
+  ]
+}

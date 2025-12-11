@@ -1,0 +1,63 @@
+{
+  "id": "vmbo_gl_wiskunde_2024_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "wiskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 67,
+      "domains": [
+        {
+          "id": 162,
+          "name": "Meetkunde",
+          "prefix_code": "WI/K/6"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Een melkwagen heeft een cilindervormige tank met een diameter van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mo>,</mo> <mn>4</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math>en een lengte van 8 m .<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Bereken hoeveel tanks er per week gevuld kunnen worden met de melk van de koeien van melkveehouder Jolles. Schrijf je berekening op en rond je antwoord af op één decimaal.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_ca7cffda1cc5.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/30c6a0d9e0844eeab837c344195dc21b.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Melkveehouder Jolles heeft 450 koeien.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De koeien van melkveehouder Jolles geven samen per week 84000 liter melk.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "VMBO_2024_wiskunde_formules.pdf",
+      "media_path": "media/bijlages/VMBO_2024_wiskunde_formules_d4a6470d6aaf.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0e5082e035824e97a227270dda746c13.pdf"
+    },
+    {
+      "name": "Wiskunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_2024_I_uitwerkbijlage_468b9bf175b5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a9189e3980b41ebb0534167115da4e4.pdf"
+    }
+  ]
+}

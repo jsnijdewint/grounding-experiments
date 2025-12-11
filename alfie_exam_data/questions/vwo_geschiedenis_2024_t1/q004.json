@@ -1,0 +1,46 @@
+{
+  "id": "vwo_geschiedenis_2024_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 186,
+          "name": "Tijdvak 3 – Monniken en ridders",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Licht deze tekening toe door:&nbsp;<br> met een kenmerkend aspect uit de vroege middeleeuwen uit te leggen waardoor het waarschijnlijk is dat de maker zich baseert op een voorbeeld van een Romeinse stad bij het vervaardigen van deze tekening, en&nbsp;<br> te verklaren waardoor een boek zoals dit psalmenboek de verspreiding van het christendom bevordert.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gebruik bron 2.&nbsp;<br>De maker heeft zich bij het vervaardigen van deze tekening waarschijnlijk gebaseerd op Romeinse voorbeelden van steden.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2024_I_bijlage_57b61674271e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/293f53e566cc48c6b58f4d54b880c393.pdf"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "vwo_natuurkunde_2024_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 49,
+          "name": "Elektrische systemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 50,
+          "name": "Elektrische en magnetische velden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bepaal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>spoel&#160;</mtext></mrow></msub></math></p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_076a608423aa.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4a3cc35a82964676bc48add5f32b3726.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Sari wil een batterijtrein maken. Ze gebruikt voor de trein een batterij en een aantal sterke magneten. Als spoel gebruikt ze een lange, flexibele veer van niet-geïsoleerd koperdraad. Zie figuur 1. De batterijtrein gaat door de spoel heen bewegen. Om de batterijtrein te maken voert Sari de volgende handelingen uit:</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_780d6d3ee1fd.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/80af7c37da52490a89662807481322bd.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>figuur 2a<br>Sari plaatst aan elke kant van de batterij een setje sterke magneten. Elk setje wordt in het vervolg van deze opgave gezien als één magneet.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_1653c9512cd0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d00c6de1e2be452a90873641dba56f9c.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>figuur 2b<br>Ze schuift de voorkant van de batterijtrein in de spoel, waarbij de voorste magneet contact maakt met de spoel.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_358733a6374c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f6797ecc9e0145a391b4633d2eb8bf56.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>figuur 2c<br>Ze duwt de batterijtrein verder in de spoel totdat de achterste magneet contact maakt met de spoel.</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_970be7a19ab9.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/687a12fd88844798943862506873f7d3.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>figuur 2d<br>De batterijtrein begint uit zichzelf door de spoel te bewegen.</p>"
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>De situatie van figuur 2c staat vergroot weergegeven in figuur 3. De magneten maken contact met de spoel. Hierdoor ontstaat er een gesloten stroomkring met daarin de batterij, de magneten en het stuk van de spoel tussen de batterijpolen. Dit stuk van de spoel gedraagt zich hierdoor als een elektromagneet met een weerstand <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>spoel&#160;</mtext></mrow></msub></math>. In figuur 3 zijn de posities van beide batterijpolen met stippellijnen aangegeven. Wanneer de<br>batterijtrein gaat bewegen door de spoel, beweegt deze stroomkring mee.</p>"
+    },
+    {
+      "order": 11,
+      "type": "image",
+      "media_path": "media/in-exam/img_cdc7d08df369.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0c2223f870f740e288ff4ba15cf6d0fa.png",
+      "caption": ""
+    },
+    {
+      "order": 12,
+      "type": "text",
+      "text": "<p>De dikte van de koperdraad is 1,1 mm. De gemiddelde diameter van de spoel is 1,9 cm.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2024_I_uitwerkbijl_53e920c4cfe0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9441e6eda69e41e0ab819d8b89d60c78.pdf"
+    }
+  ]
+}

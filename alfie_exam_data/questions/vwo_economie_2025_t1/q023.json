@@ -1,0 +1,64 @@
+{
+  "id": "vwo_economie_2025_t1_q23",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Door de gedragsverandering is de helling van de IS-curve veranderd. Dit heeft effect op de effectiviteit van monetair beleid.<br>Leg uit of monetair beleid effectiever of minder effectief is geworden door de gedragsverandering.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In een land is de huidige consumptie niet duurzaam ten opzichte van wat de aarde aankan. Huishoudens besluiten hun verantwoordelijkheid te nemen en minder te consumeren. Een econoom analyseert de effecten van deze gedragsverandering met behulp van het Keynesiaanse kruis (zie figuur 1 ).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_d3fc22159507.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ff06e5540d4049c9868db5847ca5a630.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Door de gedragsverandering ontstaat een negatieve output gap. De econoom analyseert twee maatregelen: het voeren van begrotingsbeleid of monetair beleid.</p><p>De overheid kan de overheidsbestedingen verhogen. Dit heeft twee gevolgen voor het groen bbp.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De econoom wil ook analyseren of het monetaire beleid invloed heeft na de gedragsverandering. De econoom schetst daarom een nieuw model (zie figuur 2 ).</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_201331266302.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ae828739a5d547249692037b6165876f.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vw-1022-a-25-1-u.pdf",
+      "media_path": "media/bijlages/vw-1022-a-25-1-u_90e7cccc7fef.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/48e2754d6ace4abd9ac3ac8836680c67.pdf"
+    }
+  ]
+}

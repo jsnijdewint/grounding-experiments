@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 126,
+    "education_level": "vmbo_gl",
+    "discipline": "geschiedenis_en_staatsinrichting",
+    "year": 2022,
+    "tijdvak": 1
+  },
+  "question_count": 48
+}

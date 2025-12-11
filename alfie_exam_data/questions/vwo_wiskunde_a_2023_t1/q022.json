@@ -1,0 +1,76 @@
+{
+  "id": "vwo_wiskunde_a_2023_t1_q22",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 76,
+          "name": "Algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 77,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        },
+        {
+          "id": 78,
+          "name": "Standaardfuncties",
+          "prefix_code": 1
+        },
+        {
+          "id": 79,
+          "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Onderzoek met behulp van bovenstaande gegevens en met de figuur op de uitwerkbijlage of de bewering van Frank Wielaard klopt.</p>",
+    "max_score": 7,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Nigeria is een dichtbevolkt land in Afrika, met een sterke bevolkingsgroei. Tijdens het WK voetbal in 2018 was Nigeria het deelnemende land met na Brazilië de meeste inwoners en IJsland het deelnemende land met de minste inwoners. Tijdens de wedstrijd tussen IJsland en Nigeria deed de Nederlandse verslaggever Frank Wielaard de volgende uitspraak:</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“In Nigeria komen er tijdens de 26 dagen van dit WK minstens zoveel baby’s bij als het totale aantal inwoners van IJsland.”</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het is natuurlijk de vraag of deze uitspraak klopt. Om dit uit te zoeken heb je een aantal gegevens nodig. Die volgen hieronder.</p><p>&nbsp;</p><p>Ten tijde van dit WK had IJsland 341 000 inwoners. In de figuur op de uitwerkbijlage staan de inwoneraantallen van Nigeria voor de jaren 1960 tot en met 2009. Neem aan dat de bevolkingsgroei exponentieel is en dat deze exponentiële groei zich tot en met het WK van 2018 heeft voortgezet.</p><p>&nbsp;</p><p>In het jaar van dit WK heerste er in Nigeria een mannenoverschot. Dit betekent dat er meer mannen dan vrouwen waren. Per vrouw waren er 1,04 mannen.</p><p>&nbsp;</p><p>Er werden in het jaar 2018 gemiddeld 0,09 baby’s geboren per vrouw in Nigeria. Hierbij is het gemiddelde berekend over alle vrouwen, dus ook baby’s, peuters en hoogbejaarden. Neem aan dat de geboorten in Nigeria gelijkmatig over de dagen van het jaar verdeeld zijn.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_c4a05812e0a8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cf1c75f3e6924743b07261120dad2f9b.pdf"
+    },
+    {
+      "name": "Wiskunde A 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2023_I_uitwerkbijla_a9d84112fbc1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fc5ba2ce845c4c85ae53d81485ef9507.pdf"
+    }
+  ]
+}

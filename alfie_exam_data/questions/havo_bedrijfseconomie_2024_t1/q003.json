@@ -1,0 +1,88 @@
+{
+  "id": "havo_bedrijfseconomie_2024_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "bedrijfseconomie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 33,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 97,
+          "name": "Persoonlijke financiële zelfredzaamheid",
+          "prefix_code": 1
+        },
+        {
+          "id": 98,
+          "name": "De oprichting van een eenmanszaak",
+          "prefix_code": 2
+        },
+        {
+          "id": 99,
+          "name": "Van eenmanszaak naar rechtspersoon",
+          "prefix_code": 3
+        },
+        {
+          "id": 100,
+          "name": "Perspectief op de organisatie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef een reden waarom beleggen in een beleggingsfonds kan leiden tot een hoger rendement.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Ridha spaart om over 10 jaar een huis te kunnen kopen. In de afgelopen jaren heeft hij nauwelijks interest ontvangen op het spaargeld dat hij op de Direct Spaarrekening bij zijn bank had staan. Op de website van zijn bank zoekt hij naar mogelijkheden om een hoger rendement te behalen. Hij leest daar:</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_1b11957acaba.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b3e0ed8c82414a6c9f00889efd2bbcee.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Als Ridha het spaargeld voor 5 jaar vastzet op de Spaarvastrekening, loopt hij het risico dat tijdens de looptijd de interest op de markt …(1)…, terwijl de interest op de Spaarvastrekening niet verandert. Het sparen op de Spaarvastrekening is een vorm van …(2)… sparen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Ridha onderzoekt hoe groot het verschil in interestopbrengst is wanneer hij € 20.000&nbsp;<br> op de 10-jaar-Spaarvastrekening stort met een looptijd van 10 jaar; of:&nbsp;<br> eerst 5 jaar op de 5-jaar-Spaarvastrekening stort en daarna het totale bedrag inclusief interest stort op de Direct Spaarrekening waar het bedrag vervolgens 5 jaar blijft staan.&nbsp;<br><br>Ridha verwacht dat de interest op de Direct Spaarrekening de komende 10 jaar niet wijzigt.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Na verder zoeken op de website vindt hij de volgende opmerking:&nbsp;<br>Heeft u een flinke buffer op uw spaarrekening en heeft u dit bedrag niet meteen nodig? Dan kunt u proberen om meer rendement te behalen door te beleggen.<br>&nbsp;<br>Ridha kan kiezen tussen:&nbsp;<br> beleggen in een beleggingsfonds op basis van zijn risicoprofiel&nbsp;<br> zelf beleggen.&nbsp;<br><br>Ridha kiest voor beleggen in een beleggingsfonds, omdat hij daarmee een hoger rendement verwacht te behalen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_bijlag_2e10e0982197.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a7a15ca0f9d2401aa24055b39fdd0a81.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_uitwer_e1cba7355851.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/555ba55aca42476292c914bf8a9a09fe.pdf"
+    }
+  ]
+}

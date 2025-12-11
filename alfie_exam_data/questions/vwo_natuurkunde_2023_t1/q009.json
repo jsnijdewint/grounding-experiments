@@ -1,0 +1,85 @@
+{
+  "id": "vwo_natuurkunde_2023_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 46,
+          "name": "Kracht en beweging",
+          "prefix_code": 1
+        },
+        {
+          "id": 47,
+          "name": "Energie en wisselwerking",
+          "prefix_code": 2
+        },
+        {
+          "id": 48,
+          "name": "Gravitatie",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken deze snelheid. Noteer je antwoord in vier significante cijfers.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Lees de onderstaande tekst.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In de gebieden bij de Noordpool en de Zuidpool kun je vaak ’s nachts gekleurd licht zien. Dit poollicht wordt respectievelijk noorderlicht of zuiderlicht genoemd (zie figuur 1).</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_51f70ac84495.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/db039fc5ba2944b9a4b534fb92151345.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_d1f9bbbcce38.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/242a53ca88394764bb601e67e994869a.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Het poollicht wordt veroorzaakt door een zogenaamd plasma van positief geladen en negatief geladen deeltjes. Dit plasma verlaat de zon bij een zonne-uitbarsting (zie figuur 2) en bereikt 17 uur later onze dampkring. Als de deeltjes botsen met moleculen in de lucht geeft dit de spectaculaire lichtverschijnselen van het poollicht.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Het plasma moet een bepaalde minimale snelheid hebben om aan het gravitatieveld van de zon te kunnen ontsnappen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2023_I_uitwerkbijl_dcb32a1b5377.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e8c6f0ebe587432bb96bfde82bed13ab.pdf"
+    }
+  ]
+}

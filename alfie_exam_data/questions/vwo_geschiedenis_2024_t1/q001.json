@@ -1,0 +1,46 @@
+{
+  "id": "vwo_geschiedenis_2024_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [
+        {
+          "id": 243,
+          "name": "Door de tijd heen",
+          "prefix_code": "1"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zet de koningen in de juiste chronologische volgorde, van vroeger naar later. Noteer alleen de nummers.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De volgende koningen die een bijnaam hadden, staan in willekeurige volgorde:&nbsp;<br>1 De Franse koning Filips IV, die 'de Schone' werd genoemd vanwege zijn knappe uiterlijk, raakte twee jaar na de Guldensporenslag tijdens een veldslag met Vlaamse legers zwaargewond.&nbsp;<br>2 De Portugese koning Manuel I werd 'de Gelukkige' genoemd. Hij financierde onder andere de reis van Vasco da Gama, die als eerste Europeaan een zeeroute naar India ontdekte.&nbsp;<br>3 Frederik I werd 'de Winterkoning' genoemd omdat hij na een nederlaag tijdens de Dertigjarige Oorlog al na één winter moest vertrekken uit zijn koninkrijk Bohemen.&nbsp;<br>4 Joseph Bonaparte, de oudere broer van Napoleon, werd koning van Spanje. De Spanjaarden noemden hem 'Joseph het Drankorgel'.&nbsp;<br>5 Koning Harald, die 'Blauwtand' werd genoemd vanwege een rotte tand, verenigde de volken in zijn Deense rijk en bekeerde zich tot het christendom.&nbsp;<br>6 Koning Lodewijk XVI werd 'Meneer Veto' genoemd omdat hij de meeste voorstellen van het Franse parlement afwees.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2024_I_bijlage_57b61674271e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/293f53e566cc48c6b58f4d54b880c393.pdf"
+    }
+  ]
+}

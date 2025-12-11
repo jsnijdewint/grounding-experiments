@@ -1,0 +1,66 @@
+{
+  "id": "havo_nederlands_2021_t1_q28",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Hoe is de toon van tekst 2 ten opzichte van de toekomst van de journalistiek het best te omschrijven?</p><p>De toon is over het algemeen</p><p><strong>A </strong>kritisch.</p><p><strong>B </strong>lovend.</p><p><strong>C </strong>neutraal.</p><p><strong>D </strong>optimistisch.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de regels 31 tot en met 35 lijkt sprake te zijn van een bewuste woordkeuze: een verandering in het journalistieke veld wordt geplaatst naast een verandering <strong>van </strong>het journalistieke veld.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In de alinea’s 4 en 5 worden negatieve gevolgen van digitalisering voor de journalistiek beschreven.</p><p>Hieronder staan vijf omschrijvingen.</p><p>1 De verdringing van de traditionele media zal de samenleving ernstige schade toebrengen.</p><p>2 Het aantal traditionele media neemt af doordat consumenten kiezen voor nieuwe media.</p><p>3 Het nieuws op digitale media valt nauwelijks meer te controleren door de monopoliepositie van een kleine groep.</p><p>4 Omdat nieuwe media commerciële ondernemingen zijn, zal de kwaliteit van de journalistiek afnemen.</p><p>5 Voor traditionele media en hun consumenten wordt het moeilijker om elkaar te bereiken.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In tekst 2 worden “journalisten en niet-journalisten” met elkaar vergeleken. (regels 111-112).</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“In die samenwerking zal nieuwe, krachtige journalistiek ontstaan.” (regels 201-203)</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De tekst begint met de vraag: “Zullen mijn kinderen nog weten wat een journalist is?” (regels 1-2)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2021_I_bijlage_e60e6a5a7984.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dbb0cc971e994b9eb7113dc9995dc0c6.pdf"
+    }
+  ]
+}

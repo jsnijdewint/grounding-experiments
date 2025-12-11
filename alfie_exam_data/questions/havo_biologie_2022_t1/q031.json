@@ -1,0 +1,55 @@
+{
+  "id": "havo_biologie_2022_t1_q31",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Van welke vorm van immunisatie is er sprake bij poliovaccinatie? En van welke vorm van immunisatie is er sprake bij mazelenvaccinatie?</p><figure class=\"table\"><table><tbody><tr><td style=\"border-color:!important;border-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\"><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">vorm immunisatie</td></tr><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">bij poliovaccinatie</td></tr></tbody></table></figure></td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\"><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">vorm immunisatie</td></tr><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">bij mazelenvaccinatie</td></tr></tbody></table></figure></td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">A&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">actief</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">actief</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">B</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">actief</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">passief</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">C</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">passief</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">actief</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">D</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">passief</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">passief</td></tr></tbody></table></figure>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Irene heeft een dochtertje van één jaar, Kiki. Kiki is tegen een aantal ziekten gevaccineerd, waaronder polio. Afgelopen week heeft Irene de uitnodiging gekregen om Kiki te laten vaccineren tegen de bof, mazelen en rodehond. Irene twijfelt. Is het echt nodig om Kiki in te enten tegen mazelen? Ze zoekt op internet naar informatie en raadpleegt haar huisarts.</p><p>Het vaccin tegen polio bevat virusfragmenten, het vaccin tegen mazelen bevat verzwakte virussen.</p>"
+    }
+  ],
+  "bijlages": []
+}

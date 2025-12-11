@@ -1,0 +1,71 @@
+{
+  "id": "vwo_bedrijfseconomie_2023_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 6,
+          "name": "Persoonlijke financiële zelfredzaamheid",
+          "prefix_code": 1
+        },
+        {
+          "id": 7,
+          "name": "De oprichting van een eenmanszaak",
+          "prefix_code": 2
+        },
+        {
+          "id": 8,
+          "name": "Van eenmanszaak naar rechtspersoon",
+          "prefix_code": 3
+        },
+        {
+          "id": 9,
+          "name": "Perspectief op de organisatie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noem een fase uit informatiebron 1 die hoort bij effectuation. Motiveer tot welk kenmerk van effectuation deze randvoorwaarde hoort.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de informatiebronnen 1 tot en met 5.&nbsp;<br><br>Jaap de Waard en zijn dochter Ineke starten samen per 1 april 2022 de onderneming De Baddertobbe. De Baddertobbe verhuurt mobiele hottubs (verwarmde bubbelbaden voor buiten) inclusief aanhangwagen. Het was Ineke opgevallen dat vooral jongeren hiervoor veel belangstelling hebben en een mobiele hottub graag mee op vakantie willen nemen. De Baddertobbe waarvan Jaap en Ineke de eigenaren zijn, is geen rechtspersoon.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In informatiebron 1 staat een aantal randvoorwaarden die Jaap en Ineke stellen bij de oprichting van hun bedrijf. Bij het oprichten van hun onderneming is sprake van effectuation.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2023_I_bijlag_d64fcf93e008.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2763f88cc19e45ebafaa21f3ba086d88.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2023_I_uitwer_9a6536b72e12.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a2433ed1fec3429b8d8cd024f74ceb08.pdf"
+    }
+  ]
+}

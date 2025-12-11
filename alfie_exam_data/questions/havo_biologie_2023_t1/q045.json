@@ -1,0 +1,67 @@
+{
+  "id": "havo_biologie_2023_t1_q45",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In welke volgorde passeert het calcium-ion deze delen op de kortste weg van de nierslagader tot en met het uitplassen? Noteer de nummers in de juiste volgorde.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De vader van Sem heeft last van nierstenen. Daarom zoekt Sem naar informatie over het voorkómen en behandelen ervan. Hierbij komt hij een artikel tegen van Amerikaanse wetenschappers die onderzochten of een ritje in de achtbaan helpt om nierstenen uit te plassen.</p><p>Nierstenen (afbeelding 1) ontstaan wanneer calciumzouten in de urine slecht oplossen en vervolgens kristallen vormen die steeds groter worden. Kleine nierstenen worden gewoon uitgeplast, maar grotere kunnen vast blijven zitten.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_31bf0416f1fb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2a3d4fc333ee4cc5b9009484f31fa5f6.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Calcium-ionen worden via de nieren uitgescheiden.<br>Een aantal delen van het uitscheidingsstelsel die door een calcium-ion gepasseerd worden zijn:<br>1 blaas<br>2 glomerulus<br>3 nierbuisje<br>4 urinebuis<br>5 urineleider<br>6 verzamelbuisje</p>"
+    }
+  ],
+  "bijlages": []
+}

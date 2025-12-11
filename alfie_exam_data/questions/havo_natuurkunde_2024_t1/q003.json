@@ -1,0 +1,90 @@
+{
+  "id": "havo_natuurkunde_2024_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 133,
+          "name": "Kracht en beweging",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:&nbsp;</p><p>- Teken in de figuren op de uitwerkbijlage de armen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>F</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi mathvariant=\"normal\">w</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n</math> en <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>F</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>duwboten </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math>.&nbsp;</p><p>- Leg met behulp van de hefboomwet uit of om 19.00 uur de totale duwkracht <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>F</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>duwboten </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math> groter was dan <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>F</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi mathvariant=\"normal\">w</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n</math>, kleiner was dan <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>F</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi mathvariant=\"normal\">w</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n</math> of even groot was als <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>F</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi mathvariant=\"normal\">w</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n</math>.</p>",
+    "max_score": 3,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_190d7c08ddca.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/926ab47019334fe092496629f67590fd.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 2017 liep een groot containerschip op de oever van de Schelde. Een onderzoeker deed onderzoek naar dit ongeluk. Hij zag dat het schip over een afstand van 50% van zijn lengte op de oever was geschoven. Zie figuur 1. Op internet zijn de gegevens van het schip te vinden. Zie figuur 2.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_848039f7b021.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c857ea8349994d32936cbfcabd3302eb.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_e04e1ee85eec.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/31d97d7bd6414abf8b080316f47161fb.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Van ieder schip wordt elke 2 minuten de positie bijgehouden. Met deze informatie bepaalde de onderzoeker de snelheid van het schip voor het ongeluk. Die bleek <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>7</mn>\r\n  <mo>,</mo>\r\n  <mn>1</mn>\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext> </mtext>\r\n      <mi data-mjx-auto-op=\"false\">ms</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8722;</mo>\r\n      <mn>1</mn>\r\n    </mrow>\r\n  </msup>\r\n</math> te zijn. Hij ging ervan uit dat de wrijvingskracht op het schip tijdens het vastlopen op de oever constant was. Hij berekende dat die wrijvingskracht <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>2</mn>\r\n  <mo>,</mo>\r\n  <mn>1</mn>\r\n  <mo>&#8901;</mo>\r\n  <msup>\r\n    <mn>10</mn>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>7</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mtext> </mtext>\r\n    <mi mathvariant=\"normal\">N</mi>\r\n  </mrow>\r\n</math> was.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Met de gegevens uit figuur 2 kan de maximale kracht van de motor berekend worden. De onderzoeker concludeerde uit deze berekening dat de wrijvingskracht te groot was en het schip met de eigen motor niet los kon komen van de oever.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Er werden duwboten ingezet om het schip los te duwen van de oever. Zie figuur 3. De duwboten duwden eerst het schip aan de achterkant opzij. Het schip is hierbij als hefboom te beschouwen. Om 19.00 uur begonnen de duwboten te duwen, het schip lag toen nog stil. Een paar minuten later begon het schip om een punt te draaien dat met D is aangegeven.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_abac71d7d2cf.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cdea8ce324c348fabf23d9503cbcc6d2.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Op de uitwerkbijlage is de situatie van 19.00 uur, zoals getekend in figuur 3, vergroot weergegeven. In de figuren op de uitwerkbijlage zijn het aangrijpingspunt W van de wrijvingskracht <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>F</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi mathvariant=\"normal\">w</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n</math> en het aangrijpingspunt B van de totale duwkracht <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>F</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>duwboten </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math> weergegeven.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2024_I_uitwerkbijl_183c8a842092.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d36e010b434c4896854f0afb7f3f861d.pdf"
+    }
+  ]
+}

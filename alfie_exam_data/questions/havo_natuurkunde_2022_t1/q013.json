@@ -1,0 +1,82 @@
+{
+  "id": "havo_natuurkunde_2022_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 136,
+          "name": "Zonnestelsel en heelal",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Tot welk deel van het elektromagnetisch spectrum behoort deze straling?<br><strong>A </strong>gammastraling<br><strong>B </strong>röntgenstraling<br><strong>C </strong>UV-straling<br><strong>D </strong>zichtbaar licht</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Lees het volgende artikel.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In een elektrisch apparaat zitten onderdelen zoals weerstanden en diodes. Vroeger werden die onderdelen op een kunststof plaat met koperen geleiders bevestigd. Zo'n plaat wordt een printplaat genoemd. Zie figuur 1.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_1c23f3e151f3.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/33d60e8bb91d45f48ad8147ec6e58155.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Tegenwoordig worden printplaten vaak vervangen door 'integrated circuits' (IC's). Zie figuur 2.<br>In een IC zijn met behulp van licht microscopisch kleine patronen gemaakt. Deze patronen werken hetzelfde als onderdelen en geleiders op een printplaat, maar een IC is veel kleiner.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_758c0d905ad2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b27e4fedafd243c7ac1bafe92beb287c.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>IC's worden met meerdere tegelijk gemaakt door een ronde plaat te 'belichten'. Zie figuur 3. Dit proces heet lithografie. De IC's worden daarna uit deze plaat gesneden. Voor het belichten wordt een stralingsbron gebruikt met een golflengte van 193 nm .</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_d730f9b62b1a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b17a75269c44481cbd50be1bf0b2ed9f.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2022_I_uitwerkbijl_81c84d6bcda8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5d2d7ab14a724c268e292e7f96ede649.pdf"
+    }
+  ]
+}

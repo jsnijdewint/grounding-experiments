@@ -1,0 +1,56 @@
+{
+  "id": "havo_economie_2023_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 73,
+          "name": "Markt",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 2.<br>Toon met een berekening aan dat de VS bij de nieuwe prijs niet winstgevend kunnen produceren, terwijl zij dat bij de oude prijs wel konden.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De oliemarkt is een wispelturige markt, dit werd goed zichtbaar kort na de uitbraak van het coronavirus in 2020.</p><p>Uit een krant, maart 2020:<br>Een gigantische klap voor de olieprijs: binnen één dag met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> gedaald naar US$ 30 per vat ruwe olie. Voor deze historische prijsdaling zijn twee belangrijke oorzaken. Ten eerste werd in China - vanwege een uitbraak van het coronavirus - een groot deel van de industrie tijdelijk stilgelegd. China is 's werelds grootste importeur van olie. Ten tweede is tussen Rusland en Saoedi-Arabië een concurrentiestrijd om meer marktaandeel uitgebroken. Er is sprake van een beperkt aantal aanbieders die de oliemarkt domineren, namelijk Rusland, Saoedi-Arabië en de Verenigde Staten (VS).</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Het gevecht om marktaandeel kan opgevat worden als een simultaan spel.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De dalende olieprijzen waren aanleiding voor Saoedi-Arabië en Rusland om met elkaar in overleg te gaan. De Saoedische minister van Energie stelde: \"We bevinden ons in een gevangenendilemma. Daarom stel ik voor dat we afspraken maken over de maximale hoeveelheid olie die we aanbieden om zo de prijzen te verhogen.\"</p><p>De Russische minister van Energie reageerde op zijn Saoedische collega: \"Laten we wachten met afspraken maken tot de VS hebben gereageerd op de prijsdaling. Als de VS de huidige productie handhaven, kunnen zij bij een prijsdaling van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> naar US$ 30 per vat niet winstgevend produceren, terwijl zij dat bij de oude prijs wel konden. Ik verwacht dat de VS de oliemarkt zullen verlaten, zodat de concurrentie op lange termijn wordt beperkt.\"</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2023_I_bijlage_eaf186f81c74.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/723bbf20b7c0415f956f8db16a4c63fd.pdf"
+    }
+  ]
+}

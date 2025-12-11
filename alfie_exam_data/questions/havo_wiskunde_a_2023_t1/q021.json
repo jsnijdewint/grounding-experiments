@@ -1,0 +1,75 @@
+{
+  "id": "havo_wiskunde_a_2023_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 174,
+          "name": "Rekenen",
+          "prefix_code": 1
+        },
+        {
+          "id": 175,
+          "name": "Algebra",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Onderzoek of Nicolette en Fouad het huis in Den Haag wel of niet zullen kopen.</p>",
+    "max_score": 7,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Als je een huis koopt, word je normaal gesproken niet alleen eigenaar van het huis, maar ook van de grond waar het huis op staat.<br>Voor de betaling sluit de koper meestal een hypotheek af. Dit is een lening die in maandelijkse termijnen met rente moet worden terugbetaald binnen een afgesproken termijn, de zogenoemde <strong>looptijd</strong>.</p><p>Soms wil een koper een huis kopen waarvoor de bank geen hypotheek wil geven omdat het huis eigenlijk te duur is voor de koper. In zo'n geval kan de koper besluiten tot duo-koop. Je koopt dan wel het huis, maar niet de grond. De maandelijkse hypotheekkosten zijn dan lager, maar er moet dan ook een maandelijks bedrag voor het huren van de grond worden betaald.</p><p>Bij duo-koop wordt de huurprijs van de grond bepaald aan de hand van twee percentages:</p><ul><li>G: het grondpercentage, dat is de procentuele waarde van de grond ten opzichte van de prijs van huis en grond samen.</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi>&#160;</math>: het huurpercentage, dat is het percentage van de waarde van de grond dat jaarlijks aan huur voor de grond betaald moet worden.<br>Bijvoorbeeld: voor een huis dat inclusief de grond <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>200000</mn>&#160;</math>€ kost en waarvoor geldt dat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>G</mi> <mo>=</mo> <mn>25</mn>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi> <mo>=</mo> <mn>6</mn>&#160;</math>, is de waarde van de grond <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>50000</mn>&#160;</math>€ en zal bij duo-koop de huur van de grond <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>3000</mn>&#160;</math>€ per jaar, dus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>250</mn>&#160;</math>€ per maand zijn.</li></ul><p>Nicolette en Fouad willen een huis kopen in Den Haag. Het huis kost inclusief de grond <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>240000</mn>&#160;</math>€. Ze willen hiervoor een hypotheek afsluiten met een looptijd van 30 jaar. In de tabel staat een aanbieding van een bank voor beide manieren van kopen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_495e29f86d16.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/42f8615a2e0c454a939c77e3d967fb43.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_df545ae6ac35.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/735a90038f8f42c89637a62d68e8ad2b.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De hypotheekkosten en de huurprijs van de grond veranderen niet tijdens de looptijd. We nemen aan dat de percentages <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>G</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi>&#160;</math>ook niet veranderen tijdens de looptijd.</p><p>Het huis en de grond worden in de loop van de 30 jaar meer waard. We nemen aan dat de waarde van zowel het huis als de grond jaarlijks met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>toeneemt.</p><p>Nicolette en Fouad overwegen het huis met duo-koop te kopen. Daarmee zijn de maandelijkse kosten lager dan bij de gewone koop.</p><p>Na de looptijd van 30 jaar verwachten ze voldoende geld te hebben om de grond alsnog te kopen, uiteraard voor de prijs die de grond op dat moment waard is. Dit zal betekenen dat de totale kosten over de looptijd van 30 jaar bij duo-koop hoger zullen zijn dan bij gewone koop.</p><p>Nicolette en Fouad willen het huis met duo-koop kopen als de totale kosten daarbij minder dan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>100000</mn>&#160;</math>€ hoger zijn dan bij gewone koop. Als dat niet zo is, gaat de koop niet door.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_4d920bc20d74.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7821571e97b2424c93d593bf5c1c1549.pdf"
+    },
+    {
+      "name": "Wiskunde A 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2023_I_uitwerkbijla_f478d7116e2f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/005ba0b28db44fed93da1d9c9f1c636a.pdf"
+    }
+  ]
+}

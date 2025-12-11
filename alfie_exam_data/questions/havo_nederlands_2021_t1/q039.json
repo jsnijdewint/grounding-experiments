@@ -1,0 +1,83 @@
+{
+  "id": "havo_nederlands_2021_t1_q39",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [
+        {
+          "id": 88,
+          "name": "Argumentatieve vaardigheden",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit welke standpunten dat zijn. Geef antwoord in een of meer volledige zinnen en gebruik voor je antwoord niet meer dan 40 woorden.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de eerste twee alinea's van tekst 4 worden twee groepen dieren tegenover elkaar geplaatst.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>\"Met deze praktische oplossing verdwijnt echter de lol van het leven.\" (regels 18-19)</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de alinea's 7 tot en met 9 is sprake van een standpunt en argumentatie, die in schemavorm als volgt is weer te geven. Daarbij is een aantal plekken bewust leeg gelaten.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_c3f24278a623.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8be8acc1a25a421a86705a96db40b62d.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Het slot van een tekst kan verschillende onderdelen bevatten, zoals<br>1 een conclusie<br>2 een samenvatting<br>3 een toekomstverwachting<br>4 een uitsmijter</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p><strong>tekstfragment 1</strong></p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p><strong>(1)</strong> Ik heb een simpel voorstel: we schuiven het idee van een universeel basisinkomen op de lange baan. Dat wil zeggen: het wordt geen basisinkomen voor iedereen (arm én rijk). Dan hoeven we ons veel minder zorgen te maken over de betaalbaarheid.<br><strong>(2)</strong> Natuurlijk, er zijn goede argumenten om wel voor de universele variant te kiezen. Het belangrijkste is dat er geen stigma meer zou zijn op het ontvangen van deze 'uitkering' (iedereen krijgt haar immers). Om deze reden was ik een tijd een pleitbezorger van gratis geld voor iedereen.<br><strong>(3)</strong> Maar in de afgelopen maanden ben ik ervan overtuigd geraakt dat de praktische bezwaren voorlopig nog te groot zijn. Met een universeel basisinkomen zouden we namelijk een grote rondpompmachine moeten optuigen: miljoenen mensen zouden een basisinkomen krijgen én duizenden euro's aan extra belastingen moeten ophoesten. Met de invoering van een universeel basisinkomen zouden bepaalde belastingtarieven oplopen naar 70 procent, of misschien nog hoger. Van de 10 verdiende euro's zou je er nog maar twee of drie mogen houden. Het zou goed kunnen dat mensen in zo'n geval zeggen: laat maar, ik ga niet extra werken. Of sterker nog: ik ga veel minder werken.<br>&nbsp;</p><p><i>naar: Rutger Bregman op De </i><a href=\"http://Correspondent.nl\"><i>Correspondent.nl</i></a></p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Tekstfragment 1 en tekst 4 nemen principieel verschillende standpunten in over het basisinkomen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2021_I_bijlage_e60e6a5a7984.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dbb0cc971e994b9eb7113dc9995dc0c6.pdf"
+    }
+  ]
+}

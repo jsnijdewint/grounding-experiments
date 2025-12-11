@@ -1,0 +1,40 @@
+{
+  "id": "vwo_engels_2023_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "engels",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 1,
+      "domains": [
+        {
+          "id": 24,
+          "name": "Leesvaardigheid",
+          "prefix_code": "A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>How is the subject of this article introduced in paragraph 1?&nbsp;<br>A by asserting that Americans consider perseverance to be overrated&nbsp;<br>B by explaining why willpower alone is not enough to prosper in life&nbsp;<br>C by presenting a view on determination that certain people adhere to&nbsp;<br>D by suggesting that American educators need psychological support</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Engels 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2023_I_bijlage_cf636fb4a0f0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b2bab76591f14404a5919f1dfcf63408.pdf"
+    }
+  ]
+}

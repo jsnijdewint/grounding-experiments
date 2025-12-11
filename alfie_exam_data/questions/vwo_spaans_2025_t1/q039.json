@@ -1,0 +1,34 @@
+{
+  "id": "vwo_spaans_2025_t1_q39",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "spaans",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 19,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Lees alinea 4.<br>In deze alinea wordt een aantal Spaanse gewoontes genoemd. Noteer het nummer van de gewoonte die niet genoemd wordt op het antwoordblad.<br>1 Spanjaarden bereiden 's avonds laat nog een maaltijd.<br>2 Spanjaarden blijven na het eten aan tafel nog een tijdje napraten.<br>3 Spanjaarden eten niet tijdens het lopen.<br>4 Spanjaarden gaan rustig zitten ontbijten.<br>5 Spanjaarden kijken je raar aan als je op straat een trainingspak draagt.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "vw-1005-a-25-1-b.pdf",
+      "media_path": "media/bijlages/vw-1005-a-25-1-b_9179e3584a31.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/91d4d7d08fc340209edfd5208c543de0.pdf"
+    }
+  ]
+}

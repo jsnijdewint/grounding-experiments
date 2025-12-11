@@ -1,0 +1,46 @@
+{
+  "id": "havo_engels_2022_t1_q35",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "engels",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 28,
+      "domains": [
+        {
+          "id": 79,
+          "name": "Leesvaardigheid",
+          "prefix_code": "A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>What does Dr McKay-Brown (paragraph 6) point out about facial recognition?<br><strong>A </strong>It may well cause a decline in certain pupils' attendance.<br><strong>B</strong> It should be used to monitor certain pupils more carefully.<br><strong>C </strong>It will encourage certain pupils to misbehave at school.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>\"the consequences of a poor moment captured by facial recognition can be ruinous\" (alinea 5)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Engels 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2022_I_bijlage_2ef595049e9a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/407e5d12769249eda6e9de9eee380d0f.pdf"
+    }
+  ]
+}

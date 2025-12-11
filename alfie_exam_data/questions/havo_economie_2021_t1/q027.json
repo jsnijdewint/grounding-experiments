@@ -1,0 +1,46 @@
+{
+  "id": "havo_economie_2021_t1_q27",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 75,
+          "name": "Samenwerken en onderhandelen",
+          "prefix_code": "F"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 1.<br>Op welke wijze probeert de overheid met de nieuwe wetgeving haar klimaatdoelstelling alsnog te bereiken? Licht je antwoord toe.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Nederland heeft ruim acht miljoen personenauto's, die kunnen worden ingedeeld in de volgende categorieën:</p><ul><li>auto's die volledig elektrisch rijden (stekkerauto's);</li><li>auto's die uitsluitend op fossiele brandstof (benzine, gas en diesel) rijden;</li><li>hybride auto's die zowel op elektriciteit als op fossiele brandstof kunnen rijden.<br>&nbsp;</li></ul><p>uit een tijdschrift, december 2016:<br>Ruim een miljoen Nederlanders rijden een 'auto van de zaak', beter bekend als een zakelijke leaseauto. Een leaseauto is een auto die tegen een vaste vergoeding voor langere tijd ter beschikking wordt gesteld aan een gebruiker. Bij zakelijke lease betaalt de werkgever de volledige rekening van het leasen, inclusief kosten van onderhoud, brandstof, verzekering en wegenbelasting. De werknemer hoeft dan zelf niets meer te betalen voor het gebruik van de auto. De werknemer moet wel extra inkomstenbelasting betalen over een bepaald percentage van de waarde van de leaseauto, de zogenaamde fiscale bijtelling.</p><p>De overheid heeft de afgelopen jaren de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-uitstoot van fossiele brandstoffen proberen te beperken via lagere fiscale bijtellingen voor elektrische en hybride leaseauto's. Als gevolg van dit belastingvoordeel worden er fors meer hybride auto's geleaset. Toch blijven leaserijders met een hybride leaseauto nog te veel op fossiele brandstoffen rijden in plaats van op elektriciteit, omdat er met een volle tank nu eenmaal meer kilometers kunnen worden gereden dan met een volle batterij. De overheid heeft besloten om, vanwege het tegenvallende klimaateffect van de stimuleringsmaatregel, de fiscale bijtellingen voor de periode 2017-2020 via nieuwe wetgeving aan te passen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2021_I_bijlage_78b2ccc4e0ab.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e553e4fb92dd414ba69c047a982b4e48.pdf"
+    }
+  ]
+}

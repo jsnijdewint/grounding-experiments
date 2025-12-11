@@ -1,0 +1,40 @@
+{
+  "id": "vmbo_gl_geschiedenis_en_staatsinrichting_2022_t1_q28",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "geschiedenis_en_staatsinrichting",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 65,
+      "domains": [
+        {
+          "id": 136,
+          "name": "Historisch overzicht vanaf 1900",
+          "prefix_code": "GS/K/10"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Tijdens de Tweede Wereldoorlog solliciteerde iemand naar de functie van burgemeester van een Nederlandse stad. Hij werd benoemd en beloofde zich aan de Duitse regels te houden. Toen de bezetter opdracht gaf om Joden te deporteren, hielp de burgemeester enkele Joden onder te duiken. In 1943 diende de burgemeester zijn ontslag in bij de bezetter, maar toen moest hij zelf tot het einde van de oorlog onderduiken.<br>Sommige mensen vinden dat de burgemeester 'goed' was in de oorlog. Anderen vinden dat hij 'fout' was.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Geef voor beide meningen een argument.<br>Doe het zo:<br>De burgemeester was 'goed' in de oorlog, omdat ... (geef een argument). De burgemeester was 'fout' in de oorlog, omdat ... (geef een argument).</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Geschiedenis en staatsinrichting 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_en_staatsinrichti_d97a81606872.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a82c2a3d929949f1803bcca598ae713f.pdf"
+    }
+  ]
+}

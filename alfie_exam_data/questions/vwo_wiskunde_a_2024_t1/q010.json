@@ -1,0 +1,61 @@
+{
+  "id": "vwo_wiskunde_a_2024_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 78,
+          "name": "Standaardfuncties",
+          "prefix_code": 1
+        },
+        {
+          "id": 79,
+          "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken met hoeveel procent het percentage drie(-plus)lingen in 1991 is toegenomen ten opzichte van het percentage drie(-plus)lingen in 1980. Geef je antwoord in gehele procenten.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een vrouw bevalt na een zwangerschap meestal van één kind. Een <strong>meerling</strong>, dat zijn twee of meer kinderen die uit één zwangerschap geboren worden, komt van nature weinig voor.</p><p>&nbsp;Een drieling is een meerling van drie kinderen. Een drieling kan op drie manieren ontstaan:&nbsp;</p><p>- uit één eitje: in dat geval zijn de drie kinderen van een drieling genetisch identiek en dus van hetzelfde geslacht. We spreken dan van een eeneiige drieling.&nbsp;</p><p>- uit twee eitjes: in dat geval zijn twee kinderen genetisch identiek en dus van hetzelfde geslacht, maar het derde kind is genetisch verschillend (en kan van hetzelfde of verschillend geslacht zijn). We spreken dan van een twee-eiige drieling.&nbsp;</p><p>- uit drie eitjes: in dat geval zijn alle drie de kinderen onderling genetisch verschillend. We spreken dan van een drie-eiige drieling.&nbsp;</p><p>We gaan er in deze opgave verder van uit dat een kind bij de geboorte altijd een jongen of een meisje is.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Bij de opkomst van de zogeheten IVF-techniek1) eind jaren tachtig van de vorige eeuw werden vaak meerdere bevruchte eicellen teruggeplaatst om de slagingskans van IVF te vergroten. Hierdoor nam in verhouding het aantal drie(-plus)lingen (een meerling van drie of meer kinderen) ook toe.</p><p>&nbsp;In 1980 waren er in Nederland 180 517 geboorten, waarvan slechts 25 van een drie(-plus)ling. In 1991 waren er in Nederland van de 196 698 geboorten 124 drie(-plus)linggeboorten.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde A 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2024_I_uitwerkbijla_10eda6c4e39f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0fd4a0d092ea4f26ae0c6203b7f1dbf1.pdf"
+    },
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_50ee8ab18ba5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d7f2659ec4da481880d7347b05791af4.pdf"
+    }
+  ]
+}

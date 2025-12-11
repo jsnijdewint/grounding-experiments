@@ -1,0 +1,116 @@
+{
+  "id": "vwo_biologie_2024_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 19,
+          "name": "Onderzoeken",
+          "prefix_code": 5
+        },
+        {
+          "id": 20,
+          "name": "Ontwerpen",
+          "prefix_code": 6
+        },
+        {
+          "id": 21,
+          "name": "Modelvorming",
+          "prefix_code": 7
+        },
+        {
+          "id": 22,
+          "name": "Natuurwetenschappelijk instrumentarium",
+          "prefix_code": 8
+        },
+        {
+          "id": 23,
+          "name": "Waarderen en oordelen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beargumenteer dat de onderzoekers deze kop niet als conclusie zullen hebben gepresenteerd.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In het voorjaar van 2018 kwamen er verontrustende berichten over opvallend veel dode koolmeesjongen in nestkasten. Ook Henriëtte had zo’n nestje met dode koolmezen in de tuin.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_8f775272ba3a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cd2f0b49fb85425784fdf78eb62d61f3.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Veel insectenbestrijdingsmiddelen behoren tot de pyrethroïden. Deze stoffen verhinderen het sluiten van de spannings-afhankelijke Na+-kanalen in de uitlopers van neuronen. Over het effect van pyrethroïden op een neuron worden de volgende uitspraken gedaan:&nbsp;<br>1 Door pyrethroïden ontstaan er constant nieuwe impulsen in de axonen.&nbsp;<br>2 Doordat de Na+-kanalen niet sluiten, treedt hyperpolarisatie op.&nbsp;<br>3 De oorspronkelijke rustpotentiaal wordt niet meer bereikt.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In het voorjaar van 2019 hebben onderzoekers van het Centrum voor Landbouw en Milieu 41 nesten met dode jonge koolmezen onderzocht op aanwezigheid van diverse bestrijdingsmiddelen in de koolmezen. Er waren nesten uit stedelijke gebieden waar bestrijdingsmiddelen tegen de buxusmot waren gebruikt, uit stedelijke gebieden waar dit niet was gebeurd, en uit bossen. In <strong>geen</strong> van de 41 onderzochte nesten werden de insecticiden aangetroffen die werden gebruikt tegen de buxusmot. In tabel 1 zijn de bestrijdingsmiddelen weergegeven die <strong>wel</strong> werden aangetroffen in de dode koolmezen op de verschillende plaatsen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_87e91862db22.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8201e68dbf85413ab400bcdfd676740b.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Verontrustend was de aanwezigheid van DDT in veel van de dode jonge koolmezen. DDT is al meer dan 50 jaar een verboden stof in Nederland. Deze gegevens laten zien hoe slecht afbreekbaar dit gif is.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De onderzoekers troffen in de koolmezen uit één nest de herbicide fluroxypyr meptyl aan.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Veel van de insecticiden uit tabel 1 worden gebruikt als bestrijdingsmiddel tegen vlooien en teken bij honden en katten. Henriëtte ontvlooit haar hond elke vier weken met zo’n middel. Misschien hebben jonge koolmezen in haar tuin de gifstoffen via de huid opgenomen na contact met de haren van de hond. Koolmezen gebruiken haren namelijk als binnenbekleding van het nest (afbeelding 2).</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_7d700d2cefc7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/eaf80fe95f1b49168ad8eeae7a83556e.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Gifstoffen kunnen echter veel gemakkelijker via de darm worden opgenomen dan via de huid.</p>"
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Het Centrum voor Landbouw en Milieu heeft ook de haren uit nestjes met dode koolmeesjongen onderzocht. De gevonden haren bleken permethrin, DEET, fipronil en imidacloprid te bevatten. Een landelijk dagblad publiceerde na dit onderzoek een artikel met de volgende kop: <strong>“Koolmeesjes sterven massaal door vlooien- en tekengif”</strong> Toen Henriëtte dat las voelde ze zich weer schuldig aan de dood van de koolmeesjongen.</p>"
+    }
+  ],
+  "bijlages": []
+}

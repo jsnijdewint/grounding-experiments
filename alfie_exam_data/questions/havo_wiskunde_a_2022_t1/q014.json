@@ -1,0 +1,105 @@
+{
+  "id": "havo_wiskunde_a_2022_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 181,
+          "name": "Presentaties van data interpreteren en beoordelen",
+          "prefix_code": 1
+        },
+        {
+          "id": 182,
+          "name": "Data verwerken",
+          "prefix_code": 2
+        },
+        {
+          "id": 183,
+          "name": "Data en verdelingen",
+          "prefix_code": 3
+        },
+        {
+          "id": 184,
+          "name": "Statistische uitspraken doen",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bepaal met behulp van het formuleblad of dit verschil gering, middelmatig of groot is.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In veel dorpen geldt een snelheidslimiet van 30 of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">km</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">uur</mi>&#160;</mrow></math>. Niet elke automobilist houdt zich hieraan en dit kan onveilige situaties opleveren. Daarom kan iedereen onveilige verkeerssituaties melden bij Veilig Verkeer Nederland (VVN). Als men bij VVN het vermoeden heeft dat het om een gegronde melding gaat, dan gaan vrijwilligers op pad om de snelheid van passerende automobilisten te meten.</p><p>&nbsp;</p><p>Vanuit het dorp Borssele is zo'n melding binnengekomen over de Monsterweg. Vervolgens is op een dinsdagochtend tussen 7 en 9 uur op deze weg de snelheid van 250 passerende automobilisten gemeten. Aan de hand van de resultaten van deze steekproef wil men een uitspraak doen over het percentage automobilisten dat in een willekeurige week op deze weg te hard rijdt.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Er wordt een nieuwe steekproef op de Monsterweg gehouden die wel representatief is. Op deze weg, waar de snelheidslimiet <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">km</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">uur</mi>&#160;</mrow></math>is, is de snelheid van 169 auto's gemeten.<br>Ook wordt er een representatieve steekproef gehouden op de Noordsingel in Borssele. Op deze weg, waar de snelheidslimiet <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">km</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">uur</mi>&#160;</mrow></math>is, is de snelheid van 100 auto's gemeten.<br>De resultaten van de twee steekproeven zijn weergegeven in de figuur.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_ff59196039b4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7abbfc8770d44faf97f6f3328582dc12.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De situatie op de Noordsingel is zorgwekkend: er waren maar weinig automobilisten die zich aan de snelheidslimiet hielden. Men wil het <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>95</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>-betrouwbaarheidsinterval berekenen van het percentage automobilisten op de Noordsingel dat te hard rijdt.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Piet wil een diagram maken met de gegevens van de Monsterweg uit de figuur. Hij overweegt de volgende drie diagrammen:</p><ul><li>een boxplot</li><li>een spreidingsdiagram (puntenwolk)</li><li>een cumulatieve relatieve frequentiepolygoon</li></ul><p>Hij wil dat uit het diagram af te lezen is hoe groot het percentage van de automobilisten is dat zich aan de snelheidslimiet houdt.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Voor de Monsterweg wordt onderzocht of een groter deel van de automobilisten zich aan de snelheidslimiet houdt als er matrixborden langs de weg worden geplaatst die de maximumsnelheid aangeven. Zie de foto.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_939dc7a8f6cf.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b1c605d752d24fb7a76c06f5decc9263.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>In het eerdere onderzoek (situatie zonder matrixborden) van VVN hielden 111 van de 169 automobilisten op de Monsterweg zich aan de snelheidslimiet. In het vervolgonderzoek, waarin er matrixborden geplaatst waren, hielden 183 van de 213 automobilisten zich aan de snelheidslimiet.<br>In de twee onderzoeken is het deel van de automobilisten dat zich aan de snelheidslimiet houdt dus verschillend.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_47358876a1f1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/481e05ea1b3d4f8abbc66849e31c4129.pdf"
+    },
+    {
+      "name": "Wiskunde A 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2022_I_uitwerkbijla_ed3f16cbc21f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7a0c7f08da744830b81b66f1bba66954.pdf"
+    }
+  ]
+}

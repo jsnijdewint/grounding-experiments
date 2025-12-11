@@ -1,0 +1,73 @@
+{
+  "id": "vwo_wiskunde_a_2023_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 76,
+          "name": "Algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 77,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Onderzoek hoeveel verschillende weekindelingen hij kan maken.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Begin deze eeuw deed de bioloog Yunsheng Ma samen met andere biologen onderzoek naar het verband tussen het lichaamsgewicht, de hoeveelheid lichaamsbeweging en het eetpatroon tijdens feestdagen van een groep Amerikanen.</p><p>&nbsp;</p><p>Bij het onderzoek naar de invloed van beweging op het lichaamsgewicht speelt de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>M</mi><mi>E</mi><mi>T</mi><mo>-</mo><mi>w</mi><mi>a</mi><mi>a</mi><mi>r</mi><mi>d</mi><mi>e</mi></mrow><mrow><mn>1</mn><mo>)</mo></mrow></msup></math> een rol. De MET-waarde is een eenheid voor de hoeveelheid energie die een bepaalde fysieke activiteit kost ten opzichte van de hoeveelheid benodigde energie in rust. Eén MET komt overeen met de ruststofwisseling, de hoeveelheid energie die verbruikt wordt tijdens stilzitten. De MET-waarde van lichamelijke activiteiten varieert van 0,9 MET (tijdens slaap) tot 18 MET (bij zware inspanning). In de tabel is voor een aantal activiteiten de MET-waarde voor volwassen mannen weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2e537f283493.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a8af1515ce3f4b65a48f3c232e2ac355.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Met behulp van de MET-waarde en de duur van de activiteit kan het aantal MET-minuten of MET-uren van een activiteit berekend worden. Als een volwassen man bijvoorbeeld 45 minuten lang rustig fietst, dan zegt men ook wel dat hij 180 MET-minuten of 3 MET-uren heeft uitgevoerd. Dit gebruikt men om de mate van lichaamsbeweging te beschrijven.</p><p>&nbsp;</p><p>Een volwassen man wandelt wekelijks met een snelheid van 4 km/uur in 2 uur een rondje van 8 km. Hij wil meer MET-uren realiseren en besluit om hetzelfde rondje met een snelheid van 6 km/uur te gaan wandelen. De tijd die ‘overblijft’ van die 2 uur, wordt stilzittend doorgebracht.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Om meer MET-uren te realiseren, wil deze volwassen man per week maximaal 3 keer (op dinsdag, woensdag en/of donderdag) een uur fietsen of een uur hardlopen en daarmee in totaal precies 12 MET-uren realiseren. Hij kan dan bijvoorbeeld hardlopen op dinsdag en rustig fietsen op donderdag. Hij wil op één dag één uur dezelfde activiteit uitvoeren dus wisselen van activiteit na een half uur is voor hem geen optie.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_c4a05812e0a8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cf1c75f3e6924743b07261120dad2f9b.pdf"
+    },
+    {
+      "name": "Wiskunde A 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2023_I_uitwerkbijla_a9d84112fbc1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fc5ba2ce845c4c85ae53d81485ef9507.pdf"
+    }
+  ]
+}

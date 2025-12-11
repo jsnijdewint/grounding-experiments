@@ -1,0 +1,63 @@
+{
+  "id": "havo_nederlands_2022_t1_q35",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Met welke omschrijving kan de toon in deze zin het best worden gekarakteriseerd?</p><p><strong>A </strong>boos</p><p><strong>B</strong> pessimistisch</p><p><strong>C </strong>relativerend</p><p><strong>D </strong>spottend</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De eerste twee alinea’s van tekst 4 kunnen worden beschouwd als de inleiding van de tekst.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Uit tekst 4 is een ontwikkeling af te leiden die geleid zou hebben tot het ‘afsterven’ van het Duits en het Frans. Die ontwikkeling is weer te geven in het onderstaande oorzaak-gevolgschema.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_687c70c015b3.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6f1d8d18a26347aab40510dac3441fc1.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“Ze moeten wel, om te kunnen zeggen dat ze gymnasium doen.” (regels 44-45)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2022_I_bijlage_92799e4db006.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a400249c9526410d9001698a4ae56d34.pdf"
+    }
+  ]
+}

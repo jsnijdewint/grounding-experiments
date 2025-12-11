@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 80,
+    "education_level": "vmbo_gl",
+    "discipline": "aardrijkskunde",
+    "year": 2024,
+    "tijdvak": 1
+  },
+  "question_count": 47
+}

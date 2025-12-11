@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 96,
+    "education_level": "vmbo_gl",
+    "discipline": "engels",
+    "year": 2022,
+    "tijdvak": 1
+  },
+  "question_count": 41
+}

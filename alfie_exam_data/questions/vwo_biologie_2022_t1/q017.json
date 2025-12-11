@@ -1,0 +1,107 @@
+{
+  "id": "vwo_biologie_2022_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 34,
+          "name": "Reproductie van het organisme",
+          "prefix_code": 7
+        },
+        {
+          "id": 35,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 43,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Schrijf de nummers 1, 2 en 3 onder elkaar en noteer bij elk nummer of de betreffende bewering wel of niet wordt ondersteund door de gegevens in afbeelding 3 .</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Al jarenlang lift de tijgermug mee op bamboeplanten en autobanden die vanuit Azië geïmporteerd worden. Kan deze overbrenger van virusziekten zoals chikungunya, ook in Nederland problemen geven?</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De Aziatische tijgermug (Aedes albopictus) komt oorspronkelijk uit OostAzië, maar heeft zich inmiddels gevestigd in delen van Noord- en ZuidAmerika, Afrika en Zuid-Europa. In gematigde streken overleven volwassen tijgermuggen de winter niet. Toch kan de soort daar overleven omdat tijgermugvrouwtjes voor de winter diapauze-eitjes kunnen leggen. Diapauze-eitjes komen niet snel uit en kunnen kou en droogte overleven.</p><p>De eitjes worden afgezet vlak boven een klein waterreservoir dat dode plantenresten bevat. In het voorjaar komen de larven uit de eitjes en leven van de plantenresten in het water. Afbeelding 1 toont de oorspronkelijke larvenbroedplaats: holle bamboestengels in Azië. Afbeelding 2 toont een nieuwe larvenbroedplaats: plastic containers in Frankrijk.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_98a468aee3ff.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/87267df70ccd44d3899287a4a273f42e.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_44ff703621f5.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f2859b3ad62f41e38880fbd964970422.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Volwassen mannetjes en vrouwtjes leven van nectar uit bloemen. In mei beginnen de vrouwtjes met het steken van zoogdieren en vogels om extra voedingstoffen te krijgen voor het leggen van gewone eitjes. Onder gunstige omstandigheden ontstaat er zo elke drie weken een nieuwe generatie tijgermuggen.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Tijdens haar levenscyclus behoort een tijgermugvrouwtje tot verschillende trofische niveaus. Enkele trofische niveaus zijn:<br>1 consument van de 1 e orde<br>2 consument van de 2 e orde<br>3 consument van de 3 e orde<br>4 producent<br>5 reducent</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Twee abiotische factoren die kunnen wijzen op het invallen van de winter, zijn daglengte en temperatuur. Tijgermuggen blijken vooral de daglengte te gebruiken om het moment te bepalen waarop ze diapauze-eitjes gaan leggen.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>In 1985 werd voor het eerst een grote hoeveelheid tijgermuggen gezien in Texas (VS), vermoedelijk afkomstig uit een container autobanden uit Japan. Geholpen door het transport van de autobanden kon de tijgermug zich over een groot deel van Noord-Amerika verspreiden. Kort na deze invasie in Noord-Amerika hebben onderzoekers de 'kritische fotoperiode' bepaald van tijgermugpopulaties uit de VS en Japan. De kritische fotoperiode is de daglengte die in het najaar bij <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>van de vrouwtjes leidt tot de productie van diapauze-eitjes.<br>In beide landen werden tijgermuggen verzameld in een gebied dat zich uitstrekt van zuid naar noord (van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>26</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo>&#160;</mrow></msup></math>tot <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>42</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo>&#160;</mrow></msup></math>noorderbreedte). De resultaten van dit onderzoek zijn weergegeven in afbeelding 3, diagram 1. Twintig jaar later is het onderzoek opnieuw uitgevoerd. De resultaten hiervan zijn weergegeven in diagram 2.</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_4e35a3c48796.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b5eb001140d14bda9d38607d596ad2a8.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Over de resultaten van de onderzoeken worden drie beweringen gedaan:<br>1 In 2008 legden tijgermuggen in de VS gemiddeld later in het jaar diapauze-eitjes dan in 1988.<br>2 Populaties die in Noord-Amerika of Japan zuidelijker leven dan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>26</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">NB</mi>&#160;</mrow></math>kunnen geen diapauze-eitjes leggen.<br>3 De Noord-Amerikaanse tijgermuggen zijn afstammelingen van een Japanse populatie uit een gematigde regio, noordelijker dan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>30</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">NB</mi>&#160;</mrow></math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2022_I_uitwerkbijlage_78c37bbf4d16.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/214a33aa9bdb4fb98f309ba6558eee12.pdf"
+    }
+  ]
+}

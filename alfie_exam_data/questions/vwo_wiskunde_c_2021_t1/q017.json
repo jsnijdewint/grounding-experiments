@@ -1,0 +1,95 @@
+{
+  "id": "vwo_wiskunde_c_2021_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [
+        {
+          "id": 54,
+          "name": "Logisch redeneren",
+          "prefix_code": "F"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef in logische symbolen de situatie weer dat 'de coureur' verwijst naar M. Schumacher.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Op 19 mei 1996 werd in Monaco de Grand Prix Formule 1 de Monaco gehouden. Deze race staat in de autosport bekend als de race met de meeste uitvallers ooit. Aan deze race namen 22 coureurs deel, van wie er uiteindelijk slechts drie de finish haalden.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De race duurde 75 ronden van 3328 meter en werd gewonnen door de Fransman Olivier Panis.</p><p>&nbsp;</p><p>Panis deed in totaal 2 uur en 45 seconden over de race.</p><p>&nbsp;</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De uitslag van de race staat in de tabel. Bij de uitgevallen coureurs staat aangegeven of ze uitvielen door een ongeluk ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi>&#160;</math>), door technische problemen ( T ) of door een stuurfout ( S ).</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_9fd68c292281.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d1fd78b398c549a48131fa3bb5ab8efb.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Ondanks dat Frentzen, Salo, Häkkinen en Irvine uitgevallen zijn, hebben ze toch een positie in de eindstand toebedeeld gekregen, omdat ze tenminste <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>90</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>van de te racen afstand hebben afgelegd. Deze posities zijn op volgorde van het aantal afgelegde ronden. Als dat aantal gelijk is, wordt gekeken naar wie als eerste over de finish kwam aan het einde van die ronde.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Bij iedere race in een Formule 1-seizoen kunnen de coureurs punten verdienen voor het kampioenschap. Bij de race in 1996 gold de regel dat de eerste 6 coureurs punten kregen, de overige 16 coureurs niet. Het was dus mogelijk dat een uitgevallen coureur toch punten behaalde.<br>In het diagram in de figuur zijn alle mogelijkheden voor de coureurs schematisch weergegeven.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_662ab7d929e0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a4f22cd05b634fb9afcba113b59f65a8.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>In dit diagram geldt:</p><ul><li>A zijn de coureurs die punten hebben behaald.</li><li>B zijn de coureurs die zijn uitgevallen.</li><li>C zijn de coureurs die zijn uitgevallen door een ongeluk.</li><li>D zijn de coureurs die zijn uitgevallen door technische problemen.</li></ul><p>Het ingekleurde deel van het diagram kan maar één coureur bevatten.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Er is ook één gebied in het diagram dat helemaal leeg blijft bij de race in Monaco.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>We kunnen de positie van een coureur in het diagram ook beschrijven met behulp van logische symbolen. Er geldt:</p><ul><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi>&#160;</math>: 'de coureur' bevindt zich in gebied A.</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi>&#160;</math>: 'de coureur' bevindt zich in gebied B.</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi>&#160;</math>: 'de coureur' bevindt zich in gebied C.</li><li>d: 'de coureur' bevindt zich in gebied D.</li></ul><p>Als bijvoorbeeld 'de coureur' zou verwijzen naar een coureur in het ingekleurde gebied, dan geldt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi> <mo>&#8743;</mo> <mi>d</mi>&#160;</math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2021 I_Uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2021_I_Uitwerkbijla_c2ab79fdeabf.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e31735869591448eb6382933321c0f9b.pdf"
+    }
+  ]
+}

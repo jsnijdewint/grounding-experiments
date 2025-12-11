@@ -1,0 +1,71 @@
+{
+  "id": "vwo_bedrijfseconomie_2024_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 10,
+          "name": "Personeelsbeleid",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noem voor de aandeelhouders van Fenix twee verschillende nadelen van het uitgeven van aandelen aan het personeel.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de informatiebronnen 1 tot en met 3.&nbsp;<br><br>Fenix bv is een innovatieve start-up met ambitieuze plannen voor duurzaam en gedeeld stadsvervoer. Bij Fenix kan de klant tegen betaling gebruikmaken van een elektrische deelscooter. Fenix ziet de e-scooter als een duurzaam alternatief voor reizen in de stad. In de Fenix-app kan de klant zien waar zich een deelscooter bevindt, deze reserveren en vervolgens activeren. Meestal verleent het gemeentebestuur van een stad een vergunning voor slechts een deel van de stad en worden andere delen van de stad toegewezen aan andere aanbieders. Fenix krijgt van de gemeente een uitbreiding van de vergunning, waardoor zij toegang krijgt tot meerdere delen van de stad. Dit betekent een uitbreiding van het servicegebied.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Voor Fenix is het vinden van voldoende kapitaal en de juiste mensen van belang om de startupfase door te komen. Vermogen Bij de start van Fenix op 1 januari 2020 hebben de vier oprichters ieder voor € 44.000 deelgenomen in het aandelenkapitaal. Fenix heeft op die datum bij kredietinstellingen ook leningen afgesloten. In daaropvolgende financieringsrondes in de jaren 2021 tot en met 2023 heeft Fenix extra vermogen aangetrokken om te kunnen groeien. De laatste financieringsronde is op 1 januari 2023 geweest. Toen werd zowel eigen vermogen als vreemd vermogen aangetrokken (zie informatiebron 1).</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De aandelenemissie van 1 januari 2023 was voor verschaffers van vreemd vermogen een voorwaarde om ook mee te doen aan de financieringsronde op deze datum.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Personeel&nbsp;<br><br>“De grootste uitdaging voor Fenix is om in de start-up-fase talentvol personeel aan te trekken én te behouden”, aldus een van de oprichters in een interview. Een manier daarvoor is een goede financiële beloning, maar ook het zorgen voor veilig en gezond werken.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Eind 2023 ontbreekt het Fenix aan voldoende liquide middelen om haar talentvolle personeel een substantiële, jaarlijkse loonsverhoging te bieden. Fenix onderzoekt twee mogelijkheden om talentvol personeel aan zich te binden:&nbsp;<br> uitgifte van aandelen aan personeel&nbsp;<br> uitgifte van Stock Appreciation Rights (SARs) aan personeel (zie informatiebron 2).</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_bijlag_7eadadfb909b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b308f8bea0724a7aafeda7412effc100.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_uitwer_83345fd16197.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9381244ee6040b2bd0134a67d821ddb.pdf"
+    }
+  ]
+}

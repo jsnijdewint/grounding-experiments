@@ -1,0 +1,86 @@
+{
+  "id": "vwo_nederlands_2024_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 53,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leid uit alinea 10 tot en met 12 vier kenmerken af van “mooie lezers”.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Na publicatie van tekst 1 verschenen hierop landelijk verscheidene reacties. Vier van deze reacties staan als fragment in het tekstboekje, na tekst 1. Behalve vragen over tekst 1 bevat dit examen vragen over deze reacties in samenhang met tekst 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Tekst 1 Fastfood voor jonge lezers: de schadelijke promotie van pulp in het onderwijs</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>\r\nTekst 1 kun je met onderstaande kopjes in vier opeenvolgende delen onderverdelen:\r\n</p><p>- deel 1: Het probleem van de ontlezing\r\n</p><p>- deel 2: Een verkeerde overheidsmaatregel\r\n</p><p>- deel 3: De schade aan jongeren ontrafeld\r\n</p><p>- deel 4: Juiste overheidsinitiatieven?</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“Wat hebben we nodig om ontlezing een halt toe te roepen? Mooie verhalen natuurlijk, maar ook ‘mooie lezers’.” (regels 1-4)</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Uit alinea 5 is het standpunt af te leiden dat de Nederlandse overheid haar “eigen cultuuronderwijs” momenteel onvoldoende serieus neemt.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>“Nederland zou zijn eigen cultuuronderwijs serieuzer moeten nemen.” (regels 55-57)</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Zowel in de titel van tekst 1 als in de supermarktmetafoor in alinea 5 worden de boeken op de shortlist van de Jonge Jury vergeleken met voedsel.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>In alinea 7 worden negatieve kenmerken van pulp genoemd, waaronder:</p><p>1 Pulp bevestigt lezers in seksistisch denken.</p><p>2 Pulp bevestigt lezers in racistisch denken.</p><p>3 Pulp jaagt bij lezers vooral een kick na.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>“Met zulke lelijke teksten kweek je geen mooie lezers.” (regels 122-123)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_ac05fe426b26.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fb5d918d91ec4599a96647704fa584d3.pdf"
+    }
+  ]
+}

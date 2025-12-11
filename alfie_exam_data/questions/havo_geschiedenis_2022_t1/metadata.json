@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 47,
+    "education_level": "havo",
+    "discipline": "geschiedenis",
+    "year": 2022,
+    "tijdvak": 1
+  },
+  "question_count": 25
+}

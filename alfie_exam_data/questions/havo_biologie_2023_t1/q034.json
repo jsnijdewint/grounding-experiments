@@ -1,0 +1,86 @@
+{
+  "id": "havo_biologie_2023_t1_q34",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke letter geeft het bloedvat aan waarin het infuus wordt aangelegd?<br>A letter P<br>B letter Q<br>C letter R<br>D letter S</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij zijn geboorte leek Ryan gezond. Als het jongetje een half jaar oud is, blijkt hij echter onvoldoende gegroeid te zijn en ziet hij erg bleek.</p><p>Na bloedonderzoek blijkt Ryan de ziekte bèta-thalassemie te hebben, een erfelijke ziekte als gevolg van een mutatie in een gen voor hemoglobine. De mutatie veroorzaakt een verhoogde afbraak van rode bloedcellen. De ziekte kan worden behandeld met stamcellen uit het beenmerg van een donor.</p><p>Stamcellen uit het beenmerg doorlopen verschillende stadia voordat ze als reticulocyten in de bloedbaan komen (afbeelding 1). Vervolgens ontwikkelen ze zich daar in 24 uur tot erytrocyten: rijpe rode bloedcellen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_ad3db9f763ef.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f39623210aee45ba8907d22aec8a1a8b.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Rijpe rode bloedcellen leven gemiddeld drie maanden, maar bij Ryan worden ze al na enkele dagen afgebroken. Om het tekort aan rode bloedcellen gedeeltelijk te compenseren, is de activiteit van het rode beenmerg verhoogd.</p><p>Een medisch laborant maakt een preparaat van een druppel bloed van Ryan en bepaalt met de microscoop de verhouding tussen de reticulocyten en de rijpe rode bloedcellen. In afbeelding 2 zijn twee bloedbeelden te zien, een ervan is dat van Ryan, het andere is een normaal bloedbeeld.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_8cd9fe9334df.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a28c0b1a454141559a02a39c692077f7.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Ryan krijgt elke drie weken een bloedtransfusie via een infuus in een bloedvat in zijn arm. Afbeelding 3 is een schematische tekening van de bloedsomloop.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_ac1a20a408ad.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c73e1448e7a54058ae46de92e362c502.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "havo_nederlands_2024_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 140,
+          "name": "Samenvatten",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Vat de informatie uit alinea 4 en 5 samen door onderstaande tabel in te vullen. Neem de nummers over en zet je antwoord daarachter.<br>&nbsp;</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\">situatie:</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">1</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">gevolg:</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">2</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">probleem:</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">3</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">oplossing:</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">4</td></tr></tbody></table></figure><p>&nbsp;</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Volgens tekst 1 bevinden we ons in een “aandachtscrisis” (regels 6-7).</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“Eén moment van mentale zwakheid of verveling en de mobiele telefoon komt tevoorschijn.” (regels 15-18) Naast mentale zwakheid en verveling worden nog andere oorzaken voor de aandachtscrisis genoemd in alinea 1 en 2.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In alinea 4 en 5 worden een situatie, het gevolg daarvan, het ontstane probleem en een oplossing beschreven.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_fba5d5bcdd9a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e64529d1393448beb9499f8bd4fb3aaa.pdf"
+    }
+  ]
+}

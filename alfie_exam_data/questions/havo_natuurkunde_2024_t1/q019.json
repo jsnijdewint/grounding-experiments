@@ -1,0 +1,92 @@
+{
+  "id": "havo_natuurkunde_2024_t1_q19",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [
+        {
+          "id": 80,
+          "name": "Vaardigheden",
+          "prefix_code": "A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit met behulp van figuren 2 en 3 of hyperthermie geschikt is om sarcoïdes in de hele huiddikte te behandelen.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een veelvoorkomende tumor bij paarden is een zogenaamde sarcoïde. Dit is een huidtumor. Er bestaan verschillende methodes om deze tumor te behandelen. Een eerste behandelmethode is bestraling. Hierbij kunnen afgesloten capsules gebruikt worden met radioactieve isotopen die ioniserende straling uitzenden. Deze capsules worden in de tumor geplaatst. In figuur 1 staat een tabel met een aantal capsules met verschillende isotopen die gebruikt kunnen worden.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_cfedef508ff4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f1ead45491d84932b788a9590710737c.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een van de capsules mag blijven zitten na de behandeling. De overige capsules moeten verwijderd worden wanneer de sarcoïde voldoende is bestraald.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Een sarcoïde kan ook worden behandeld met de isotoop Sr-90.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Een bepaalde sarcoïde heeft een massa van <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>7</mn>\r\n  <mo>,</mo>\r\n  <mn>9</mn>\r\n  <mo>&#8901;</mo>\r\n  <msup>\r\n    <mn>10</mn>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8722;</mo>\r\n      <mn>5</mn>\r\n    </mrow>\r\n  </msup>\r\n</math>kg en wordt behandeld met Sr-90. Tijdens één bestraling ontvangt deze tumor een dosis van 20 Gy. De energie die per vervallen Sr-90-kern aan de tumor wordt afgegeven is 2,9 MeV. De gemiddelde activiteit tijdens de bestraling is <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>3</mn>\r\n  <mo>,</mo>\r\n  <mn>1</mn>\r\n  <mo>&#8722;</mo>\r\n  <msup>\r\n    <mn>10</mn>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>6</mn>\r\n    </mrow>\r\n  </msup>\r\n</math> Bq.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Een andere behandelmethode voor een sarcoïde is hyperthermie. Dit is een methode waarbij de tumor vernietigd wordt door hem van buitenaf te verhitten met microgolfstraling met een frequentie van 2,45 GHz. De stralingsbron levert <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>6</mn>\r\n  <mo>,</mo>\r\n  <mn>2</mn>\r\n  <mo>&#8722;</mo>\r\n  <msup>\r\n    <mn>10</mn>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>25</mn>\r\n    </mrow>\r\n  </msup>\r\n</math> fotonen per seconde. Om een bepaalde sarcoïde op de behandeltemperatuur te brengen moet de stralingsbron <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>7</mn>\r\n  <mo>,</mo>\r\n  <mn>2</mn>\r\n  <mo>&#8722;</mo>\r\n  <msup>\r\n    <mn>10</mn>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mtext> </mtext>\r\n    <mi mathvariant=\"normal\">J</mi>\r\n  </mrow>\r\n</math> stralingsenergie leveren. Nadat de behandeltemperatuur is bereikt, wordt de sarcoïde nog 30 s lang bestraald met microgolfstraling om haar op temperatuur te houden.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Bij hyperthermie moet een tumor verhit worden tot minimaal 42 °C. In figuur 2 is de temperatuur die bij deze behandelmethode gehaald kan worden, uitgezet tegen de diepte in het weefsel. In figuur 3 is schematisch de doorsnede van de huid van een paard weergegeven. De huid bestaat uit de opperhuid en de lederhuid. Onder de lederhuid begint het onderhuids weefsel.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_ab6cc9e3dd66.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2699a1ab7f754903a77acf3a6841d4d1.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_e565e374a34e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5d289399305745da9d052bf0f1afb4d3.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2024_I_uitwerkbijl_183c8a842092.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d36e010b434c4896854f0afb7f3f861d.pdf"
+    }
+  ]
+}

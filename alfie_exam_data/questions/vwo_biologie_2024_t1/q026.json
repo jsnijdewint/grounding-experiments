@@ -1,0 +1,67 @@
+{
+  "id": "vwo_biologie_2024_t1_q26",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 30,
+          "name": "Eiwitsynthese",
+          "prefix_code": 1
+        },
+        {
+          "id": 31,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 32,
+          "name": "Zelforganisatie van cellen",
+          "prefix_code": 3
+        },
+        {
+          "id": 33,
+          "name": "Moleculaire en cellulaire interactie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Kan NADPH energierijke elektronen afstaan of opnemen? En bij welk type stofwisselingsproces wordt NADPH dan verbruikt?&nbsp;<br><br>energierijke elektronen &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;type stofwisselingsproces&nbsp;<br>A afstaan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;assimilatie&nbsp;<br>B afstaan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;dissimilatie&nbsp;<br>C opnemen &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;assimilatie&nbsp;<br>D opnemen &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; dissimilatie</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De burgemeester van een Italiaans dorp heeft het verbouwen van tuinbonen verboden vanwege Fabio, een jongen uit het dorp die lijdt aan bonenziekte (favisme). Het eten van tuinbonen of het inademen van pollen van tuinboonplanten leidt bij Fabio tot een versnelde afbraak van rode bloedcellen, waardoor een levensbedreigende situatie kan ontstaan.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_6ad2b8eccd65.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/24837600aff144e19c76b0e9cb502e56.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de PPP wordt NADPH gevormd.</p>"
+    }
+  ],
+  "bijlages": []
+}

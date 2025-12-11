@@ -1,0 +1,56 @@
+{
+  "id": "havo_economie_2022_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 74,
+          "name": "Ruilen over de tijd",
+          "prefix_code": "E"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Licht met een voorbeeld toe dat de keuzevrijheid bij de premie-inleg kan leiden tot keuzes die beter aansluiten bij de levensloop van de deelnemers.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het Nederlands pensioenstelsel bestaat uit drie pijlers, die samen de totale uitkering bepalen die iemand ontvangt als hij de pensioengerechtigde leeftijd heeft bereikt. De pijlers zijn:</p><ol><li>het staatspensioen (AOW)</li><li>het bedrijfspensioen</li><li>het individueel opgebouwde pensioen</li></ol><p>De tweede pijler, het bedrijfspensioen, wordt opgebouwd voor werknemers in loondienst. Werkgevers en werknemers leggen premie in bij pensioenfondsen, die de premies beleggen. Het stelsel van bedrijfspensioenen staat onder andere onder druk door lage beleggingsrendementen. Als gevolg daarvan zijn de bedrijfspensioenuitkeringen in de periode 2014-2018 gelijk gebleven, terwijl de cao-lonen en de consumentenprijzen in diezelfde periode wel zijn gestegen (zie bron 1).&nbsp;</p><p>&nbsp;</p><p><i>Gebruik bovenstaande tekst.</i></p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><i>Gebruik de inleidende tekst en bron 1.</i></p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De Sociale Partners (werkgevers- en werknemersorganisaties) werken aan plannen om de premie-inleg voor het bedrijfspensioen flexibeler te verdelen over de werkzame periode: werknemers krijgen keuzevrijheid om de premie-inleg tijdelijk te verhogen of te verlagen. Om hetzelfde eindbedrag te kunnen halen, moet een tijdelijke premieverlaging in een periode gecompenseerd worden door een tijdelijke premieverhoging in een andere periode.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_897a168c0baf.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a9da2fcb0f24bbf983e12947b86eb03.pdf"
+    }
+  ]
+}

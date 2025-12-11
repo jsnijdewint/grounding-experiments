@@ -1,0 +1,40 @@
+{
+  "id": "havo_economie_2025_t1_q22",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat het verhogen van de AOW-leeftijd de betaalbaarheid van de AOW verbetert. Maak in je antwoord gebruik van zowel de inkomsten als de uitgaven van de overheid.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De AOW is een basispensioen voor ouderen. Door de vergrijzing verslechtert de betaalbaarheid van de AOW: er zijn minder werkenden die premie betalen waarmee de uitkeringen in dat jaar worden betaald. De Nederlandse overheid heeft daarom een aantal jaar geleden besloten de AOW-leeftijd geleidelijk te verhogen van 65 naar 67 jaar en daarna te koppelen aan de levensverwachting. De AOW-leeftijd stijgt dan mee met de gemiddelde levensverwachting.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "ha-1022-a-25-1-b.pdf",
+      "media_path": "media/bijlages/ha-1022-a-25-1-b_d22d3ea39f14.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bbaed4a5fde74a759025b6f0f5557449.pdf"
+    }
+  ]
+}

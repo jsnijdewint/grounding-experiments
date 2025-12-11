@@ -1,0 +1,56 @@
+{
+  "id": "havo_economie_2022_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 75,
+          "name": "Samenwerken en onderhandelen",
+          "prefix_code": "F"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Toon met behulp van de getallen in de opbrengstenmatrix in bron 1 aan dat er een gevangenendilemma ontstaat voor de beide supermarktketens. Doe het als volgt:</p><ul><li>Leg uit hoe de dominante strategie van elk van de twee partijen tot stand komt.</li><li>Beredeneer vervolgens dat er sprake is van een gevangenendilemma.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het Nederlandse bedrijf Koko is momenteel de enige fabrikant ter wereld van kokosbrood, een broodbeleg dat alleen in Nederland wordt geconsumeerd. Een paar jaar geleden waren nog zeven bedrijven actief op de Nederlandse afzetmarkt. Koko was op die markt de fabrikant met de grootste afzet en wist daardoor concurrentievoordeel te behalen op de andere aanbieders. Deze aanbieders gingen failliet of werden door Koko overgenomen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Door een misoogst van kokos zijn de grondstofkosten voor kokosbrood met 10 eurocent per pakje kokosbrood gestegen. De algemeen directeur van Koko wil deze kostenstijging volledig doorberekenen.<br>Koko levert zijn volledige productie van kokosbrood aan twee grote supermarktketens. Koko weet nog steeds winst te behalen, ondanks de marktmacht van de afnemers.<br>De supermarktketens streven naar maximale winst en overwegen om hun marktmacht als afnemers te gebruiken door met Koko in onderhandeling te gaan over de verhoging van hun inkoopprijs. Als beide supermarktketens ervoor kiezen om met Koko te onderhandelen, zal het resultaat zijn dat Koko de prijs van een pakje kokosbrood met minder dan 10 eurocent verhoogt. Als een van de supermarktketens akkoord gaat met de prijsverhoging van 10 eurocent en als de ander wil onderhandelen, zal Koko uitsluitend leveren aan de supermarktketen die akkoord gaat.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 1.</i></p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_897a168c0baf.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a9da2fcb0f24bbf983e12947b86eb03.pdf"
+    }
+  ]
+}

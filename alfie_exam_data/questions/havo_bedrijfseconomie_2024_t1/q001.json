@@ -1,0 +1,78 @@
+{
+  "id": "havo_bedrijfseconomie_2024_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "bedrijfseconomie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 33,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 97,
+          "name": "Persoonlijke financiële zelfredzaamheid",
+          "prefix_code": 1
+        },
+        {
+          "id": 98,
+          "name": "De oprichting van een eenmanszaak",
+          "prefix_code": 2
+        },
+        {
+          "id": 99,
+          "name": "Van eenmanszaak naar rechtspersoon",
+          "prefix_code": 3
+        },
+        {
+          "id": 100,
+          "name": "Perspectief op de organisatie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Maak bovenstaande zinnen economisch correct. Kies uit:&nbsp;<br>bij … (1) … stijgt / daalt&nbsp;<br>bij … (2) … vrijwillig / verplicht</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Ridha spaart om over 10 jaar een huis te kunnen kopen. In de afgelopen jaren heeft hij nauwelijks interest ontvangen op het spaargeld dat hij op de Direct Spaarrekening bij zijn bank had staan. Op de website van zijn bank zoekt hij naar mogelijkheden om een hoger rendement te behalen. Hij leest daar:</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_1b11957acaba.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b3e0ed8c82414a6c9f00889efd2bbcee.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Als Ridha het spaargeld voor 5 jaar vastzet op de Spaarvastrekening, loopt hij het risico dat tijdens de looptijd de interest op de markt …(1)…, terwijl de interest op de Spaarvastrekening niet verandert. Het sparen op de Spaarvastrekening is een vorm van …(2)… sparen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_bijlag_2e10e0982197.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a7a15ca0f9d2401aa24055b39fdd0a81.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_uitwer_e1cba7355851.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/555ba55aca42476292c914bf8a9a09fe.pdf"
+    }
+  ]
+}

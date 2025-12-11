@@ -1,0 +1,68 @@
+{
+  "id": "vmbo_gl_wiskunde_2023_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "wiskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 67,
+      "domains": [
+        {
+          "id": 162,
+          "name": "Meetkunde",
+          "prefix_code": "WI/K/6"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bushra verpakt de tuimelaars in doorzichtige cilinders. Rechts zie je het bovenaanzicht getekend op schaal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>:</mo> <mn>2</mn>&#160;</math>.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Teken het vooraanzicht van de cilinder met daarin de tuimelaar op dezelfde schaal.</p>",
+    "max_score": 3,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_dfc51955cb98.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/50e00ae0bc6d468d8d40b5589144638c.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_3771e9eae769.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/52b03012ca8f48f393a95adb32205801.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Je ziet links een tuimelaar. Dit is een speelgoedpoppetje met een bolvormige onderkant. Bushra wil zelf tuimelaars maken met een 3D-printer. De tuimelaars worden massief, dus niet hol van binnen. Haar ontwerp zie je rechts. De tuimelaar bestaat uit een kegel en een halve bol. De diameter en de hoogte van de kegel zijn beide 10 cm .</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_b6e40277acfe.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a36a7b16f55343d7b1a046d059cad9b0.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_2023_I_uitwerkbijlage_f78e70c4ddca.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bbc4a2194fa64bb89fa2eea23545d325.pdf"
+    },
+    {
+      "name": "VMBO_2023_wiskunde_formules.pdf",
+      "media_path": "media/bijlages/VMBO_2023_wiskunde_formules_374f78ca5ba1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/be7c655fbdc04d4d80359acdbaf873fa.pdf"
+    }
+  ]
+}

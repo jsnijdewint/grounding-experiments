@@ -1,0 +1,71 @@
+{
+  "id": "vwo_bedrijfseconomie_2021_t1_q31",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 13,
+          "name": "Vastleggen van financiële en niet financiële informatie",
+          "prefix_code": 1
+        },
+        {
+          "id": 14,
+          "name": "Kosten- en winstvraagstukken",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de offerteprijs inclusief btw die Vermeer voor het schilderwerk voor Tim van Delft calculeert.<br>Vul hiervoor de uitwerkbijlage bij deze opgave verder in.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Schildersbedrijf Vermeer bv heeft vijf personeelsleden in dienst: vier schilders en één opzichter.<br>Elke schilder heeft een contract voor onbepaalde tijd van 36 uur per week. De directie van Vermeer overweegt nieuw personeel alleen nog nulurencontracten aan te bieden.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De voorcalculatorische loonkosten over 2021 van één schilder zijn voor Vermeer € 47.309,18.<br>De opzichter maakt de planningen, bestelt de materialen en controleert de werkzaamheden ter plekke.<br>De loonkosten van de opzichter bedragen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>60.000</mn>&#160;</math> in 2021. Het loon van de opzichter kan niet direct aan de klanten doorbelast worden.<br>Het schildersbedrijf brengt haar klanten een uurtarief in rekening. Dat uurtarief bestaat uit de loonkosten van de schilder per uur ( totale loon alle schilders / totaal aantal werkzame uren alle schilders) + opslag voor de opzichter per uur(loon opzichter / totaal aantal gewerkte uren van alle schilders)</p><p>De loonkosten van de opzichter zouden ook op een andere manier in de calculatie kunnen worden doorberekend.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Van de 52 weken in een jaar heeft elke schilder in 2021 in totaal 6 weken vakantie. In de weken dat een schilder werkt, kunnen de kosten van 30 uur per week aan klanten doorbelast worden.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Voor schilderwerk aan het woonhuis van Tim van Delft maakt Vermeer een voorcalculatie waarin de volgende punten verwerkt worden:</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\">kosten plaatsen steiger</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>240</mn>&#160;</math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">exclusief btw</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">materiaal</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>850</mn>&#160;</math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">exclusief btw</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">arbeid</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">28 uur</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">te declareren uren</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">resultaat</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn> <mi mathvariant=\"normal\">%</mi></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">van het offertebedrag exclusief btw</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">btw</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn> <mi mathvariant=\"normal\">%</mi></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">op arbeid</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">btw</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>21</mn> <mi mathvariant=\"normal\">%</mi></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">op alle overige kosten</td></tr></tbody></table></figure>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2021_I_bijlag_18aa5fbf9016.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/92d29866f40a4864b5a50055e02b1aec.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2021_I_uitwer_a63059d5a495.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3ae5187256fd457fb1ae4f6556df1ea7.pdf"
+    }
+  ]
+}

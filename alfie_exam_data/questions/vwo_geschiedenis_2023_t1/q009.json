@@ -1,0 +1,45 @@
+{
+  "id": "vwo_geschiedenis_2023_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 188,
+          "name": "Tijdvak 5 – Ontdekkers en hervormers",
+          "prefix_code": 5
+        },
+        {
+          "id": 189,
+          "name": "Tijdvak 6 – Regenten en vorsten",
+          "prefix_code": 6
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 6.<br>Met dit pamflet kun je een politiek conflict illustreren dat in 1672 speelt in de Republiek.<br>Toon dit aan door:</p><ul><li>de politieke tegenstelling uit die tijd te noemen, waarbij je je antwoord ondersteunt met een verwijzing naar de bron, en</li><li>aan te geven op welk politiek probleem de Amsterdamse burgers in dit pamflet kritiek leveren.</li></ul>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2023_I_bijlage_55374cf5cbf5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5244a635b97841b7b1e77f67a3c0f38a.pdf"
+    }
+  ]
+}

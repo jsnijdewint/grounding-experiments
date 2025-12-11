@@ -1,0 +1,40 @@
+{
+  "id": "havo_scheikunde_2025_t1_q31",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef de structuurformule van azijnzuur.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Disulfiram <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>10</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>20</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">N</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">S</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>is een alcohol-ontwenningsmiddel. Wanneer bij gebruik slechts een kleine hoeveelheid van een alcoholhoudende drank wordt gedronken, veroorzaakt disulfiram al vervelende lichamelijke verschijnselen, zoals hoofdpijn en overgeven. Bij de afbraak van alcohol ontstaat ethanal. Disulfiram zorgt ervoor dat het enzym dat ethanal omzet tot azijnzuur, niet meer werkt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "ha-1028-a-25-1-u.pdf",
+      "media_path": "media/bijlages/ha-1028-a-25-1-u_c2bab5b58221.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f3aee0d3e8b747e2b4f1a424e9bd0f04.pdf"
+    }
+  ]
+}

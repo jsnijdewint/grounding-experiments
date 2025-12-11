@@ -1,0 +1,60 @@
+{
+  "id": "vmbo_gl_economie_2024_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 123,
+          "name": "Consumptie",
+          "prefix_code": "EC/K/4A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik informatiebron 5 en bovenstaande Lorenzcurve.&nbsp;<br>Bereken het ontbrekende percentage in de Lorenzcurve. Schrijf je berekening op.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 5 en 6 in de bijlage.&nbsp;<br><br>De inkomens en vooral de vermogens in Nederland zijn niet gelijk verdeeld. Sommige economen vinden dat de inkomens gelijker verdeeld zouden moeten zijn, andere economen zijn juist voorstander van grotere inkomensverschillen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_99f873766d12.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f7dec736430c4bd292a654ae39a3b7b7.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_0cd6a6f35f99.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ad678a7662794ca898e68d55fe077cb2.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2024_I_bijlage_68e3a54200e0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/35a3df9330b8418abfd3d4840ad98390.pdf"
+    }
+  ]
+}

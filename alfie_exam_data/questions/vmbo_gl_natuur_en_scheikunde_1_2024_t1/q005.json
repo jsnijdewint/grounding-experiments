@@ -1,0 +1,90 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2024_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 141,
+          "name": "Elektrische energie",
+          "prefix_code": "NASK1/K/5"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In het rechter gedeelte zijn een elektromotor en een verwarmingselement aangesloten op netspanning. De spanning over de elektromotor is 230 V . De spanning over het verwarmingselement is ook 230 V .<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Maak op de uitwerkbijlage het rechter gedeelte van het schakelschema compleet met een elektromotor.</p>",
+    "max_score": 2,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_1392cf2be2fe.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e6bef744b2084c44846223664f7c72a3.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Karin maakt latte macchiato. Dit kopje koffie bestaat uit drie lagen: warme melk, warme koffie en melkschuim (melk met luchtbelletjes). Karin maakt de warme melk en het melkschuim met een melkopschuimer.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_236e4e619361.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/32fccf16aef24fe6939279e82ad47de8.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De dichtheid van melk is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>g</mi><mi>r</mi><mi>o</mi><mi>t</mi><mi>e</mi><mi>r</mi></mrow><mrow><mi>k</mi><mi>l</mi><mi>e</mi><mi>i</mi><mi>n</mi><mi>e</mi><mi>r</mi></mrow></mfrac></math> dan de dichtheid van koffie. kleiner</p><p>&nbsp;</p><p>De dichtheid van melkschuim is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>g</mi><mi>r</mi><mi>o</mi><mi>t</mi><mi>e</mi><mi>r</mi></mrow><mrow><mi>k</mi><mi>l</mi><mi>e</mi><mi>i</mi><mi>n</mi><mi>e</mi><mi>r</mi></mrow></mfrac></math> dan de dichtheid van melk.</p><p>&nbsp;</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In de melkopschuimer zitten een verwarmingselement en een elektromotor. Het verwarmingselement warmt de melk op. De elektromotor laat de melk draaien om de melk op te schuimen. Als de melk voldoende is opgewarmd schakelt de melkopschuimer automatisch uit.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_95048cc79724.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7d877d74c3e94fdfb007087f1c0dc7ac.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Het opgenomen vermogen van de melkopschuimer is 450 W .</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Je ziet een deel van het vereenvoudigde schakelschema van de melkopschuimer. Het linker gedeelte van de schakeling regelt het uitschakelen van de motor en van het verwarmingselement als de melk warm genoeg is.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_9cc373b921ac.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8af09e5c747c4b93ac03849d3904b7f3.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2024_I_c96405ee1a91.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c258a8174cb04fbba9275f60e7aa3610.pdf"
+    }
+  ]
+}

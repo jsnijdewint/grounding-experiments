@@ -1,0 +1,56 @@
+{
+  "id": "havo_wiskunde_a_2022_t1_q19",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 174,
+          "name": "Rekenen",
+          "prefix_code": 1
+        },
+        {
+          "id": 175,
+          "name": "Algebra",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel meter Powell dan nog te gaan had op het moment dat Bolt finishte. Geef je antwoord in twee decimalen.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Op 16 augustus 2009 verbrak Usain Bolt op de wereldkampioenschappen atletiek in Berlijn het wereldrecord op de 100 meter sprint door een tijd te lopen van 9,58 seconden. Het wereldrecord van de vorige wereldrecordhouder, Asafa Powell, was 9,74 seconden.</p><p>&nbsp;</p><p>Stel dat Bolt en Powell bovengenoemde tijden met constante snelheid in dezelfde race hadden gelopen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_47358876a1f1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/481e05ea1b3d4f8abbc66849e31c4129.pdf"
+    },
+    {
+      "name": "Wiskunde A 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2022_I_uitwerkbijla_ed3f16cbc21f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7a0c7f08da744830b81b66f1bba66954.pdf"
+    }
+  ]
+}

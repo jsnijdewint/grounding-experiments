@@ -1,0 +1,99 @@
+{
+  "id": "vwo_wiskunde_c_2022_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [
+        {
+          "id": 54,
+          "name": "Logisch redeneren",
+          "prefix_code": "F"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p><p>Vertaal deze logische redenering in gewone Nederlandse zinnen <strong>en </strong>leg uit hoe&nbsp;</p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#172;</mi><msub><mi>C</mi><mn>1</mn></msub><mo stretchy=\"false\">&#8658;</mo><msub><mi>C</mi><mn>2</mn></msub></math><p>uit spelopdracht 19 volgt.</p></p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het spel Safari Hide &amp; Seek wordt gespeeld op een bord met vier velden en vier aparte speelstukken.</p><p>Het bord en de speelstukken staan afgebeeld op foto 1 en foto 2 .</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_8adf9350f736.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/030b045077164c199700563ce070fe45.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_b867baf61951.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/99d767a63c2e40d1b3337b9dc9c3c330.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Op de uitwerkbijlage zie je dezelfde foto's nog eens, maar dan voorzien van rasters en van letters bij de velden en nummers bij de speelstukken.</p><ul><li>Elk van de vier velden A, B, C en D op het bord bestaat uit negen vakjes. Op elk van die vakjes kan een olifant, zebra, antilope, leeuw of neushoorn staan. Een vakje kan ook leeg zijn.</li><li>Van de speelstukken is er één dat zes vakjes van een veld op het speelbord bedekt (speelstuk 1) en zijn er drie die elk zeven vakjes bedekken (speelstukken 2, 3 en 4).</li></ul><p>De bedenkers van het spel hebben op vijf van de negen vakjes van veld <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi>&#160;</math>een dier geplaatst. Deze dieren zijn allemaal verschillend. Vijf verschillende dieren kun je op heel veel manieren over de negen vakjes van veld <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi>&#160;</math>verdelen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Doel van het spel is om de speelstukken zó op de vier velden te plaatsen dat een vooraf bepaald aantal olifanten, zebra's, antilopen, leeuwen en/of neushoorns zichtbaar is. Hierbij mogen de speelstukken ook gedraaid worden. Zie foto's 3 en 4 voor twee voorbeelden. In de foto's zijn de nummers van de speelstukken ook aangegeven.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_a9550a74786c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e7778c439bba448eb871af149e513ec4.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_b447470f485e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/96846be7df4d4fc1b5231fbd8f9298c7.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Op foto 3 zijn de speelstukken zó neergelegd dat alle zes antilopen zichtbaar zijn. Door de speelstukken 2 en 4 te verwisselen en speelstuk 1 een kwartslag te draaien, ontstaat de situatie op foto 4 waarop één olifant, twee antilopen, twee neushoorns en twee leeuwen zichtbaar zijn.</p><p>De afbeeldingen van het water en de planten op de speelstukken doen er voor het spel niet toe. Deze afbeeldingen laten we in deze opgave dan ook buiten beschouwing. Speelstuk 3 in de vorm van de letter 'H' kan maar op twee manieren neergelegd worden: staand of liggend.</p><p>Ga ervan uit dat alle speelstukken gebruikt worden.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Bij het spel zit ook een boekje waarin verschillende 'spelopdrachten' staan. Het is bij het spelen van het spel de bedoeling deze spelopdrachten te maken.</p><p>In het vervolg van deze opgave gaan we een van deze spelopdrachten oplossen met behulp van logisch redeneren.<br>Daarvoor spreken we eerst een notatie af:</p><p><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>B</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>betekent \"speelstuk 2 moet op veld B worden geplaatst\".</p><p><br>Voor de overige speelstukken en velden gelden vergelijkbare notaties.<br>Spelopdracht 19 uit het boekje is het plaatsen van de speelstukken zodanig dat er vijf zebra's en twee olifanten zichtbaar zijn en verder geen enkel ander dier.</p><p>Volgens spelopdracht 19 moeten er dus vijf zebra's zichtbaar zijn. Daaruit volgt de conclusie dat speelstuk 3 op veld A moet liggen, dus gebruikmakend van bovenstaande notatie moet gelden: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi> <mrow data-mjx-texclass=\"ORD\"><mn>3</mn>&#160;</mrow></msub></math>.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Op veld C staat de zebra in een hoek, dus speelstuk 4 kan daar niet liggen. De volgende stappen in de redenering zijn:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable rowspacing=\"4pt\"><mtr><mtd><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mi>A</mi> <mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mo>&#8743;</mo> <mi mathvariant=\"normal\">&#172;</mi> <msub><mi>C</mi> <mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo> </mrow><mo stretchy=\"false\">&#8658;</mo> <mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mi>C</mi> <mrow data-mjx-texclass=\"ORD\"><mn>1</mn> </mrow></msub><mo>&#8744;</mo> <msub><mi>C</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo> </mrow></mtd></mtr><mtr><mtd><mi mathvariant=\"normal\">&#172;</mi> <msub><mi>C</mi> <mrow data-mjx-texclass=\"ORD\"><mn>1</mn> </mrow></msub><mo stretchy=\"false\">&#8658;</mo> <msub><mi>C</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></mtd></mtr></mtable></math></p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2022_I_uitwerkbijla_88029eac1d9f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e2af97078af344c6a48ef1f748b398b8.pdf"
+    }
+  ]
+}

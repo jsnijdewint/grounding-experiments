@@ -1,0 +1,81 @@
+{
+  "id": "havo_bedrijfseconomie_2022_t1_q27",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "bedrijfseconomie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 33,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 97,
+          "name": "Persoonlijke financiële zelfredzaamheid",
+          "prefix_code": 1
+        },
+        {
+          "id": 98,
+          "name": "De oprichting van een eenmanszaak",
+          "prefix_code": 2
+        },
+        {
+          "id": 99,
+          "name": "Van eenmanszaak naar rechtspersoon",
+          "prefix_code": 3
+        },
+        {
+          "id": 100,
+          "name": "Perspectief op de organisatie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Toon met een berekening aan dat het rendement van het kopen en het inleveren van de spaarzegels voor Diederike <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>is.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de kassa klinkt vaak de vraag: \"Zegeltjes erbij?\" Er wordt hierbij geduid op spaarzegels. Veel grote supermarktketens in Nederland maken gebruik van spaarzegels. ledere supermarkt heeft een vergelijkbaar systeem.</p><p>Op de website van supermarktketen PLUS staat:</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>PLUSpunten<br>Het meest winstgevende spaarsysteem van Nederland! Wist je dat PLUSpunten het meest winstgevende spaarsysteem van Nederland is?<br>Bij PLUS supermarkt werkt het systeem van spaarzegels als volgt:</p><ul><li>Bij iedere hele euro die je besteedt in de supermarkt, kan je een spaarzegel kopen voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>0</mn> <mo>,</mo> <mn>02</mn>&#160;</math>.</li><li>De zegels spaar je in een boekje of in een app van PLUS. Bij 200 spaarzegels kan je het boekje inleveren of via de PLUS app incasseren en krijg je <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>6</mn>&#160;</math> uitbetaald.</li><li>Uitsluitend volle boekjes kunnen worden ingeleverd of via de app worden geïncasseerd.</li></ul>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het sparen van zegels via de app in plaats van via een spaarboekje levert PLUS een kostenbesparing op en stimuleert de verkopen van PLUS.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Spaarzegels zijn voor Diederike een aantrekkelijke vorm van sparen. Ze koopt in december 2021 voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>200</mn>&#160;</math> aan boodschappen en ze koopt daarnaast de bijbehorende spaarzegels. Zij levert het boekje 31 december 2021 in.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_bijlag_70e2ce33bdc7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/644420d6788d4f0f80e381cd749535ed.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_uitwer_56a28eba2520.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2d2bf6c37a654f14bdb890765dd0cb67.pdf"
+    }
+  ]
+}

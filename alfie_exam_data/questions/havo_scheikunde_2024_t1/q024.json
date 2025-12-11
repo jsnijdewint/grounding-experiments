@@ -1,0 +1,55 @@
+{
+  "id": "havo_scheikunde_2024_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Maak het blokschema op de uitwerkbijlage compleet.</p><p>– Teken de twee ontbrekende blokken van scheidingsruimten S1 en S2.</p><p>– Teken de pijlen van de ontbrekende stofstromen.</p><p>– Noteer de nummers van de onderstaande stoffen bij de juiste pijlen:</p><p>&nbsp; 1 gassen</p><p>&nbsp; 2 olie</p><p>&nbsp; 3 vaste stof</p><p>&nbsp; 4 water</p><p>– Sommige nummers moet je meer dan één keer gebruiken.</p>",
+    "max_score": 3,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_a5413380d74f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/915225832b614bb1bf4a5a597828f989.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Amerikaanse onderzoekers hebben een nieuwe methode bedacht om moeilijk recyclebaar plasticafval om te zetten tot olie. Voor het testen van hun methode gebruikten de onderzoekers polypropeen (PP, zie figuur 1). De onderzoekers gebruikten een proces waarin bij hoge temperatuur (380 - 450 °C) en hoge druk steeds 1,0 g van de vaste stof PP in een reactor in contact wordt gebracht met water. Het water reageert hierbij niet. Onder de genoemde omstandigheden in de reactor ontleden PP-moleculen tot kleinere moleculen. Het gebruikte batchproces bestaat uit de volgende stappen:</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_d2572b0b4017.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c089c55bd5284ffda17f308bc711e20e.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>stap 1: PP en water worden in een reactor gebracht. Door vervolgens de temperatuur en de druk te verhogen ondergaat PP diverse reacties.</p><p>stap 2: De reactor wordt afgekoeld en de ontstane gassen worden afgevoerd. In de reactor ontstaat een mengsel van olie, water en een vaste stof. Deze vaste stof bestaat ook uit PP. Maar de gemiddelde molecuulmassa is lager dan het PP dat de reactor ingaat.</p><p>stap 3: Het reactormengsel wordt in scheidingsruimte S1 gefiltreerd, waardoor de vaste stof wordt afgescheiden.</p><p>stap 4: Het filtraat wordt in scheidingsruimte S2 verder gescheiden.&nbsp;</p><p>&nbsp;</p><p>Op de uitwerkbijlage is dit proces gedeeltelijk weergegeven.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2024_I_uitwerkbijla_916210a9bf90.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e9af4239fcba4df48d214bc570b194dd.pdf"
+    }
+  ]
+}

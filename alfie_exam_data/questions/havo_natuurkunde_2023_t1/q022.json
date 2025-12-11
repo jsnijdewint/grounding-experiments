@@ -1,0 +1,56 @@
+{
+  "id": "havo_natuurkunde_2023_t1_q22",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 135,
+          "name": "Eigenschappen van stoffen en materialen",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoelang het dan duurt voordat het water in één koelblok kookt.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een hobbyist maakt een zaklamp met een zeer grote lichtsterkte. Hij gebruikt voor de zaklamp meerdere leds. ledere led heeft een vermogen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>0</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">W</mi>&#160;</mrow></math>bij een stroomsterkte van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn> <mo>,</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">A</mi>&#160;</mrow></math>. Voor de stroomvoorziening heeft hij de beschikking over 4 accu's die elk een spanning van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>11</mn> <mo>,</mo> <mn>1</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">V</mi>&#160;</mrow></math>leveren. Hij combineert een aantal van deze accu's tot een accupakket.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Het gebruikte accupakket heeft een capaciteit van 5,0 Ah. Eén led werkt op een stroomsterkte van 3,0 A. De zaklamp maakt gebruik van 8 parallel geschakelde leds.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>ledere led heeft een elektrisch vermogen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>0</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">W</mi>&#160;</mrow></math>. De led levert licht en warmte. Het rendement van de leds is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>35</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>. Om te voorkomen dat de leds te heet worden, zijn deze op koelblokken geplakt. Op één koelblok passen 4 leds. Het koelblok is gevuld met 25 gram water van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>20</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>. Als de leds worden ingeschakeld, zal het water opwarmen. Neem aan dat alle warmte die de leds produceren door het water wordt opgenomen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2023_I_uitwerkbijl_b84551b8ec5a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2016336bf8d54298886022aa1e155445.pdf"
+    }
+  ]
+}

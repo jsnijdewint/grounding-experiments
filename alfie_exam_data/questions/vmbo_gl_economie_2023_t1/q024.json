@@ -1,0 +1,61 @@
+{
+  "id": "vmbo_gl_economie_2023_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 125,
+          "name": "Overheid en bestuur",
+          "prefix_code": "EC/K/6"
+        },
+        {
+          "id": 127,
+          "name": "Verrijkingsstof",
+          "prefix_code": "EC/V/1"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik informatiebron 9.<br>Jonas vraag zich af of het broodfonds voordelig voor hem is en maakt een berekening.<br>&nbsp;</p><p>Jonas: \"Ik wil maandelijks € 2.000 netto uitbetaald krijgen in geval van ziekte. Stel dat ik de bijbehorende maandelijkse inleg op mijn eigen spaarrekening zet, en niet op de rekening van het broodfonds</p><p>&nbsp;</p><p>Bereken na hoeveel maanden hij dan voldoende gespaard heeft om zes keer maandelijks <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>2.000</mn>&#160;</math> op te kunnen nemen.<br>Laat ontvangen rente en betaalde belasting buiten beschouwing. Schrijf je berekening op.</p><p><br><br>&nbsp;</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 8 en 9 in de bijlage.&nbsp;<br><br>Jonas werkt als grafisch vormgever voor de gemeente Noord-Betuwe. Hij heeft een vast contract bij de afdeling voorlichting en ontwerpt folders.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Door een reorganisatie bij de gemeente verliest Jonas zijn baan. Hij begint een eenmanszaak als zelfstandige zonder personeel (zzp-er). Hij is nu niet meer verzekerd tegen inkomensverlies. Het aantal zzp-ers dat zich vrijwillig verzekert tegen inkomensverlies neemt al jaren af. De meesten vinden zo’n verzekering tegen inkomensverlies (VTI) bij een groot verzekeringsfonds te duur.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Er zijn nog andere mogelijkheden om een inkomen te ontvangen. Een zzp-er kan zelf gaan sparen of zich aansluiten bij een zogenaamd broodfonds. Het broodfonds is een sociaal en betaalbaar alternatief voor een verzekering tegen inkomensverlies (VTI).</p><p>Broodfonds<br>Een broodfonds is een vereniging van minimaal twintig en maximaal vijftig zelfstandige ondernemers. Zij sparen elke maand en bouwen zo samen een fonds op. Bij ziekte ontvangt hij of zij een uitkering gedurende maximaal twee jaar.<br>bron: www. triodos nl/persberichten</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2023_I_bijlage_d07fb50732d7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/37a7c03aae784b9f89ef1c2fe31fa61d.pdf"
+    }
+  ]
+}

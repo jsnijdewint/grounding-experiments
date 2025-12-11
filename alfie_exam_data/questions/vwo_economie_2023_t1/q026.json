@@ -1,0 +1,57 @@
+{
+  "id": "vwo_economie_2023_t1_q26",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 18,
+          "name": "Markt",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg de opmerking van het onderzoeksbureau uit.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Milieueconomen pleiten voor een circulaire economie. Bij een circulaire economie wordt afval zoveel mogelijk vermeden en het afval dat nog ontstaat, wordt hergebruikt. Een onderzoeksbureau analyseert de mogelijkheden om de economie meer circulair te maken (zie figuur 1). Het onderzoeksbureau neemt aan dat recycling minder milieuvervuilend is dan productie met niet-hernieuwbare grondstoffen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_4a3830e0f534.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b646bc2bd1f44a9a9aaab6b83c772aa4.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Milieueconomen stellen: een circulaire economie kan in de toekomst het groen bbp verhogen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Het onderzoeksbureau merkt op: “Bij uitputting van niet-hernieuwbare grondstoffen zal marktwerking leiden tot andere prijzen, waardoor stroom A zal toenemen.”</p>"
+    }
+  ],
+  "bijlages": []
+}

@@ -1,0 +1,91 @@
+{
+  "id": "vwo_bedrijfseconomie_2021_t1_q27",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 6,
+          "name": "Persoonlijke financiële zelfredzaamheid",
+          "prefix_code": 1
+        },
+        {
+          "id": 7,
+          "name": "De oprichting van een eenmanszaak",
+          "prefix_code": 2
+        },
+        {
+          "id": 8,
+          "name": "Van eenmanszaak naar rechtspersoon",
+          "prefix_code": 3
+        },
+        {
+          "id": 9,
+          "name": "Perspectief op de organisatie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat uit de grafiek in informatiebron 8 de volgende algemene financiële regel blijkt: \"hoe hoger het risico van effecten, des te hoger de potentiële winsten en verliezen\".</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de informatiebronnen 6 tot en met 8.<br>In deze opgave blijven de belastingen en transactiekosten buiten beschouwing.</p><p>Stijn Verhulst heeft de afgelopen jaren een aardig spaarsaldo opgebouwd op zijn spaarrekening. Omdat de interestvergoeding op zijn spaarrekening erg laag is, wil hij dit geld aanwenden om te beleggen in aandelen.</p><p>Stijn vraagt zich af welke instelling toezicht houdt op financiële markten.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Bij de keuze van het aandeel dat hij wil kopen heeft Stijn twee criteria opgesteld:</p><p>Het aandeel moet:</p><ul><li>'relatief goedkoop' / ondergewaardeerd zijn</li><li>een gelijkmatig koersverloop hebben.</li></ul><p>Stijn heeft met betrekking tot deze criteria informatie van een aantal aandelen op de ADX-beurs opgezocht (zie informatiebron 6).</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een professionele belegger adviseert Stijn om, naast de aandelen van vraag 23, aandelen in Jacobsen nv te kopen. Zijn verwachting is dat de beurskoers van dit aandeel gaat stijgen, echter het risico bestaat altijd dat de beurskoers juist gaat dalen. Om dit koersrisico af te dekken, kan Stijn naast het aandeel Jacobsen ook putopties Jacobsen kopen.</p><p>Stijn heeft in de positie van aandeelhouder andere rechten dan in de positie van optiehouder.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Stijn berekent wat het verwachte resultaat in euro's over 2021 is, indien hij per 1 januari 2021:<br>a 100 aandelen Jacobsen koopt of<br>b 100 aandelen Jacobsen én 1 putoptie Jacobsen koopt.<br>&nbsp;</p><p>Hiervoor heeft Stijn informatie verzameld over het aandeel Jacobsen en een putoptie Jacobsen (zie informatiebron 7). Stijn vraagt de professionele belegger waar de hoogte van de optiepremie van een putoptie van afhankelijk is. De professionele belegger antwoordt dat hoe verder de afloopdatum (expiratiedatum) van de putoptie in de toekomst ligt, hoe hoger de optiepremie van de putoptie is.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Bij het bepalen van het verwachte resultaat houdt Stijn rekening met twee scenario's:</p><ul><li>een bestcase-scenario: de beurskoers van een aandeel Jacobsen zal in 2021 met 8% stijgen;</li><li>een worstcase-scenario: de beurskoers van een aandeel Jacobsen zal in 2021 met 15% dalen.</li></ul><p>Onder 'resultaat' verstaat Stijn het bedrag in euro's van de koersresultaten en het dividend.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Stijn heeft de invloed van de beurskoers op 31 december 2021 op het resultaat in situatie a ( 100 aandelen Jacobsen) en b (100 aandelen Jacobsen én 1 putoptie Jacobsen) grafisch weergegeven (zie informatiebron 8).</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2021_I_bijlag_18aa5fbf9016.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/92d29866f40a4864b5a50055e02b1aec.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2021_I_uitwer_a63059d5a495.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3ae5187256fd457fb1ae4f6556df1ea7.pdf"
+    }
+  ]
+}

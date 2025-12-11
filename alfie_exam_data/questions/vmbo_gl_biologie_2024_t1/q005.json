@@ -1,0 +1,60 @@
+{
+  "id": "vmbo_gl_biologie_2024_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 118,
+          "name": "Erfelijkheid en evolutie",
+          "prefix_code": "BI/K/13"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>De lange nek van de girafkever is waarschijnlijk ontstaan door een langdurig proces van mutatie, natuurlijke selectie en seksuele selectie.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Wat is de naam van dit proces?</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Girafkevers zijn insecten met een zeer lange nek. De mannetjes hebben een langere en krachtigere nek dan de vrouwtjes. In de paartijd tonen de mannetjes hun krachtige nek om andere mannetjes te verjagen. Een vrouwtje dat in de buurt is, houdt de mannetjes in de gaten. Zij zal met het sterkste mannetje paren. Na het paren vouwt het vrouwtje een blad, door in de bladnerf te bijten. Daarna rolt zij het blad op en legt ze een ei in het opgerolde blad. Het mannetje blijft in de buurt om andere insecten te verjagen. Als het ei is ingepakt, bijt het vrouwtje de bladsteel door. Hierdoor valt het blad met het ei erin op de bodem. Wanneer de larve uit het ei komt, voedt deze zich met het blad.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_68fee859b4a7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9bdd44a9402a488b8605ee2d20acf36d.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_c39d4a27300a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/af6e78d1c5f844f2a34195742da2f79a.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2024_I_uitwerkbijlage_c89173bb9d6c.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ce4f7301c75b48c7b4639aaa9b761e2a.pdf"
+    }
+  ]
+}

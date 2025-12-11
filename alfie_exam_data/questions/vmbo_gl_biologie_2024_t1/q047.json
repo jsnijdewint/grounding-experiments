@@ -1,0 +1,63 @@
+{
+  "id": "vmbo_gl_biologie_2024_t1_q47",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 115,
+          "name": "Het lichaam in stand houden: voeding en genotmiddelen, energie, transport en uitscheiding",
+          "prefix_code": "BI/K/9"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Mensen met ernstig nierfalen mogen niet te veel vloeistof drinken, meestal maar 750 mL per dag. Wanneer deze mensen meer vloeistof drinken stijgt de bloeddruk.&nbsp;<br> Leg uit hoe de bloeddruk stijgt bij deze mensen.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Als nieren minder goed functioneren, worden afvalstoffen niet goed uit het bloed gefilterd. Dit wordt nierfalen genoemd. Diabetes of een hoge bloeddruk kunnen een oorzaak zijn van nierfalen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In een huisartsenpraktijk zijn 369 ouderen met diabetes en hoge bloeddruk onderzocht en bij een aantal is nierfalen vastgesteld. Van de ouderen met nierfalen is bepaald in welke mate hun nieren nog goed kunnen filteren. Deze gegevens staan in de grafiek.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_48c5b833914a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5e13752731874d78b604eb83b5e1d79a.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Bij mensen met nierfalen worden water en ureum niet goed uit het bloed gehaald.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2024_I_uitwerkbijlage_c89173bb9d6c.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ce4f7301c75b48c7b4639aaa9b761e2a.pdf"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "havo_biologie_2024_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Is de bloeddruk in de aorta hoger of lager dan in de longslagader? En het zuurstofgehalte?&nbsp;<br>bloeddruk in aorta &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zuurstofgehalte in aorta&nbsp;<br>A hoger &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; hoger&nbsp;<br>B hoger &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; lager&nbsp;<br>C lager &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;hoger&nbsp;<br>D lager &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;lager</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In Nederland worden jaarlijks ongeveer vijfduizend hartkleppen vervangen door kunsthartkleppen. Bij kinderen met een kunsthartklep, moet de klep meerdere keren worden vervangen, omdat een kunsthartklep niet meegroeit. Biomedisch ingenieur Carlijn Bouten werkt aan een oplossing voor dit probleem.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_e32485da52dc.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0ac7e522bdaa4abda69dbc8c7078ca8a.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_0d0653914e24.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/47a3b7cdbf64465d9244c3cf794dbf53.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Bouten heeft een slagaderklep ontwikkeld van een biologisch afbreekbare kunststof (afbeelding 2). Na de implantatie worden tussen de kunstvezels van de slagaderklep witte bloedcellen en bindweefselcellen ingevangen. Tegen de tijd dat de bindweefselcellen voldoende stevige en elastische eiwitten (collageen en elastine) hebben aangemaakt, wordt de kunststof afgebroken.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Het grote probleem bij een geïmplanteerde kunstklep is dat het materiaal bloedstolling veroorzaakt.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Het functioneren van de kunstklep is in het laboratorium getest in een kunstslagader onder de omstandigheden die heersen in een longslagader. In plaats van bloed werd een zoutoplossing door de kunstklep heen gepompt.<br><br>In afbeelding 3 zijn foto’s te zien van een filmpje van het functioneren van de kunstklep als longslagaderklep. De foto’s beslaan één hartcyclus, waarvan de drie achtereenvolgende perioden zijn aangegeven met letters.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_d623769efd42.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e5011ff0506f412591f93b6026e1d9c4.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>De drie fasen van de hartcyclus zijn:&nbsp;<br> hartpauze&nbsp;<br> samentrekken boezems&nbsp;<br> samentrekken kamers</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Na de test onder de omstandigheden die heersen in de longslagader, is de kunstklep getest onder de omstandigheden die heersen in de aorta.</p>"
+    }
+  ],
+  "bijlages": []
+}

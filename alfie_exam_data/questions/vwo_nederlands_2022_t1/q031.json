@@ -1,0 +1,81 @@
+{
+  "id": "vwo_nederlands_2022_t1_q31",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 53,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Citeer drie zinnen uit tekst 3 die elk afzonderlijk kunnen worden gezien als een samenvatting van de zorgen die door Horvitz worden geuit in tekstfragment 1.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>“De eerste stap in de moderne revolutie is de privatisering van alles.” (regels 50-51) Volgens het tekstgedeelte dat bestaat uit alinea 1 tot en met 5 van tekst 3 doet deze privatisering zich voor in verschillende beroepsdomeinen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“De eerste stap in de moderne revolutie is de privatisering van alles.” (regels 50-51)</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In tekst 3 staat de ontwikkeling centraal in het eigenaarschap van data. Deze ontwikkeling kent drie fasen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“Nu is het uiteraard fijn dat bedrijven kansen zien in nieuwe technologieën. Maar het is minder fijn dat democratieën hun politieke macht zo snel uit handen geven.” (regels 66-70)</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In tekst 3 komen diverse nadelen van de huidige omgang met data aan de orde.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In tekst 3 worden oproepen gedaan aan politici om ervoor te zorgen dat de macht niet wordt kwijtgeraakt.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p><strong>tekstfragment 1</strong></p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Of, stelde Horvitz, directeur van het onderzoekslab van Microsoft, hoe eerlijk is onze democratie nog als we op basis van Facebookberichten precies weten hoe iemand zich voelt en hoe je hem moet bespelen om niet (of wel) te gaan stemmen? De Britse krant The Guardian schreef vorige maand hoe de meest geavanceerde techniek op dit gebied in handen is van big-data-miljardair Robert Mercer.</p><p>&nbsp;</p><p><i>naar: Jan Benjamin, De renaissance van kunstmatige intelligentie uit: NRC Handelsblad, 13 maart 2017</i></p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2022_I_bijlage_4ae2d5f8192e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dea44ec2b1b74c9cbd02db396bb8609a.pdf"
+    }
+  ]
+}

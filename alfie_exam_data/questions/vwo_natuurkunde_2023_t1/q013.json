@@ -1,0 +1,119 @@
+{
+  "id": "vwo_natuurkunde_2023_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 49,
+          "name": "Elektrische systemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 50,
+          "name": "Elektrische en magnetische velden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg met behulp van figuur 4 uit waarom de straal van de cirkelbeweging steeds kleiner wordt naarmate het deeltje dichter bij de pool komt.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Lees de onderstaande tekst.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In de gebieden bij de Noordpool en de Zuidpool kun je vaak ’s nachts gekleurd licht zien. Dit poollicht wordt respectievelijk noorderlicht of zuiderlicht genoemd (zie figuur 1).</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_51f70ac84495.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/db039fc5ba2944b9a4b534fb92151345.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_d1f9bbbcce38.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/242a53ca88394764bb601e67e994869a.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Het poollicht wordt veroorzaakt door een zogenaamd plasma van positief geladen en negatief geladen deeltjes. Dit plasma verlaat de zon bij een zonne-uitbarsting (zie figuur 2) en bereikt 17 uur later onze dampkring. Als de deeltjes botsen met moleculen in de lucht geeft dit de spectaculaire lichtverschijnselen van het poollicht.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Het plasma moet een bepaalde minimale snelheid hebben om aan het gravitatieveld van de zon te kunnen ontsnappen.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De afstand die het plasma aflegt van de zon naar de aarde is <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>1</mn>\r\n  <mo>,</mo>\r\n  <mn>5</mn>\r\n  <mo>&#8901;</mo>\r\n  <msup>\r\n    <mn>10</mn>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>11</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mtext> </mtext>\r\n    <mi mathvariant=\"normal\">m</mi>\r\n  </mrow>\r\n</math>.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>In figuur 3 is de aarde met haar magneetveld te zien. De aarde is op te vatten als een staafmagneet.</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_5b8ceb95ebd2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/690fdcc1e41c41a18f5df82ee58529ca.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Als het plasma het aardmagnetisch veld binnenkomt, gaan geladen deeltjes van het plasma een schroefvormige beweging maken om de magnetische veldlijnen. In figuur 4 is de baan van één geladen deeltje weergegeven.</p>"
+    },
+    {
+      "order": 10,
+      "type": "image",
+      "media_path": "media/in-exam/img_892c03b02a95.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/59bbd29f69f24cbf805fa6a3da8999d5.png",
+      "caption": ""
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>In het rechthoekige kader in figuur 4 is één omloop van het geladen deeltje om een veldlijn van het aardmagnetisch veld te zien. Op de uitwerkbijlage is deze omloop vereenvoudigd weergegeven, zoals je deze ziet als je in de richting van het magnetisch veld kijkt. De richting van de veldlijn en de component van de snelheid loodrecht op de veldlijn zijn ook weergegeven.</p>"
+    },
+    {
+      "order": 12,
+      "type": "text",
+      "text": "<p>De snelheid van het deeltje heeft niet alleen een component loodrecht op de veldlijn, maar ook een component in de richting van de veldlijn. Die laatste component zorgt ervoor dat het deeltje richting de magnetische noordpool of zuidpool beweegt. Deze beweging langs de veldlijn levert in combinatie met de cirkelbeweging om de veldlijn de schroefvormige baan in figuur 4 op.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2023_I_uitwerkbijl_dcb32a1b5377.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e8c6f0ebe587432bb96bfde82bed13ab.pdf"
+    }
+  ]
+}

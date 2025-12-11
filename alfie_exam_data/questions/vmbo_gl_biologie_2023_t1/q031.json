@@ -1,0 +1,46 @@
+{
+  "id": "vmbo_gl_biologie_2023_t1_q31",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 121,
+          "name": "Vaardigheden in samenhang",
+          "prefix_code": "BI/V/4"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Om schadelijke bacteriën in de darmen te bestrijden, kunnen antibiotica gebruikt worden.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Leg uit waardoor het gebruik van antibiotica ook nadelig kan zijn voor het goed functioneren van de darmen.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In het verteringskanaal leven nuttige bacteriën en schadelijke bacteriën. Nuttige bacteriën bevorderen een goede werking van de darmen. Schadelijke bacteriën kunnen ontstekingen veroorzaken, waardoor verschillende ziekten kunnen ontstaan.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2023_I_uitwerkbijlage_4e0013036ef8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9a816268fb648d6bbff9679cf7f9a46.pdf"
+    }
+  ]
+}

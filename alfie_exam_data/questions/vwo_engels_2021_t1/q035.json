@@ -1,0 +1,40 @@
+{
+  "id": "vwo_engels_2021_t1_q35",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "engels",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 1,
+      "domains": [
+        {
+          "id": 24,
+          "name": "Leesvaardigheid",
+          "prefix_code": "A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Drie van de onderstaande zinnen (a tot en met f) zijn weggelaten uit alinea's 1, 2 en 6 (zie 35-1, 35-2 en 35-3 in de tekst).<br>Geef bij elke plaats aan welke zin daar hoort.<br>Noteer de letter van de zin achter elk nummer op het antwoordblad.<br>Let op: er blijven drie zinnen over.<br>a Attributing life to an inanimate object is often frowned upon and seen as a sign of immaturity.<br>b Children are likely to grow up thinking everything is sentient, or at least interactive.<br>c Marketeers know people are prepared to pay higher prices for contraptions that talk back to them.<br>d Personifying products and brands can backfire, however.<br>e Sometimes we see things as human because we're lonely.<br>f The popularity of interactive household devices can be explained by their versatility.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Engels 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2021_I_bijlage_d3e0516e090d.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5226717a0516479bbf99a8d1ff030091.pdf"
+    }
+  ]
+}

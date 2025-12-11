@@ -1,0 +1,87 @@
+{
+  "id": "havo_biologie_2024_t1_q43",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 122,
+          "name": "Zelforganisatie van cellen",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Verklaar waardoor het voor een plant moeilijk is om water op te nemen uit een bodem waarin het grondwater verzilt is.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Anouk heeft tuinbouw en akkerbouw aan de HAS Hogeschool gestudeerd. Tijdens haar stage in Peru heeft ze kennisgemaakt met de teelt van quinoa. Als ze na haar studie het akkerbouwbedrijf van haar ouders overneemt, besluit ze ook quinoa te gaan telen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_9749971ba2c3.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f7d76f53354a4732a718ec6c301813e8.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Anouk vindt dat in de toekomst zowel de manier van voedsel produceren als de manier van voedsel consumeren zal moeten veranderen om de groeiende wereldbevolking van voedsel te kunnen voorzien. Zelf is ze veganist geworden en eet dus geen dierlijke producten zoals vlees, vis, eieren en zuivelproducten.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Een veganistische levenswijze heeft invloed op het gebruik van landbouwgrond. Voor het voeden van een groep mensen met een veganistische levenswijze is minder landbouwgrond nodig dan voor een even grote groep mensen die wel dierlijke producten eten.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Anouk moet er als veganist op letten dat haar voeding voldoende eiwitrijk is. Quinoa is een goede bron van plantaardige eiwitten, omdat het alle essentiële aminozuren bevat.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In het jaar voordat Anouk een akker gaat gebruiken voor de teelt van quinoa, laat ze er vlinderbloemige planten op groeien. Vlinderbloemige planten bezitten wortelknolletjes waarin knolletjesbacteriën leven. Door deze planten onder te ploegen, komt er uiteindelijk meer NO3 – in de bodem. Vier processen uit de stikstofkringloop zijn:&nbsp;<br>1 ammonificatie door rottingsbacteriën&nbsp;<br>2 nitrificatie door nitrietbacteriën en nitraatbacteriën&nbsp;<br>3 stikstofassimilatie door vlinderbloemige planten&nbsp;<br>4 stikstoffixatie door knolletjesbacteriën</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Anouk zaait de quinoa in maart. Nadat de zaden gekiemd zijn, groeien de planten goed. De biomassa van quinoaplanten kan snel toenemen: in vijf maanden groeit er uit een zaadje een forse plant van 1 tot 1,5 meter hoogte.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Naast de quinoa-akker ligt een sloot. Anouk zaait tussen de akker en de sloot een zes meter brede strook in met inheemse wilde bloemen. De strook vergroot de biodiversiteit en kan tegengaan dat er te veel meststoffen vanuit de akker in het water terechtkomen.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Steeds meer landbouwgronden verzilten: het grondwater wordt zouter door binnendringend zeewater. Ook de akkerbouwgrond van Anouk verzilt langzaam. De meeste landbouwgewassen kunnen daar niet goed tegen.</p>"
+    }
+  ],
+  "bijlages": []
+}

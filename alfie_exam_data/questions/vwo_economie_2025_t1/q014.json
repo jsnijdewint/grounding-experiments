@@ -1,0 +1,52 @@
+{
+  "id": "vwo_economie_2025_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In 2024 stijgen voor Guarda de variabele kosten ten opzichte van 2023 met € 0,25 per ijsje. De overige gegevens blijven hetzelfde.<br>Bereken hoeveel procent van de gestegen variabele kosten wordt doorberekend in de verkoopprijs.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><p>Een onderneemster opent in 2023 ijssalon Guarda. Guarda is de eerste ijssalon binnen een groot gebied, waardoor ze een monopoliepositie heeft. Op basis van een marktonderzoek heeft Guarda de vraag naar ijsjes bepaald (zie tabel 1 en figuur 1).</p></p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_8e0cead6416b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3511139d8baa45a7a6058beb612f59af.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Guarda behaalt maximale winst bij een prijs van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>3</mn>&#160;</math>per ijsje.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vw-1022-a-25-1-u.pdf",
+      "media_path": "media/bijlages/vw-1022-a-25-1-u_90e7cccc7fef.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/48e2754d6ace4abd9ac3ac8836680c67.pdf"
+    }
+  ]
+}

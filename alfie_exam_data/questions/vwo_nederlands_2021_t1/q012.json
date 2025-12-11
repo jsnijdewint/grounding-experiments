@@ -1,0 +1,76 @@
+{
+  "id": "vwo_nederlands_2021_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 53,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noteer de nummers van de vijf woorden of woordgroepen uit onderstaande rij waarmee bedoelde negatieve houding in de tekst tot uitdrukking wordt gebracht.</p><p>1 ‘de media’ (regel 108)</p><p>2 veronderstelde (regel 109)</p><p>3 simpele en misleidende (regel 111)</p><p>4 teloorgang (regel 113)</p><p>5 gedestilleerd (regels 135-136)</p><p>6 schurken (regel 142)</p><p>7 pretentieuze (regel 147)</p><p>8 fundamenteel anders (regel 156)</p><p>9 onwaarschijnlijk (regel 159)</p><p>10 Paniekzaaierij (regel 164)</p><p>11 conservatieve stemmingmakers (regel 171)</p><p>12 politieke disfunctie (regel 176)</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De tekst ‘We leren (n)iets van de geschiedenis’ kan door middel van onderstaande kopjes in zes delen worden onderverdeeld:</p><p>deel 1: Inleiding</p><p>deel 2: Het (on)nut van historische kennis</p><p>deel 3: Ons (on)vermogen lessen te trekken uit het verleden</p><p>deel 4: Vergelijkingen tussen heden en verleden</p><p>deel 5: Poging tot toepassing in de praktijk</p><p>deel 6: Slot</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In alinea 4 van tekst 1 vind je een argumentatie. De functie van elk gedeelte in deze argumentatie kan met behulp van functiewoorden worden weergeven.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In alinea 3 en 4 van tekst 1 komt de vraag aan de orde of historische kennis zinvol is of niet.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“We hadden op 4 en 5 mei beter gratis poffertjes kunnen uitdelen; dat had evenveel geholpen als al die prachtige toespraken van de afgelopen zeventig jaar.” (regels 101-105)</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>“Als er al een periode is uit ons nationale verleden die velen beschouwen als een leerzaam en bruikbaar verleden, dan is het wel de Duitse bezetting.” (regels 60-64)</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In alinea 19 en 20 van tekst 1 wordt geargumenteerd op basis van vergelijking.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>In alinea 10 tot en met 13 van tekst 1 staan woorden die suggereren dat er sprake is van een negatieve houding ten opzichte van de media.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2021_I_bijlage_a140e076680b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8f09b902c8234f79a5b66b53e4cd1e25.pdf"
+    }
+  ]
+}

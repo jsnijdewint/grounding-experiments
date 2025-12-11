@@ -1,0 +1,46 @@
+{
+  "id": "vwo_nederlands_2024_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 53,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke woordenreeks geeft de psychologische ontwikkeling van de moeder in alinea 1 tot en met 3 chronologisch het best weer?</p><p><strong>A</strong> alleen, gespannen, oorlogszuchtig</p><p><strong>B</strong> gepijnigd, alleen, verbitterd</p><p><strong>C</strong> gespannen, gefrustreerd, ongelukkig</p><p><strong>D</strong> ongelukkig, verbitterd, gelaten</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De moeder lijkt zich gedurende de eerste dagen in het hotel psychologisch te ontwikkelen, blijkens alinea 1 tot en met 3</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_ac05fe426b26.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fb5d918d91ec4599a96647704fa584d3.pdf"
+    }
+  ]
+}

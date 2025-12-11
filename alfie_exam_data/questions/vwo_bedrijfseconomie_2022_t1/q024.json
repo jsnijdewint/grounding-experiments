@@ -1,0 +1,73 @@
+{
+  "id": "vwo_bedrijfseconomie_2022_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 13,
+          "name": "Vastleggen van financiële en niet financiële informatie",
+          "prefix_code": 1
+        },
+        {
+          "id": 14,
+          "name": "Kosten- en winstvraagstukken",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat het hebben van relatief veel constante kosten in verhouding tot variabele kosten het bedrijfsrisico vergroot. Betrek in het antwoord zowel de constante kosten als de variabele kosten.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Bij deze opgave horen de informatiebronnen 7 en 8.</i></p><p><br><i>In deze opgave blijft de btw buiten beschouwing.</i></p><p>&nbsp;</p><p>Paul en Osman studeren Financial Control aan de Hogeschool van Haarlem. Ze financieren hun studie onder andere door op vrije dagdelen bij een aantal bekenden het gras te maaien en ramen te zemen. De laatste tijd krijgen ze via deze bekenden meer aanvragen om dergelijke kleine klusjes uit te voeren.</p><p>&nbsp;</p><p><strong>Startup Klusstudent</strong></p><p><br>Eind 2021 vragen Paul en Osman zich af of ze de vraag naar de uitvoering van dergelijke klusjes, waar geen scholing voor nodig is, kunnen omzetten naar een winstgevende startup. Ze hebben het idee om met ingang van 1 januari 2022 een digitaal platform in de vorm van een app te introduceren waar de vraag naar en het aanbod van klussen kunnen samenkomen (zie informatiebron 7). Ze gaan daarom de haalbaarheid van dit plan onderzoeken.</p><p>Het gebruik van de app van Klusstudent levert voor degene die de klus plaatst klantwaarde op. Klantwaarde heeft twee kanten: een 'opbrengstenkant' en een 'kostenkant'.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_9d9f8ee7b378.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/46a032ee11db4b828cbfc7813cea2d16.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Paul maakt zich vooral zorgen of Klusstudent over 2022 een positief resultaat zal behalen. Osman maakt zich met name zorgen over de cashflow na belastingen van Klusstudent.</p><p>&nbsp;</p><p>Paul en Osman maken een overzicht van de verwachte opbrengsten en kosten in 2022 van hun platform (zie informatiebron 8).</p><p>&nbsp;</p><p><strong>Resultaat</strong></p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Ondanks het verwachte (geringe) positieve resultaat over 2022 heeft met name Paul zorgen over de samenstelling van de kosten: een groot gedeelte van de kosten bestaat uit constante kosten. Hierdoor is het bedrijfsrisico groot. Onder bedrijfsrisico wordt verstaan: de mate waarin een afzetverandering gevolgen heeft voor het resultaat.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_bijlag_62086e27b4ef.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a93cd8f679584499a2c7de8ddf763cff.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_uitwer_fe9d963a16b1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e693b318cf614e21b8c84f861816b24e.pdf"
+    }
+  ]
+}

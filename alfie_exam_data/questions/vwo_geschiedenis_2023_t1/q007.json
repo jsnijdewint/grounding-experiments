@@ -1,0 +1,46 @@
+{
+  "id": "vwo_geschiedenis_2023_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 187,
+          "name": "Tijdvak 4 – Steden en staten",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef aan dat de kritiek van de koningin een politieke en een sociale achtergrond had.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 1301 zou de Franse koningin Johanna tijdens een bezoek aan Brugge zich hebben geërgerd aan de 'onmatige pracht en praal van de Brugse vrouwen' en hebben uitgeroepen: \"Ik dacht dat alleen ik koningin was en ik vind er hier honderden.\" De koningin geeft met haar uitroep kritiek op een verandering in de levensstijl van de Brugse patriciërs in de late middeleeuwen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2023_I_bijlage_55374cf5cbf5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5244a635b97841b7b1e77f67a3c0f38a.pdf"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "vmbo_gl_wiskunde_2024_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "wiskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 67,
+      "domains": [
+        {
+          "id": 160,
+          "name": "Algebraïsche verbanden",
+          "prefix_code": "WI/K/4"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Milan stopt met sparen op het moment dat er voor het eerst meer dan 5000 euro op zijn rekening staat.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Bereken het aantal maanden dat Milan dan gespaard heeft. Schrijf je berekening op.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_c3f75b87f0c4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/944e388f377c433e82488baf7f51ff83.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Milan opent een spaarrekening waarop hij elke maand 50 euro stort. Op deze rekening krijgt hij maandelijks 0,17 procent rente.</p><p>De volgende formule hoort bij het bedrag dat op deze rekening staat:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi> <mo>=</mo> <mfrac><mrow><mn>50</mn> <mo>,</mo> <mn>085</mn> <mo>&#215;</mo> <mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mn>1</mn> <mo>,</mo> <msup><mn>0017</mn> <mrow data-mjx-texclass=\"ORD\"><mi>n</mi> </mrow></msup><mo>&#8722;</mo> <mn>1</mn> <mo data-mjx-texclass=\"CLOSE\">)</mo> </mrow></mrow><mrow><mn>0</mn> <mo>,</mo> <mn>0017</mn> </mrow></mfrac><mo>+</mo> <mn>50</mn></math></p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>het bedrag dat op de spaarrekening staat in euro's en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi>&#160;</math>het aantal maanden dat Milan aan het sparen is.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "VMBO_2024_wiskunde_formules.pdf",
+      "media_path": "media/bijlages/VMBO_2024_wiskunde_formules_d4a6470d6aaf.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0e5082e035824e97a227270dda746c13.pdf"
+    },
+    {
+      "name": "Wiskunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_2024_I_uitwerkbijlage_468b9bf175b5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a9189e3980b41ebb0534167115da4e4.pdf"
+    }
+  ]
+}

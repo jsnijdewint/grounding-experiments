@@ -1,0 +1,59 @@
+{
+  "id": "havo_biologie_2024_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 130,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p> Hoeveel verschillende soorten vlinders worden vermeld in de tabel?&nbsp;<br> En hoeveel verschillende genera (geslachten) van vlinders?&nbsp;<br>Noteer je antwoord als volgt:&nbsp;<br>aantal soorten: …&nbsp;<br>aantal genera: …</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Geert komt thuis van een schoolkamp met op zijn borst en armen rode bultjes die erg jeuken. De bultjes zijn veroorzaakt door brandharen van eikenprocessierupsen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_5bc1d9e765c4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9840620df56e4d86b5b1dc598e3fc147.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Er zijn meerdere vlinders waarvan de rupsen brandharen hebben die huidirritatie kunnen veroorzaken. In de tabel staan de wetenschappelijke naam van een aantal van deze vlinders en de habitat van hun rupsen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_ebac91f15580.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f4b40c43c7414b5788b767d31c0fd2c1.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

@@ -1,0 +1,88 @@
+{
+  "id": "havo_natuurkunde_2021_t1_q22",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 133,
+          "name": "Kracht en beweging",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:</p><ul><li>Teken op de uitwerkbijlage in beide figuren de luchtweerstandskrachten op de handen. Teken alle krachten in de juiste onderlinge verhouding.</li><li>Teken in beide figuren de armen die horen bij deze krachten.</li><li>Omcirkel in iedere zin het goede antwoord.</li></ul>",
+    "max_score": 4,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_dd6efc1e0ec5.jpg",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0acabe574dcd45c29683a18010ec9d7a.jpg"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 2016 sprong skydiver Luke Aikins zonder parachute vanaf een hoogte van bijna 8 km recht naar beneden. Boven de grond was een groot net opgespannen om hem veilig op te vangen. Zie figuur 1 en 2 .</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_8a10b3cef681.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ba63f12dffdb431f8ac626120c37e9d0.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Aikins ondervond een luchtweerstandskracht. Hiervoor geldt:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>F</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">w</mi> </mrow></mrow></msub><mo>=</mo> <mi>k</mi> <mi>A</mi> <msup><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></math></p><p>Hierin is:</p><ul><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi>&#160;</math>een constante;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>de frontale oppervlakte van Aikins;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mi>v</mi>&#160;</math>de snelheid ten opzichte van de lucht.</li></ul>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Dankzij de luchtweerstandskracht bereikte hij na verloop van tijd een constante snelheid van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>54</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math>. Zijn massa is 75 kg en ziin frontale oppervlakte is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>80</mn> <msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></math>.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Tijdens de laatste 1,0 kilometer op weg naar het net was Aikins' valsnelheid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>54</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math>. Ook was er zijwind die hem een constante horizontale snelheid zou geven van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn> <mo>,</mo> <mn>9</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">km</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">h</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math>. Aikins moest tijdens zijn val daarom bijsturen op weg naar het net.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Een landing op de buik is gevaarlijk. Aikins moest daarom vlak voor de landing draaien. Dat deed hij door een van zijn handen dichter bij zijn lichaam te houden. In figuren 3 en 4 is dat weergegeven. Aikins wordt hierbij als stilstaand beschouwd, terwijl de bewegende lucht weerstandskracht op zijn beide handen uitoefent. Andere krachten worden niet meegenomen.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_0c83d049b35f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/57d113823ca742b7baccab3e113b358c.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Op de uitwerkbijlage staan figuren 3 en 4 en twee invulzinnen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2021_I_uitwerkbijl_615e0715d0ed.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ae05f1ce95cd4d549a2e6c6e34cdeacc.pdf"
+    }
+  ]
+}

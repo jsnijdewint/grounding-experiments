@@ -1,0 +1,58 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2023_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 144,
+          "name": "Kracht en veiligheid",
+          "prefix_code": "NASK1/K/9"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wat is juist bij een val?<br>De airbag<br><strong>A </strong>vergroot de remkracht.<br><strong>B </strong>verkort de botstijd.<br><strong>C </strong>verlengt de remweg.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Speciaal voor ouderen is er een heup-airbag ontwikkeld. Deze airbag beschermt bij een val.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_f1165b9a6990.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/86bf631abe69435291a2aab13bdc0605.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De heup-airbag is een gordel die je om je middel draagt. Tijdens het vallen blaast de airbag zich automatisch op. Bij de landing val je op de opgeblazen airbag.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2023_I_146f2ef32a60.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a553a8c7e49437a900373fa6ec9748e.pdf"
+    }
+  ]
+}

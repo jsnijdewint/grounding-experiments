@@ -1,0 +1,72 @@
+{
+  "id": "vmbo_gl_maatschappijkunde_2021_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "maatschappijkunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 63,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Lees tekst 6.<br>De Tweede Kamer heeft verschillende taken. In tekst 6 gebruiken de Kamerleden twee rechten om die taak uit te voeren.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Welke taak van de Tweede Kamer is te herkennen in tekst 6 ? Noem <strong>twee andere</strong> rechten van de Tweede Kamer die passen bij deze taak.<br>Doe het zo: neem het onderstaande over en vul het antwoord aan.&nbsp;</p><p>De ... taak is te herkennen en twee andere rechten die daarbij passen zijn ... en ...</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><strong>tekst 1</strong><br><strong>Op weg naar verkiezingen</strong><br>De politieke partijen bereiden zich voor op de twee volgende verkiezingen: de Provinciale Statenverkiezingen op 20 maart en de verkiezingen voor het Europees Parlement op 23 mei. Vooral de Provinciale Statenverkiezingen zijn belangrijk voor de partijen in de Tweede Kamer.</p><p><br>naar: <a href=\"http://www.nos.nl\">www.nos.nl</a> van 9 februari 2019</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><strong>tekst 2</strong><br><strong>Kamer bespreekt advies over creatieve mbo-opleidingen</strong><br>Het aantal studenten is sinds 2005 enorm toegenomen, terwijl de kansen op de arbeidsmarkt onvoldoende zijn meegegroeid, aldus een rapport van het ministerie van Onderwijs uit 2018 over creatieve mbo-opleidingen.<br>\"We moeten jongeren beschermen tegen een toekomst zonder baan\", zegt Tweede Kamerlid EI Yassini. Hij wil dat de minister het aantal scholen dat de mbo-opleiding Artiest aanbiedt, verder beperkt.<br>\"Geen goed idee\", zegt de verantwoordelijke minister. De minister wil de mbo-scholen voldoende ruimte geven om het zelf te regelen.<br>&nbsp;</p><p>naar: <a href=\"http://www.tweedekamer.nl\">www.tweedekamer.nl</a> van 6 maart 2019</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><strong>tekst 3</strong><br>... is tegen het fokken van dieren speciaal voor het leer dat zij opbrengen, net zoals wij tegen bont zijn. Het is onnodig en onacceptabel om dieren alleen voor hun vacht of huid te houden en te doden. Leer is in veel gevallen een bijproduct van de bio-industrie. Het overgrote deel van het leer in Nederland komt uit de vleesindustrie, voornamelijk van runderen, varkens, paarden, geiten en schapen.<br>&nbsp;</p><p>naar: een website van een Nederlandse politieke partij van 6 september 2019</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p><strong>tekst 4</strong><br><strong>Links en rechts verdeeld over scholieren die voor klimaat spijbelen</strong><br>Leerlingen uit het hele land demonstreerden donderdag in Den Haag voor strengere klimaatmaatregelen. Ze vinden dat het kabinet te weinig doet om klimaatverandering tegen te gaan.</p><p>Aanhangers van alle politieke partijen vinden het mooi dat scholieren opkomen voor hun eigen toekomst, máár de aanhangers van de rechtse partijen hadden liever gezien dat het klimaatprotest op zaterdag plaats had gevonden. Dat blijkt uit de wekelijkse peiling van Maurice de Hond.</p><p>Aanhangers van rechtse partijen vinden dat scholen leerlingen geen toestemming moeten geven om te spijbelen voor een klimaatdemonstratie.</p><p>Omgekeerd menen aanhangers van ... en ... juist dat jongeren door één klimaatmars meer leren dan één dag op school.<br>&nbsp;</p><p>naar: <a href=\"http://www.ad.nl\">www.ad.nl</a> van 10 februari 2019</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_f99c548b354c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0f6475197d22460cb5cc8a499b76a4fe.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p><strong>tekst 5</strong><br><strong>Belastingdienst</strong><br>&nbsp;</p><p>In juli 2014 besloot de Belastingdienst om de kinderopvangtoeslag van 232 gezinnen te beëindigen.<br>De Belastingdienst had het vermoeden dat deze ouders geen recht hadden op deze toeslag.<br>De Belastingdienst heeft een groot aantal gezinnen door zijn harde aanpak in financiêle problemen gebracht en hun vertrouwen geschonden. De Belastingdienst wordt aanbevolen om de ouders die overlast hebben ondervonden excuses aan te bieden en een tegemoetkoming te bieden voor het aangedane leed.<br>&nbsp;</p><p>naar: <a href=\"http://www.tweedekamer.nl\">www.tweedekamer.nl</a> van 22 maart 2017</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p><strong>tekst 6</strong></p><p><strong>Verruiming kinderpardon</strong><br>Tijdens het debat in de Tweede Kamer over de verruiming van het kinderpardon pleitte de SGP voor een parlementair onderzoek naar het asielbeleid van de afgelopen jaren.<br>De PVV diende een motie van wantrouwen tegen het kabinet in, maar die werd onvoldoende gesteund.<br>&nbsp;</p><p>naar: <a href=\"http://www.nrc.nl\">www.nrc.nl</a> van 30 januari 2019</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijkunde 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijkunde_2021_I_bijla_fb908480e3d9.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/916d422a2bf5449fba8906e7418cd830.pdf"
+    }
+  ]
+}

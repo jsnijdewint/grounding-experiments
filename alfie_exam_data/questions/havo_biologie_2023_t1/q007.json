@@ -1,0 +1,62 @@
+{
+  "id": "havo_biologie_2023_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 128,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 129,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noteer de naam van deze vorm van symbiose.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 2009 kocht Wouter van Eck een akker waarop jarenlang mais was verbouwd. Hij heeft er voedselbos Ketelbroek aangelegd, een combinatie van landbouw en natuur (afbeelding 1).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_c51b6db59c4f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/36c3662ea66b42718c3862648704f6cd.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In het voedselbos staan meer dan 350 verschillende plantensoorten, die allemaal iets eetbaars opleveren: notenbomen, tamme kastanjes, kiwi's, bessenstruiken en kruiden als daslook en tijm. Na het planten heeft Wouter het gebied met rust gelaten: hij ploegt niet, gebruikt geen mest en geen chemische bestrijdingsmiddelen. Hij snoeit en oogst alleen maar.</p><p>Op de akkers rondom het voedselbos worden alleen aardappelen verbouwd. Zo'n monocultuur is gevoeliger voor plagen dan een voedselbos.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In een niet-verstoorde bodem vormen bodemschimmels uitgebreide netwerken van schimmeldraden. De schimmels dringen de wortels van planten binnen om daar organische stoffen op te nemen. De schimmeldraden nemen anorganische stoffen uit de bodem op, die vervolgens ook gebruikt worden door de plant.</p>"
+    }
+  ],
+  "bijlages": []
+}

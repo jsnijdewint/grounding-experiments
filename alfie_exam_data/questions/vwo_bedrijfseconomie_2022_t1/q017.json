@@ -1,0 +1,73 @@
+{
+  "id": "vwo_bedrijfseconomie_2022_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 6,
+          "name": "Persoonlijke financiële zelfredzaamheid",
+          "prefix_code": 1
+        },
+        {
+          "id": 7,
+          "name": "De oprichting van een eenmanszaak",
+          "prefix_code": 2
+        },
+        {
+          "id": 8,
+          "name": "Van eenmanszaak naar rechtspersoon",
+          "prefix_code": 3
+        },
+        {
+          "id": 9,
+          "name": "Perspectief op de organisatie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Indien Henk Verhaas geen testament heeft laten opmaken, wie zijn dan de erfgenamen van Henk Verhaas? Noteer de letter(s) van het/de juiste antwoord(en).<br>a Willem<br>b Frederik<br>c Sander<br>d Willemijn<br>e Linda</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Bij deze opgave hoort informatiebron 6.</i></p><p><br>Henk Verhaas is 80 jaar oud. Vanwege zijn leeftijd vindt hij het tijd om over zijn nalatenschap na te denken. Henks stamboom is hieronder weergegeven ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8224;</mo>&#160;</math>betekent overleden):</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_0bc43680bd7e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c8385ed215f946e987f84591e6b2f805.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_bijlag_62086e27b4ef.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a93cd8f679584499a2c7de8ddf763cff.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_uitwer_fe9d963a16b1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e693b318cf614e21b8c84f861816b24e.pdf"
+    }
+  ]
+}

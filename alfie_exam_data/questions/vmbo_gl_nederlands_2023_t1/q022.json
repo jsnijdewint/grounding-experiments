@@ -1,0 +1,45 @@
+{
+  "id": "vmbo_gl_nederlands_2023_t1_q22",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 60,
+      "domains": [
+        {
+          "id": 157,
+          "name": "Leesvaardigheid",
+          "prefix_code": "NE/K/6"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In de advertentie wordt beweerd dat schoon en veilig drinkwater onbetaalbaar is.<br>Wat bedoelt Vitens met 'onbetaalbaar'?<br><strong>A </strong>Vitens denkt dat schoon en veilig drinkwater in de toekomst een schaarste wordt.<br><strong>B </strong>Vitens vindt dat schoon en veilig drinkwater van een onschatbare waarde is.<br><strong>C</strong> Vitens vreest dat schoon en veilig drinkwater voor sommige mensen erg duur is.<br><strong>D </strong>Vitens waarschuwt dat schoon en veilig drinkwater in de toekomst duurder wordt.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_0713cd11b614.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fb589d755bd34bcc894e3d04ee63d4b1.pdf"
+    },
+    {
+      "name": "Nederlands 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_uitwerkbijla_89b91ec36c88.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b23062525a6d4570a8c70d6453f56bd9.pdf"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "vwo_nederlands_2022_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 53,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Waaruit bestaan die twee koppen van dit monster? Geef antwoord in een of meer volledige zinnen en gebruik voor je antwoord niet meer dan 30 woorden.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tekst 2 kan door middel van onderstaande kopjes in vijf delen worden onderverdeeld:</p><p>deel 1: Inleiding</p><p>deel 2: Beschrijving</p><p>deel 3: Interpretatie</p><p>deel 4: Eindoordeel</p><p>deel 5: Slot</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Een woordspeling is een woordcombinatie waarmee een schrijver een komisch of retorisch effect nastreeft. In alinea 1 van tekst 2 kunnen twee zinnen als een woordspeling worden opvat.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>“Het Apistos-verhaal is natuurlijk kolder.” (regels 34-35)</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“Laat ik maar eerlijk toegeven: ik twijfel.” (regels 77-78)</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>“Dat komt allereerst door de pavlovreactie die Hirst bij veel kunstliefhebbers oproept (en waar hij overigens zelf van harte aan meewerkt)” (regels 78-82)</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In alinea 6, 7 en 8 van tekst 2 wordt het standpunt onderbouwd dat we Hirst serieus moeten nemen.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>In regel 155 van tekst 2 is er sprake van een “tweekoppig monster”.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2022_I_bijlage_4ae2d5f8192e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dea44ec2b1b74c9cbd02db396bb8609a.pdf"
+    }
+  ]
+}

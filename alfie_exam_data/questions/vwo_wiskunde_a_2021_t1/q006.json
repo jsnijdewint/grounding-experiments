@@ -1,0 +1,90 @@
+{
+  "id": "vwo_wiskunde_a_2021_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 76,
+          "name": "Algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 77,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef in de figuur op de uitwerkbijlage de plaats aan waar het huis zich op diezelfde maandag om 20.30 uur bevindt. Licht je antwoord toe.</p>",
+    "max_score": 3,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_ab5ee083e157.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/de59511db13e42deac1f706216ff2aa7.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Op de Hasseltrotonde in Tilburg staat een huis. Eigenlijk is 'staat' niet het goede woord, want het huis beweegt: het draait in het rond. Het gevolg is dat elke keer dat je langs de rotonde rijdt, het huis op een andere plaats kan staan. Het is een kunstproject, ontworpen door John Körmeling. Zie foto 1 en foto 2 hieronder.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_524bf58d0157.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2aa2a9a3f5374e44a74fd63f2c7c5547.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_102b677bfd00.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c6b647affc3a4988902d4c3d89145e08.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Het huis legt in 20 uur één ronde af, zodat je, als je de rotonde elke dag op hetzelfde tijdstip passeert, het huis geen twee opeenvolgende dagen op dezelfde plaats ziet.</p><p>Op een maandag staat het huis om acht uur 's morgens (08.00 uur) precies aan de oostkant van de rotonde. Voor het vervolg van de opgave is dit <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>0</mn>&#160;</math>. In figuur 1 is een overzicht van de situatie te zien. Het huis is in figuur 1 weergegeven als vierkantje en bevindt zich in punt O .</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_86af71932320.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2d39a2de16db401ab81093f2dfba7856.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Het huis draait met de rijrichting van het verkeer mee.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_66115931efb1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a82d76c736914785983bf91c92b9a256.pdf"
+    },
+    {
+      "name": "Wiskunde A 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2021_I_uitwerkbijla_3883774f4ae1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cdb796394a4c4a968d52b9ce2edc08ed.pdf"
+    }
+  ]
+}

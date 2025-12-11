@@ -1,0 +1,67 @@
+{
+  "id": "havo_biologie_2021_t1_q26",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 122,
+          "name": "Zelforganisatie van cellen",
+          "prefix_code": 3
+        },
+        {
+          "id": 123,
+          "name": "Erfelijke eigenschap",
+          "prefix_code": 7
+        },
+        {
+          "id": 124,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 130,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noteer uit hoeveel nucleotiden het deel van het RNA bestaat dat codeert voor deze 17 aminozuren.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Voor de speurtocht naar nieuwe geneesmiddelen zijn zeeslakken zeer interessant. De gifstoffen die sommige zeeslakken maken, worden al gebruikt als medicijn bij de behandeling van chronische pijn.</p><p>De slakken van het geslacht Conus (afbeelding 1) produceren kleine giftige eiwitten die ze met een harpoenachtig orgaan bij hun prooi injecteren. De variatie in gifstoffen binnen de 600 soorten van dit geslacht is zeer groot. Al deze gifstoffen werken als zenuwgif, waardoor ze mogelijk geschikt zijn als medicijn bij zenuwaandoeningen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_d7de796a64a2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/08f468b995d3422a98958d0db91fdd2e.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een opvallend kenmerk van de giftige eiwitten is de grootte. De meeste gifstoffen van slangen en andere dieren zijn meer dan 50 aminozuren lang, maar gifstoffen van zeeslakken zijn kleiner. De kleinste bestaat uit slechts 17 aminozuren. Deze eiwitten worden gemaakt op basis van de code in een RNA-keten.</p>"
+    }
+  ],
+  "bijlages": []
+}

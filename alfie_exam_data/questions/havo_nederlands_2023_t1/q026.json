@@ -1,0 +1,81 @@
+{
+  "id": "havo_nederlands_2023_t1_q26",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wat is dat probleem?</p><p>Geef antwoord in een of meer volledige zinnen.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Al uit de eerste zin van tekst 3 blijkt door de toon weinig geloof in de goede bedoelingen van de universitaire bestuurders. Hieronder staan zes citaten uit tekst 3.</p><p>1 “mikken ze doodleuk op het 'doortrekken (van de) huidige trends'” (regels 8-9)</p><p>2 “kunnen universiteiten en hogescholen hun inkomsten alleen aanvullen door buitenlandse studenten aan te trekken” (regels 26-29)</p><p>3 “Want heb je eenmaal een onderwijsapparaat beschikbaar, dan kan een extra student meestal gewoon aanschuiven in de collegebanken” (regels 100-104)</p><p>4 “De overige buitenlandse studenten mogen rustig blijven komen” (regels 155-156)</p><p>5 “Want dat is een ander probleem” (regels 166-167)</p><p>6 “Ben benieuwd of bij mijn voorstel de universitaire bestuurders nog steeds de zegeningen van internationalisering blijven prediken.” (regels 178-181)</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“Volgens hun recente Internationaliseringsagenda mikken ze doodleuk op het 'doortrekken (van de) huidige trends'.” (regels 6-9) Uit alinea 2 en 3 kan worden afgeleid wat met de “huidige trends” wordt bedoeld.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Tekst 3 kan na de inleiding worden onderverdeeld in vier opeenvolgende delen die van de volgende kopjes kunnen worden voorzien:</p><p>Deel 1: Oorzaken en gevolgen van de internationalisering</p><p>Deel 2: Kritiek op het financieringsstelsel hoger onderwijs</p><p>Deel 3: Een alternatief voor de bekostiging</p><p>Deel 4: Een nieuw probleem</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In alinea 3 tot en met 5 komen vier groepen aan bod die elk een bepaald nadeel ondervinden van de toenemende stroom buitenlandse studenten. Deze informatie over de groepen kan worden weergegeven in de onderstaande tabel.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>“Het kan geen toeval zijn dat de uitgaven voor huurtoeslag flink zijn gestegen sinds 2013, toen de instroom van buitenlandse studenten sterk ging groeien.” (regels 79-83) Een kritische lezer zou kunnen wijzen op het gebruik van een drogreden in bovenstaand citaat.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In alinea 8 noemt de auteur twee positieve effecten die een degressief bekostigingssysteem zal hebben voor het hoger onderwijs.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>In alinea 8 tot en met 11 doet de auteur enkele voorstellen om de problemen op het gebied van internationalisering op te lossen.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>In alinea 11 wordt een probleem geschetst waarvoor in alinea 10 een oplossing wordt voorgesteld.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_4c535c813bac.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/31997ba285504e0396b7bc07c4c13230.pdf"
+    }
+  ]
+}

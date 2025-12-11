@@ -1,0 +1,50 @@
+{
+  "id": "vwo_biologie_2021_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 40,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 41,
+          "name": "Zelforganisatie van ecosystemen",
+          "prefix_code": 2
+        },
+        {
+          "id": 42,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>De groeisnelheid van vislarven in het relatief warme IJsselmeerwater beïnvloedt de overlevingskans van deze individuen.<br>Verklaar hoe de snelle groei van vislarven kan leiden tot verhoging van hun overlevingskans.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tijdens de grote onderhoudsbeurt die voor de Afsluitdijk gepland is, wordt de migratieroute voor trekvissen hersteld.</p><p>Het huidige IJsselmeer (afbeelding 1) was vroeger een estuarium: een brede riviermonding die uitliep in de Zuiderzee. Estuaria zijn over het algemeen relatief warme en rijke ecosystemen en voor veel vissoorten een belangrijk deel van de trekroute tussen zout water en zoet water. Door de aanleg van de Afsluitdijk werd deze route voor trekvissen geblokkeerd en veranderde de zoute Zuiderzee in het zoete IJsselmeer. Voor veel vissoorten is een estuarium een aantrekkelijke plaats om eitjes af te zetten, omdat de uitgekomen vislarven er snel en veilig kunnen opgroeien. In het relatief warme IJsselmeerwater groeien vislarven sneller dan in de Waddenzee.</p><p>&nbsp;</p>"
+    }
+  ],
+  "bijlages": []
+}

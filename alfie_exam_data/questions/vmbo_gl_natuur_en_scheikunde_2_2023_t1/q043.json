@@ -1,0 +1,46 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_2_2023_t1_q43",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_2",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 53,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de opdracht van de docent uit. Maak hierbij gebruik van de informatie boven vraag 41.<br>Noteer je antwoord als volgt:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable rowspacing=\"4pt\"><mtr><mtd><mi>X</mi> <mo>=</mo> <mo>&#8230;</mo> </mtd></mtr><mtr><mtd><mi>Y</mi> <mo>=</mo> <mo>&#8230;</mo>&#160;</mtd></mtr></mtable></math></p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>1 &nbsp; &nbsp;Een docent maakt een opstelling voor een demonstratieproef.</p><p>2 &nbsp; &nbsp;In de erlenmeyer doet hij achtereenvolgens zoutzuur, een paar</p><p>3 &nbsp; &nbsp;druppels methyloranje en een klein schepje calciumcarbonaat.</p><p>4 &nbsp; &nbsp;Direct daarna sluit hij de erlenmeyer af met een kurk waar</p><p>5 &nbsp; &nbsp;een glasbuisje doorheen steekt met een slangetje eraan.</p><p>6 &nbsp; &nbsp;Het slangetje leidt naar een maatcilinder die helder</p><p>7 &nbsp; &nbsp;kalkwater bevat. Doordat in de erlenmeyer</p><p>8 &nbsp; &nbsp;calciumcarbonaat reageert met zoutzuur ontstaat</p><p>9 &nbsp; &nbsp;koolstofdioxide (reactie I). Dit gas reageert vervolgens</p><p>10 &nbsp;met de vloeistof in de maatcilinder (reactie II).</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De docent geeft deze proef schematisch weer op het bord. Twee stoffen geeft hij alleen aan met een letter: X en Y . Hij geeft de leerlingen de opdracht om de ontbrekende namen aan te vullen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_d7b83967cb98.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2e57318adb114859bb02a89874a48929.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": "vwo_economie_2022_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 20,
+          "name": "Samenwerken en onderhandelen",
+          "prefix_code": "F"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg de stelling van het gemeenteraadslid uit.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Ellen en Daphne willen in een grote stad starten met de onderneming Bike Mobility. Klanten krijgen een fiets in bruikleen tegen betaling van een maandelijks abonnementsbedrag. De klanten hebben een mobiliteitsgarantie: bij schade kan de fiets worden omgeruild tegen een andere fiets bij een van de vele aangesloten fietsenmakers. Een app geeft aan waar er een fiets klaar staat. Bike Mobility zal de enige aanbieder van leasefietsen zijn in deze stad. Ellen en Daphne hebben een marktonderzoek gedaan (zie tabel 1).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_6f19d247a8ef.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4ceb7ad3bfd34b27b1ff7abad98218c4.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Toelichting:<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi> <msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mn>1</mn> </mrow></msub><mo>,</mo> <mi>Q</mi> <msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mo>=</mo>&#160;</math>de gevraagde hoeveelheid leasefietsen per maand van groep 1, respectievelijk 2<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi> <mo>=</mo>&#160;</math>de prijs per maand in euro's van een abonnement op een leasefiets.</p><p>De collectieve vraagfunctie luidt:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Qv</mi> </mrow><mo>=</mo> <mn>87.500</mn> <mo>&#8722;</mo> <mn>1.750</mn> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">P</mi> </mrow><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mo stretchy=\"false\">(</mo> <mtext>voor </mtext><mn>17.500</mn> <mo>&#60;</mo> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Qv</mi> </mrow><mo>&#8804;</mo> <mn>87.500</mn> <mo stretchy=\"false\">)</mo></math></p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p><strong>Overige gegevens van Bike Mobility:</strong></p><ul><li>De reparatiekosten bedragen gemiddeld € 20 per reparatie. De klanten betalen Bike Mobility een eigen bijdrage van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>5</mn>&#160;</math> per reparatie.</li><li>Per maand bedragen de overige variabele kosten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>10</mn>&#160;</math> per geleasete fiets.</li><li>De vaste (constante) kosten bedragen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>150.000</mn>&#160;</math> per maand.</li><li>Het leasecontract duurt minstens 6 maanden, daarna kunnen deelnemers de fiets op elk moment inleveren en hoeven zij vanaf dat moment niet meer te betalen.</li></ul><p>Daphne beweert dat uit de tabel en uit de overige gegevens blijkt dat Bike Mobility een maatregel heeft genomen tegen moral hazard, maar dat die maatregel niet helemaal afdoende is.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Ellen en Daphne discussiëren aan de hand van de gegevens of het toepassen van prijsdiscriminatie mogelijk is. Daarin stellen zij het volgende:</p><ul><li>Ellen zegt op basis van tabel 1 dat prijsdiscriminatie mogelijk is. Ze wijst op het verschil in maximale betalingsbereidheid van de twee groepen waardoor voor groep 2 een hogere prijs gerekend kan worden.</li><li>Daphne zegt dat prijsdiscriminatie niet mogelijk is omdat aan één van de voorwaarden van prijsdiscriminatie niet is voldaan.</li></ul>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Ellen en Daphne zien af van prijsdiscriminatie en besluiten voor maximale winst te gaan op basis van de collectieve vraag.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Ellen en Daphne discussiëren verder over de prijs die ze willen hanteren voor groep 1. Ellen stelt voor om de prijs voor groep 1 lager vast te stellen dan de winstmaximaliserende prijs, om de kans te vergroten dat Bike Mobility ook op de lange termijn winst kan behouden.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Een gemeenteraadslid beweert: \"Burgers in de gemeente klagen over het grote aantal verwaarloosde fietsen dat maanden in fietsenrekken staat zonder dat ze gebruikt worden. De gemeente moet daarom het initiatief van Bike Mobility steunen.\" Het gemeenteraadslid stelt dat de manier waarop Bike Mobility werkt een prikkel inhoudt om negatieve externe effecten te verminderen en daarmee de maatschappelijke kosten verlaagt.</p>"
+    }
+  ],
+  "bijlages": []
+}

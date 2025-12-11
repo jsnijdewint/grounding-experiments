@@ -1,0 +1,57 @@
+{
+  "id": "havo_biologie_2021_t1_q31",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 128,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 129,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>De relatie tussen fytoplasma en dwergcicade is een vorm van symbiose. Beredeneer dat de relatie mutualisme genoemd kan worden.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>'Plants versus zombies' is een videospelletje waarin planten vechten tegen zombies. In werkelijkheid zijn sommige planten zelf zombies. Wetenschappers hebben ontdekt hoe bepaalde bacteriën sommige planten tot levende doden transformeren.</p><p>Deze bacteriën - fytoplasma's genaamd - kunnen een verscheidenheid aan gewassen besmetten, zoals tomatenplanten en appelbomen. Fytoplasma's leven en vermenigvuldigen zich in transportweefsel van deze planten. De bacteriën verhinderen de ontwikkeling van bloemen en stimuleren de vorming van extra bladeren. De geïnfecteerde plant kan zich hierdoor niet meer voortplanten en dient als groeiende voedselbron voor de bacteriën, vandaar de term zombieplanten.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Fytoplasma's zijn voor hun verspreiding afhankelijk van bepaalde insecten zoals dwergcicaden. Dwergcicaden voeden zich met plantensap. Met hun zuigsnuit prikken ze in een blad waarna ze, minutenlang, energierijk plantensap opzuigen. Wanneer ze een met fytoplasma geïnfecteerde plant aanprikken, zuigen ze ook de bacterie op. Als de dwergcicade hierna een andere plant bezoekt, kan de bacterie via het speeksel van de dwergcicade deze plant ook besmetten.</p><p>In afbeelding 1 is een schematische doorsnede van een met fytoplasma's besmet blad weergegeven.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_a1bcfa065640.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/94850e5cd7a341ed8d74eb1b17824037.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

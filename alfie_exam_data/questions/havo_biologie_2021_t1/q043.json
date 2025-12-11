@@ -1,0 +1,108 @@
+{
+  "id": "havo_biologie_2021_t1_q43",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beargumenteer dat de nakomelingen van deze vleermuizen geen profijt hebben van de immuniteit van hun ouders.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In Noord-Amerika werden in 2006 opeens veel dode vleermuizen gevonden. Ze bleken besmet met een schimmel. Onderzoekers doen onderzoek om het uitsterven van vleermuissoorten te voorkomen. De schimmel Pseudogymnoascus destructans tast het huidweefsel van de snuit, oren en vleugels van vleermuizen aan. Doordat de neus wit kleurt (afbeelding 1) wordt de ziekte witteneuzensyndroom (WNS) genoemd. Vleermuizen zijn voor hun voedsel afhankelijk van vliegende insecten. 's Winters overbruggen vleermuizen</p><p>deze voedselloze periode door in winterslaap te gaan: ze verlagen hun stofwisselingsniveau waardoor hun lichaamstemperatuur daalt. Gedurende de winterslaap worden ze enkele keren actief, waarbij hun lichaamstemperatuur kortdurend stijgt. Wanneer de lichaamstemperatuur van de vleermuizen laag is, slaat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>. destructans toe.&nbsp;</p><p>In afbeelding 2 zie je een vereenvoudigd voedselweb waarvan vleermuizen in Noord-Amerika deel uitmaken.</p><p>&nbsp;</p><p><br>&nbsp;</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_d37c559df3c4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/556108c73fe14080a9a43b6b3e82fc6b.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Canadese onderzoekers vermoedden dat vleermuizen vaker ontwaken als gevolg van een infectie met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>. destructans. Hiermee zou deze schimmel ook verantwoordelijk zijn voor de massale sterfte.<br>In Europa komt ook een variant van deze schimmel voor: EUPd. Massale sterfte van Europese vleermuizen blijft echter uit (tabel 1). Uit veldwaarnemingen blijkt dat EUPd niet voorkomt in Noord-Amerika.<br>tabel 1</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\"><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">massale</td></tr><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">sterfte</td></tr></tbody></table></figure></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\"><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">variant van</td></tr><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">P. destructans</td></tr></tbody></table></figure></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Noord-Amerika</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">ja</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">NAPd</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Europa</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">nee</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">EUPd</td></tr></tbody></table></figure><p>Om te onderzoeken waardoor Noord-Amerikaanse vleermuizen massaal sterven, vingen de onderzoekers niet-geïnfecteerde Noord-Amerikaanse vleermuizen uit een grot in Canada en verdeelden ze in drie groepen van elk 18 vleermuizen.</p><ul><li>Groep 1 werd geïnjecteerd met NAPd in fysiologische zoutoplossing.</li><li>Groep 2 werd geïnjecteerd met EUPd in fysiologische zoutoplossing.</li><li>Groep 3 was de controlegroep.</li></ul>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Na de behandeling gingen alle vleermuizen onder gecontroleerde omstandigheden in winterslaap. Tijdens de winterslaap werd bijgehouden hoe vaak de dieren actief werden. Met sensoren op de huid werd de temperatuur van de vleermuizen gemeten en door video-observatie werd geteld hoe vaak de vleermuizen wakker werden. Voor de analyse verdeelden de onderzoekers de winterslaap in drie periodes van 26 dagen. In afbeelding 3 is de gemeten huidtemperatuur van een van de vleermuizen uit de controlegroep weergegeven. In afbeelding 4 staat hoe vaak er dieren per periode wakker werden.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_b0316faef35f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7e0d94d06c7a4ddb9e0d7bc81148646a.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_d048d8f646c0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/40a678c9fae24d7895cc0c9fbf6c4b11.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>In afbeelding 5 is weergegeven hoeveel dieren er tijdens het experiment overleefden.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_18f7fe6ee636.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/969914d6130a42ad845dc740677f3384.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Door de lage lichaamstemperatuur is het immuunsysteem van de vleermuizen tijdens de winterslaap minder actief. Onderzoekers hebben aangetoond dat door de infectie met de schimmel het immuunsysteem wordt geactiveerd. Het bleek dat er dan wel sprake was van aspecifieke afweer, maar niet van specifieke afweer.</p><p>Drie processen bij afweerreacties zijn:<br>1 deling van B-cellen<br>2 fagocytose door macrofagen<br>3 productie van antistoffen</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Om het uitsterven van vleermuissoorten te voorkomen, zoeken onderzoekers en natuurbeschermers naar een oplossing. Een optie is het tijdelijk inrichten van warmere zones in de grotten waar de vleermuizen overwinteren. Hierdoor zouden besmette vleermuizen immuniteit kunnen opbouwen tegen de schimmel en zou de sterfte kunnen worden voorkómen.</p>"
+    }
+  ],
+  "bijlages": []
+}

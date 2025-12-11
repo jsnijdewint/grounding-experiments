@@ -1,0 +1,71 @@
+{
+  "id": "vwo_wiskunde_a_2024_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 76,
+          "name": "Algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 77,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef de herleiding van deze formule voor <i>G</i> uit de gegeven formules voor <i>V</i> en <i>M</i> en <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>G</mi>\r\n  <mo>=</mo>\r\n  <mn>500</mn>\r\n  <mo>&#8901;</mo>\r\n  <mi>V</mi>\r\n</math> .</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij ‘water bottle flipping’ gooit men een plastic flesje dat gedeeltelijk met water is gevuld in de lucht. Hierbij is het de bedoeling om het flesje in de lucht te laten draaien en op de bodem te laten landen, zodanig dat het flesje rechtop blijft staan. Vijf studenten natuurkunde van de Universiteit Twente hebben onderzocht wat de optimale vullingsgraad van een plastic flesje is voor een goede flip. De <strong>optimale vullingsgraad</strong> is het gewicht aan water (in gram) dat in het flesje zit gedeeld door het totale gewicht aan water (in gram) dat in het flesje kan, waarbij de flip zo goed mogelijk lukt. Voor het berekenen van de optimale vullingsgraad <i>V</i> van een flesje hebben de studenten de volgende formules opgesteld:</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>V</mi>\r\n  <mo>=</mo>\r\n  <mfrac>\r\n    <mrow>\r\n      <msqrt>\r\n        <mn>1</mn>\r\n        <mo>+</mo>\r\n        <mi>M</mi>\r\n      </msqrt>\r\n      <mo>&#8722;</mo>\r\n      <mn>1</mn>\r\n    </mrow>\r\n    <mi>M</mi>\r\n  </mfrac>\r\n</math> met <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>M</mi>\r\n  <mo>=</mo>\r\n  <mfrac>\r\n    <mi>w</mi>\r\n    <mi>f</mi>\r\n  </mfrac>\r\n</math></p><p>Hierin is&nbsp;</p><p>- <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>V</mi>\r\n</math><i> </i>de optimale vullingsgraad&nbsp;</p><p>- <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>w</mi>\r\n</math><i> </i>het totale gewicht aan water in gram dat in het flesje kan&nbsp;</p><p>- <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>f</mi>\r\n</math><i> </i>het gewicht van het lege flesje in gram</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een klein leeg plastic flesje weegt 17 gram. Dit flesje kan gevuld worden met in totaal 330 gram water.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Veel plastic flesjes kunnen gevuld worden met in totaal 500 gram water. Voor deze flesjes geldt voor het gewicht in gram <i>G</i> dat nodig is voor de optimale vulling: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>G</mi>\r\n  <mo>=</mo>\r\n  <mn>500</mn>\r\n  <mo>&#8901;</mo>\r\n  <mi>V</mi>\r\n</math> . Voor deze flesjes kan met behulp van bovenstaande formules voor <i>V</i> en <i>M</i> een formule opgesteld worden, waarmee <i>G</i> direct berekend kan worden als het gewicht van het lege flesje ( <i>f</i> ) bekend is. Een formule voor G is:</p><p>&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>G</mi>\r\n  <mo>=</mo>\r\n  <mi>f</mi>\r\n  <mo>&#8901;</mo>\r\n  <msqrt>\r\n    <mn>1</mn>\r\n    <mo>+</mo>\r\n    <mfrac>\r\n      <mn>500</mn>\r\n      <mi>f</mi>\r\n    </mfrac>\r\n  </msqrt>\r\n  <mo>&#8722;</mo>\r\n  <mi>f</mi>\r\n</math></p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde A 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2024_I_uitwerkbijla_10eda6c4e39f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0fd4a0d092ea4f26ae0c6203b7f1dbf1.pdf"
+    },
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_50ee8ab18ba5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d7f2659ec4da481880d7347b05791af4.pdf"
+    }
+  ]
+}

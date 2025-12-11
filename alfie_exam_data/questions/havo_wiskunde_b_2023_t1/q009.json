@@ -1,0 +1,75 @@
+{
+  "id": "havo_wiskunde_b_2023_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 102,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Herleid formule 1 tot de vorm van formule 2.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Transition </i>is een kunstwerk dat langs de autoweg N34 bij Eext in Drenthe staat. Het is een gekromde buis die gedeeltelijk ingegraven is in de grond. Zie de foto.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_f7ad49aa556c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9a501a7763454b83b8b4955a784f38e2.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de figuur is een model weergegeven van een van de uiteindes van de buis: een cirkel met middelpunt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi>&#160;</math>en straal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi>&#160;</math>. Punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi>&#160;</math>is het hoogste punt van de buis. De <strong>doorgang </strong>van de buis is het deel van de cirkel boven lijnstuk <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi>&#160;</math>. De basis van de doorgang is lijnstuk <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi>&#160;</math>. De lengte van de <strong>basis </strong>is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi>&#160;</math>. Punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi>&#160;</math>is het midden van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi>&#160;</math>. De afstand tussen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi>&#160;</math>is de hoogte <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi>&#160;</math>van de doorgang. Lijnstuk <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi> <mi>D</mi>&#160;</math>staat loodrecht op <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi>&#160;</math>. Er geldt dus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi> <mi>M</mi> <mo>=</mo> <mi>h</mi> <mo>&#8722;</mo> <mi>r</mi>&#160;</math>. De figuur staat ook op de uitwerkbijlage.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_34bd0745f997.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dfb376962bd4430785b87c956c32c11c.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Er is een formule waarmee je de straal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi>&#160;</math>kunt berekenen bij de gegeven basis en hoogte, namelijk:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi> <mo>=</mo> <mfrac><mrow><mfrac><mn>1</mn> <mn>4</mn> </mfrac><msup><mi>b</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>+</mo> <msup><mi>h</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup></mrow><mrow><mn>2</mn> <mi>h</mi>&#160;</mrow></mfrac></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (formule 1)<br>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi>&#160;</math>de straal, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi>&#160;</math>de lengte van de basis <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi>&#160;</math>de hoogte <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi> <mi>D</mi>&#160;</math>. Er geldt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi> <mo>&#8805;</mo> <mi>r</mi>&#160;</math>.</p><p>&nbsp;</p><p>Met behulp van driehoek <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>C</mi> <mi>M</mi>&#160;</math>kun je bewijzen dat formule 1 juist is.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In het kunstwerk Transition is de straal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi>&#160;</math>gelijk aan 1,63 m.<br>Voor het ingraven van de buis was het handig om te weten hoe lang de basis <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi>&#160;</math>moest zijn. Deze lengte hangt af van de gewenste hoogte <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi>&#160;</math>.</p><p>&nbsp;</p><p>Je kunt formule 1 herleiden tot een formule waarin <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi>&#160;</math>wordt uitgedrukt in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi>&#160;</math>. Voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi> <mo>=</mo> <mn>1</mn> <mo>,</mo> <mn>63</mn>&#160;</math>is formule 1 te schrijven in de volgende vorm:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi> <mo>=</mo> <mi>p</mi> <mo>&#8901;</mo> <msqrt><mi>q</mi> <mo>&#8901;</mo> <mi>h</mi> <mo>&#8722;</mo> <msup><mi>h</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></msqrt></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (formule 2)<br>Hierin zijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>q</mi>&#160;</math>constanten.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde B 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2023_I_uitwerkbijla_9ba57d6520e4.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9679abc20da6403596a9f0f1d8e1d3b8.pdf"
+    }
+  ]
+}

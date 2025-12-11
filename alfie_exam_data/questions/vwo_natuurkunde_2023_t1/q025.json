@@ -1,0 +1,131 @@
+{
+  "id": "vwo_natuurkunde_2023_t1_q25",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [
+        {
+          "id": 30,
+          "name": "Quantumwereld en relativiteit",
+          "prefix_code": "F"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>E</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>put </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math> in eV. Noteer je antwoord in het juiste aantal significante cijfers.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het botsende-deeltjesmodel is een veelgebruikt model om verschijnselen in materie te verklaren. In dit model worden atomen en elektronen beschouwd als kleine, harde knikkertjes die tegen elkaar botsen. Het botsende-deeltjesmodel is een klassiek model.</p><p>&nbsp;</p><p>In een experiment wordt een bundel elektronen door een gas geschoten. Dit proces beschrijven we met een model waarin de gasatomen stilstaan en de elektronen bewegen. De intensiteit van de bundel is gedefinieerd als de grootte van de elektronenstroom in de richting van de bundel per oppervlakte-eenheid. De bewegende elektronen kunnen botsen met de gasatomen, waardoor de intensiteit van de bundel kan veranderen. Zie figuur 1 voor een schematische tekening.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_79d0b52a1f33.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3394e0f450dc469cb838361486e4c6ad.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De transmissie <i>T </i>is de verhouding tussen de intensiteit van de bundel nadat hij een afstand <i>x</i> door het gas heeft afgelegd en de intensiteit van de bundel bij de bron. Volgens het botsende-deeltjesmodel geldt voor <i>T</i>:</p><p>&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>T</mi>\r\n  <mo>=</mo>\r\n  <mfrac>\r\n    <mi>I</mi>\r\n    <msub>\r\n      <mi>I</mi>\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mn>0</mn>\r\n      </mrow>\r\n    </msub>\r\n  </mfrac>\r\n  <mo>=</mo>\r\n  <msup>\r\n    <mi>e</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8722;</mo>\r\n      <mfrac>\r\n        <mi>x</mi>\r\n        <mi>t</mi>\r\n      </mfrac>\r\n    </mrow>\r\n  </msup>\r\n</math> &nbsp; &nbsp; &nbsp; &nbsp;(1)&nbsp;</p><p>&nbsp;</p><p>Hierin is:</p><p>− <i>x</i> de afstand die door de bundel in het gas is afgelegd in m − <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>&#8467;</mi>\r\n</math> de gemiddelde vrije weglengte, dat wil zeggen de gemiddelde afstand die een elektron aflegt voordat het botst, in m</p><p>− <i>I</i> de intensiteit van de bundel na een afstand <i>x</i> in <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">m</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8722;</mo>\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msup>\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext> </mtext>\r\n      <mi mathvariant=\"normal\">s</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8722;</mo>\r\n      <mn>1</mn>\r\n    </mrow>\r\n  </msup>\r\n</math> − <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>I</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>0</mn>\r\n    </mrow>\r\n  </msub>\r\n</math> de intensiteit van de bundel bij de bron in <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">m</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8722;</mo>\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msup>\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext> </mtext>\r\n      <mi mathvariant=\"normal\">s</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8722;</mo>\r\n      <mn>1</mn>\r\n    </mrow>\r\n  </msup>\r\n</math></p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In figuur 2 is T als functie van <i>x</i> weergegeven. In de figuur staat ook <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>&#8467;</mi>\r\n</math> aangegeven.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_337326ba0a3a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bb763cd6011c4704868823dd9b569af1.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De vorm van het (<i>T, x</i>)-diagram is vergelijkbaar met die van een doorlaatkromme bij ioniserende straling.</p><p>Figuur 2 staat ook op de uitwerkbijlage.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p><strong>Quantumrevolutie: het Ramsauer-Townsend-effect</strong></p><p>Rond 1920 deden de wetenschappers Carl Ramsauer en John Townsend (zie figuur 3), los van elkaar, een verrassende ontdekking. Bij experimenten met xenongas bleek de transmissie <i>T</i> van de elektronen sterk afhankelijk te zijn van de energie van de elektronen <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>E</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>elek </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math>.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_0e7283dbff45.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ab255576a3a641ad897d720f6068d720.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Figuur 4 is een (<i>T,</i> <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>E</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>elek </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math>)-grafiek van metingen aan xenongas. Bij een elektronenenergie <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>E</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>elek </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math> van 1,0 eV gebeurt er iets verrassends: de elektronen lijken plotseling geen hinder meer te ondervinden van de xenonatomen. De transmissie wordt dan gelijk aan 1, ongeacht de grootte van de afgelegde weg.</p>"
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_f1df1fd07043.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/148c7a9b4c264472b94a4c6c09de1a70.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Om dit effect te verklaren beschreven Ramsauer en Townsend het elektron niet als een deeltje, maar als een golf met bijbehorende debroglie-golflengte.</p>"
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>Ramsauer en Townsend benaderden het xenonatoom als een eendimensionale energieput met een diepte <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>E</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>put </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math> en een lengte <i>L</i>. In figuur 5 is schematisch de situatie getekend van een elektron dat een xenonatoom passeert. Het elektron beweegt van gebied I (voor het xenonatoom) via gebied II (het xenonatoom) naar gebied III (na het xenonatoom).</p>"
+    },
+    {
+      "order": 12,
+      "type": "image",
+      "media_path": "media/in-exam/img_fa0df1179dda.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/85da8788cc6a4abc9bab100e1b9b7ec8.png",
+      "caption": ""
+    },
+    {
+      "order": 13,
+      "type": "text",
+      "text": "<p>Bij bepaalde waarden van <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>E</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>elek </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math> blijkt de golf van het elektron te resoneren in gebied II. Deze resonantie leidt ertoe dat het elektron ongehinderd zijn weg kan vervolgen naar gebied III.</p><p>&nbsp;</p><p>Resonantie in gebied II treedt op als aan de volgende voorwaarde wordt voldaan:&nbsp;</p><p>&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>L</mi>\r\n  <mo>=</mo>\r\n  <mi>n</mi>\r\n  <mrow data-mjx-texclass=\"INNER\">\r\n    <mo data-mjx-texclass=\"OPEN\">(</mo>\r\n    <mfrac>\r\n      <msub>\r\n        <mi>&#955;</mi>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mi>&#960;</mi>\r\n        </mrow>\r\n      </msub>\r\n      <mn>2</mn>\r\n    </mfrac>\r\n    <mo data-mjx-texclass=\"CLOSE\">)</mo>\r\n  </mrow>\r\n</math> (2)</p><p>&nbsp;</p><p>Hierin is:&nbsp;</p><p>− <i>L </i>de diameter van het xenonatoom&nbsp;</p><p>− <i>n </i>een positief geheel getal (1, 2, 3, …)&nbsp;</p><p>− <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>&#955;</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi data-mjx-auto-op=\"false\">II</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n</math> de debroglie-golflengte van het elektron in gebied II</p>"
+    },
+    {
+      "order": 14,
+      "type": "text",
+      "text": "<p>Voor de kinetische energie van het elektron in gebied II geldt:</p><p>&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>E</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi data-mjx-auto-op=\"false\">kin</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n  <mo>=</mo>\r\n  <msub>\r\n    <mi>E</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>elek </mtext>\r\n    </mrow>\r\n  </msub>\r\n  <mo>+</mo>\r\n  <msub>\r\n    <mi>E</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi data-mjx-auto-op=\"false\">put</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n</math> (3)&nbsp;</p><p>&nbsp;</p><p>In figuur 4 zijn meerdere pieken te zien waarbij <i>T</i> =1. Er zijn dus verschillende waarden van <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>E</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>elek </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math> waarbij resonantie optreedt. Dit is te verklaren met behulp van de formules (2) en (3) en ten minste één formule uit het informatieboek.</p>"
+    },
+    {
+      "order": 15,
+      "type": "text",
+      "text": "<p>De waarden van de energie <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>E</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi data-mjx-auto-op=\"false\">kin</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n</math> in gebied II, waarbij resonantie optreedt, komen overeen met de energieniveaus van een deeltje in een eendimensionale energieput met oneindig hoge wanden. Neem aan dat de eerste piek in figuur 4 hoort bij <i>n</i> = 1 in de formule van deze energieniveaus. De diameter van het xenonatoom is 0,22 nm .</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2023_I_uitwerkbijl_dcb32a1b5377.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e8c6f0ebe587432bb96bfde82bed13ab.pdf"
+    }
+  ]
+}

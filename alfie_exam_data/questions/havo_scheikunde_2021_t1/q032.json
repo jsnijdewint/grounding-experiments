@@ -1,0 +1,62 @@
+{
+  "id": "havo_scheikunde_2021_t1_q32",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef aan bij welke stap in figuur 1 zijgroep A optreedt als base. Licht je antwoord toe.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Voedsel bevat de voedingsstoffen die het lichaam nodig heeft. Deze voedingsstoffen kunnen op basis van de chemische structur in drie groepen worden ingedeeld. De eiwitten vormen een van deze groepen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Tijdens het eten belandt voedsel via de mond in de maag. De vloeistof in de maag is zuur, doordat bepaalde cellen van de maagwand zoutzuur afgeven. Dit zoutzuur kan worden opgevat als een oplossing die <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn> <mo>,</mo> <mn>8</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">g</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">HCl</mi>&#160;</mrow></math>per liter bevat.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De zure maagvloeistof bevat ook het enzym pepsine. Pepsine is een eiwit dat de afbraak van voedseleiwitten versnelt. Bij deze afbraak wordt steeds een binding tussen twee aminozuureenheden in de keten van een voedseleiwitmolecuul verbroken.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Het verbreken van deze bindingen is een proces dat in 2 stappen verloopt. Dit proces is vereenvoudigd weergegeven in figuur 1. In figuur 1 zijn ook twee zijgroepen van het pepsinemolecuul weergegeven. Zijgroep A is geïoniseerd doordat deze een <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo>&#160;</mrow></msup></math>-ion heeft afgestaan.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_e094af9bac65.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7421ef44fe214192a18cc905f8e33ef6.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2021_I_uitwerkbijla_1bb960b8859b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/de4ac50bb8424775a1d05546cf8e6711.pdf"
+    }
+  ]
+}

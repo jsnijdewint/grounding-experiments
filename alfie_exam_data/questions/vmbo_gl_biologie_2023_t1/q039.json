@@ -1,0 +1,58 @@
+{
+  "id": "vmbo_gl_biologie_2023_t1_q39",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 112,
+          "name": "Leervaardigheden in het vak biologie",
+          "prefix_code": "BI/K/3"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bij de operatie wordt van de eikel een vrouwelijk deel gemaakt dat dezelfde functie heeft als de eikel.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Geef de naam van het deel dat bij een vrouw dezelfde functie heeft als de eikel.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Mensen worden een transgender persoon genoemd als ze mannelijke geslachtsorganen hebben maar zich vrouw voelen, of als ze vrouwelijke geslachtsorganen hebben maar zich man voelen.&nbsp;<br><br>Transgender personen die als man geboren zijn, kunnen zich met vrouwelijke geslachtshormonen laten behandelen. Daardoor krijgen ze geleidelijk aan vrouwelijke geslachtskenmerken. Met medicijnen remmen ze de productie van mannelijke geslachtshormonen af. Hieronder zie je welke effecten de behandeling heeft en na hoeveel tijd het maximale effect bereikt is.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_a3533a0fad4f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e5a6414e83d54ac0bc0afb6ced61b531.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Soms laat een transgender persoon zich aan de geslachtsorganen opereren. De mannelijke geslachtsdelen worden dan zo veranderd dat ze lijken op vrouwelijke geslachtsdelen. De operatie gaat als volgt:<br>1 Er wordt een holte gemaakt tussen de endeldarm en de urinebuis.<br>2 De teelballen en delen van de penis worden verwijderd.<br>3 Van de penishuid wordt een vagina gemaakt.<br>4 Van de balzak worden schaamlippen gemaakt.<br>5 Van de eikel wordt een ander deel gemaakt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2023_I_uitwerkbijlage_4e0013036ef8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9a816268fb648d6bbff9679cf7f9a46.pdf"
+    }
+  ]
+}

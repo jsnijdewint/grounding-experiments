@@ -1,0 +1,67 @@
+{
+  "id": "vwo_bedrijfseconomie_2023_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noem twee redenen voor een werkgever om een contract voor onbepaalde tijd voortijdig te beëindigen.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De overkoepelende organisatie Zorgverzekeraars Nederland onderhandelt namens een aantal leden, zorgverzekeraars zoals CZ, VGZ, Menzis, met de vakbonden over een collectieve arbeidsovereenkomst voor ruim 5.500 medewerkers in de zorg. In de onderstaande tabel is een deel van de gemaakte cao-afspraken opgenomen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_5a886f866777.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/75b13c075209416d8e5788f522976a85.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De vriendinnen Hanneke de Jonge en Margot Rutte zijn per 1 september 2020 in loondienst getreden in de functie van administratief medewerker bij twee verschillende zorgverzekeraars. Beide vrouwen hebben dezelfde opleiding en ervaring. Hanneke en Margot zijn bij aanvang van hun baan voor hun salaris ingedeeld in dezelfde functiegroep 3, administratief medewerker, met het daarbij behorende beginsalaris. CZ heeft Hanneke een baan voor bepaalde tijd aangeboden voor 17 uur per week. VGZ heeft Margot een baan aangeboden voor onbepaalde tijd voor 24 uur per week. Beiden zijn bij aanvang van hun baan voor hun salaris ingedeeld in functiegroep 3, administratief medewerker met het daarbij behorende beginsalaris.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Hanneke en Margot hebben verschillende arbeidsovereenkomsten. In tegenstelling tot Hanneke kreeg Margot een arbeidsovereenkomst voor onbepaalde tijd.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De werkgever kan verschillende redenen aanvoeren voor het voortijdig beëindigen van een arbeidscontract voor onbepaalde tijd.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2023_I_bijlag_d64fcf93e008.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2763f88cc19e45ebafaa21f3ba086d88.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2023_I_uitwer_9a6536b72e12.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a2433ed1fec3429b8d8cd024f74ceb08.pdf"
+    }
+  ]
+}

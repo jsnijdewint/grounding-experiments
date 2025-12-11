@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 130,
+    "education_level": "vmbo_gl",
+    "discipline": "maatschappijkunde",
+    "year": 2024,
+    "tijdvak": 1
+  },
+  "question_count": 41
+}

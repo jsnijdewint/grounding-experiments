@@ -1,0 +1,69 @@
+{
+  "id": "havo_wiskunde_b_2022_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 102,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken exact deze waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi>&#160;</math>.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Op domein <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">[</mo> <mn>0</mn> <mo>,</mo> <mo stretchy=\"false\">&#8594;</mo> <mo stretchy=\"false\" fence=\"false\">&#10217;</mo>&#160;</math>is gegeven de functie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mi>a</mi> <msup><mi>x</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>&#8722;</mo> <mi>a</mi>&#160;</math>met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi> <mo>&#62;</mo> <mn>0</mn>&#160;</math>. In figuur 1 is in één assenstelsel voor een aantal waarden van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi>&#160;</math>de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>getekend.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_a075a518ff20.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f1cc16fb7a41488182b2d83fc035dcbb.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>gaat voor elke waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi>&#160;</math>door het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo> <mn>1</mn> <mo>,</mo> <mn>0</mn> <mo stretchy=\"false\">)</mo>&#160;</math>.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Op hetzelfde domein is de functie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi>&#160;</math>gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mi>sin</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mn>2</mn> <mi>&#960;</mi> <mi>x</mi> <mo stretchy=\"false\">)</mo>&#160;</math>. In figuur 2 is de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi>&#160;</math>aan figuur 1 toegevoegd.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_2eba2b5adf41.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/54d4b9e02a8f44248fa8ee8e491dcd61.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi>&#160;</math>is de eerste top van de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi>&#160;</math>met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-coördinaat groter dan 1. Zie figuur 2.<br>Er is een waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi>&#160;</math>waarvoor de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi>&#160;</math>gaat.</p>"
+    }
+  ],
+  "bijlages": []
+}

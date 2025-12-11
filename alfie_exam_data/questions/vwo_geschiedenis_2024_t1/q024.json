@@ -1,0 +1,61 @@
+{
+  "id": "vwo_geschiedenis_2024_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 194,
+          "name": "Tijdvak 10 – Televisie en computer",
+          "prefix_code": 10
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 13. Willy Brandt wil de West-Duitse bevolking overtuigen dat zijn Ostpolitik juist is.<br><br>Leg uit, telkens met een andere verwijzing naar de bron:&nbsp;<br> welke angst over de Ostpolitik Brandt onder de bevolking in de BRD wil wegnemen, en&nbsp;<br> welke doelgroep in de BRD Brandt in dit fragment in het bijzonder toespreekt.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Drie gegevens over de Taiping-opstand in China:&nbsp;<br>1 Hong, de leider van de opstand, noemde zichzelf 'Hemelse Koning' en liet een paleis bouwen.&nbsp;<br>2 De Taiping bestraften de handel in en het gebruik van opium met de dood.&nbsp;<br>3 De Taiping werden mede verslagen door een Europees leger onder leiding van een Britse generaal.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Een geschiedenis: In 1868 richtten arbeiders in Amsterdam de vereniging Bouwmaatschappij tot Verkrijging van Eigen Woningen op. Arbeiders die lid werden van deze vereniging legden elke week een klein geldbedrag in. Met dit geld werd er grond gekocht en werden huizen gebouwd. De oprichting van de Bouwmaatschappij paste bij de kenmerkende aspecten 'de opkomst van emancipatiebewegingen' en bij 'discussies over de 'sociale kwestie''.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Eind 1925 werd het Verdrag van Locarno getekend. Hierin erkenden Duitsland, België en Frankrijk de grenzen die in 1919 waren vastgelegd in het Verdrag van Versailles. De Duitse minister van buitenlandse zaken zette zich in het bijzonder in voor het tot stand komen van dit verdrag.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De volgende gebeurtenissen uit het leven van de Chinese keizer Puyi staan in willekeurige volgorde:&nbsp;<br>1 Mao liet Puyi in een gevangenis heropvoeden tot een communistische modelburger van de pas opgerichte Volksrepubliek China.&nbsp;<br>2 Nadat tijdens de Grote Noordelijke Veldtocht de tombe van Cixi werd verwoest, ontstak Puyi in grote woede en deed uitgebreid zijn beklag.&nbsp;<br>3 Puyi moest zijn paleis verlaten op bevel van de plaatselijke militaire bevelhebber Feng, die daarna Sun Yat-sen naar Peking haalde.&nbsp;<br>4 Puyi werd door Japan benoemd als keizer van Mantsjoerije.&nbsp;<br>5 Sovjettroepen namen Puyi gevangen aan het eind van de Tweede Wereldoorlog.&nbsp;<br>6 Tijdens de Culturele Revolutie werden bezittingen van Puyi, zoals zijn sofa en bureau, in beslag genomen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2024_I_bijlage_57b61674271e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/293f53e566cc48c6b58f4d54b880c393.pdf"
+    }
+  ]
+}

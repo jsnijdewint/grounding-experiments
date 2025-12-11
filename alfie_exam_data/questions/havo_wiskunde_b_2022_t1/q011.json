@@ -1,0 +1,52 @@
+{
+  "id": "havo_wiskunde_b_2022_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 102,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        },
+        {
+          "id": 104,
+          "name": "Toegepaste analyse",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken exact het snijpunt van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi>&#160;</math>met de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-as.</p>",
+    "max_score": 8,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Op het domein <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">&#10216;</mo> <mfrac><mn>1</mn> <mn>2</mn> </mfrac><mo>,</mo> <mo stretchy=\"false\">&#8594;</mo> <mo data-mjx-texclass=\"CLOSE\">&#10217;</mo>&#160;</mrow></math>is de functie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mfrac><mn>1</mn> <mrow><mn>2</mn> <mi>x</mi> <mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></mfrac></math>. De lijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi>&#160;</math>met richtingscoëfficiênt -2 raakt de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>. Zie figuur 1 .</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_c2ea676f331b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/474b092205914aa5a2dcc4fe6bc3c24b.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

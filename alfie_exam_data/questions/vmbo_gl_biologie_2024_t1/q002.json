@@ -1,0 +1,53 @@
+{
+  "id": "vmbo_gl_biologie_2024_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 116,
+          "name": "Reageren op prikkels",
+          "prefix_code": "BI/K/11"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In welk deel van het centraal zenuwstelsel vindt de bewustwording plaats bij het horen van de click?<br>A grote hersenen<br>B kleine hersenen<br>C hersenstam<br>D ruggenmerg</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_02adf5e7e48e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7c2bf6b1fda946b2afc632e4a3878bc8.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Een clicker is een doosje met een metalen plaatje dat een click-geluid maakt. Hondentrainers gebruiken deze clicker bij het trainen van honden. Eerst leert de hond dat er na de click altijd een beloning volgt. Daarna leert hij bijvoorbeeld om te gaan zitten. Zodra de hond gaat zitten hoort hij een click en weet hij dat er een beloning volgt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2024_I_uitwerkbijlage_c89173bb9d6c.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ce4f7301c75b48c7b4639aaa9b761e2a.pdf"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "vwo_natuurkunde_2022_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 46,
+          "name": "Kracht en beweging",
+          "prefix_code": 1
+        },
+        {
+          "id": 47,
+          "name": "Energie en wisselwerking",
+          "prefix_code": 2
+        },
+        {
+          "id": 48,
+          "name": "Gravitatie",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bepaal met behulp van de figuren op de uitwerkbijlage de grootte van de snelheid op het moment dat de bal de hand van de speler verlaat. Noteer je antwoord in twee significante cijfers.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_fd526cf40212.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bb5fbb2bb03b415bab4b2ab30b8d8209.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_3b0ff7d736c4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5dfd6d3f8ce44a36900bcac76f5b031f.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Bij basketbal scoor je door de bal van bovenaf door een metalen ring te gooien waaraan een netje bevestigd is. Rens en Dyon onderzoeken de beweging van de bal bij een vrije worp. Bij een vrije worp probeert de speler de bal door de ring te gooien terwijl hij achter de 'vrijeworplijn' staat. Zie figuur 1. In figuur 2 staat een tabel met een aantal gegevens over basketbal.<br>Met behulp van een videometing is de beweging van de bal na de worp geanalyseerd. Je kunt de beweging van de bal beschouwen als een combinatie van een horizontale beweging (in de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-richting) en een verticale beweging (in de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-richting). De videometing levert het ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi> <mo>,</mo> <mi>t</mi>&#160;</math>)-diagram en het ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi> <mo>,</mo> <mi>t</mi>&#160;</math>)-diagram van de beweging van het middelpunt van de bal. Zie de figuren 3a en 3b. Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>de horizontale afstand vanaf de vrijeworplijn en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>de hoogte boven de grond. Op <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>verlaat de bal de hand van de speler. De grootheid snelheid is een vectorgrootheid, net als de grootheid kracht. Je kunt daarom de grootte van de snelheid op dezelfde manier uit haar componenten berekenen als bij kracht.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_d9d8d5dfaaff.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2569e2f5fbc74ef1b67387ab5b1dfe5c.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_6f6ee9a2e3f9.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/03b54e7b278e40a6b7a301f8065d057d.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Figuur 3a en figuur 3b staan vergroot weergegeven op de uitwerkbijlage.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2022_I_uitwerkbijl_9a4d39873fbe.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cfd906bcef9d47ec9c94427a551f4b61.pdf"
+    }
+  ]
+}

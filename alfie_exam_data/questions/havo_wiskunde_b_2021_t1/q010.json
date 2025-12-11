@@ -1,0 +1,87 @@
+{
+  "id": "havo_wiskunde_b_2021_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 103,
+          "name": "Meetkundige berekeningen",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken exact de afstand in cm tussen de heup en de voet op moment 1 . Je kunt hierbij de figuur op de uitwerkbijlage gebruiken.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In sportscholen vind je apparaten waarmee je een roeibeweging simuleert. Zo'n apparaat wordt een roei-ergometer genoemd. Zie de foto.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_e79fd95fb410.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5ea171a06cf3437e870a91dc7b59b883.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In figuur 1 zie je een serie zijaanzichten van de beweging van een roeier op een roei-ergometer.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_04b032d167a1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bd97abf7b38c4c978f067a65bdd4239b.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Doordat het voetenbord vast zit, blijven de voeten vast op één punt. Wanneer de roeier de benen strekt en weer buigt, beweegt het zitje horizontaal van voor naar achter en weer terug. De roeibeweging begint op moment 1, waarna de roeier zijn benen strekt (momenten 2 en 3). Daarna worden de benen weer gebogen (momenten 4 en 5 ).</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In figuur 2 zie je een model van een roeier op de momenten 1 en 3. Deze figuur staat ook op de uitwerkbijlage. Het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi>&#160;</math>is de voet, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi>&#160;</math>is de knie en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi>&#160;</math>is de heup (die in dit model samenvalt met het zitje).</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_ad8bdadf3e5f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3fea7c55483a4763b54cefc8bd791bb4.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>In dit model geldt:</p><ul><li>De lengte van het bovenbeen is 48 cm .</li><li>De lengte van het onderbeen is 42 cm .</li><li>Het hoogteverschil tussen heup en voet is 15 cm .</li><li>Tussen de momenten 1 en 3 schuift het zitje 45 cm naar voren.</li><li>De hoek tussen bovenbeen en onderbeen op moment 1 is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>60</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo>&#160;</mrow></msup></math>.</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>is het punt recht onder de heup, op dezelfde hoogte als de voet.</li><li>Met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi> <mrow data-mjx-texclass=\"ORD\"><mn>1</mn>&#160;</mrow></msub></math>wordt de positie van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>op moment 1 bedoeld enzovoorts.</li></ul><p>Op moment 1 is de afstand tussen de heup en de voet ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>H</mi> <mrow data-mjx-texclass=\"ORD\"><mn>1</mn> </mrow></msub><mi>V</mi>&#160;</math>) ongeveer <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>45</mn> <mo>,</mo> <mn>3</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">cm</mi>&#160;</mrow></math>. Deze afstand kan exact berekend worden.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde B 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2021_I_uitwerkbijla_c8e2f9f7d1ae.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2a3aa3c09ed74fada6a58eebc3894dd7.pdf"
+    }
+  ]
+}

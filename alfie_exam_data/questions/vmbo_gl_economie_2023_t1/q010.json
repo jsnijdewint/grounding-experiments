@@ -1,0 +1,73 @@
+{
+  "id": "vmbo_gl_economie_2023_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 125,
+          "name": "Overheid en bestuur",
+          "prefix_code": "EC/K/6"
+        },
+        {
+          "id": 127,
+          "name": "Verrijkingsstof",
+          "prefix_code": "EC/V/1"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Volgens Carlein kan een stijging van de koopkracht zorgen voor meer werkgelegenheid in Nederland. Carlein: \"De regering zou dan vooral de belasting voor de lage inkomens moeten verlagen.\"<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Maak van onderstaande zinnen een economisch juiste tekst door de juiste woorden te kiezen.<br>Doe het zo: Noteer de nummers (1), (2) en (3) op je antwoordblad. Vul bij de nummers de juiste woorden in. Kies uit de woorden die tussen haakjes staan.<br>Carlein legt uit: \"Mensen met een laag inkomen zullen het extra inkomen relatief ... (1)... (meer / minder) gaan consumeren dan mensen met een hoog inkomen. Deze extra consumptie leidt tot ... (2)... (meer / minder) productie en ...(3)... (meer / minder) werkgelegenheid in Nederland.\"</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 2 en 3 in de bijlage.&nbsp;<br><br>Het is de derde dinsdag in september. De koning komt met de koets aan bij de Ridderzaal. Hij gaat de troonrede voorlezen aan de Staten-Generaal. Carlein zit voor de televisie. Zij is benieuwd wat de koning te vertellen heeft.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_323cfd0957c1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c50277bb3b3b42359afb9cbffa770a18.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Onze economie staat er op dit moment goed voor. Voor 2018 verwachten we een economische groei van gemiddeld 2,5%. Dit heeft gevolgen voor de inkomsten en uitgaven van de overheid. De inkomsten van de overheid stijgen als gevolg van gestegen …(1)… (belastingen / sociale uitkeringen) en de uitgaven dalen door lagere …(2)… (belastingen / importheffingen / sociale uitkeringen).&nbsp;<br><br>In 2018 zal er een …(3)… (overschot / tekort) op de overheidsbegroting ontstaan. Om de staatsschuld te verminderen zullen middelen gedeeltelijk gebruikt worden om extra …(4)… (af te lossen op / rente te betalen over) de staatsschuld.&nbsp;<br><br>De vergrijzing van de bevolking brengt met zich mee dat de betaalbaarheid van de AOW steeds moeilijker wordt. De AOW is een …(5)…(sociale voorziening / volksverzekering / werknemersverzekering) en wordt in principe betaald uit …(6)… (sociale premies / sociale subsidies).”<br><br>Carlein volgt na afloop van de troonrede de verwachtingen van het Centraal Plan Bureau (CPB) op de televisie.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Uit het interview na afloop met de minister-president, blijkt dat de regering prioriteit geeft aan de inkomensontwikkeling: “In 2018 moet de koopkracht van de Nederlandse burgers stijgen.” De koopkracht van de burgers is mede afhankelijk van de inflatie in een land.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In 2018 verwacht het CPB een inflatie van 1,4%. Om de koopkracht te verhogen komt de regering met een koopkrachtpakket.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2023_I_bijlage_d07fb50732d7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/37a7c03aae784b9f89ef1c2fe31fa61d.pdf"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "vwo_scheikunde_2024_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit, aan de hand van de microstructuur van beide oplosmiddelen, welk van de twee oplosmiddelen het best in water kan oplossen. Gebruik hierbij begrippen op microniveau.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Sommige geneesmiddelen worden ingekapseld in microbolletjes van 0,1 tot 30 µm grootte. In figuur 1 is zo’n microbolletje vereenvoudigd weergegeven. De buitenkant van dit microbolletje bestaat uit fosfolipiden. In dit microbolletje bevindt zich het geneesmiddel, ingekapseld in een specifiek polymeer.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_c6794c6ae042.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/df80920cd99c49f2911b008131f86fca.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In het lichaam worden de fosfolipiden opgenomen. Daarna wordt het polymeer langzaam afgebroken, zodat het geneesmiddel geleidelijk vrijkomt. In figuur 2 is het copolymeer PLGA weergegeven. Dit is een van de weinige synthetische polymeren die zijn goedgekeurd voor deze toepassing. De monomeren van PLGA zijn melkzuur en glycolzuur. Dat zijn lichaamseigen stoffen die door het lichaam kunnen worden afgevoerd.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_a3bd66674f77.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d621cd926d8849dda457dd8baf361301.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Een gangbare methode om een geneesmiddel op te sluiten in PLGA verloopt in twee stappen:&nbsp;</p><p>stap 1 Het PLGA en het geneesmiddel worden samen opgelost in een geschikt organisch oplosmiddel.</p><p>stap 2 Onder hevig roeren wordt de oplossing geïnjecteerd in warm water.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In stap 2 ontstaat een suspensie van PLGA met daarin ingekapseld het geneesmiddel (PLGA-geneesmiddel). Het organisch oplosmiddel lost hierbij eerst in het water op, waarna het oplosmiddel snel verdampt en kan worden hergebruikt. Het gehele proces is schematisch weergegeven in figuur 3.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_ab4856501d67.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bfe4c73464964cba8ebef74a501ca9c7.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>In stap 2 wordt het PLGA-geneesmiddel gescheiden van het organisch oplosmiddel en het oplosmiddel wordt gescheiden van water. Deze processen kunnen worden opgevat als scheidingsmethoden.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>De ‘encapsulation efficiency’ (EE) is een belangrijk criterium voor de bruikbaarheid van deze methode om een geneesmiddel in PLGA in te kapselen. De EE wordt uitgedrukt als het percentage van het gebruikte geneesmiddel dat uiteindelijk in het PLGA-geneesmiddel aanwezig is. De EE hangt af van de oplosbaarheid in water van zowel het geneesmiddel als het organisch oplosmiddel in stap 2.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Als oplosmiddel zijn dichloormethaan en tetrachloormethaan met elkaar vergeleken. De oplosbaarheid van deze stoffen in water verschilt. Dit heeft onder andere te maken met het gegeven dat de C–Cl-binding een polaire atoombinding is.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2024_I_uitwerkbijla_afd0d648d809.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a48af7b1aec24f97bcb1032e6d3b2773.pdf"
+    }
+  ]
+}

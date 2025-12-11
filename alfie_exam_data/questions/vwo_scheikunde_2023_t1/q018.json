@@ -1,0 +1,40 @@
+{
+  "id": "vwo_scheikunde_2023_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leid met behulp van een berekening af welke van deze twee batterijen de hoogste ladingsdichtheid heeft.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Om in een batterij zoveel mogelijk lading op te slaan in zo weinig mogelijk massa, worden batterijen ontworpen waarin zuurstof uit de lucht als oxidator optreedt. In zo’n batterij is dan alleen de reductor opgeslagen. De eigenschappen van de reductor bepalen dan in hoge mate de ladingsdichtheid. Ladingsdichtheid is gedefinieerd als de hoeveelheid lading per massa-eenheid. De aluminium-luchtbatterij is bijvoorbeeld al verkrijgbaar en veel onderzoek wordt verricht aan de lithium-luchtbatterij.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2023_I_uitwerkbijla_fef9b863f829.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9a46ef7a7642413db915d3023305e22a.pdf"
+    }
+  ]
+}

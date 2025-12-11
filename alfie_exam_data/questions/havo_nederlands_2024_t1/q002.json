@@ -1,0 +1,46 @@
+{
+  "id": "havo_nederlands_2024_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke zin legt het best uit wat deze aandachtscrisis inhoudt? Door het toenemende gebruik van sociale media en digitale technologie</p><p><strong>A</strong> kunnen we alle nieuwe informatie die op ons afkomt niet meer bijhouden.</p><p><strong>B</strong> kunnen we ons concentratievermogen niet optimaal benutten.</p><p><strong>C</strong> worden onze vermogens tot multitasken en verwerken van prikkels aangetast.</p><p><strong>D</strong> worden onze creativiteit en productiviteit op de proef gesteld.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Volgens tekst 1 bevinden we ons in een “aandachtscrisis” (regels 6-7).</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_fba5d5bcdd9a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e64529d1393448beb9499f8bd4fb3aaa.pdf"
+    }
+  ]
+}

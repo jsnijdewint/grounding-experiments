@@ -1,0 +1,66 @@
+{
+  "id": "vwo_aardrijkskunde_2024_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "aardrijkskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 21,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 4,
+          "name": "Afbakening en gebiedskenmerken",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beschrijf in drie stappen dat deze nieuwe landelijke politieke koers heeft geleid tot ruimtelijke gevolgen op een lager schaalniveau.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 11 en 12.&nbsp;<br><br>Gebruik bron 11 en het kaartenkatern.&nbsp;<br>Grote delen van de Pamparegio hebben een gunstig klimaat voor grootschalige landbouw.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik bron 11. Tussen 1930 en 1960 vond industrialisatie plaats in de landen die in de Pamparegio liggen. Toch groeide de export van industrieproducten nauwelijks.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De afgelopen 30 jaar zijn veel voedselgewassen uit de Pamparegio naar Azië geëxporteerd. De komende decennia zal de export van voedselgewassen zoals soja naar een ander werelddeel waarschijnlijk toenemen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Gebruik bron 12. In Argentinië werd vanaf het begin van de jaren 90 een nieuwe politieke koers gevaren.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_bijlage_5d21ee139256.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b59abf07fb0546d7b053e9a0b057d44d.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2024 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_kaartenk_7cdee1f1797d.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a91a8df27bf04e42855ea2418d56e940.pdf"
+    }
+  ]
+}

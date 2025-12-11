@@ -1,0 +1,71 @@
+{
+  "id": "vwo_wiskunde_a_2023_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 78,
+          "name": "Standaardfuncties",
+          "prefix_code": 1
+        },
+        {
+          "id": 79,
+          "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Toon door middel van een herleiding aan dat formule 1 en formule 2 met elkaar overeenkomen.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij wedstrijdzwemmen worden er verschillende zwemnummers gezwommen, bijvoorbeeld de 50 meter rugslag voor heren en de 200 meter schoolslag voor vrouwen. Om prestaties bij verschillende zwemnummers met elkaar te vergelijken, wordt gebruikgemaakt van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>F</mi><mi>I</mi><mi>N</mi><mi>A</mi><mo>-</mo><mi>p</mi><mi>u</mi><mi>n</mi><mi>t</mi><mi>e</mi><mi>n</mi></mrow><mrow><mn>1</mn><mo>)</mo></mrow></msup></math>. Hoe meer FINA-punten, hoe beter de prestatie van een zwemmer.</p><p>&nbsp;</p><p>Het aantal FINA-punten wordt berekend met de formule:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>P</mi>\r\n  <mo>=</mo>\r\n  <mn>1000</mn>\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"INNER\">\r\n      <mo data-mjx-texclass=\"OPEN\">(</mo>\r\n      <mfrac>\r\n        <mi>B</mi>\r\n        <mi>T</mi>\r\n      </mfrac>\r\n      <mo data-mjx-texclass=\"CLOSE\">)</mo>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>3</mn>\r\n    </mrow>\r\n  </msup>\r\n</math> (formule 1)</p><p><i>P </i>is hierbij het aantal FINA-punten, <i>T </i>de gezwommen tijd in seconden in twee decimalen en <i>B </i>de basistijd in seconden in twee decimalen. De <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>b</mi><mi>a</mi><mi>s</mi><mi>i</mi><mi>s</mi><mi>t</mi><mi>i</mi><mi>j</mi><mi>d</mi></mrow><mn>2</mn></msup></math> is het wereldrecord op een zwemnummer aan het begin van het jaar.</p><p>&nbsp;</p><p>Het aantal FINA-punten is altijd een geheel getal. Als de uitkomst van de formule geen geheel getal is, dan wordt er een geheel getal van gemaakt door alle cijfers achter de komma weg te laten. Zo wordt 345,798 bijvoorbeeld 345.</p><p>&nbsp;</p><p>Gegeven zijn de volgende (basis)tijden:&nbsp;</p><p>- Maarten Brzoskowski zwom in november 2021 de 50 meter vrije slag in 22,26 seconden; de bijbehorende basistijd is 20,16 seconden.</p><p>- Op 16 december 2021 zwom Anne Louise Palmans de 100 meter schoolslag in 1 minuut en 10,25 seconden; de bijbehorende basistijd is 1 minuut en 4,13 seconden.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Omdat het aantal FINA-punten altijd een geheel getal is, is het mogelijk dat verschillende gezwommen tijden bij dezelfde basistijd een gelijk aantal FINA-punten opleveren.</p><p>&nbsp;</p><p>Als 0,01 s sneller gezwommen wordt dan de basistijd, dan zijn er twee opties voor de bijbehorende score:</p><p>1 1000 FINA-punten (dit is het geval voor langere basistijden)</p><p>2 1001 of meer FINA-punten (dit is het geval voor kortere basistijden)</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>noot 1 De FINA is een internationale zwembond: Fédération Internationale de Natation.</p><p>noot 2 In deze opgave wordt gebruikgemaakt van de basistijden uit 2021.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De FINA-punten worden onder andere gebruikt om te bepalen welke zwemmers mee mogen doen aan het NJK (Nederlands juniorenkampioenschap). Voor het NJK wordt een plaatsingslijst gemaakt door per zwemmer voor 6 verschillende zwemnummers het aantal FINA-punten uit te rekenen en deze punten bij elkaar op te tellen. Diegene die in totaal de meeste FINA-punten heeft, komt boven aan de plaatsingslijst, daarna volgt diegene met het een-na-hoogste totaal, et cetera. Op basis van de plaatsingslijst wordt bepaald wie mee mag doen aan het NJK.</p><p>&nbsp;</p><p>Met formule 1 kan het aantal FINA-punten berekend worden op basis van een gezwommen tijd en een basistijd. Als je als zwemmer bezig bent met je plek op de plaatsingslijst, dan is het nuttig om uit te rekenen welke tijd je moet zwemmen om een bepaald aantal FINA-punten te halen. Dit kan met de formule:</p><p>&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>T</mi>\r\n  <mo>=</mo>\r\n  <mfrac>\r\n    <mrow>\r\n      <mn>10</mn>\r\n      <mi>B</mi>\r\n    </mrow>\r\n    <mroot>\r\n      <mi>P</mi>\r\n      <mn>3</mn>\r\n    </mroot>\r\n  </mfrac>\r\n</math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(formule 2)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_c4a05812e0a8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cf1c75f3e6924743b07261120dad2f9b.pdf"
+    },
+    {
+      "name": "Wiskunde A 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2023_I_uitwerkbijla_a9d84112fbc1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fc5ba2ce845c4c85ae53d81485ef9507.pdf"
+    }
+  ]
+}

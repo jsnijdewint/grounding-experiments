@@ -1,0 +1,56 @@
+{
+  "id": "vwo_wiskunde_c_2021_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 90,
+          "name": "Rekenen en algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 91,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken zijn gemiddelde snelheid. Geef je antwoord in hele kilometers per uur.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Op 19 mei 1996 werd in Monaco de Grand Prix Formule 1 de Monaco gehouden. Deze race staat in de autosport bekend als de race met de meeste uitvallers ooit. Aan deze race namen 22 coureurs deel, van wie er uiteindelijk slechts drie de finish haalden.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De race duurde 75 ronden van 3328 meter en werd gewonnen door de Fransman Olivier Panis.</p><p>&nbsp;</p><p>Panis deed in totaal 2 uur en 45 seconden over de race.</p><p>&nbsp;</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2021 I_Uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2021_I_Uitwerkbijla_c2ab79fdeabf.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e31735869591448eb6382933321c0f9b.pdf"
+    }
+  ]
+}

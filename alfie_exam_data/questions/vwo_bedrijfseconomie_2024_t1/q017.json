@@ -1,0 +1,95 @@
+{
+  "id": "vwo_bedrijfseconomie_2024_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 6,
+          "name": "Persoonlijke financiële zelfredzaamheid",
+          "prefix_code": 1
+        },
+        {
+          "id": 7,
+          "name": "De oprichting van een eenmanszaak",
+          "prefix_code": 2
+        },
+        {
+          "id": 8,
+          "name": "Van eenmanszaak naar rechtspersoon",
+          "prefix_code": 3
+        },
+        {
+          "id": 9,
+          "name": "Perspectief op de organisatie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken het bedrag dat Thom na aftrek van de erfbelasting van zijn erfenis overhoudt.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In januari 2024 heeft Thom Ponte een brief van de notaris ontvangen dat hij samen met anderen recht heeft op een deel van de erfenis van zijn op 6 december 2023 overleden neef Rob Berends. In de brief staat ook dat Rob geen testament heeft opgesteld en dat Thom binnen vier weken schriftelijk aan de notaris bekend moet maken welke keuze hij maakt inzake het aanvaarden van de erfenis. Thom zal de erfenis zuiver aanvaarden.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Op basis van het erfrecht heeft Thom recht op 1/30e deel van de erfenis. Hij wil het bedrag uitrekenen dat hij zal erven. De notaris verstrekt hem een inventarisatielijst van de bezittingen en schulden van Rob Berends op het moment van overlijden.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_501dd79e5abb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/47dd4be00ef54b43a3f49ca82bc527c5.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Gebruik bij vraag 15 en 16 de inventarisatielijst.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De eenmanszaak van Rob zal worden geliquideerd. Alle bezittingen worden verkocht, vorderingen worden geïnd en schulden worden betaald tegen balanswaarde.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_c83038575362.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b18d543a34e6475983c612846a7de3e2.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_bijlag_7eadadfb909b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b308f8bea0724a7aafeda7412effc100.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_uitwer_83345fd16197.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9381244ee6040b2bd0134a67d821ddb.pdf"
+    }
+  ]
+}

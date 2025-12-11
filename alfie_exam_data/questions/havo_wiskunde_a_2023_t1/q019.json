@@ -1,0 +1,105 @@
+{
+  "id": "havo_wiskunde_a_2023_t1_q19",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 176,
+          "name": "Tabellen",
+          "prefix_code": 1
+        },
+        {
+          "id": 177,
+          "name": "Grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        },
+        {
+          "id": 178,
+          "name": "Formules met één of meer variabelen",
+          "prefix_code": 3
+        },
+        {
+          "id": 179,
+          "name": "Lineaire verbanden",
+          "prefix_code": 4
+        },
+        {
+          "id": 180,
+          "name": "Exponentiële verbanden",
+          "prefix_code": 5
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel korter het gemiddelde tijdverlies per pitstop moet zijn om uit te komen op een optimaal aantal pitstops van precies 3. Geef je antwoord in seconden en in één decimaal.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Formule 1 (F1) is de hoogste klasse in de autosport. Gedurende het jaar worden er races gehouden op circuits in verschillende landen.<br>In deze opgave kijken we naar enkele formules in de F1 die het verschil kunnen bepalen tussen winnen en verliezen.</p><p>In een F1-race moet de coureur steeds inschatten met welke snelheid hij een bocht kan nemen. Voor de scherpte van de bocht geldt: hoe kleiner de straal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi>&#160;</math>van de bocht, hoe scherper de bocht. Zie de figuur.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_58f728390f51.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c185a1780577475bbe9f310746a6aaad.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_31e450b64475.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/41027cf5d51245c581dc053510157c1d.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Als de coureur sneller rijdt dan de maximale bochtensnelheid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi>&#160;</math>, vliegt hij uit de bocht.<br>Onder bepaalde omstandigheden geldt voor een bepaald type F1-auto het volgende verband tussen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi>&#160;</math>:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi> <mo>=</mo> <mfrac><mrow><mn>4</mn> <mo>,</mo> <mn>026</mn> <mo>&#8901;</mo> <msup><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup></mrow><msup><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mn>7644</mn> <mo>+</mo> <mn>0</mn> <mo>,</mo> <mn>1929</mn> <mo>&#8901;</mo> <msup><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo data-mjx-texclass=\"CLOSE\">)</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>0</mn> <mo>,</mo> <mn>8</mn>&#160;</mrow></msup></mfrac></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(formule 1)</p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi>&#160;</math>de straal van de bocht in meter en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi>&#160;</math>de maximale bochtensnelheid in km per uur.</p><p>Een coureur nadert een bocht met een straal van 80 meter.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Op de uitwerkbijlage staat een schets van de grafiek die hoort bij het verband van formule 1 . In deze schets is de maximale bochtensnelheid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi>&#160;</math>uitgezet tegen de straal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi>&#160;</math>van de bocht.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Omdat de banden gedurende de race slijten, verliezen ze grip op het wegdek en lopen de rondetijden op. Daarom worden tijdens zogeheten <strong>pitstops </strong>de banden te verwisseld voor nieuwe, maar dat wisselen kost wel tijd (pitstraat inrijden, banden wisselen, pitstraat uitrijden).</p><p>Voor een bepaald type F1-auto kan het totale tijdverlies <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi>&#160;</math>in een race als gevolg van slijtage van de banden en het aantal pitstops, worden gegeven door de formule:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi> <mo>=</mo> <mfrac><mrow><mn>0</mn> <mo>,</mo> <mn>5</mn> <mo>&#8901;</mo> <mi>b</mi> <mo>&#8901;</mo> <msup><mi>L</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup></mrow><mrow><mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow></mfrac><mo>+</mo> <mi>n</mi> <mo>&#8901;</mo> <mi>P</mi></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(formule 2)<br>Hierin is:</p><ul><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mi>T</mi>&#160;</math>het totale tijdverlies in seconden</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mi>b</mi>&#160;</math>de bandenslijtage, een getal dat onder andere afhangt van het circuit</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi>&#160;</math>het aantal ronden van de race</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi>&#160;</math>het aantal pitstops in de race</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mi>P</mi>&#160;</math>het gemiddelde tijdverlies in seconden per pitstop</li></ul><p>Als we bij een race van 60 ronden uitgaan van een bandenslijtage van 0,1 en een gemiddeld tijdverlies van 20 seconden per pitstop, dan kunnen we formule 2 herleiden tot de formule:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi> <mo>=</mo> <mfrac><mrow><mn>20</mn> <msup><mi>n</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>+</mo> <mn>20</mn> <mi>n</mi> <mo>+</mo> <mn>180</mn> </mrow><mrow><mi>n</mi> <mo>+</mo> <mn>1</mn>&#160;</mrow></mfrac></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(formule 3)</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Als het gemiddelde tijdverlies per pitstop zou kunnen afnemen, dan kan het optimale aantal pitstops misschien toenemen om het totale tijdverlies in de race zo klein mogelijk te houden.</p><p>Op een ander circuit, waar de race 45 ronden duurt, geldt voor een bepaalde F1-auto een bandenslijtage van 0,3. Je kunt dan met de volgende formule het optimale aantal pitstops bepalen:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><mo>=</mo><mo>&#8722;</mo><mn>1</mn><mo>+</mo><mn>45</mn><msqrt><mfrac><mn>3</mn><mrow><mn>20</mn><mi>P</mi></mrow></mfrac></msqrt><mspace width=\"1em\"/></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(formule 4)</p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi>&#160;</math>het (onafgeronde) optimale aantal pitstops en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>het gemiddelde tijdverlies in seconden per pitstop.</p><p>Op dit circuit geldt voor deze F1-auto dat het gemiddelde tijdverlies van een pitstop 24,8 seconden is. Uit de formule volgt dan dat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi>&#160;</math>ongeveer 2,5 is. Er moet een keuze gemaakt worden of er nu 2 of 3 pitstops moeten plaatsvinden. Deze keuze zou makkelijker zijn als <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi>&#160;</math>precies 3 was geweest.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_4d920bc20d74.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7821571e97b2424c93d593bf5c1c1549.pdf"
+    },
+    {
+      "name": "Wiskunde A 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2023_I_uitwerkbijla_f478d7116e2f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/005ba0b28db44fed93da1d9c9f1c636a.pdf"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "vwo_geschiedenis_2021_t1_q19",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 193,
+          "name": "Tijdvak 9 – Wereldoorlogen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Ondersteun deze interpretatie met twee argumenten, telkens met een andere verwijzing naar de bron.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De volgende gebeurtenissen rondom de Duitse familie Krupp, eigenaar van staal- en wapenfabrieken, staan in willekeurige volgorde:</p><p>1 Alfred Krupp leverde tijdens de Frans-Duitse oorlog moderne kanonnen aan de Duitse troepen.</p><p>2 Alfried Krupp zette gevangenen uit Duitse concentratiekampen in als dwangarbeiders in zijn wapenfabrieken.</p><p>3 Friedrich Krupp wilde de beloning binnenhalen die Napoleon uitloofde aan diegene die smeltkroesstaal kon maken.</p><p>4 Gustav Krupp schond de voorschriften van het Verdrag van Versailles door de wapenproductie niet volledig stop te zetten.</p><p>5 Met het kanon 'Dikke Bertha', dat volgens sommigen vernoemd was naar Bertha Krupp, konden de Duitsers wel Franse forten neerhalen maar niet de Franse loopgraven vernietigen.</p><p>6 Na aanname van de Vlootwet nam Friedrich Alfred Krupp een werf over voor de bouw van marineschepen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In 1862 nam de Nederlandse Tweede Kamer na jarenlange discussie een wet aan waarin de afschaffing van de slavernij in de plantagekolonie Suriname en op de Antillen werd geregeld. In de wet werd bepaald dat:</p><p>- de slaven direct werden vrijgelaten en</p><p>- de vrijgelaten slaven verplicht waren een arbeidscontract met plantage-eigenaren af te sluiten voor tien jaar.</p><p>Uit deze bepalingen kun je afleiden dat de wet een compromis was.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In zijn boek<i> Het Kapitaal</i> (1867) noemde Karl Marx de wet Le Chapelier 'een staatsgreep van de rijke burgerij'.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 8.</i></p><p>Een interpretatie: De tekenaar geeft twijfel weer of de invoering van het algemeen mannenkiesrecht bijdraagt aan de voortschrijdende democratisering.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In 1924 interviewde journalist George Viereck de voormalige Duitse keizer Wilhelm II. In dit interview noemde Wilhelm II het Dawesplan 'een tweede Versailles'. Deze visie van Wilhelm II is eenzijdig.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 9.</i></p><p>Op 30 januari 1933 benoemt de Duitse president Paul von Hindenburg Adolf Hitler tot rijkskanselier</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 10.</i></p><p>Een interpretatie: Met het publiceren van dit artikel propageert de krant de vorming van de <i>Volksgemeinschaft</i>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2021_I_bijlage_802f54fb3aeb.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f094215d14eb43de9153c53cd1712540.pdf"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "havo_wiskunde_b_2021_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 102,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken exact deze waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi>&#160;</math>.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De functie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>is gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mfrac><mn>1</mn> <mn>4</mn> </mfrac><msup><mi>x</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>+</mo> <mi>x</mi> <mo>+</mo> <mn>1</mn>&#160;</math>.<br>De grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>is een parabool.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De lijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi>&#160;</math>is de verticale lijn met vergelijking <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi> <mo>=</mo> <mi>p</mi>&#160;</math>, met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi> <mo>&#62;</mo> <mn>0</mn>&#160;</math>.<br>We kijken naar het gebied dat aan de bovenkant wordt begrensd door de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>, aan de onderkant door de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as, aan de linkerkant door de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-as en aan de rechterkant door lijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>m</mi>&#160;</math>.<br>In figuren 1 en 2 is dit gebied grijs gemaakt: in figuur 1 voor de situatie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi> <mo>=</mo> <mn>1</mn>&#160;</math>, in figuur 2 voor de situatie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi> <mo>=</mo> <mn>2</mn>&#160;</math>.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_c1fb812b74b7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e0447806558d4a3187c99084163ac8e2.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De oppervlakte van dit grijze gebied noemen we <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>. De waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>hangt dus af van de keuze van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi>&#160;</math>. Een formule voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>is:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mo>=</mo> <mfrac><mn>2</mn> <mn>3</mn> </mfrac><msup><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mfrac><mn>1</mn> <mn>2</mn> </mfrac><mi>p</mi> <mo>+</mo> <mn>1</mn> <mo data-mjx-texclass=\"CLOSE\">)</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msup><mo>&#8722;</mo> <mfrac><mn>2</mn> <mn>3</mn>&#160;</mfrac></math></p><p>Zo is bijvoorbeeld <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mo>=</mo> <mn>4</mn> <mfrac><mn>2</mn> <mn>3</mn>&#160;</mfrac></math>als <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi> <mo>=</mo> <mn>2</mn>&#160;</math>en dus is de oppervlakte van het grijze gebied in figuur 2 gelijk aan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn> <mfrac><mn>2</mn> <mn>3</mn>&#160;</mfrac></math>.</p><p>Voor een bepaalde waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi>&#160;</math>is de oppervlakte van het grijze gebied gelijk aan 42.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde B 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2021_I_uitwerkbijla_c8e2f9f7d1ae.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2a3aa3c09ed74fada6a58eebc3894dd7.pdf"
+    }
+  ]
+}

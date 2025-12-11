@@ -1,0 +1,83 @@
+{
+  "id": "havo_nederlands_2022_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef per element aan of het wel of niet deel uitmaakt van de laatste alinea.</p><p>Noteer hiertoe de nummers van de elementen en zet daarachter ‘wel’ of ‘niet’.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In alinea 4 spreekt Coen Simon over het belang van spelen. Een kritisch lezer zou in Simons redenering over het belang van spelen een paradox kunnen herkennen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“Elke handwerkhobby krijgt tegenwoordig een Instagram-pagina. Elk dagboek wordt een blog.” (regels 79-81) Deze voorbeelden uit alinea 4 zijn uitingen van een verschijnsel.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het woord ‘juist’ in de eerste regel van alinea 5 duidt op een verband tussen alinea 4 en alinea 5.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“En dat terwijl juist in dat vrijblijvende volgens experts het biologisch nut van spelen schuilt.” (regels 90-92) In het vervolg van alinea 5 toont Louk Vanderschuren dat biologisch nut aan. Daarbij maakt hij vooral gebruik van een bepaald type argumentatieschema.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Louk Vanderschuren noemt op grond van zijn onderzoek twee positieve effecten van spelen.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In tekst 2 hebben meerdere personen meningen over spelen. Hieronder staan vier personen en vier meningen.</p><p><strong>personen</strong></p><p>Erik d’Aes</p><p>Lara Aerts</p><p>Coen Simon</p><p>Louk Vanderschuren</p><p><strong>meningen</strong></p><p>1 De ervaring met spelen maakt flexibeler.</p><p>2 Door spelen leer je de grenzen van je eigen kunnen op te rekken.</p><p>3 Spelen draait alleen om het vrijblijvende plezier van het spelen zelf.</p><p>4 Spelen moet leuk zijn om nuttige functies te kunnen vervullen.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Hieronder staan drie elementen die mogelijk deel uitmaken van de laatste alinea van tekst 2.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_aeb3b833bb2d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f6fbea01fdea430a85206f686cdc50dd.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2022_I_bijlage_92799e4db006.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a400249c9526410d9001698a4ae56d34.pdf"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "havo_wiskunde_b_2024_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 102,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        },
+        {
+          "id": 104,
+          "name": "Toegepaste analyse",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken exact de waarde van <i>c</i>.</p>",
+    "max_score": 6,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De functie <i>f </i>wordt gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>f</mi>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>x</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo>=</mo>\r\n  <mn>2</mn>\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"INNER\">\r\n      <mo data-mjx-texclass=\"OPEN\">(</mo>\r\n      <mfrac>\r\n        <mn>1</mn>\r\n        <mn>3</mn>\r\n      </mfrac>\r\n      <mi>x</mi>\r\n      <mo>&#8722;</mo>\r\n      <mn>1</mn>\r\n      <mo data-mjx-texclass=\"CLOSE\">)</mo>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>3</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mo>&#8722;</mo>\r\n  <mfrac>\r\n    <mn>1</mn>\r\n    <mn>2</mn>\r\n  </mfrac>\r\n  <mi>x</mi>\r\n  <mo>+</mo>\r\n  <mn>3</mn>\r\n</math> .</p><p>De afgeleide van <i>f</i> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mi>f</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-alternate=\"1\">&#8242;</mi>\r\n    </mrow>\r\n  </msup>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>x</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo>=</mo>\r\n  <mfrac>\r\n    <mn>2</mn>\r\n    <mn>9</mn>\r\n  </mfrac>\r\n  <msup>\r\n    <mi>x</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mo>&#8722;</mo>\r\n  <mfrac>\r\n    <mn>4</mn>\r\n    <mn>3</mn>\r\n  </mfrac>\r\n  <mi>x</mi>\r\n  <mo>+</mo>\r\n  <mn>1</mn>\r\n  <mfrac>\r\n    <mn>1</mn>\r\n    <mn>2</mn>\r\n  </mfrac>\r\n</math>.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Het punt <i>A</i> is de linker top van de grafiek van <i>f</i>. Zie de figuur. De functie <i>g</i> wordt gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>g</mi>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>x</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo>=</mo>\r\n  <msup>\r\n    <mi>x</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mo>&#8722;</mo>\r\n  <mfrac>\r\n    <mn>3</mn>\r\n    <mn>10</mn>\r\n  </mfrac>\r\n  <mi>x</mi>\r\n  <mo>+</mo>\r\n  <mi>c</mi>\r\n</math> . Hierin is <i>c</i> een constante.&nbsp;</p><p>De grafiek van <i>g</i> gaat door het punt <i>A</i>.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_41de86bf36f2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5fde73c199614bc08803eeae9e1d8a0a.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

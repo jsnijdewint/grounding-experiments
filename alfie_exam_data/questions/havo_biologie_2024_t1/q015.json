@@ -1,0 +1,84 @@
+{
+  "id": "havo_biologie_2024_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 110,
+          "name": "Onderzoeken",
+          "prefix_code": 5
+        },
+        {
+          "id": 111,
+          "name": "Ontwerpen",
+          "prefix_code": 6
+        },
+        {
+          "id": 112,
+          "name": "Modelvorming",
+          "prefix_code": 7
+        },
+        {
+          "id": 113,
+          "name": "Natuurwetenschappelijk instrumentarium",
+          "prefix_code": 8
+        },
+        {
+          "id": 114,
+          "name": "Waarderen en oordelen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Verklaar aan de hand van een berekening waardoor de brandhaar niet met het blote oog te zien is.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Geert komt thuis van een schoolkamp met op zijn borst en armen rode bultjes die erg jeuken. De bultjes zijn veroorzaakt door brandharen van eikenprocessierupsen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_5bc1d9e765c4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9840620df56e4d86b5b1dc598e3fc147.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Er zijn meerdere vlinders waarvan de rupsen brandharen hebben die huidirritatie kunnen veroorzaken. In de tabel staan de wetenschappelijke naam van een aantal van deze vlinders en de habitat van hun rupsen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_ebac91f15580.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f4b40c43c7414b5788b767d31c0fd2c1.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Zonder een vergrootglas zijn details vanaf een grootte van 0,1 mm meestal te zien. Een brandhaar van de eikenprocessierups (afbeelding 2) is langer dan 0,1 mm, maar is toch niet te zien met het blote oog.</p>"
+    }
+  ],
+  "bijlages": []
+}

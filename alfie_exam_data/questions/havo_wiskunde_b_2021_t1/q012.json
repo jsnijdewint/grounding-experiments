@@ -1,0 +1,53 @@
+{
+  "id": "havo_wiskunde_b_2021_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 102,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken algebraïsch hoe groot hoek <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi>&#160;</math>is. Geef je eindantwoord in gehele graden.</p>",
+    "max_score": 6,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De functie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>wordt gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mn>3</mn> <mi>sin</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mfrac><mn>1</mn> <mn>4</mn> </mfrac><mi>&#960;</mi> <mi>x</mi> <mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>.<br>Het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>is het eerste snijpunt van de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>met de positieve <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as. Het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>is de derde top rechts van de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-as.<br>De lijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi>&#160;</math>gaat door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>. In figuur 1 is de hoek <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi>&#160;</math>aangegeven die lijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi>&#160;</math>met de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as maakt.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2af95a8117c6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5fd63dee7a2f45ab846a0362d5479751.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde B 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2021_I_uitwerkbijla_c8e2f9f7d1ae.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2a3aa3c09ed74fada6a58eebc3894dd7.pdf"
+    }
+  ]
+}

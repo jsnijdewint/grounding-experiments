@@ -1,0 +1,56 @@
+{
+  "id": "vwo_geschiedenis_2021_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 185,
+          "name": "Tijdvak 2 – Grieken en Romeinen",
+          "prefix_code": 2
+        },
+        {
+          "id": 186,
+          "name": "Tijdvak 3 – Monniken en ridders",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Licht de gegevens toe door uit te leggen:</p><p>- dat je de beschrijving van de maatregelen tegen de christenen die Plinius aan de keizer stuurt als betrouwbaar kunt beschouwen en</p><p>- wat de christelijke auteurs willen voorkomen met hun terughoudendheid met het gebruik van de brief als bron.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Hieronder staan verschillende gebeurtenissen beschreven die passen bij een landkaart die bekend staat onder de naam 'Peutingerkaart':</p><p>1 Tussen de eerste en vierde eeuw ontstond een kaart van het wegennetwerk van het Romeinse Rijk. Op de kaart stonden de namen van plaatsen, de afstanden tussen die plaatsen en de namen van rivieren en bergen.</p><p>2 In de vroege middeleeuwen was weinig interesse voor de kaart. Slechts één kopie, gemaakt door een monnik, werd bewaard in een Duits klooster.</p><p>3 In de zestiende eeuw kwam de middeleeuwse kopie in handen van de humanist Konrad Peutinger. Hij herkende de Romeinse oorsprong van de kaart en wilde de kaart in druk uitbrengen.</p><p>De gebeurtenissen rondom de Peutingerkaart passen bij verschillende ontwikkelingen in de Europese geschiedenis.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 1.</i></p><p>De brief van Plinius Minor is een van de eerste documenten waarin Romeinse maatregelen tegen christenen staan beschreven. Twee gegevens:</p><p>1 Plinius publiceert veel van zijn brieven, maar de brieven aan Trajanus wil Plinius niet publiceren.</p><p>2 De brief van Plinius is al in de late oudheid algemeen bekend. Christelijke auteurs die dan over de geschiedenis van hun kerk schrijven, zijn echter terughoudend met het gebruiken van de brief als bron.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2021_I_bijlage_802f54fb3aeb.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f094215d14eb43de9153c53cd1712540.pdf"
+    }
+  ]
+}

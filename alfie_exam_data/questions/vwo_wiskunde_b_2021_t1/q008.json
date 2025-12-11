@@ -1,0 +1,68 @@
+{
+  "id": "vwo_wiskunde_b_2021_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 83,
+          "name": "Meetkundige vaardigheden",
+          "prefix_code": 1
+        },
+        {
+          "id": 84,
+          "name": "Algebraïsche methoden in de vlakke meetkunde",
+          "prefix_code": 2
+        },
+        {
+          "id": 85,
+          "name": "Vectoren en inproduct",
+          "prefix_code": 3
+        },
+        {
+          "id": 86,
+          "name": "Toepassingen",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bewijs dat voor elke waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi>&#160;</math>de hoek tussen de vectoren <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mi>C</mi> <mi>P</mi> </mrow><mo>&#8594;</mo>&#160;</mover></math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mi>C</mi> <mi>A</mi> </mrow><mo>&#8594;</mo>&#160;</mover></math>gelijk is aan de hoek tussen de vectoren <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mi>C</mi> <mi>A</mi> </mrow><mo>&#8594;</mo>&#160;</mover></math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mi>C</mi> <mi>Q</mi> </mrow><mo>&#8594;</mo>&#160;</mover></math>.</p>",
+    "max_score": 6,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gegeven is het vierkant <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi> <mi>A</mi> <mi>B</mi> <mi>C</mi>&#160;</math>met hoekpunten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi> <mo stretchy=\"false\">(</mo> <mn>0</mn> <mo>,</mo> <mn>0</mn> <mo stretchy=\"false\">)</mo> <mo>,</mo> <mi>A</mi> <mo stretchy=\"false\">(</mo> <mn>1</mn> <mo>,</mo> <mn>0</mn> <mo stretchy=\"false\">)</mo> <mo>,</mo> <mi>B</mi> <mo stretchy=\"false\">(</mo> <mn>1</mn> <mo>,</mo> <mn>1</mn> <mo stretchy=\"false\">)</mo>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi> <mo stretchy=\"false\">(</mo> <mn>0</mn> <mo>,</mo> <mn>1</mn> <mo stretchy=\"false\">)</mo>&#160;</math>. Verder zijn gegeven het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi> <mo stretchy=\"false\">(</mo> <mi>p</mi> <mo>,</mo> <mn>0</mn> <mo stretchy=\"false\">)</mo>&#160;</math>en het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi> <mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mfrac><mn>1</mn> <mi>p</mi> </mfrac><mo>,</mo> <mn>0</mn> <mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>, met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>&#60;</mo> <mi>p</mi> <mo>&#60;</mo> <mn>1</mn>&#160;</math>.</p><p>In figuur 1 zijn de vectoren <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mi>C</mi> <mi>P</mi> </mrow><mo>&#8594;</mo> </mover><mo>,</mo> <mover><mrow><mi>C</mi> <mi>A</mi> </mrow><mo>&#8594;</mo>&#160;</mover></math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mi>C</mi> <mi>Q</mi> </mrow><mo>&#8594;</mo>&#160;</mover></math>voor een willekeurige waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi>&#160;</math>weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_c305a56b2ecf.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/26c44c6a9fcd4c409b5199fdbdbe181c.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_3a0824c1577f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c4b8e721c4c94202abb8ace2ac024907.pdf"
+    }
+  ]
+}

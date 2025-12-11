@@ -1,0 +1,71 @@
+{
+  "id": "havo_natuurkunde_2022_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Maak met behulp van figuur 1 een beredeneerde schatting van de baansnelheid van een pin op de rol.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een muziekdoos is een klein muziekinstrument. Zie figuur 1 en 2.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_bfdf631acfb5.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5c77f5d2d2334cefb5e5488d46e95032.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_bf57f76d02bf.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/497499f795fe44cb81d049841ab4087c.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De muziekdoos maakt muziek door stalen strips te laten trillen. Op een draaiende, cilindervormige rol zijn pinnen aangebracht die een strip aan één uiteinde optillen. Zie figuur 3. De strip springt vervolgens los van de pin en begint te trillen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_ed1b27deedfe.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/498d31e9bdfb421b9766e5471f110a80.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Door meerdere strips naast elkaar te gebruiken, kan een melodie worden gespeeld. Zie figuur 1 en 2.<br>De melodie herhaalt zich elke 15 seconde. In deze tijd roteert de rol dus één keer.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2022_I_uitwerkbijl_81c84d6bcda8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5d2d7ab14a724c268e292e7f96ede649.pdf"
+    }
+  ]
+}

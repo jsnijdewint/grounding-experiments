@@ -1,0 +1,87 @@
+{
+  "id": "havo_natuurkunde_2021_t1_q27",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 131,
+          "name": "Informatieoverdracht",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bepaal de frequentie van het geluid van de uit-klik.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In het bos zijn in de zomer vaak cicaden te vinden. Zie figuur 1 en 2. Figuur 2 is hier op ware grootte.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_d127b2581431.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f61387d56d2f44dd8dab0df470da0baa.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De mannetjes van deze insectensoort produceren een hard geluid om vrouwtjes te zoeken.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De mannetjes produceren het geluid door het afwisselend samentrekken en ontspannen van een spier, waardoor een zogenaamde tymbaal van vorm verandert.<br>Bij het aanspannen van de spier veroorzaakt die vormverandering van de tymbaal kortstondig een geluidspuls (de 'in-klik'). Door de spier te ontspannen klapt de tymbaal weer terug en wordt opnieuw een korte geluidspuls gemaakt (de 'uit-klik'). Zie figuur 3.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_f38f2461b97b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6945ce35f1ac4028989c410a28a876d5.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Van het geluid van een cicade is een oscillogram gemaakt. Zie figuur 4.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_128ef0c4fae2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e487e4bcffe848d58f61bb2d967964c3.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>In figuur 4 is opeenvolgend het patroon van de geluidspuls van de in-klik en van de uit-klik te zien.</p><p>Het oscillogram is gemaakt met een meetapparaat dat voor de tijdsregistratie gebruikmaakt van een klok. De klok produceert om de 10 ms een piek. Die pieken zijn ook weergeven in figuur 4. Deze figuur staat ook op de uitwerkbijlage.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2021_I_uitwerkbijl_615e0715d0ed.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ae05f1ce95cd4d549a2e6c6e34cdeacc.pdf"
+    }
+  ]
+}

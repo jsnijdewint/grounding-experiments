@@ -1,0 +1,51 @@
+{
+  "id": "havo_nederlands_2023_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noteer onder elkaar in welke drie opzichten internationalisering volgens tekst 2 breder is.</p><p>Geef antwoord in een of meer volledige zinnen.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de eerste twee alinea’s van tekst 2 neemt de auteur twee standpunten in over internationalisering.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“Internationalisering is in drie opzichten breder en belangrijker.” (regels 21-22)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_4c535c813bac.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/31997ba285504e0396b7bc07c4c13230.pdf"
+    }
+  ]
+}

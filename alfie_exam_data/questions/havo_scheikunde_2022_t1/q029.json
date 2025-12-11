@@ -1,0 +1,47 @@
+{
+  "id": "havo_scheikunde_2022_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de molverhouding Cu : A1 in Nordic gold.</p><ul><li>Ga in je berekening uit van 100 g Nordic gold.</li><li>Noteer de uitkomst als <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Cu</mi> </mrow><mo>:</mo> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Al</mi> </mrow><mo>=</mo> <mo>&#8230;</mo> <mo>:</mo> <mn>1</mn> <mo>,</mo> <mn>0</mn>&#160;</math>.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De munten van 10, 20 en 50 eurocent zijn gemaakt van 'Nordic gold'. Dit materiaal is een legering van koper, aluminium, zink en tin. In tabel 1 staan enkele gegevens van de atoomsoorten in Nordic gold.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_4a442c70d447.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5cd4956861cd4463abe51b48648dd0cf.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2022_I_uitwerkbijla_f5e7f9155c59.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a02c79c5875f4978b042c59ce1514099.pdf"
+    }
+  ]
+}

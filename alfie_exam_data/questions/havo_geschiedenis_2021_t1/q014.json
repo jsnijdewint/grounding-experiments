@@ -1,0 +1,76 @@
+{
+  "id": "havo_geschiedenis_2021_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "geschiedenis",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 29,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 202,
+          "name": "Tijdvak 9 – Wereldoorlogen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Licht deze visie toe door:</p><ul><li>aan te geven welke politieke verandering in Duitsland in 1918 de legerleiding met deze reactie mogelijk maakt en</li><li>uit te leggen welke kritiek op de regering van de Republiek van Weimar de conservatieve elite met dit bericht kan onderbouwen.</li></ul>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De volgende gebeurtenissen rondom glas-in-loodramen in Nederland staan in willekeurige volgorde:<br>1 Door de emancipatie van katholieken in Nederland en het daarbij horende herstel van de bisdommen groeide de productie van gebrandschilderde kerkramen.<br>2 Er ontstond een nieuwe belangstelling voor glas-in-loodkunst tijdens de wederopbouw, doordat werd bepaald dat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>5</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>van de bouwsom van overheidsgebouwen moest worden besteed aan kunst.<br>3 In de Republiek werden in opdracht van rijke regenten gebrandschilderde medaillons in grachtenpanden geplaatst.<br>4 Patriotten vernielden tijdens de Bataafse revolutie, een democratische revolutie, glas-in-loodramen waarop wapenschilden van voorname families waren afgebeeld.<br>5 Tijdens de economische wereldcrisis moest er goedkoop worden gebouwd, waardoor de vraag naar decoratieve glas-in-loodramen sterk terugliep.<br>6 Veel glas-in-loodramen in kerken en kloosters gingen verloren tijdens de reformatie.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 4.</i><br>Twee beweringen over de voorstellen van de commissie:<br>1 Uit de voorstellen blijkt dat de Britse samenleving door de industriële revolutie is veranderd.<br>2 De voorstellen dragen bij aan de democratisering van Groot-Brittannië.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De plannen van de commissie in 1831 (zie bron 4) werden uiteindelijk doorgevoerd in een wet in 1832.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 5.</i><br>Met artikelen als deze wordt een verandering in het Britse bestuur in India ondersteund.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Gebruik bron 6. Jones Barker onderbouwt met dit schilderij het Britse imperialisme.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Twee gegevens over de Swadeshi-beweging in India:<br>1 In 1905 namen de oprichters van de Swadeshi-beweging voor het stadhuis van Calcutta een resolutie aan in het bijzijn van 20.000 Indiërs, waarin ze Indiërs opriepen hun eigen kleding te weven en te produceren.<br>2 In Groot-Brittannië publiceerden kranten artikelen waarin de Swadeshi-beweging werd beschreven als gevaarlijk en onwenselijk.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Gebruik bron 7.<br>Dit bericht wordt gezien als een belangrijk document in de ontstaansgeschiedenis van de Republiek van Weimar.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2021_I_bijlage_b326ab23bf83.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/efae95267208486faa880d162f0a0441.pdf"
+    }
+  ]
+}

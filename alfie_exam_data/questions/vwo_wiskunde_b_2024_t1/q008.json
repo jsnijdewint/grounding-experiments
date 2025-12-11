@@ -1,0 +1,63 @@
+{
+  "id": "vwo_wiskunde_b_2024_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 46,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Onderzoek op exacte wijze of er een waarde van <i>p</i> is waarvoor dit verschil gelijk is aan 3.</p>",
+    "max_score": 6,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De functie <i>f</i> wordt gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>f</mi>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>x</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo>=</mo>\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\"></mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mi>log</mi>\r\n  <mo data-mjx-texclass=\"NONE\">&#8289;</mo>\r\n  <mrow data-mjx-texclass=\"INNER\">\r\n    <mo data-mjx-texclass=\"OPEN\">(</mo>\r\n    <msqrt>\r\n      <mn>1</mn>\r\n      <mo>+</mo>\r\n      <msup>\r\n        <mn>8</mn>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mi>x</mi>\r\n        </mrow>\r\n      </msup>\r\n    </msqrt>\r\n    <mo data-mjx-texclass=\"CLOSE\">)</mo>\r\n  </mrow>\r\n</math>.</p><p>De functie <i>g</i> is de inverse functie van <i>f</i>.</p><p>In de figuur zijn de grafieken van <i>f</i> en <i>g</i> weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_9624adeba662.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/da67550506ab4af4a2e451e52498cc18.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het gestippelde lijnstuk in de figuur is het kortst mogelijke verticale lijnstuk dat de grafieken van <i>f</i> en <i>g</i> met elkaar verbindt.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Op de grafiek van <i>f </i>ligt punt <i>P</i> met x-coördinaat <i>p</i> en punt <i>Q</i> met <i>x</i>-coördinaat <i>p</i> + 1.<br>Voor elke waarde van <i>p </i>kan het verschil <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>y</mi><mi>Q</mi></msub><mo>&#8722;</mo><msub><mi>y</mi><mi>P</mi></msub></math> worden bepaald.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_b_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_b_formules_e2addf3f392e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/470a7c92ad484df6baaee4f1da8379d6.pdf"
+    }
+  ]
+}

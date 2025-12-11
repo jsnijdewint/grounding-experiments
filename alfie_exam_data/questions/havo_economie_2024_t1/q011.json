@@ -1,0 +1,61 @@
+{
+  "id": "havo_economie_2024_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 75,
+          "name": "Samenwerken en onderhandelen",
+          "prefix_code": "F"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Maak van onderstaande zinnen een economisch juiste tekst over de kenmerken van het ultimatumspel.</p><ul><li>Het ultimatumspel is een ...(1)... spel.</li><li>Het spel kent ...(2)... spelers.</li><li>De ...(3)... doet een voorstel om een geldbedrag te verdelen.</li><li>De ...(4)... kiest vervolgens tussen het voorstel accepteren of weigeren.</li><li>Als de tweede speler ...(5)... dan ontvangen beide het overeengekomen deel.<br>Kies uit:<br>bij (1) sequentieel / simultaan<br>bij (2) twee / drie<br>bij (3) aanbieder / respondent<br>bij (4) aanbieder / respondent<br>bij (5) accepteert / weigert</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een speedpedelec is een variant van de elektrische fiets die tot 45 kilometer per uur kan rijden. Bestuurders van speedpedelecs zijn verplicht om een helm te dragen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De drie grootste aanbieders van speedpedelecs hebben gezamenlijk 70% van de markt van speedpedelecs in handen. ledere aanbieder heeft binnen het assortiment keuzemogelijkheden, zoals design, vermogen en sterkte van de accu.</p><p>Sprinter is een van de aanbieders van speedpedelecs. Over type Sprinter4 zijn de volgende gegevens bekend:<br>Marginale kosten (MK) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>3.500</mn>&#160;</math><br>Totale constante kosten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo> <mi>T</mi> <mi>C</mi> <mi>K</mi> <mo stretchy=\"false\">)</mo> <mo>&#8364;</mo> <mn>1.000</mn> <mn>.000</mn>&#160;</math></p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Sprinter heeft een nieuwe zakelijke klant gevonden. Het Nederlandse accountantskantoor Snel krijgt van het internationale moederbedrijf een budget van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>6.000</mn>&#160;</math> per medewerker, om voor alle 100 medewerkers speedpedelecs Sprinter4 aan te schaffen. Het moederbedrijf van Snel heeft de spelregels bepaald:</p><ul><li>Snel doet een prijsvoorstel aan Sprinter voor levering van 100 stuks Sprinter4. Dat voorstel kan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>6.000</mn>&#160;</math> per speedpedelec zijn, maar het kan ook een lager bedrag zijn.</li><li>Als Sprinter het voorstel accepteert, dan ontvangt Sprinter de afgesproken prijs en ontvangt Snel het verschil tussen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>6.000</mn>&#160;</math> en de afgesproken prijs.</li><li>Als Sprinter het voorstel weigert, dan ontvangen beide bedrijven niets. Sprinter wil minimaal € 3.500 ontvangen voor type Sprinter4.</li></ul>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De hiervoor vermelde spelregels voldoen aan de kenmerken van een ultimatumspel.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2024_I_bijlage_92c84f45cc20.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/67b732e325834a28a9d329f8cba100cd.pdf"
+    }
+  ]
+}

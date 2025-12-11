@@ -1,0 +1,88 @@
+{
+  "id": "havo_wiskunde_a_2021_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 176,
+          "name": "Tabellen",
+          "prefix_code": 1
+        },
+        {
+          "id": 177,
+          "name": "Grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        },
+        {
+          "id": 178,
+          "name": "Formules met één of meer variabelen",
+          "prefix_code": 3
+        },
+        {
+          "id": 179,
+          "name": "Lineaire verbanden",
+          "prefix_code": 4
+        },
+        {
+          "id": 180,
+          "name": "Exponentiële verbanden",
+          "prefix_code": 5
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel procent van de bezoekers dan maximaal een voorsteekpas mag hebben. Geef je antwoord in één decimaal.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de zomermaanden worden pretparken druk bezocht. De wachttijden voor de attracties kunnen dan sterk oplopen. De wachttijd voor een attractie kan berekend worden met de formule:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi> <mo>=</mo> <mfrac><mrow><mi>r</mi> <mo>&#8901;</mo> <mi>S</mi> </mrow><mrow><mn>2</mn> <mo stretchy=\"false\">(</mo> <mn>1</mn> <mo>&#8722;</mo> <mi>r</mi> <mo stretchy=\"false\">)</mo>&#160;</mrow></mfrac></math></p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi>&#160;</math>de gemiddelde wachttijd van een willekeurige bezoeker in minuten en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi>&#160;</math>de bezettingsgraad van de attractie ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>&#60;</mo> <mi>r</mi> <mo>&#60;</mo> <mn>1</mn>&#160;</math>). Als voor de bezettingsgraad bijvoorbeeld geldt dat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi> <mo>=</mo> <mn>0</mn> <mo>,</mo> <mn>85</mn>&#160;</math>, betekent dit dat gemiddeld <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>85</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>van de plaatsen in de attractie bezet is. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi>&#160;</math>is de bedieningstijd per bezoeker in seconden. Als bijvoorbeeld een attractie elke 10 minuten 100 bezoekers kan bedienen, geldt:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi> <mo>=</mo> <mn>6</mn> <mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mo>=</mo> <mfrac><mrow><mn>600</mn> <mtext>seconden </mtext></mrow><mrow><mn>100</mn> <mtext>bezoekers </mtext></mrow></mfrac><mo data-mjx-texclass=\"CLOSE\">)</mo> </mrow><mo>.</mo></math></p><p>In Walibi Belgium is de achtbaan Vampire een populaire attractie, die in de zomermaanden een bezettingsgraad van 98% heeft. De Vampire kan iedere vier minuten 80 bezoekers bedienen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_4201d5eef7c4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0e602798a9324598a0255b517fd6e5fd.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de zomer van 2013 introduceerde Walibi Belgium een zogenoemde voorsteekpas. Met deze pas kan een bezoeker voorrang krijgen bij de attracties. Daardoor zal de wachttijd voor een bezoeker zonder deze pas langer worden.</p><p>Er zijn nu twee formules voor de wachttijd voor een attractie, namelijk een formule voor de gemiddelde wachttijd <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>W</mi> <mrow data-mjx-texclass=\"ORD\"><mi>p</mi>&#160;</mrow></msub></math>in minuten van een bezoeker met de voorsteekpas en een formule voor de gemiddelde wachttijd <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>W</mi> <mrow data-mjx-texclass=\"ORD\"><mi>z</mi>&#160;</mrow></msub></math>in minuten van een bezoeker zonder voorsteekpas:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>W</mi> <mrow data-mjx-texclass=\"ORD\"><mi>p</mi> </mrow></msub><mo>=</mo> <mfrac><mrow><mi>r</mi> <mo>&#8901;</mo> <mi>S</mi> </mrow><mrow><mn>2</mn> <mo stretchy=\"false\">(</mo> <mn>1</mn> <mo>&#8722;</mo> <mi>a</mi> <mo>&#8901;</mo> <mi>r</mi> <mo stretchy=\"false\">)</mo> </mrow></mfrac><mtext>en </mtext><msub><mi>W</mi> <mrow data-mjx-texclass=\"ORD\"><mi>z</mi> </mrow></msub><mo>=</mo> <mfrac><mrow><mi>r</mi> <mo>&#8901;</mo> <mi>S</mi> </mrow><mrow><mn>2</mn> <mo stretchy=\"false\">(</mo> <mn>1</mn> <mo>&#8722;</mo> <mi>r</mi> <mo stretchy=\"false\">)</mo> <mo stretchy=\"false\">(</mo> <mn>1</mn> <mo>&#8722;</mo> <mi>a</mi> <mo>&#8901;</mo> <mi>r</mi> <mo stretchy=\"false\">)</mo>&#160;</mrow></mfrac></math></p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi>&#160;</math>het gedeelte van de bezoekers met een voorsteekpas ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>&#60;</mo> <mi>a</mi> <mo>&#60;</mo> <mn>1</mn>&#160;</math>).</p><p>&nbsp;</p><p>Een andere bekende attractie van Walibi Belgium is de Cobra. Deze attractie heeft een bezettingsgraad van 95% (dus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi> <mo>=</mo> <mn>0</mn> <mo>,</mo> <mn>95</mn>&#160;</math>) en een bedieningstijd van 6 seconden per bezoeker (dus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi> <mo>=</mo> <mn>6</mn>&#160;</math>).</p><p>Op 6 juli 2013 kocht 10% van de bezoekers een voorsteekpas, dus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi> <mo>=</mo> <mn>0</mn> <mo>,</mo> <mn>10</mn>&#160;</math>.</p><p>&nbsp;</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De wachttijd van de bezoekers zonder voorsteekpas wordt groter als meer bezoekers een voorsteekpas kopen.<br>De directie van Walibi Belgium wil dat de wachttijd van bezoekers zonder voorsteekpas bij de Cobra maximaal 80 minuten is.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_0dabafad3b33.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5c360001b36c4ef48517dc88f333f720.pdf"
+    },
+    {
+      "name": "formule_blad_2.pdf",
+      "media_path": "media/bijlages/formule_blad_2_acdfdd81974a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a88db860b41b46039b4ea79fff214389.pdf"
+    }
+  ]
+}

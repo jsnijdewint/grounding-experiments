@@ -1,0 +1,71 @@
+{
+  "id": "havo_bedrijfseconomie_2022_t1_q22",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "bedrijfseconomie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 33,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 103,
+          "name": "Marketingbeleid",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wat is meer ten voordele van consumenten?<br>a de voorwaarde die opgenomen is in dit artikel<br>b de algemene voorwaarden van Thuiswinkel Waarborg (<i>zie informatiebron 4)</i><br>Kies a of b. Motiveer het antwoord.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Bij deze opgave horen de informatiebronnen 4 en 5.</i></p><p><br>Ttime is een webshop voor thee en theebenodigdheden. Ondanks het feit dat de resultaten de laatste jaren redelijk zijn, willen de eigenaren een marktonderzoek uitvoeren. Daarom heeft Ttime een SWOT-analyse gemaakt. In deze SWOT-analyse staat het ontbreken van een keurmerk voor online winkelen (zie informatiebron 4).</p><p>&nbsp;</p><p>SWOT-analyse bestaat uit de onderdelen Strengths, Weaknesses, Opportunities en Threats.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Ttime wil zich aansluiten bij Thuiswinkel Waarborg om zo een keurmerk te ontvangen. Het mogen gebruiken van een \"keurmerk voor online winkelen\" is voor Ttime een prestatie-indicator.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het aanvraagproces bij Thuiswinkel Waarborg voor de certificering van het keurmerk kent drie stappen.</p><p>&nbsp;</p><p><strong>Stap 1: veiligheidscheck</strong></p><p><br>De website van Ttime wordt gecontroleerd door Thuiswinkel Waarborg op veiligheid, bijvoorbeeld of de website makkelijk te hacken is of dat privacygevoelige informatie eenvoudig door iedereen ingezien kan worden. Om hieraan te voldoen huurt Ttime een expert in om de website te beveiligen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De eerste stap wordt succesvol afgerond.</p><p><br><strong>Stap 2: juridische check</strong></p><p><br>In stap 2 wordt gecontroleerd of de algemene voorwaarden van Ttime niet ten nadele van de consument afwijken van de voorwaarden die Thuiswinkel Waarborg stelt.</p><p>&nbsp;</p><p>In de algemene voorwaarden van Ttime is het volgende artikel opgenomen:</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p><strong>Artikel 6 - Herroepingsrecht</strong><br>Lid 1. De consument kan een overeenkomst met betrekking tot de aankoop van een product gedurende een bedenktijd van 14 dagen zonder opgave van redenen ontbinden. De ondernemer mag de consument vragen naar de reden van herroeping, maar deze niet tot opgave van zijn reden(en) verplichten.<br>Lid 2. De in lid 1 genoemde bedenktijd gaat in op de dag nadat de consument het product heeft ontvangen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_bijlag_70e2ce33bdc7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/644420d6788d4f0f80e381cd749535ed.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_uitwer_56a28eba2520.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2d2bf6c37a654f14bdb890765dd0cb67.pdf"
+    }
+  ]
+}

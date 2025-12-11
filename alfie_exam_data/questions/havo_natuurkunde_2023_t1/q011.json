@@ -1,0 +1,140 @@
+{
+  "id": "havo_natuurkunde_2023_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 133,
+          "name": "Kracht en beweging",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg met de tweede wet van Newton uit waarom hiervoor is gekozen.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In bergachtige gebieden liggen naast snelwegen vaak noodstopstroken. Een noodstopstrook is een lange bak, gevuld met grind. Zie figuur 1.</p><p>Als de remmen van een vrachtwagen tijdens het afdalen weigeren, kan de chauffeur de noodstopstrook gebruiken. Hoe verder de vrachtwagen de strook oprijdt, hoe dieper de grindlaag wordt waar de vrachtwagen doorheen rijdt. De remkracht van het grind op de vrachtwagen neemt daardoor toe.</p><p>Van een remmende vrachtwagen in het grind is een ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi> <mo>,</mo> <mi>t</mi>&#160;</math>)-diagram gemaakt Zie fiauur 2<br>figuur 2</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_1165f98531e0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/097e373d646344da8369af7cfe3a92b9.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_101c5ebed8a6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7589878233e64651832e93836a1ad2e4.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Figuur 2 is ook op de uitwerkbijlage afgedrukt.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Uit veiligheidsoverwegingen is een ontwerp-eis van een noodstopstrook dat de vertraging van de vrachtwagen niet groter mag zijn dan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>90</mn> <mo>&#8901;</mo> <mi>g</mi>&#160;</math>. Figuur 2 is nogmaals op de uitwerkbijlage afgedrukt.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In koude gebieden kan het grind aan elkaar vriezen, waardoor de vrachtwagen er niet meer zo ver in wegzakt.<br>Figuur 2 is nogmaals op de uitwerkbijlage afgedrukt.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>In Canada is een nieuw ontwerp uitgewerkt voor een noodstopstrook waar vorst geen invloed op heeft. In plaats van grind worden vangnetten gebruikt om de vrachtwagen af te remmen. De vangnetten zitten vast aan trommels. In elke trommel bevindt zich een opgerolde stalen band waar de vangnetten aan zijn bevestigd. Zie figuren 3 en 4.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_f12aea28e191.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6faaf6a202a44810ad56ec3edbc00ceb.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_dc1a2cac81a6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a30c172f2f6b4e45957c8faae97e0b0f.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Als een vrachtwagen een net raakt, worden de banden uit de trommels getrokken. ledere stalen band trekt tijdens het afrollen aan het net. Hierdoor ontstaat in het net een constante spankracht <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>F</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">s</mi>&#160;</mrow></mrow></msub></math>. Dit is schematisch weergegeven in figuur 5 . Deze figuur is niet op schaal.</p>"
+    },
+    {
+      "order": 10,
+      "type": "image",
+      "media_path": "media/in-exam/img_dd09d1bbde81.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1a7fdb7c55ad4841a070d2be1315a525.png",
+      "caption": ""
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>Door de constante spankracht <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>F</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">s</mi>&#160;</mrow></mrow></msub></math>werkt er een remkracht <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>F</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>rem&#160;</mtext></mrow></msub></math>op de vrachtwagen. Op de uitwerkbijlage zijn twee situaties, I en II, vereenvoudigd weergegeven. De klassieke grindstrook levert een steeds grotere remkracht als de vrachtwagen verder het grind in rijdt.</p>"
+    },
+    {
+      "order": 12,
+      "type": "text",
+      "text": "<p>Een band rolt af bij een spankracht van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mo>,</mo> <mn>0</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">N</mi>&#160;</mrow></math>. De band is gemaakt van roestvrij staal en wordt elastisch uitgerekt. De band is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn> <mo>,</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">cm</mi>&#160;</mrow></math>breed en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn> <mo>,</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">mm</mi>&#160;</mrow></math>dik. Zie figuur 6 .<br>Een ontwerp-eis is dat de band niet te ver mag uitrekken tijdens het afremmen.</p>"
+    },
+    {
+      "order": 13,
+      "type": "image",
+      "media_path": "media/in-exam/img_4346aba8741b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/78facdd6f70148d283146a5c09852534.png",
+      "caption": ""
+    },
+    {
+      "order": 14,
+      "type": "text",
+      "text": "<p>Door de kracht van de vrachtwagen op het net rollen de stalen banden af. Om zware vrachtwagens te stoppen, worden er meerdere vangnetten achter elkaar opgehangen. leder net hangt aan meerdere trommels. ledere trommel is identiek. In figuur 7 zijn drie vangnetten in een klein deel van de noodstopstrook te zien.</p>"
+    },
+    {
+      "order": 15,
+      "type": "image",
+      "media_path": "media/in-exam/img_7d09a5ee3b3e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dd7916bff3b343b4bf26b4b4dd08a456.png",
+      "caption": ""
+    },
+    {
+      "order": 16,
+      "type": "text",
+      "text": "<p>De noodstopstrook moet zowel lichte als zware vrachtwagens veilig kunnen afremmen. Om veiligheidsredenen mag de vertraging nooit groter zijn dan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>90</mn> <mo>&#8901;</mo> <mi>g</mi>&#160;</math>, ongeacht het formaat van de vrachtwagen.<br>Het eerste net is opgehangen aan minder trommels dan de overige netten.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2023_I_uitwerkbijl_b84551b8ec5a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2016336bf8d54298886022aa1e155445.pdf"
+    }
+  ]
+}

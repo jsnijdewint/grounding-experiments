@@ -1,0 +1,40 @@
+{
+  "id": "vwo_economie_2022_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 18,
+          "name": "Markt",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bepaal met behulp van een berekening of het doel van uitgeverij Amador wordt bereikt.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Uitgeverij Amador gaat in januari 2020 de concurrentie aan met monopolist Badlands op de markt voor computerspellen. Amador biedt het nieuwe, gelijknamige, computerspel Amador aan. Amador is een computerspel waarin spelers samenwerken om gebieden te veroveren. Amador wordt aangeboden in de vorm van een persoonsgebonden abonnement: een speler betaalt een maandbedrag en heeft hierdoor het recht om het spel online te spelen. Badlands biedt het gelijknamige spel Badlands aan voor een abonnementsprijs van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>13</mn>&#160;</math> per maand. Uitgeverij Amador overweegt om een prijs vast te stellen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>12</mn>&#160;</math> om een marktaandeel van de afzet te bereiken van minstens <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>45</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>. Marktonderzoek van marketinganalist Kim Klösters resulteert in de volgende vraagvergelijkingen van Amador en Badlands:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable rowspacing=\"4pt\"><mtr><mtd><mi>q</mi> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">v</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">a</mi> </mrow></mrow></msub><mo>=</mo> <mn>400</mn> <mo>&#8722;</mo> <mn>30</mn> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">p</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">a</mi> </mrow></mrow></msub><mo>+</mo> <mn>15</mn> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">p</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">b</mi> </mrow></mrow></msub></mtd></mtr><mtr><mtd><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">qv</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">b</mi> </mrow></mrow></msub><mo>=</mo> <mn>600</mn> <mo>+</mo> <mn>20</mn> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">p</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">a</mi> </mrow></mrow></msub><mo>&#8722;</mo> <mn>40</mn> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">p</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">b</mi>&#160;</mrow></mrow></msub></mtd></mtr></mtable></math></p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable rowspacing=\"3pt\" displaystyle=\"true\"><mtr><mtd><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">q</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">va</mi> </mrow><mo>,</mo> </mrow></msub><mo>,</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">q</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">vb</mi> </mrow></mrow></msub><mo>=</mo> </mtd><mtd><mtext>de vraag in duizenden maandabonnementen Amador, </mtext></mtd></mtr><mtr><mtd></mtd><mtd><mtext>respectievelijk Badlands </mtext></mtd></mtr><mtr><mtd><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">p</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">a</mi> </mrow></mrow></msub><mo>,</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">p</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">b</mi> </mrow></mrow></msub><mo>=</mo> </mtd><mtd><mtext>de abonnementsprijs in euro's van Amador, respectievelijk </mtext></mtd></mtr><mtr><mtd></mtd><mtd><mtext>Badlands&#160;</mtext></mtd></mtr></mtable></math></p>"
+    }
+  ],
+  "bijlages": []
+}

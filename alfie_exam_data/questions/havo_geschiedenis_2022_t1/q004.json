@@ -1,0 +1,61 @@
+{
+  "id": "havo_geschiedenis_2022_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "geschiedenis",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 29,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 197,
+          "name": "Tijdvak 5 – Ontdekkers en hervormers",
+          "prefix_code": 5
+        },
+        {
+          "id": 198,
+          "name": "Tijdvak 6 – Regenten en vorsten",
+          "prefix_code": 6
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit op welke nieuwe eis aan de wetenschap Van der Straaten zijn onderwijs wilde laten aansluiten door zijn studenten te verplichten mee te lopen tijdens zijn rondes in het Catharijne-gasthuis.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 1518 ondertekende de Spaanse koning Karel I een wet waarin hij bepaalde dat:<br>1 het toegestaan was om slaafgemaakten uit Afrika naar Amerika te vervoeren.<br>2 deze slaafgemaakten tijdens de reis moesten worden bekeerd tot het christendom.<br>Karel I wilde met deze wet de Spaanse overheersing van Amerika beyorderen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 1.</i><br>Andrea Odoni (1488-1545) wordt door de elite van Venetië uitgesloten van hoge bestuursfuncties. Met dit schilderij wil Odoni zijn status verhogen op een manier die past bij de zestiende eeuw.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Toen Willem van der Straaten in 1636 hoogleraar werd aan de universiteit van Utrecht, behield hij zijn baan als stadsarts. Hij verplichtte zijn studenten mee te lopen tijdens zijn rondes langs de zieken in het Catharijne-gasthuis. Volgens Van der Straaten kon hij daardoor zijn onderwijs beter laten aansluiten op een nieuwe eis die in de zeventiende eeuw aan wetenschap werd gesteld.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2022_I_bijlage_efc832c5bc6a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4c75dd86a687428f8575622947101fb2.pdf"
+    }
+  ]
+}

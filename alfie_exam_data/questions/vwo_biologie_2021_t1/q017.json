@@ -1,0 +1,50 @@
+{
+  "id": "vwo_biologie_2021_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 36,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 37,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 38,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Dankzij de activiteit van de melkzuurbacteriën zijn voedingsstoffen uit yoghurt sneller op te nemen dan uit melk, ook voor mensen die geen lactose-intolerantie hebben. Geef hiervoor een verklaring.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Zuivelbedrijven die yoghurt bereiden, krijgen soms een opbrengst van waterige melk met klonten, veroorzaakt door bacteriofagen in de yoghurtcultuur. Dankzij CRISPR-Cas kan dit voorkomen worden.</p><p>Yoghurt wordt gemaakt door melk te enten met de melkzuurbacteriën Streptococcus thermophilus en Lactobacillus bulgaricus. Deze bacteriën zetten melkeiwitten om en verbruiken lactose (melksuiker) uit de melk voor hun energievoorziening. Hierdoor verzuurt de melk snel en krijgt die een andere smaak, structuur en voedingswaarde: het wordt yoghurt. Doordat yoghurt veel minder lactose bevat dan melk is het een geschikt zuivelproduct voor mensen met lactose-intolerantie.<br>Na het eten van yoghurt hebben de yoghurtbacteriën die levend de darm bereiken een gunstig effect op de darmflora, de stoelgang en het immuunsysteem van de darm.</p><p>De twee bacteriesoorten zijn samen efficiënter in het veranderen van de melk in yoghurt dan ieder apart. Zo produceert L. bulgaricus voornamelijk endopeptidasen, enzymen die peptidebindingen binnen een peptideketen verbreken, en produceert S. thermophilus voornamelijk exopeptidasen, enzymen die peptide-bindingen aan de uiteinden van een peptideketen verbreken.<br>De enzymactiviteit van S. thermophilus is hoger als deze bacterie samen met L. bulgaricus aan melk wordt toegevoegd dan als alleen<br>S. thermophilus wordt toegevoegd.</p>"
+    }
+  ],
+  "bijlages": []
+}

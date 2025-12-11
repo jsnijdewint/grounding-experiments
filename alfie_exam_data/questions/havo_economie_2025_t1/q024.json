@@ -1,0 +1,50 @@
+{
+  "id": "havo_economie_2025_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 1 en 2.<br>Toon met een berekening aan dat door maatregel 2 de koopkrachtdaling voor een (echt)paar minimaal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>is bij een inflatie van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De AOW is een basispensioen voor ouderen. Door de vergrijzing verslechtert de betaalbaarheid van de AOW: er zijn minder werkenden die premie betalen waarmee de uitkeringen in dat jaar worden betaald. De Nederlandse overheid heeft daarom een aantal jaar geleden besloten de AOW-leeftijd geleidelijk te verhogen van 65 naar 67 jaar en daarna te koppelen aan de levensverwachting. De AOW-leeftijd stijgt dan mee met de gemiddelde levensverwachting.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Een deel van de bevolking wil terug naar een AOW-leeftijd van 65 jaar. Een onderzoeker analyseert hoe de extra kosten van een verlaging van de AOW-leeftijd kunnen worden gefinancierd en heeft van drie maatregelen de gevolgen doorgerekend (zie bron 1).</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De onderzoeker: \"Bij maatregel 2 ontvangen AOW'ers een lagere maandelijkse uitkering. Bovendien komt de koopkracht van AOW'ers verder onder druk te staan, zelfs al bij een inflatie van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>. Voor een (echt)paar met een AOW-uitkering als enige bron van inkomsten, levert maatregel 2 een koopkrachtdaling van minimaal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> op.\"</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "ha-1022-a-25-1-b.pdf",
+      "media_path": "media/bijlages/ha-1022-a-25-1-b_d22d3ea39f14.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bbaed4a5fde74a759025b6f0f5557449.pdf"
+    }
+  ]
+}

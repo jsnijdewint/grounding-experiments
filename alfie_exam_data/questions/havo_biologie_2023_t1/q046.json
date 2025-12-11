@@ -1,0 +1,79 @@
+{
+  "id": "havo_biologie_2023_t1_q46",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Met welk deel van de nier komt plaats P overeen? En plaats Q?</p><p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;text-align:center;width:auto;\">plaats P</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;text-align:center;width:auto;\">plaats Q</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">A niermerg</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">nierbekken</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">B niermerg</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">urineleider</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">C nierschors</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">nierbekken</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">D nierschors</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">urineleider</td></tr></tbody></table></figure></p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De vader van Sem heeft last van nierstenen. Daarom zoekt Sem naar informatie over het voorkómen en behandelen ervan. Hierbij komt hij een artikel tegen van Amerikaanse wetenschappers die onderzochten of een ritje in de achtbaan helpt om nierstenen uit te plassen.</p><p>Nierstenen (afbeelding 1) ontstaan wanneer calciumzouten in de urine slecht oplossen en vervolgens kristallen vormen die steeds groter worden. Kleine nierstenen worden gewoon uitgeplast, maar grotere kunnen vast blijven zitten.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_31bf0416f1fb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2a3d4fc333ee4cc5b9009484f31fa5f6.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Calcium-ionen worden via de nieren uitgescheiden.<br>Een aantal delen van het uitscheidingsstelsel die door een calcium-ion gepasseerd worden zijn:<br>1 blaas<br>2 glomerulus<br>3 nierbuisje<br>4 urinebuis<br>5 urineleider<br>6 verzamelbuisje</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De Amerikaanse wetenschappers maakten een siliconen model van de nier van iemand met nierstenen (afbeelding 2). In dit model werden nierstenen op die posities geplaatst die overeenkomen met de plaatsen waar ze zaten in de echte nier (aangegeven met zwarte stippen). Hierna werd het model gevuld met urine en vervolgens verpakt in een rugzak. De rugzak werd rechtop vastgezet op een stoel van een achtbaan-wagentje. Na een ritje werd gecontroleerd waar de nierstenen zich bevonden. Nierstenen die zich in het reservoir onder in het model bevonden, werden beschouwd als uitgeplast.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_579fbc19d38b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7279e87117e244119e97cc96ce1e7f0a.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

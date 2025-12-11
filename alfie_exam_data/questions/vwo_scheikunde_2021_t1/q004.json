@@ -1,0 +1,58 @@
+{
+  "id": "vwo_scheikunde_2021_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Maak de reactievergelijking op de uitwerkbijlage compleet. Gebruik schematische structuurformules zoals op de uitwerkbijlage.</p>",
+    "max_score": 2,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_6d1d05f8a36e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f7394a8ae6b3477e986b139a7e952f29.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Om textiel te verven, worden pigmenten gebruikt die slecht in water oplossen. Deze pigmenten zijn apolaire vaste stoffen die zich tijdens het verven hechten aan het oppervlak van de textielvezels. Met een vezel wordt in deze opgave een bundel polymeerketens bedoeld. Omdat het verven plaatsvindt in water, worden emulgatoren gebruikt om de pigmenten te mengen met het water. Na afloop van het verven komen deze milieubelastende emulgatoren in het afvalwater terecht. Het Nederlandse bedrijf DyeCoo heeft een verftechniek ontwikkeld waarbij geen afvalwater vrijkomt. In het proces wordt superkritisch <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>gebruikt als oplosmiddel. Superkritisch <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>dat bij <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi> <mo>=</mo> <msup><mn>120</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>is samengeperst tot <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi> <mo>=</mo> <mn>300</mn>&#160;</math>bar. In deze opgave mag je aannemen dat het <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>zich dan als een vloeistof gedraagt. Het superkritisch <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>is ook apolair, zodat de pigmenten in superkritisch <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>oplossen zonder gebruik van emulgatoren.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De verftechniek van DyeCoo is vooral geschikt voor het verven van polyester kledingmateriaal. Als het <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>in contact komt met polyester, zwellen de vezels op. Dit komt doordat de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-moleculen tussen de apolaire polymeerketens dringen.<br>Een gevolg van het opzwellen is dat een sterkere kleuring van polyester kan worden verkregen dan met de op water gebaseerde verfmethode.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Wanneer het polyester enige tijd is behandeld met de pigment-oplossing, wordt het polyester gescheiden van de pigment-oplossing. Het mengsel van superkritisch <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>en het overgebleven pigment wordt gescheiden, zodat het pigment kan worden hergebruikt.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Het proces van DyeCoo is met een aantal aanpassingen ook te gebruiken voor katoen. Het katoen wordt dan voorbehandeld met een oplossing van methanol in superkritisch <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>. Hierdoor zwelt het katoen op. Daarna wordt een stroom superkritisch <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>met een zogeheten reactief pigment doorgeleid.<br>Een reactief pigment wordt gevormd door een geschikt pigment te laten reageren met dichloortriazine. Het gevormde reactieve pigment reageert vervolgens met het katoen. Deze reactie is op de uitwerkbijlage schematisch en onvolledig weergegeven.<br>De reactie van het reactieve pigment met katoen is een substitutiereactie. Het O-atoom van een OH-groep van katoen valt als nucleofiel aan op één van de twee C -atomen waaraan een Cl -atoom is gebonden.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2021_I_uitwerkbijla_19d95dde309e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1b51fa23f34e49019700aa8a5bf7165f.pdf"
+    }
+  ]
+}

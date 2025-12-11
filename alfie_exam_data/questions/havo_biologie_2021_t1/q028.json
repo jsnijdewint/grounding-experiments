@@ -1,0 +1,89 @@
+{
+  "id": "havo_biologie_2021_t1_q28",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<ul><li>Noteer de nummers van de stappen in de juiste volgorde achter elkaar.</li><li>Noem het nummer van de stap die als eerste wordt beïnvloed door de gifstof.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Voor de speurtocht naar nieuwe geneesmiddelen zijn zeeslakken zeer interessant. De gifstoffen die sommige zeeslakken maken, worden al gebruikt als medicijn bij de behandeling van chronische pijn.</p><p>De slakken van het geslacht Conus (afbeelding 1) produceren kleine giftige eiwitten die ze met een harpoenachtig orgaan bij hun prooi injecteren. De variatie in gifstoffen binnen de 600 soorten van dit geslacht is zeer groot. Al deze gifstoffen werken als zenuwgif, waardoor ze mogelijk geschikt zijn als medicijn bij zenuwaandoeningen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_d7de796a64a2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/08f468b995d3422a98958d0db91fdd2e.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een opvallend kenmerk van de giftige eiwitten is de grootte. De meeste gifstoffen van slangen en andere dieren zijn meer dan 50 aminozuren lang, maar gifstoffen van zeeslakken zijn kleiner. De kleinste bestaat uit slechts 17 aminozuren. Deze eiwitten worden gemaakt op basis van de code in een RNA-keten.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Voor het maken van een evolutionaire stamboom van de Conus-slakken werden de aminozuurvolgordes van hun gifstoffen met elkaar vergeleken. Het gif van de slak Conus consors is vergeleken met dat van drie andere slakken (tabel 1).<br><br>tabel 1</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\">soort</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\"><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">overeenkomst in aminozuurvolgorde</td></tr><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">met gif van Conus consors</td></tr></tbody></table></figure></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Conus consors</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn> <mi mathvariant=\"normal\">%</mi></math></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Conus striatus</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>86</mn> <mi mathvariant=\"normal\">%</mi></math></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Conus stercusmuscarum</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>80</mn> <mi mathvariant=\"normal\">%</mi></math></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Conus kinoshitai</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>75</mn> <mi mathvariant=\"normal\">%</mi></math></td></tr></tbody></table></figure>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De stamboom die is opgesteld met deze gegevens is weergegeven in afbeelding 2.<br>&nbsp;</p><p>In de stamboom is Conus consors al aangegeven. De andere drie slakken zijn met nummers aangegeven.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_df3038ed97cb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c1bbb87b05b94e118a76bedb8ffd83bf.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De gifstof die door Conus magus wordt geproduceerd, wordt nu al gebruikt als pijnstiller. Het gif blokkeert de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Ca</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> <mo>+</mo>&#160;</mrow></msup></math>-kanalen in de uiteinden van axonen. Hierdoor wordt de impulsoverdracht in de synapsen verstoord.<br>Vier stappen in het doorgeven van een pijnprikkel van een perifere zenuwcel naar een cel in de sensorische hersenschors zijn:<br>1 Blaasjes met neurotransmitters fuseren met het synapsmembraan.<br>2 De drempelwaarde van een sensorische zenuwcel wordt overschreden.<br>3 Impulsen worden geleid over een sensorische zenuwuitloper.<br>4 Neurotransmitters binden aan receptoren van een schakelzenuwcel.</p>"
+    }
+  ],
+  "bijlages": []
+}

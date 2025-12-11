@@ -1,0 +1,46 @@
+{
+  "id": "havo_geschiedenis_2023_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "geschiedenis",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 29,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 197,
+          "name": "Tijdvak 5 – Ontdekkers en hervormers",
+          "prefix_code": 5
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef aan:</p><ul><li>welk motief voor de overzeese expansie je kunt afleiden uit de voorwerpen die uit Amerika zijn meegenomen, en</li><li>op welke wijze de expansie bijdraagt aan het veranderende mens- en wereldbeeld, waarbij je je antwoord ondersteunt met een verwijzing naar de bron.</li></ul>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gebruik bron 1.<br>Een conclusie:<br>De Europese overzeese expansie draagt bij aan het veranderende mens- en wereldbeeld van de renaissance.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2023_I_bijlage_2ccfd292fdea.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/55cb39c4e0dc4b628a1ed42d2c5ca13a.pdf"
+    }
+  ]
+}

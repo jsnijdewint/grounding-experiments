@@ -1,0 +1,40 @@
+{
+  "id": "havo_scheikunde_2022_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat het verbranden van fossiele brandstoffen een grotere bijdrage levert aan het versterkt broeikaseffect dan het verbranden van biobrandstoffen.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Wereldwijd is er een toenemende aandacht voor het maken van biobrandstoffen uit biomassa. Gelet op duurzaamheid verdient het verbranden van biobrandstoffen de voorkeur boven het verbranden van fossiele brandstoffen. Zo draagt bijvoorbeeld het verbranden van fossiele brandstoffen meer bij aan het versterkt broeikaseffect dan het verbranden van biobrandstoffen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2022_I_uitwerkbijla_f5e7f9155c59.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a02c79c5875f4978b042c59ce1514099.pdf"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "havo_wiskunde_b_2024_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 103,
+          "name": "Meetkundige berekeningen",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken algebraïsch de oppervlakte van dit parkje in <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mi>m</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msup>\r\n</math>. Geef je eindantwoord als geheel getal.</p>",
+    "max_score": 6,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de Franse stad Lyon ligt een parkje met de naam ‘Jardin des tout-petits Adolphe-Lafont’. De vorm is nagenoeg driehoekig. We benaderen de vorm van dit parkje met een driehoek ABC. Zie de figuur.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_e6c308fb084b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/237fdb9b87bf4df0b75149c45c9738df.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Er geldt:&nbsp;</p><p>- Zijde <i>AB</i>, langs de Rue Pascal, is 92 m lang.</p><p>- Zijde <i>BC</i>, langs de Rue Lafontaine, is 101 m lang.</p><p>- Zijde <i>AC</i>, langs de Avenue Marc Sangnier, is 145 m lang.</p>"
+    }
+  ],
+  "bijlages": []
+}

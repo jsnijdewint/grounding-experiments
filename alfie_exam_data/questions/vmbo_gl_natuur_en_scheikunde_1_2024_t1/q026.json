@@ -1,0 +1,72 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2024_t1_q26",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 141,
+          "name": "Elektrische energie",
+          "prefix_code": "NASK1/K/5"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wat is juist over de citroenen in de schakeling?</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-color:!important;border-left-style:none;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">De citroenen in éen rij zijn</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">De rijen met citroenen zijn</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-color:!important;border-left-style:none;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">A</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">in serie geschakeld.</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">in serie geschakeld.</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-color:!important;border-left-style:none;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">B</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">in serie geschakeld.</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">parallel geschakeld.</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-color:!important;border-left-style:none;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">C</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">parallel geschakeld.</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">in serie geschakeld.</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-color:!important;border-left-style:none;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">D</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">parallel geschakeld.</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">parallel geschakeld.</td></tr></tbody></table></figure>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een monteur probeert met 1000 halve citroenen de motor van een auto te starten.<br>Door citroenen met metalen plaatjes en draden te verbinden ontstaat er een citroenaccu als spanningsbron.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_e3bfbd7517bc.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/78ce986b6f284b91b18b8eb41b8c6dc9.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_6f1b74d7e238.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/15742c452fd445fd89e010012652f6b2.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Je ziet een schematische afbeelding van de schakeling met citroenen. Er zijn in totaal 50 rijen met 20 halve citroenen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_99e0a1bef7cc.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c697b757fdf14d9baa848a799268cd2a.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2024_I_c96405ee1a91.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c258a8174cb04fbba9275f60e7aa3610.pdf"
+    }
+  ]
+}

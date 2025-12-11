@@ -1,0 +1,51 @@
+{
+  "id": "vwo_aardrijkskunde_2021_t1_q19",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "aardrijkskunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 21,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 4,
+          "name": "Afbakening en gebiedskenmerken",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In veel Zuid-Amerikaanse landen zijn de mogelijkheden om tot verdere ontwikkeling te komen gunstig. Maar er zijn ook belemmeringen voor deze verdere ontwikkeling.<br>Geef</p><ul><li>vanuit twee verschillende dimensies een kenmerk van Zuid-Amerikaanse landen waaruit blijkt dat de mogelijkheden om tot verdere ontwikkeling te komen gunstig zijn;</li><li>vanuit nog een andere dimensie een belemmering voor deze verdere ontwikkeling.</li></ul>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen geen bronnen.<br>Zuid-Amerika kan worden beschouwd als een formele regio. Een van de gemeenschappelijke kenmerken is de grote inkomensongelijkheid in Zuid-Amerikaanse Ianden.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2021_I_bijlage_1de9ee212266.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3bcf64b646bb4388813bec93b28b6c85.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2021 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2021_I_kaartenk_576987338d70.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/734331e338bb414c87f337f1f9517536.pdf"
+    }
+  ]
+}

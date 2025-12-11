@@ -1,0 +1,46 @@
+{
+  "id": "vwo_geschiedenis_2022_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 188,
+          "name": "Tijdvak 5 – Ontdekkers en hervormers",
+          "prefix_code": 5
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef aan welke propagandaboodschap over Antwerpen hier wordt afgebeeld, waarbij je je antwoord ondersteunt met een verwijzing naar de bron.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 3.</i></p><p>De stad Antwerpen neemt vanaf 1585 een belangrijke plaats in als onderwerp van propaganda tijdens de periode van de Opstand.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2022_I_bijlage_a36412ab6c17.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ffb233ca393f4e5495872a5032cf7133.pdf"
+    }
+  ]
+}

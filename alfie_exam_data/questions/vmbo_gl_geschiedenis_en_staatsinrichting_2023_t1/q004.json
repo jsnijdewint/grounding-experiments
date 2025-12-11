@@ -1,0 +1,40 @@
+{
+  "id": "vmbo_gl_geschiedenis_en_staatsinrichting_2023_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "geschiedenis_en_staatsinrichting",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 65,
+      "domains": [
+        {
+          "id": 135,
+          "name": "Staatsinrichting van Nederland",
+          "prefix_code": "GS/K/5"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>De Tweede Kamer bleef kritisch en keurde daarom de begroting af. De minister van Koloniën voelde zich daardoor gedwongen om af te treden.<br>Hieronder staan drie rechten van de Tweede Kamer:<br>1 recht van amendement<br>2 recht van budget<br>3 recht van enquête<br>Drie begrippen:<br>a evenredige vertegenwoordiging<br>b klassieke grondrechten<br>c ministeriële verantwoordelijkheid<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Van welk <strong>recht </strong>maakte de Tweede Kamer gebruik?<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Welk <strong>begrip </strong>hoort bij het aftreden van de minister?<br>Doe het zo:<br>recht: ... (vul nummer in)<br>begrip: ... (vul letter in)</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Geschiedenis en staatsinrichting 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_en_staatsinrichti_cf7c6ce6a4c9.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f132077dcc6e486c9c4eeb9328bce439.pdf"
+    }
+  ]
+}

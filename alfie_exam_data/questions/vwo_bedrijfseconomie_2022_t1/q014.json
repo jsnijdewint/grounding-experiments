@@ -1,0 +1,56 @@
+{
+  "id": "vwo_bedrijfseconomie_2022_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 11,
+          "name": "Financieren",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef aan wat er bij (a), (b) en (c) moet komen te staan. Kies<br>bij (a) uit call-opties / put-opties<br>bij (b) uit shortpositie / longpositie<br>en vul bij (c) het juiste begrip in.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Sibel heeft een deel van haar spaargeld belegd in aandelen Swatch. Dit geeft een risico. Daarom heeft ze het risico op koersdaling afgedekt door te beleggen in opties Swatch met aandelen Swatch als onderliggende waarde.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><strong>Risicobeperking</strong></p><p><br>Om zich in te dekken tegen een mogelijk verlies door daling van de beurskoers van de gekochte aandelen Swatch, heeft Sibel dit risico afgedekt door het kopen van ... (a)... . Hiermee heeft Sibel een ... (b)... tegenover haar aandelen ingenomen. Het afdekken van dit risico wordt ...(c)... genoemd.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_bijlag_62086e27b4ef.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a93cd8f679584499a2c7de8ddf763cff.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_uitwer_fe9d963a16b1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e693b318cf614e21b8c84f861816b24e.pdf"
+    }
+  ]
+}

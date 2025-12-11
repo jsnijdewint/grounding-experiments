@@ -1,0 +1,86 @@
+{
+  "id": "havo_nederlands_2023_t1_q37",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [
+        {
+          "id": 88,
+          "name": "Argumentatieve vaardigheden",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welk argumentatieschema komt het duidelijkst naar voren in alinea 5 en 6 samen?</p><p>een argumentatieschema op basis van</p><p><strong>A </strong>kenmerk of eigenschap</p><p><strong>B </strong>oorzaak en gevolg</p><p><strong>C</strong> vergelijking</p><p><strong>D </strong>voor- en nadelen</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In alinea 1 en 2 is sprake van een probleem met twee verschillende oorzaken en van een beoogde oplossing voor het probleem.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In alinea 3 wordt het belang van leesplezier en van een bevlogen docent besproken.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><i>Tekstfragment 3 komt uit een reactie op tekst 4.</i></p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p><strong>tekstfragment 3</strong></p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p><strong>(1) </strong>Dat leesvaardigheid een voorwaarde is voor leesplezier, zoals onlangs door een filosoof gesteld werd, is evident. Maar de veronderstelling dat leesvaardigheid vanzelf tot leesplezier zal leiden wordt gelogenstraft door jarenlang internationaal onderzoek door de OESO en de International Association for the Evaluation of Educational Achievement. Daaruit blijkt dat Nederlandse leerlingen in vergelijking met andere landen prima scoren op leesvaardigheid, maar dat zij extreem laag scoren op leesplezier.</p><p><strong>(2)</strong> De roep van de Raad voor Cultuur om meer aandacht voor leesplezier is dan ook geheel terecht en moet zeer serieus genomen worden, omdat alleen mensen die met plezier lezen ook in hun vrije tijd een boek pakken, ook nadat ze de school hebben verlaten. En door te blijven lezen, onderhouden ze hun leesvaardigheid. De waarde van lezen, zowel voor de taalontwikkeling als voor de persoonlijke ontwikkeling van mensen, is door talloze studies aangetoond.</p><p>&nbsp;</p><p><i>naar: Kees Broekhof in: de Volkskrant, 30 april 2018</i></p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De titel van tekst 4 is ‘Waarom moet lezen per se leuk zijn?’ Tekstfragment 3 geeft als antwoord op deze vraag een oorzaak-gevolgketen.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>“Schrijver Christiaan Weijts had de leeslijst gezien van een gymnasiumleerling. ‘Ik schrok me kapot.” (regels 37-40)</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>“Het is niet de schuld van Vondel, Hooft en Bilderdijk dat jongeren geen lange teksten meer verwerken.” (regels 78-81)</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>“Maar waarom moet literatuuronderwijs lezen leuker maken?” (regels 53-55) In alinea 5 en 6 wordt, als reactie op deze vraag, gebruikgemaakt van een argumentatieschema.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_4c535c813bac.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/31997ba285504e0396b7bc07c4c13230.pdf"
+    }
+  ]
+}

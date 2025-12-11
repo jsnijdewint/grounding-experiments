@@ -1,0 +1,68 @@
+{
+  "id": "havo_wiskunde_a_2021_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 174,
+          "name": "Rekenen",
+          "prefix_code": 1
+        },
+        {
+          "id": 175,
+          "name": "Algebra",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel keer zo dicht Klaas bij de Snellenkaart moet staan als Lidy om hetzelfde te kunnen lezen als Lidy.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Om te bepalen hoe goed iemands ogen functioneren, wordt vaak gebruikgemaakt van de Snellenkaart. De letters op deze kaart moeten vanaf een afstand van 20 feet (ongeveer 6 meter) worden gelezen. Zie de figuur.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_f08c4d8a0a4d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cb7678b2c8594186bde6487221f956f2.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De <strong>visus </strong>is een maat voor de gezichtsscherpte. Deze maat kan met behulp van de Snellenkaart worden uitgedrukt in een score <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi>&#160;</math>. lemand met normaal functionerende ogen kan de letters op regel 8 nog wel lezen, maar de letters op regel 9 niet meer. Bij normaal functionerende ogen hoort een score <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi> <mo>=</mo> <mfrac><mn>20</mn> <mn>20</mn> </mfrac><mo>=</mo> <mn>1</mn>&#160;</math>. Als een persoon nog kleinere letters kan lezen, dan is de score <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi>&#160;</math>groter dan 1. Bij de onderste regel 11 hoort bijvoorbeeld de score <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi> <mo>=</mo> <mfrac><mn>20</mn> <mn>10</mn> </mfrac><mo>=</mo> <mn>2</mn>&#160;</math>.<br>lemand met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi> <mo>=</mo> <mn>0</mn> <mo>,</mo> <mn>5</mn>&#160;</math>moet alles van tweemaal zo dichtbij bekijken om hetzelfde op de Snellenkaart te kunnen zien als iemand met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi> <mo>=</mo> <mn>1</mn>&#160;</math>. lemand met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi> <mo>=</mo> <mn>0</mn> <mo>,</mo> <mn>1</mn>&#160;</math>moet tienmaal zo dichtbij staan, enzovoort.</p><p>Klaas en Lidy laten hun visus meten. Klaas kan regel 2 nog wel lezen, maar regel 3 niet meer. Lidy kan regel 7 nog wel lezen, maar regel 8 niet meer.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_0dabafad3b33.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5c360001b36c4ef48517dc88f333f720.pdf"
+    },
+    {
+      "name": "formule_blad_2.pdf",
+      "media_path": "media/bijlages/formule_blad_2_acdfdd81974a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a88db860b41b46039b4ea79fff214389.pdf"
+    }
+  ]
+}

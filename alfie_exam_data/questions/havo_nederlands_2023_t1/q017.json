@@ -1,0 +1,40 @@
+{
+  "id": "havo_nederlands_2023_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welk probleem wordt geschetst in alinea 1 en verder uitgewerkt in de rest van de tekst? Het is niet goed voor Nederland</p><p><strong>A </strong>dat bestuurders van universiteiten en hogescholen de instroom van buitenlandse studenten terugdringen.</p><p><strong>B </strong>dat de minister van Onderwijs meegaat in de huidige trend om buitenlandse studenten voor te trekken.</p><p><strong>C</strong> dat er in de Internationaliseringsagenda gepleit wordt voor het beperken van de instroom van buitenlandse studenten.</p><p><strong>D</strong> dat er steeds meer buitenlandse studenten aan Nederlandse universiteiten en hogescholen komen studeren.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_4c535c813bac.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/31997ba285504e0396b7bc07c4c13230.pdf"
+    }
+  ]
+}

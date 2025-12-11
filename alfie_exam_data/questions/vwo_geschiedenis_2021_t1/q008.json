@@ -1,0 +1,56 @@
+{
+  "id": "vwo_geschiedenis_2021_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 188,
+          "name": "Tijdvak 5 – Ontdekkers en hervormers",
+          "prefix_code": 5
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Toon dit aan door:</p><p>- aan te geven welke tactiek Willem van Oranje gebruikt om Leiden te ontzetten en</p><p>- uit te leggen met welke twee <strong>verschillende </strong>argumenten deze tactiek van Willem van Oranje wordt verdedigd, telkens met een passende verwijzing naar de prent.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 3.</i></p><p>Je concludeert dat er in de specerijenhandel in de zestiende eeuw sprake is van continuïteit <strong>en </strong>van verandering.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik bron 4.</p><p>Twee gegevens:</p><p>1 Sommige historici beweren dat de Beeldenstorm in Gent een gepland oproer is, andere historici denken dat het gaat om een spontane uitbarsting.</p><p>2 Van Vaernewijck houdt zijn dagboek in de jaren na de Beeldenstorm geheim.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 5.</i></p><p>In 1574 wordt Leiden ontzet door de legers van Willem van Oranje. De inwoners van de gebieden rondom Leiden hebben kritiek op de tactiek die Willem van Oranje hiervoor gebruikt. In deze prent wordt de tactiek van Willem van Oranje verdedigd met verschillende argumenten.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2021_I_bijlage_802f54fb3aeb.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f094215d14eb43de9153c53cd1712540.pdf"
+    }
+  ]
+}

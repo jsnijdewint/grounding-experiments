@@ -1,0 +1,67 @@
+{
+  "id": "vwo_biologie_2024_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 36,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 37,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 38,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat in aanwezigheid van nicotine het beloningscentrum meer geactiveerd wordt dan in aanwezigheid van acetylcholine.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het is al lang bekend dat roken tijdens de zwangerschap kan leiden tot een miskraam, een laag geboortegewicht, vroeggeboorte en nadelige gezondheidseffecten bij de baby. Amerikaanse wetenschappers van de Stanford University School of Medicine hebben een model ontwikkeld om te onderzoeken hoe nicotine een embryo beïnvloedt.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_6c733b08a416.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6097201d78184ba7829af47c61d63f3c.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Over afbeelding 1 worden de volgende uitspraken gedaan:&nbsp;<br>1 Nicotine is een antagonist van acetylcholine.<br>2 Dopamine komt via endocytose in de synapsspleet terecht.&nbsp;<br>3 Heropname van dopamine vindt plaats door dopaminereceptoren.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Nicotine wordt niet afgebroken door acetylcholinesterase, dat in de weefselvloeistof aanwezig is.</p>"
+    }
+  ],
+  "bijlages": []
+}

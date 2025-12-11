@@ -1,0 +1,81 @@
+{
+  "id": "vwo_bedrijfseconomie_2021_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 13,
+          "name": "Vastleggen van financiële en niet financiële informatie",
+          "prefix_code": 1
+        },
+        {
+          "id": 14,
+          "name": "Kosten- en winstvraagstukken",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de verwachte constante kosten van Juicy Lucy over 2021. Vul hiervoor de uitwerkbijlage bij deze vraag verder in.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de informatiebronnen 1 tot en met 5.<br>In deze opgave blijft de btw buiten beschouwing.<br>Lucy Detmers is medewerker van een accountantskantoor. In 2020 heeft Lucy van haar oom Herman een snackbar geërfd. Lucy besluit de erfenis alleen te aanvaarden als het saldo van de waarde van de bezittingen en de schulden in de erfenis positief is.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Er is sprake van een positief saldo, dus aanvaardt Lucy de erfenis. De snackbar staat in de wijk Bottendaal, die vroeger een achterstandsbuurt was, maar tegenwoordig een hippe wijk is met kapitaalkrachtige jongeren. Lucy heeft het plan opgevat ontslag te nemen en deze snackbar om te vormen tot een frisse sapbar met de naam Juicy Lucy. Ze wil verse groente- en vruchtensappen, belegde broodjes en lunches verkopen.</p><p>Verkennend onderzoek<br>Lucy voert eerst een SWOT-analyse en een marktonderzoek uit. Hiervoor heeft ze een aantal punten op een rij gezet (zie informatiebron 1).</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Er is een marktonderzoek uitgevoerd naar de bereidheid van wijkbewoners om een sapbar te bezoeken. In informatiebron 2 staan de uitkomsten van dat onderzoek én de leeftijdsopbouw van de wijk Bottendaal. Juicy Lucy zal 7 dagen per week geopend zijn.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Lucy twiffelt echter of in de praktijk het te verwachten aantal klanten per dag in Bottendaal gelijk zal ziijn aan het berekende verwachte aantal klanten per dag van vraag 6 .</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Lucy is tevreden met de uitkomst van de SWOT-analyse en, ondanks haar bedenkingen, ook tevreden met het aantal te verwachten klanten volgens het marktonderzoek. Vervolgens gaat ze voor de financiering van het plan in gesprek met de Remo-bank. Lucy gaat verder onderzoeken of ze Juicy Lucy gaat starten, rekening houdend met de voorwaarden die Lucy en de bank stellen (zie informatiebron 3).</p><p>Voorwaarden Lucy<br>Na het verkennend onderzoek stelt Lucy de verwachte openingsbalans per 1 januari 2021 en een exploitatiebegroting over 2021 op (zie informatiebronnen 4 en 5).</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Lucy stemt in met de rechtsvorm eenmanszaak. Vanwege de tweede voorwaarde van de bank, de rentedekkingsfactor, berekent Lucy eerst de verwachte constante kosten over 2021 en daarna de verwachte EBIT over 2021 (zie informatiebron 5).</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2021_I_bijlag_18aa5fbf9016.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/92d29866f40a4864b5a50055e02b1aec.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2021_I_uitwer_a63059d5a495.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3ae5187256fd457fb1ae4f6556df1ea7.pdf"
+    }
+  ]
+}

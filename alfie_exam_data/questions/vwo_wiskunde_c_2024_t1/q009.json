@@ -1,0 +1,50 @@
+{
+  "id": "vwo_wiskunde_c_2024_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit met behulp van een venndiagram of deze redenering correct is.</p>",
+    "max_score": 3,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_10b4c58794ed.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/664460da26154ec1a41801ffe1ae7642.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>We kijken naar de volgende redenering:&nbsp;</p><p>- Rechters zijn eerlijk.&nbsp;</p><p>- Maarten is rechter.&nbsp;</p><p>- Dus Maarten is eerlijk.&nbsp;</p><p>Om na te gaan of deze redenering correct is, kan een venndiagram zoals in de figuur gebruikt worden.&nbsp;</p><p>Nu bekijken we de volgende redenering:&nbsp;</p><p>- Rechters zijn eerlijk.</p><p>- Docenten zijn eerlijk.&nbsp;</p><p>- Dus alle docenten zijn rechter.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_35fa04636221.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b75b9f865e0c4b36b75da0d12143618a.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2024_I_uitwerkbijla_ba7fbca6f6ec.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d5fa61ef232d4c3195ae03fd7f6d41cb.pdf"
+    }
+  ]
+}

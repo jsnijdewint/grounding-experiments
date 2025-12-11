@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 55,
+    "education_level": "vwo",
+    "discipline": "scheikunde",
+    "year": 2022,
+    "tijdvak": 1
+  },
+  "question_count": 24
+}

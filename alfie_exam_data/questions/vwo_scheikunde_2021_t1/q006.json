@@ -1,0 +1,62 @@
+{
+  "id": "vwo_scheikunde_2021_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Maak op de uitwerkbijlage beide grensstructuren van structuurisomeer 2 compleet.</p><ul><li>Geef het Cl-atoom en de ontbrekende elektronenparen weer.</li><li>Geef de formele lading(en) weer.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_d107e9e5ee17.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7f670f06c9d34a1ba247016b5d358b7d.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Chloropreen is de beginstof voor de productie van neopreen. Neopreen is een synthetisch rubber. De structuurformule van chloropreen is hiernaast weergegeven.<br>Chloropreen wordt in een aantal stappen gemaakt.<br>De eerste stap is de additie-reactie van buta-1,3-dieen met chloor. Daarbij ontstaat onder andere 3,4-dichloorbut-1-een (3,4-DCB). Het mechanisme voor de vorming van 3,4-DCB is weergegeven in mechanisme 1 .</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2913cb8a5d41.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c31e6983e1134297b4b966486342761e.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_8bc068f53f56.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/55ad928238e540a7ab1203321db33d88.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In stap 1 van mechanisme 1 wordt een cyclisch chlorinium-ion gevormd. Van dit ion kunnen ook twee niet-cyclische structuurisomeren worden gevormd. Op de uitwerkbijlage is de Lewisstructur van een niet-cyclische structuurisomeer weergegeven, dit is structuurisomeer 1. De andere niet-cyclische structuurisomeer is structuurisomeer 2. Van dit deeltje kunnen twee grensstructuren worden gegeven. Deze grensstructuren zijn op de uitwerkbijlage onvolledig weergegeven. In beide grensstructuren heeft telkens één C-atoom geen volledig oktet. Met behulp van de grensstructuren van structuurisomeer 2 kan worden verklaard dat in stap 2 behalve 3,4-DCB ook 1,4-DCB (1,4-dichloorbut-2-een) wordt gevormd.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2021_I_uitwerkbijla_19d95dde309e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1b51fa23f34e49019700aa8a5bf7165f.pdf"
+    }
+  ]
+}

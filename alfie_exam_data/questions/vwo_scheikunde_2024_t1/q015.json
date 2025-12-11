@@ -1,0 +1,118 @@
+{
+  "id": "vwo_scheikunde_2024_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Teken de lewisstructuur van deeltje X. Geef hierbij (de) formele lading(en) aan.</p>",
+    "max_score": 3,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_4dd0fc49bc8a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b668616a992f4c79b992a040ce3d4e17.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Sommige geneesmiddelen worden ingekapseld in microbolletjes van 0,1 tot 30 µm grootte. In figuur 1 is zo’n microbolletje vereenvoudigd weergegeven. De buitenkant van dit microbolletje bestaat uit fosfolipiden. In dit microbolletje bevindt zich het geneesmiddel, ingekapseld in een specifiek polymeer.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_c6794c6ae042.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/df80920cd99c49f2911b008131f86fca.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In het lichaam worden de fosfolipiden opgenomen. Daarna wordt het polymeer langzaam afgebroken, zodat het geneesmiddel geleidelijk vrijkomt. In figuur 2 is het copolymeer PLGA weergegeven. Dit is een van de weinige synthetische polymeren die zijn goedgekeurd voor deze toepassing. De monomeren van PLGA zijn melkzuur en glycolzuur. Dat zijn lichaamseigen stoffen die door het lichaam kunnen worden afgevoerd.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_a3bd66674f77.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d621cd926d8849dda457dd8baf361301.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Een gangbare methode om een geneesmiddel op te sluiten in PLGA verloopt in twee stappen:&nbsp;</p><p>stap 1 Het PLGA en het geneesmiddel worden samen opgelost in een geschikt organisch oplosmiddel.</p><p>stap 2 Onder hevig roeren wordt de oplossing geïnjecteerd in warm water.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In stap 2 ontstaat een suspensie van PLGA met daarin ingekapseld het geneesmiddel (PLGA-geneesmiddel). Het organisch oplosmiddel lost hierbij eerst in het water op, waarna het oplosmiddel snel verdampt en kan worden hergebruikt. Het gehele proces is schematisch weergegeven in figuur 3.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_ab4856501d67.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bfe4c73464964cba8ebef74a501ca9c7.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>In stap 2 wordt het PLGA-geneesmiddel gescheiden van het organisch oplosmiddel en het oplosmiddel wordt gescheiden van water. Deze processen kunnen worden opgevat als scheidingsmethoden.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>De ‘encapsulation efficiency’ (EE) is een belangrijk criterium voor de bruikbaarheid van deze methode om een geneesmiddel in PLGA in te kapselen. De EE wordt uitgedrukt als het percentage van het gebruikte geneesmiddel dat uiteindelijk in het PLGA-geneesmiddel aanwezig is. De EE hangt af van de oplosbaarheid in water van zowel het geneesmiddel als het organisch oplosmiddel in stap 2.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Als oplosmiddel zijn dichloormethaan en tetrachloormethaan met elkaar vergeleken. De oplosbaarheid van deze stoffen in water verschilt. Dit heeft onder andere te maken met het gegeven dat de C–Cl-binding een polaire atoombinding is.</p>"
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>In 2005 heeft een onderzoeksgroep een verbeterde methode gevonden voor het inkapselen van hydrofiele geneesmiddelen in microbolletjes. Bij deze methode wordt ammoniak aan de waterfase toegevoegd. Als organisch oplosmiddel wordt DCEM (zie figuur 4) gebruikt.</p>"
+    },
+    {
+      "order": 11,
+      "type": "image",
+      "media_path": "media/in-exam/img_3fc5b9d3cdda.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/273aeaa0f4c941748085fefb2a231d71.png",
+      "caption": ""
+    },
+    {
+      "order": 12,
+      "type": "text",
+      "text": "<p>DCEM is niet goed oplosbaar in water. In contact met een verdunde ammoniak-oplossing ondergaat DCEM echter een zogenaamde ammonolyse. Ammonolyse is vergelijkbaar met hydrolyse. Het mechanisme van deze ammonolyse is in figuur 5 onvolledig weergegeven. In de eerste stap van het mechanisme wordt uitsluitend deeltje X gevormd, dat daarna snel uiteenvalt.</p>"
+    },
+    {
+      "order": 13,
+      "type": "image",
+      "media_path": "media/in-exam/img_611c40f30de0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/23aa35b6d4534ac9a4e64b3018831b31.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2024_I_uitwerkbijla_afd0d648d809.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a48af7b1aec24f97bcb1032e6d3b2773.pdf"
+    }
+  ]
+}

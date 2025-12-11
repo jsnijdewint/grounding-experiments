@@ -1,0 +1,45 @@
+{
+  "id": "vwo_geschiedenis_2023_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 186,
+          "name": "Tijdvak 3 – Monniken en ridders",
+          "prefix_code": 3
+        },
+        {
+          "id": 187,
+          "name": "Tijdvak 4 – Steden en staten",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 3.<br>Deze oproep tot strijd tegen de Albigenzen past bij verschillende kenmerkende aspecten van de middeleeuwen.<br>Geef aan:</p><ul><li>op welke wijze de paus bestuurlijke verhoudingen uit de vroege middeleeuwen inzet tegen graaf Raymond, waarbij je je antwoord ondersteunt met een kenmerkend aspect uit de vroege middeleeuwen, en</li><li>met een kenmerkend aspect uit de late middeleeuwen met welke strijd de paus de oorlog tegen de Albigenzen vergelijkt.</li></ul>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2023_I_bijlage_55374cf5cbf5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5244a635b97841b7b1e77f67a3c0f38a.pdf"
+    }
+  ]
+}

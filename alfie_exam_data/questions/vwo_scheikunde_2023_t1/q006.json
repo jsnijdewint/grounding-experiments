@@ -1,0 +1,52 @@
+{
+  "id": "vwo_scheikunde_2023_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef met behulp van figuur 1 de vergelijking van de reactie van dolomiet met opgelost koolstofdioxide.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gerolsteiner® is een Duits merk koolzuurhoudend mineraalwater uit Gerolstein, een kleine stad in de Eifel. In de ondergrond van Gerolstein bevindt zich het gesteente dolomiet. Dolomiet reageert met opgelost koolstofdioxide dat afkomstig is uit neerslag of uit dieper gelegen aardlagen. In figuur 1 is schematisch weergegeven hoe koolzuurhoudende neerslag in contact komt met dolomiet, waardoor Gerolsteiner® mineraalwater wordt gevormd.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_0ec5b1dbf90b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/69327754a0a2453eb7cb2df8e42e43b0.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De waarde van <i>x</i> in de verhoudingsformule van dolomiet ligt tussen nul en een</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2023_I_uitwerkbijla_fef9b863f829.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9a46ef7a7642413db915d3023305e22a.pdf"
+    }
+  ]
+}

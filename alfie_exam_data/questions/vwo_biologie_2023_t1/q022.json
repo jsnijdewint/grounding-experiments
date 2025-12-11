@@ -1,0 +1,62 @@
+{
+  "id": "vwo_biologie_2023_t1_q22",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 40,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 41,
+          "name": "Zelforganisatie van ecosystemen",
+          "prefix_code": 2
+        },
+        {
+          "id": 42,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef een argument waarom de maisstengelboorder in Nederland niet als exoot wordt beschouwd.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In Nederland wordt snijmais op grote schaal geteeld als veevoer. Onderzoekers bekijken of de problemen die samenhangen met de grootschalige teelt van mais kunnen worden vermeden door de introductie van sorghum (afbeelding 1).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_5918a5f827d7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7496b4bd008e4df8852c3bfcd5fa3ff8.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een van de problemen bij maisteelt is de maisstengelboorder, de rups van de nachtvlinder Ostrinia nubilalis. Deze rups vreet gangen in de stengels en kolfstelen van de maisplanten, met als gevolg uitgeholde en geknikte stengels en een verminderde groei van de maiskolven.</p><p>De maisstengelboorder komt oorspronkelijk uit Zuid-Europa. Vanaf het begin van de twintigste eeuw komt hij voor in Noord-Amerika, en sinds 2010 wordt hij ook in Nederlandse maisvelden waargenomen. De maisstengelboorder wordt in Noord-Amerika als exoot beschouwd, maar in Nederland niet.</p>"
+    }
+  ],
+  "bijlages": []
+}

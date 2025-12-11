@@ -1,0 +1,67 @@
+{
+  "id": "havo_biologie_2021_t1_q34",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 122,
+          "name": "Zelforganisatie van cellen",
+          "prefix_code": 3
+        },
+        {
+          "id": 123,
+          "name": "Erfelijke eigenschap",
+          "prefix_code": 7
+        },
+        {
+          "id": 124,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 130,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wat is het karyotype van Maranja?<br>A <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>45</mn> <mo>,</mo> <mi>X</mi> <mi>X</mi> <mo>,</mo> <mo>+</mo> <mi>i</mi> <mo stretchy=\"false\">(</mo> <mn>18</mn> <mi>p</mi> <mo stretchy=\"false\">)</mo>&#160;</math><br>B <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>45</mn> <mo>,</mo> <mi>X</mi> <mi>Y</mi> <mo>,</mo> <mo>+</mo> <mi>i</mi> <mo stretchy=\"false\">(</mo> <mn>18</mn> <mi>p</mi> <mo stretchy=\"false\">)</mo>&#160;</math><br>C <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>47</mn> <mo>,</mo> <mi>X</mi> <mi>X</mi> <mo>,</mo> <mo>+</mo> <mi>i</mi> <mo stretchy=\"false\">(</mo> <mn>18</mn> <mi>p</mi> <mo stretchy=\"false\">)</mo>&#160;</math><br>D <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>47</mn> <mo>,</mo> <mi>X</mi> <mi>Y</mi> <mo>,</mo> <mo>+</mo> <mi>i</mi> <mo stretchy=\"false\">(</mo> <mn>18</mn> <mi>p</mi> <mo stretchy=\"false\">)</mo></math></p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Maranja is een meisje van bijna twee jaar oud met het 18p-tetrasomiesyndroom. Door haar ontwikkelingsachterstand heeft Maranja veel zorg nodig.</p><p>18p-tetrasomie is een zeldzame afwijking waarbij elke lichaamscel naast de normale set chromosomen een extra chromosoom bevat. Dit extra chromosoom (i18p) bestaat uit twee keer de korte arm van chromosoom 18 (afbeelding 1).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2c4f8dbd1489.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6b6e88e44b184deda90ca533b892571e.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een aantal genen komt hierdoor vier keer voor in elke cel. Dit verstoort de aanleg van organen tijdens de ontwikkeling van het kind in de baarmoeder.</p><p>De diagnose 18p-tetrasomiesyndroom werd bij Maranja bevestigd door haar karyotype te bepalen uit een karyogram. Het karyotype beschrijft per lichaamscel het totale aantal chromosomen, de geslachtschromosomen, en eventuele extra chromosomen.</p>"
+    }
+  ],
+  "bijlages": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "havo_aardrijkskunde_2022_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "aardrijkskunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 46,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 96,
+          "name": "Nationale en regionale vraagstukken",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beredeneer waarom op dergelijke locaties in veel steden appartementen gebouwd worden, maar in Sittard niet.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Bij deze opgave horen de bronnen 18 tot en met 21.</i></p><p><br><i>Gebruik de bronnen 18 en 19.</i><br>Aan het einde van de jaren 90 werden in het centrum van Sittard schoolgebouwen en een ziekenhuis gesloopt en aan de rand van de stad herbouwd.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><i>Gebruik de bronnen 18 en 19.</i><br>Na de sloop van het ziekenhuis werd op het vrijgekomen terrein een stadspark aangelegd. In veel andere steden in Nederland worden op dergelijke locaties appartementen gebouwd.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2022_I_bijlage_782c0ac44adb.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8bb9ac59533e4060acee8bf226c73127.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2022 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2022_I_kaartenk_fad448d9d313.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9fba758e0ba449bda998b8165ed93023.pdf"
+    }
+  ]
+}

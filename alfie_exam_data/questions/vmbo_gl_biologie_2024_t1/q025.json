@@ -1,0 +1,53 @@
+{
+  "id": "vmbo_gl_biologie_2024_t1_q25",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 118,
+          "name": "Erfelijkheid en evolutie",
+          "prefix_code": "BI/K/13"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Een fruitvlieg heeft XX- of XY-geslachtschromosomen, die op dezelfde manier het geslacht beïnvloeden als bij de mens. De eigenschap 'oogkleur' ligt op het X-chromosoom.<br>Op het Y-chromosoom is de eigenschap 'oogkleur' niet aanwezig. Een mannetje heeft rode ogen.<br>Zit het stukje DNA voor rode ogen in zijn spermacellen?<br>A Ja, in alle spermacellen.<br>B Ja, in 50% van de spermacellen.<br>C Nee, in geen van de spermacellen.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_4be47ae58a60.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a2fbb4b67f0a4147929a6f2dc12a643c.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Thomas is laborant. Hij werkt met fruitvliegjes die hij gebruikt voor onderzoek naar allerlei erfelijke eigenschappen.<br>Het is een geschikt proefdier, omdat Thomas in korte tijd veel generaties fruitvliegjes kan kweken.<br>Een fruitvlieg heeft acht chromosomen in elke lichaamscel.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2024_I_uitwerkbijlage_c89173bb9d6c.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ce4f7301c75b48c7b4639aaa9b761e2a.pdf"
+    }
+  ]
+}

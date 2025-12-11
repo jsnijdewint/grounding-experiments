@@ -1,0 +1,91 @@
+{
+  "id": "havo_nederlands_2023_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 140,
+          "name": "Samenvatten",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke omschrijving vat het best samen welk antwoord tekst 1 geeft op die vragen?</p><p><strong>A</strong> Het is goed dat digitale technologieën beschikbaar zijn om zelfstandigheid bij kinderen aan te leren. Het risico bestaat wel dat die technologieën misbruikt worden bij de opvoeding, maar de opvoeding wordt uiteindelijk beter.</p><p><strong>B</strong> Het is onverstandig dat digitale technologieën worden ingezet om kinderen in de gaten te houden. Opvoeden is namelijk bedoeld om kinderen zelfstandigheid aan te leren. In die zin is de opvoeding slechter geworden.</p><p><strong>C</strong> Nieuwe digitale technologieën maken het mogelijk om kinderen beter in de gaten te houden. Tegelijkertijd belemmeren ze echter de groei naar zelfstandigheid. De opvoeding wordt daarmee niet echt beter.</p><p><strong>D</strong> Op de langere termijn zal blijken dat kinderen gebaat zijn bij sturing en controle. Nieuwe digitale technologieën bieden daartoe mogelijkheden. Hoewel er ook kanttekeningen te maken zijn, wordt de opvoeding beter.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De auteur van een tekst kan op verschillende manieren de belangstelling van de lezer wekken of het onderwerp introduceren, zoals:</p><p>1 de aanleiding schetsen</p><p>2 de centrale vraagstelling formuleren</p><p>3 een afweging maken</p><p>4 een persoonlijke ervaring vertellen</p><p>5 het belang voor de lezer benadrukken</p><p>6 het centrale standpunt benoemen</p><p>In alinea 1 tot en met 4 van tekst 1 zijn drie van deze manieren te herkennen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“Het recht om te verdwalen leerde mij juist om de weg terug te vinden” (regels 47-49)</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>“‘Door al deze nieuwe technologieën dreigen we controle te verwarren met zorg’, zegt techniekfilosoof Katleen Gabriels.” (regels 67-70)</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“‘Door al deze nieuwe technologieën dreigen we controle te verwarren met zorg’, zegt techniekfilosoof Katleen Gabriels.” (regels 67-70)</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Uit alinea 9 en 10 wordt duidelijk welk gevolg constante surveillance heeft voor de morele ontwikkeling van kinderen.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In alinea 14 wordt een aantal opmerkingen gemaakt over het feit dat studenten vaker thuis blijven wonen.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>In alinea 7 tot en met 15 worden verschillende bezwaren tegen continue digitale controle genoemd.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>In regels 174-176 heeft Katleen Gabriels het over “verkeerde aannames over wat het betekent om een goede ouder te zijn”. Een van die verkeerde aannames is af te leiden uit alinea 15.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>In alinea 16 en 17 wordt gesteld dat het negatieve effect van digitale controle op de ontwikkeling van kinderen wel meevalt.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>In alinea 4 worden drie vragen gesteld.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_4c535c813bac.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/31997ba285504e0396b7bc07c4c13230.pdf"
+    }
+  ]
+}

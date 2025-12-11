@@ -1,0 +1,56 @@
+{
+  "id": "havo_economie_2022_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 78,
+          "name": "Goede tijden, slechte tijden",
+          "prefix_code": "I"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Maak van de bovenstaande reactie van de president van de ECB een economisch juiste redenering.<br>Kies uit:<br>bij (1) lage/hoge<br>bij (2) lage/hoge<br>bij (3) verhogen/verlagen<br>bij (4) dalen/stijgen<br>bij (5) uitstellen/vervroegen</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Uit een weekblad, november 2013:</i></p><p><br>De Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) voorspelt in een rapport voor Nederland en de eurozone in de komende jaren deflatie en een stagnerende economische ontwikkeling.</p><p>&nbsp;</p><p>Een van de oorzaken van de stagnatie is een laag consumentenvertrouwen. De onderzoekers van de OESO hebben een model opgesteld waarin aan het consumentenvertrouwen een centrale rol is toebedeeld ter verklaring van economische groei (zie bron 1).</p><p>&nbsp;</p><p><i>Gebruik bron 1.</i></p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik bron 1.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De president van de Europese Centrale Bank (ECB) reageert op het rapport van de OESO en beschrijft de gevolgen van het lage consumentenvertrouwen:<br>Het lage consumentenvertrouwen leidt tot ...(1)... bestedingen en ... (2)... besparingen door de consumenten. Producenten zullen daarop hun prijzen ...(3)... Vervolgens zullen de lonen, winsten en investeringen<br>(4).... Consumenten zullen daarop hun bestedingen ...(5).... Daardoor stagneert de economische ontwikkeling.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_897a168c0baf.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a9da2fcb0f24bbf983e12947b86eb03.pdf"
+    }
+  ]
+}

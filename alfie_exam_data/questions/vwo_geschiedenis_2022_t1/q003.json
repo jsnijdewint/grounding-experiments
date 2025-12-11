@@ -1,0 +1,46 @@
+{
+  "id": "vwo_geschiedenis_2022_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 185,
+          "name": "Tijdvak 2 – Grieken en Romeinen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Ondersteun deze visie door:</p><p>- uit te leggen welke boodschap over zijn leiderschap Marius met de toespraak wil overbrengen aan de nieuwe rekruten, waarbij je je antwoord ondersteunt met een verwijzing naar de bron en</p><p>- zonder bron aan te geven dat dit leiderschap van Marius een militair voordeel en een politiek gevaar met zich meebrengt voor de Senaat, het hoogste bestuursorgaan van de Romeinse Republiek.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gebruik bron 1. Volgens historici heeft de wijze waarop Marius het Romeinse leger leidt gevolgen voor het bestuur van de Romeinse Republiek.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2022_I_bijlage_a36412ab6c17.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ffb233ca393f4e5495872a5032cf7133.pdf"
+    }
+  ]
+}

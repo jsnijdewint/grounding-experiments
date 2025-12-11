@@ -1,0 +1,55 @@
+{
+  "id": "vmbo_gl_maatschappijkunde_2022_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "maatschappijkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 63,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Nederland is lid van de Europese Unie.<br>Hieronder staan vier uitspraken over Nederland en de Europese Unie.<br>1 Het uitvoeren van het onderwijsbeleid van Nederland is een taak voor de Raad van de Europese Unie.<br>2 De leden van het Europees Parlement worden gekozen door de regeringen van de EU-landen.<br>3 Alle landen van de Europese Unie zijn verplicht om de euro in te voeren.<br>4 Het Europees Parlement stemt over wetsvoorstellen.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Geef van elke uitspraak aan of die juist of onjuist is.<br>Doe het zo: neem het onderstaande over en vul juist of onjuist in.</p><p>1 = ...</p><p>2 = ...</p><p>3 = ...</p><p>4 = ...</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><strong>tabel 1</strong><br><strong>Samenstelling van de gemeenteraad van Sittard-Geleen</strong></p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\">partij</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">zetels</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">GOB</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">10</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">CDA</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">8</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">GroenLinks</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">4</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">PVV</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">3</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Stadspartij</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">3</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">D66</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">2</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">PvdA</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">2</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">DNA</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">1</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">VVD</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">1</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">50Plus</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">1</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">SPA</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">1</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Fractie Fredrix</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">1</td></tr></tbody></table></figure><p>bron: <a href=\"http://sittard-geleen.nl\">sittard-geleen.nl</a> van september 2019</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><strong>tekst 1</strong><br><strong>GroenLinks zit in veel provinciebesturen</strong><br>Nu elke provincie een nieuw bestuur heeft, is duidelijk dat GroenLinks de winnaar is geworden. GroenLinks heeft nu ... in acht provinciebesturen.</p><p><br>naar: <a href=\"http://nederlandsdagblad.nl\">nederlandsdagblad.nl</a> van 21 augustus 2019</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><strong>tekst 2</strong></p><p><strong>Demonstratie verboden</strong><br>Pegida mag overmorgen niet demonstreren in Eindhoven. Burgemeester Jorritsma vreest ernstige ongeregeldheden en heeft de betoging verboden.<br>Pegida is groot genoeg om regelmatig op te duiken bij de Nationaal Coördinator Terrorismebestrijding en Veiligheid. Die deelt de beweging in bij de ... groeperingen, \"die vooral actief zijn met intimiderende en radicale acties tegen de vermeende islamisering van Nederland, de komst van asielzoekers en het vermeende verlies van de Nederlandse identiteit.\"</p><p><br>naar: <a href=\"http://nos.nl\">nos.nl</a> van 4 juni 2019</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p><strong>tekst 3</strong><br><strong>Openbare verhoren onderzoek kinderopvangtoeslag afgesloten</strong><br>&nbsp;</p><p>De Parlementaire onderzoekcommissie Kinderopvangtoeslag heeft haar openbare verhoren afgesloten. De commissie biedt op 17 december 2020 haar verslag met bevindingen aan de Tweede Kamer aan. De Kamerleden kunnen dan op basis van deze bevindingen het debat aangaan met de verantwoordelijke bewindspersonen.<br>De commissie heeft een gerichte opdracht: zij doet onderzoek naar het fraudebeleid bij de kinderopvangtoeslag in de periode van 2013 tot en met november 2019. De commissie wilde in de openbare verhoren antwoorden op vragen zoals: wie wist wat wanneer? De commissie verhoorde getuigen en deskundigen onder ede en doet onderzoek op basis van openbare documenten en informatie die zij gevorderd heeft bij verschillende organisaties. Zo maakt zij een reconstructie van gebeurtenissen op ministeries en bij de Belastingdienst.</p><p><br>naar: <a href=\"http://tweedekamer.nl\">tweedekamer.nl</a> van 26 november 2020</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijkunde 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijkunde_2022_I_bijla_1fd39a85b14b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b66316467c294ba1abf44a12da236a28.pdf"
+    }
+  ]
+}

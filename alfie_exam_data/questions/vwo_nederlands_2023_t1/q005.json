@@ -1,0 +1,66 @@
+{
+  "id": "vwo_nederlands_2023_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 53,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit hoe het komt dat we ons momenteel alleen het einde van de Malediven kunnen voorstellen volgens tekst 1. Geef antwoord in een of meer volledige zinnen en gebruik voor je antwoord niet meer dan 30 woorden.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>“Een deel van het voedsel in restaurants moet worden ingevlogen, net als sommige chef-koks; wie gaat anders die kogelvis klaarmaken?” (regels 81-85) Deze vraag geeft impliciete kritiek</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In alinea 6 wordt beredeneerd dat de klimaatsceptici ongelijk hebben.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Ook al …(1)… , toch zijn er een goede negentig eilanden verdwenen. Hieruit kan worden afgeleid dat de klimaatsceptici ongelijk hebben: het verdwijnen van deze eilanden laat zien dat …(2)… .&nbsp;</p><p>&nbsp;</p><p>“En dat is juist de kern van het probleem.” (regels 153-154) Met dit citaat wordt een dilemma aangeduid.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“Ik betwijfel of dit is wat de Lonely Planet bedoelt wanneer ze de Malediven beschrijft als ‘de wereld op een eiland’” (regels 167-171)</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In de eerste en de laatste alinea van tekst 1 wordt de Sloveense filosoof Slavoj Žižek aangehaald. Volgens hem kunnen we ons “momenteel alleen het einde van de Malediven voorstellen.” (regels 187-188)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_3bc847d5f78a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d2f0029264294831adce4d30ca84cbc0.pdf"
+    }
+  ]
+}

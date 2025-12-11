@@ -1,0 +1,75 @@
+{
+  "id": "havo_wiskunde_b_2023_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 102,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel liter lucht deze persoon per minuut inademt. Geef je eindantwoord als geheel getal.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In deze opgave bekijken we het <strong>longvolume</strong>. Dit is de hoeveelheid lucht in de longen van de mens. In figuur 1 is voor een bepaalde persoon in rust weergegeven hoe dit longvolume <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi>&#160;</math>afhangt van de tijd. Hierbij is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi></math> in mL en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi>&#160;</math>de tijd in seconden.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_ce3149ca5c2d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d5415b0e6af14c0e8dce09d00606d6a3.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Deze grafiek is te beschrijven met een formule van de volgende vorm:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi> <mo>=</mo> <mi>p</mi> <mo>+</mo> <mi>q</mi> <mo>&#8901;</mo> <mi>cos</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mi>r</mi> <mi>t</mi> <mo stretchy=\"false\">)</mo></math></p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Als een persoon zich inspant, zal hij sneller gaan ademen. Ook ademt hij elke keer méér lucht in dan wanneer hij in rust is.</p><p>Voor iemand die zich inspant, geldt:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi> <mo>=</mo> <mn>2500</mn> <mo>+</mo> <mn>1200</mn> <mo>&#8901;</mo> <mi>sin</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mn>4</mn> <mo>,</mo> <mn>19</mn> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo>&#8722;</mo> <mn>0</mn> <mo>,</mo> <mn>37</mn> <mo stretchy=\"false\">)</mo> <mo stretchy=\"false\">)</mo></math></p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi>&#160;</math>het longvolume in mL en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi>&#160;</math>de tijd in seconden.</p><p>In figuur 2 is een schets van de bijbehorende grafiek te zien.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_8c8a777ed9db.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e003c54b6334473cbbd04bb721c41ee0.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De hoeveelheid lucht die deze persoon elke keer inademt, is gelijk aan het verschil tussen het maximum en het minimum van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi>&#160;</math>. Gedurende één minuut ademt deze persoon meerdere keren in. In totaal ademt hij dan bijna 100 liter lucht in.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde B 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2023_I_uitwerkbijla_9ba57d6520e4.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9679abc20da6403596a9f0f1d8e1d3b8.pdf"
+    }
+  ]
+}

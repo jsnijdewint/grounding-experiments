@@ -1,0 +1,81 @@
+{
+  "id": "vwo_wiskunde_a_2022_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 76,
+          "name": "Algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 77,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        },
+        {
+          "id": 80,
+          "name": "Rijen",
+          "prefix_code": 1
+        },
+        {
+          "id": 81,
+          "name": "Helling",
+          "prefix_code": 2
+        },
+        {
+          "id": 82,
+          "name": "Afgeleide",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Laat zien dat de formule van Camp inderdaad volgt uit <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">dK</mi> </mrow><mrow><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">d</mi> </mrow><mi>n</mi> </mrow></mfrac><mo>=</mo> <mn>0</mn>&#160;</math>.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Voor een winkelier zijn zowel aan het bestellen van producten als aan het in voorraad houden van producten kosten verbonden. Daarom doen economen onderzoek naar een juiste balans tussen het aantal bestellingen per jaar en het aantal producten per bestelling.</p><p>Veronderstel dat een winkelier jaarlijks 100 stuks van een bepaald product verkoopt. Hij wil dat er per jaar in totaal 100 exemplaren besteld worden in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi>&#160;</math>even grote bestellingen, bijvoorbeeld 4 bestellingen van elk 25 stuks.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Bij een veel gebruikt algemeen model nemen economen aan dat de winkelier voor elke bestelling en voor elk in voorraad gehouden product een vast bedrag rekent. De formule bij dit model is:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi> <mo>=</mo> <mfrac><mrow><mi>A</mi> <mo>&#8901;</mo> <mi>B</mi> </mrow><mi>n</mi> </mfrac><mo>+</mo> <mfrac><mn>1</mn> <mn>2</mn> </mfrac><mo>&#8901;</mo> <mi>n</mi> <mo>&#8901;</mo> <mi>V</mi></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(1)</p><p>Hierin is:</p><ul><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi>&#160;</math>de totale jaarlijkse kosten in euro's;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>het aantal producten dat jaarlijks besteld wordt;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mi>B</mi>&#160;</math>de bestelkosten per bestelling in euro's;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mi>n</mi>&#160;</math>het aantal producten per bestelling;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mi>V</mi>&#160;</math>de voorraadkosten per product per jaar in euro's.</li></ul><p>Voor een bepaald product hanteert een winkelier <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>8</mn>&#160;</math>,- bestelkosten per bestelling. De voorraadkosten zijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>0</mn> <mo>,</mo> <mn>60</mn>&#160;</math> per product per jaar. Per jaar verkoopt de winkelier 1000 stuks van dit product en hij wil dus ook dat er 1000 producten per jaar besteld worden.<br>De winkelier wil dat de totale jaarlijkse kosten maximaal € 110,- zijn.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In het vervolg van deze opgave gaan we uit van het algemene model waarbij we <strong>geen </strong>rekening meer houden met het feit dat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi>&#160;</math>eigenlijk een geheel getal moet zijn. Dat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi>&#160;</math>positief moet zijn, blijft wel een eis.</p><p>De <strong>optimale bestelgrootte</strong> is het aantal producten per bestelling waarbij de totale jaarlijkse kosten minimaal zijn.</p><p>In formule (1) zijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mo>,</mo> <mi>B</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi>&#160;</math>getallen die bij een bepaald product bekend zijn. Daarom kan de optimale bestelgrootte worden berekend door de vergelijking <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">d</mi> </mrow><mi>K</mi> </mrow><mrow><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">d</mi> </mrow><mi>n</mi> </mrow></mfrac><mo>=</mo> <mn>0</mn>&#160;</math>op te lossen.<br>Hieruit volgt de zogeheten formule van Camp:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi> <mo>=</mo> <msqrt><mfrac><mrow><mn>2</mn> <mo>&#8901;</mo> <mi>A</mi> <mo>&#8901;</mo> <mi>B</mi> </mrow><mi>V</mi>&#160;</mfrac></msqrt></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (2)</p><p>Met deze formule van Camp kun je de optimale bestelgrootte direct berekenen als je <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mo>,</mo> <mi>B</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi>&#160;</math>weet.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_73fca02d2c1b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5d05a69549d843d992d31326c4d8bd2f.pdf"
+    },
+    {
+      "name": "Wiskunde A 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2022_I_uitwerkbijla_986f038aa607.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/05b11d946a864537912b61b903133caa.pdf"
+    }
+  ]
+}

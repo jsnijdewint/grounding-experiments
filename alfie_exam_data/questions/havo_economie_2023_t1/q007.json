@@ -1,0 +1,46 @@
+{
+  "id": "havo_economie_2023_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 75,
+          "name": "Samenwerken en onderhandelen",
+          "prefix_code": "F"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat bij de investering in omscholingstrajecten sprake is van verzonken kosten voor de sector van Aziatische restaurants.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De Aziatische restaurants in Nederland kampen met een groot tekort aan specialiteitenkoks. Dit tekort is ontstaan doordat Aziatische restaurants in korte tijd zeer populair zijn geworden. Specialiteitenkoks zijn koks die in Azië zijn opgeleid en ervaring hebben met specialistische kooktechnieken. De zeer specialistische kennis en kunde kan tot op heden niet worden aangeleerd op Nederlandse scholen. Omscholingstrajecten van Nederlandse koks hebben ook nog geen specialiteitenkoks opgeleverd die op het vereiste hoge kwaliteitsniveau werken.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2023_I_bijlage_eaf186f81c74.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/723bbf20b7c0415f956f8db16a4c63fd.pdf"
+    }
+  ]
+}

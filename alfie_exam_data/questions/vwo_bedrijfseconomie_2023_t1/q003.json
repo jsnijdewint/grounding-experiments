@@ -1,0 +1,76 @@
+{
+  "id": "vwo_bedrijfseconomie_2023_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 6,
+          "name": "Persoonlijke financiële zelfredzaamheid",
+          "prefix_code": 1
+        },
+        {
+          "id": 7,
+          "name": "De oprichting van een eenmanszaak",
+          "prefix_code": 2
+        },
+        {
+          "id": 8,
+          "name": "Van eenmanszaak naar rechtspersoon",
+          "prefix_code": 3
+        },
+        {
+          "id": 9,
+          "name": "Perspectief op de organisatie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noem twee kenmerken van marktsegmentatie.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Johanna de Jongh is na de geboorte van haar dochter op het idee gekomen haarclipjes voor peuters te maken. Daarvoor wil ze zich, naast haar werk als logopediste, als eigenaar van een eenmanszaak Clip &amp; Go inschrijven bij de Kamer van Koophandel. Daar krijgt ze het advies om een SWOT-analyse op te stellen om op die manier de kansen op succes van haar onderneming te vergroten. Ze heeft onderstaande kenmerken van haar bedrijf geformuleerd:<br><br>a Clip &amp; Go kan de haarclipjes goedkoper verkopen dan de concurrent, omdat Johanna vooralsnog genoegen neemt met een lagere winstmarge.<br>b Clip &amp; Go gaat op korte termijn ook (kinder)kappers benaderen om de Clip &amp; Go producten op te nemen in het assortiment van de kapperszaken.<br>c De bestellingen van klanten worden alleen via PostNL bezorgd.<br><br>Klanten van Clip &amp; Go kunnen alleen online bestellingen plaatsen. Johanna verwacht na enkele maanden de prijzen van haar haarclipjes te kunnen verhogen. Ze blijft met haar haarclipjesprijzen wel onder die van de concurrent.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Johanna heeft het “alleen online plaatsen van bestellingen” in de SWOTanalyse onder een bedreiging (Threat, T) geplaatst.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Johanna segmenteert de markt</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2023_I_bijlag_d64fcf93e008.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2763f88cc19e45ebafaa21f3ba086d88.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2023_I_uitwer_9a6536b72e12.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a2433ed1fec3429b8d8cd024f74ceb08.pdf"
+    }
+  ]
+}

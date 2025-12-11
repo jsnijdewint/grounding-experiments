@@ -1,0 +1,98 @@
+{
+  "id": "havo_natuurkunde_2023_t1_q25",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Hoeveel keer zo groot is het oppervlak dat verlicht wordt door de zelfbouw zaklamp, vergeleken met het oppervlak dat door de normale zaklamp wordt verlicht?<br><strong>A </strong>0 tot 50 keer zo groot<br><strong>B </strong>50 tot 100 keer zo groot<br><strong>C </strong>100 tot 150 keer zo groot<br><strong>D </strong>150 tot 200 keer zo groot</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een hobbyist maakt een zaklamp met een zeer grote lichtsterkte. Hij gebruikt voor de zaklamp meerdere leds. ledere led heeft een vermogen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>0</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">W</mi>&#160;</mrow></math>bij een stroomsterkte van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn> <mo>,</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">A</mi>&#160;</mrow></math>. Voor de stroomvoorziening heeft hij de beschikking over 4 accu's die elk een spanning van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>11</mn> <mo>,</mo> <mn>1</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">V</mi>&#160;</mrow></math>leveren. Hij combineert een aantal van deze accu's tot een accupakket.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Het gebruikte accupakket heeft een capaciteit van 5,0 Ah. Eén led werkt op een stroomsterkte van 3,0 A. De zaklamp maakt gebruik van 8 parallel geschakelde leds.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>ledere led heeft een elektrisch vermogen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>0</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">W</mi>&#160;</mrow></math>. De led levert licht en warmte. Het rendement van de leds is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>35</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>. Om te voorkomen dat de leds te heet worden, zijn deze op koelblokken geplakt. Op één koelblok passen 4 leds. Het koelblok is gevuld met 25 gram water van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>20</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>. Als de leds worden ingeschakeld, zal het water opwarmen. Neem aan dat alle warmte die de leds produceren door het water wordt opgenomen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Om het water zelf te koelen, wordt het rondgepompt. Een pomp verplaatst het water van het koelblok naar een radiator die daardoor opwarmt. Een draaiende ventilator koelt de radiator door er lucht langs te blazen. Het afgekoelde water gaat weer terug naar het koelblok. Zie schematisch in figuur 1. Er zijn drie plekken (I, II en III) aangegeven waar warmte wordt getransporteerd.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_351e984feb5c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9877207c82194f2cbe72054cc8f41391.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Op de uitwerkbijlage staat een tabel.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Pomp p en ventilator f moeten tegelijk met de leds ingeschakeld worden en werken ieder op dezelfde spanning als de leds.<br>In figuur 2 staan vier schakelschema's.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_6ed282878ce2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/45bc8a2e63294f118556faed0c7a5e6c.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>De hobbyist wil tenslotte weten hoeveel licht zijn zelfbouw zaklamp geeft. Dit doet hij door de oppervlaktes te vergelijken die hij kan belichten met een zaklamp. Hij schijnt achtereenvolgens met een normale zaklamp en de zelfbouw zaklamp op de gevel van een gebouw. Zie figuren 3 en 4. De intensiteit (sterkte) van het licht op het gebouw is bij beide zaklampen gelijk. De normale zaklamp belicht een klein vierkant oppervlak. De zelfbouw zaklamp belicht een cirkelvormig oppervlak met dezelfde diameter als de breedte van het gebouw. In figuren 3 en 4 is dit gemarkeerd.</p>"
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_022c9255bd2e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b1bf4e4b4f944272b81b71542f4a125e.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "image",
+      "media_path": "media/in-exam/img_fb5d47d33083.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/10a7d60aedf448e7ba7cd12c1f0c292c.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2023_I_uitwerkbijl_b84551b8ec5a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2016336bf8d54298886022aa1e155445.pdf"
+    }
+  ]
+}

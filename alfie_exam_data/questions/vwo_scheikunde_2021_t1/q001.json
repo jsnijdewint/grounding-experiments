@@ -1,0 +1,40 @@
+{
+  "id": "vwo_scheikunde_2021_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef de structuurformule van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>en leg daarmee uit dat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>een apolaire stof is.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Om textiel te verven, worden pigmenten gebruikt die slecht in water oplossen. Deze pigmenten zijn apolaire vaste stoffen die zich tijdens het verven hechten aan het oppervlak van de textielvezels. Met een vezel wordt in deze opgave een bundel polymeerketens bedoeld. Omdat het verven plaatsvindt in water, worden emulgatoren gebruikt om de pigmenten te mengen met het water. Na afloop van het verven komen deze milieubelastende emulgatoren in het afvalwater terecht. Het Nederlandse bedrijf DyeCoo heeft een verftechniek ontwikkeld waarbij geen afvalwater vrijkomt. In het proces wordt superkritisch <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>gebruikt als oplosmiddel. Superkritisch <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>dat bij <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi> <mo>=</mo> <msup><mn>120</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>is samengeperst tot <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi> <mo>=</mo> <mn>300</mn>&#160;</math>bar. In deze opgave mag je aannemen dat het <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>zich dan als een vloeistof gedraagt. Het superkritisch <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>is ook apolair, zodat de pigmenten in superkritisch <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>oplossen zonder gebruik van emulgatoren.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2021_I_uitwerkbijla_19d95dde309e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1b51fa23f34e49019700aa8a5bf7165f.pdf"
+    }
+  ]
+}

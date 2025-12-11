@@ -1,0 +1,59 @@
+{
+  "id": "vwo_scheikunde_2025_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Maak de vergelijking in de afbeelding hierboven af. Gebruik hierbij de structuurformule van butanal.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gelaagd veiligheidsglas is een composiet, die is opgebouwd uit twee of meer lagen glas, met daartussen steeds een laag van een kunststof. Dit soort veiligheidsglas wordt gebruikt in auto's en als kogelwerend glas. De kunststof is vervormbaar, waardoor veiligheidsglas beter bestand is tegen breuk en er geen stukken glas loslaten als een glaslaag toch breekt. De glaslagen zorgen voor krasbestendigheid en vormvastheid. De meest gebruikte kunststof voor gelaagd glas is het willekeurig (random) copolymeer PVA-PVB. In figuur 1 is de structuurformule gegeven van de twee monomeer-eenheden in de keten van PVA-PVB. Hierbij staat VA voor vinylalcohol en VB voor vinylbutyral.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_f01694238216.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f7d767da442a4da7b861acf28db0d6d8.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>PVA-PVB wordt geproduceerd door PVA in een waterige oplossing te laten reageren met butanal. Hierbij reageren steeds twee OH-groepen van naast elkaar gelegen VA-eenheden met één molecuul butanal. Bij deze reactie wordt een willekeurig (random) copolymeer gevormd en ontstaat nog één andere stof. Op de uitwerkbijlage is deze omzetting onvolledig weergegeven.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_dbd95a071598.jpg",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5b1150fc88e748329122e1065a85e59e.jpg",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vw-1028-a-25-1-u.pdf",
+      "media_path": "media/bijlages/vw-1028-a-25-1-u_992021c79286.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6a02d28c7f0e4c32b051d527b5d553bb.pdf"
+    }
+  ]
+}

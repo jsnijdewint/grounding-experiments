@@ -1,0 +1,60 @@
+{
+  "id": "vwo_wiskunde_c_2024_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken op basis van bovenstaande informatie hoeveel keer zo groot. Geef je antwoord als een geheel getal.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een vrouw bevalt na een zwangerschap meestal van één kind. Een <strong>meerling</strong>, dat zijn twee of meer kinderen die uit één zwangerschap geboren worden, komt van nature weinig voor.</p><p>&nbsp;</p><p>Een drieling is een meerling van drie kinderen. Een drieling kan op drie manieren ontstaan:&nbsp;</p><p>- uit één eitje: in dat geval zijn de drie kinderen van een drieling genetisch identiek en dus van hetzelfde geslacht. We spreken dan van een eeneiige drieling.&nbsp;</p><p>- uit twee eitjes: in dat geval zijn twee kinderen genetisch identiek en dus van hetzelfde geslacht, maar het derde kind is genetisch verschillend (en kan van hetzelfde of verschillend geslacht zijn). We spreken dan van een twee-eiige drieling.&nbsp;</p><p>- uit drie eitjes: in dat geval zijn alle drie de kinderen onderling genetisch verschillend. We spreken dan van een drie-eiige drieling.&nbsp;</p><p>We gaan er in deze opgave verder van uit dat een kind bij de geboorte altijd een jongen of een meisje is.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Bij de opkomst van de zogeheten IVF-techniek<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><maction actiontype=\"argument\"><mrow/></maction><mrow><mn>1</mn><mo>)</mo></mrow></msup></math> eind jaren tachtig van de vorige eeuw werden vaak meerdere bevruchte eicellen teruggeplaatst om de slagingskans van IVF te vergroten. Hierdoor nam in verhouding het aantal drie(-plus)lingen (een meerling van drie of meer kinderen) ook toe.</p><p>&nbsp;</p><p>In 1980 waren er in Nederland 180 517 geboorten, waarvan slechts 25 van een drie(-plus)ling. In 1991 waren er in Nederland van de 196 698 geboorten 124 drie(-plus)linggeboorten.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>noot 1 Bij de IVF-techniek worden eicellen in het laboratorium bevrucht en vervolgens in de baarmoeder teruggeplaatst.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De Duitse onderzoeker Hellin voorspelde al in 1895 het volgende voor meerlingen bij natuurlijke zwangerschappen:</p><p>- gemiddeld 1 op de 89 geboorten is de geboorte van een tweeling;</p><p>- gemiddeld 1 op de 892 geboorten is de geboorte van een drieling;</p><p>- gemiddeld 1 op de 893 geboorten is de geboorte van een vierling;</p><p>- gemiddeld 1 op de 894 geboorten is de geboorte van een vijfling;</p><p>Dit werd later door andere wetenschappers de <strong>wet van Hellin</strong> genoemd.</p><p>&nbsp;</p><p>In 2002 waren in Nederland 199 205 geboorten, waarvan 3707 tweelinggeboorten. Dat waren de meeste tweelinggeboorten ooit in Nederland in een jaar. Van deze tweelingen was (afgerond) 22 procent door middel van IVF (of een verwante techniek) verwekt. In 2002 waren er in totaal 3270 geboorten na IVF (of een verwante techniek). Uit deze gegevens volgt dat er in 2002 in Nederland meer tweelingen na een natuurlijke zwangerschap zijn geboren dan de wet van Hellin voorspelt.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Zoals eerder vermeld waren er in het jaar 1991 van de 196 698 geboorten 124 drie(-plus)linggeboorten. Neem aan dat de drie(-plus)lingen in 1991 hooguit uit vijf kinderen bestonden. Het percentage drie(-plus)linggeboorten ten opzichte van het totale aantal geboorten was in dat jaar vele malen groter dan volgens de wet van Hellin, waarbij we uitgaan van 196 698 natuurlijke zwangerschappen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2024_I_uitwerkbijla_ba7fbca6f6ec.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d5fa61ef232d4c3195ae03fd7f6d41cb.pdf"
+    }
+  ]
+}

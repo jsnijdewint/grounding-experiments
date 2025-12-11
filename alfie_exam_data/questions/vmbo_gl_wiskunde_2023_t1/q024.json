@@ -1,0 +1,63 @@
+{
+  "id": "vmbo_gl_wiskunde_2023_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "wiskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 67,
+      "domains": [
+        {
+          "id": 161,
+          "name": "Rekenen, meten en schatten",
+          "prefix_code": "WI/K/5"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Er staan in totaal 39 van deze tanks op de tankopslagplaats.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Bereken hoeveel liter olie in totaal in deze tanks kan worden opgeslagen. Schrijf je berekening op en geef je antwoord in de wetenschappelijke notatie.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Op een tankopslagplaats bij Rotterdam wordt olie in grote tanks opgeslagen. De tanks hebben de vorm van een cilinder.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_990573d5835e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/98086dbedeb642368d079f3bd2fa74a2.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De hoogte van een cilindervormige tank is 22 meter en de inhoud is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>110000</mn> <msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn>&#160;</mrow></msup></math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_2023_I_uitwerkbijlage_f78e70c4ddca.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bbc4a2194fa64bb89fa2eea23545d325.pdf"
+    },
+    {
+      "name": "VMBO_2023_wiskunde_formules.pdf",
+      "media_path": "media/bijlages/VMBO_2023_wiskunde_formules_374f78ca5ba1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/be7c655fbdc04d4d80359acdbaf873fa.pdf"
+    }
+  ]
+}

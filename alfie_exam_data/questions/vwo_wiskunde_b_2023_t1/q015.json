@@ -1,0 +1,73 @@
+{
+  "id": "vwo_wiskunde_b_2023_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 83,
+          "name": "Meetkundige vaardigheden",
+          "prefix_code": 1
+        },
+        {
+          "id": 84,
+          "name": "Algebraïsche methoden in de vlakke meetkunde",
+          "prefix_code": 2
+        },
+        {
+          "id": 85,
+          "name": "Vectoren en inproduct",
+          "prefix_code": 3
+        },
+        {
+          "id": 86,
+          "name": "Toepassingen",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bewijs dit voor het geval <i>p</i> = -2.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gegeven is rechthoek <i>OABC</i> met O(0,0), A(8,0) en C(0,4).</p><p>De punten <i>F</i> en <i>E</i> zijn de middens van respectievelijk <i>OA</i> en <i>BC</i>. Op de negatieve<i> y</i>-as ligt punt P(0,<i>p</i>). Punt <i>D</i> is het snijpunt van het verlengde van lijnstuk <i>PF</i> en lijnstuk <i>AC</i>. Zie figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_0333359c721d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ff78863e4ac441d78b05c1e445404248.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De lijn door <i>E</i> en <i>F </i>is de bissectrice van hoek <i>PED</i></p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_b_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_b_formules_84daf09e2c5a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1ca38286256f423c923a34eb38578ea3.pdf"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "vwo_biologie_2021_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 36,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 37,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 38,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Neem de volgende tabel over op je antwoordblad:</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-color:!important;border-right-style:none;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">als defibrillator</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">als pacemaker</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">1</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">(duur lichtflits)</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">2</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">(te belichten gebied)</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr></tbody></table></figure><p>Vul de tabel in voor variabele 1 en 2: welke instelling maakt de ledlampjes geschikt voor de defibrillatorfunctie en welke instelling maakt ze geschikt voor de pacemakerfunctie? Kies elk woord een keer.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tenzij anders vermeld, is er sprake van normale situaties en gezonde organismen (bij alle vragen in het examen).</p><p>De meest voorkomende hartritmestoornis is boezemfibrilleren. De stoornis komt veel voor bij ouderen. Onderzoeker Daniël Pijnappels werkt aan een therapie die gebruikmaakt van ledlampjes.</p><p>Hartspiercellen vormen - net als neuronen - aan elkaar gekoppelde banen die impulsen kunnen geleiden. Die impulsen veroorzaken het samentrekken van hartspiercellen. In principe kunnen hartspiercellen impulsen in twee richtingen geleiden, maar als gevolg van een refractaire periode na het optreden van een actiepotentiaal gebeurt dat niet. Zo ontstaan er regelmatige spiersamentrekkingen die zich in een bepaalde richting verplaatsen.<br>Bij beschadiging van hartspiercellen in een hartboezem kunnen impulsen wél de andere kant op lopen. Hierdoor ontstaan onregelmatige en ongecoördineerde samentrekkingen: het boezemfibrilleren. In afbeelding 1 is het impulsverloop bij een normale hartslag en bij boezemfibrilleren schematisch weergegeven, met daaronder de bijbehorende elektrocardiogrammen (ECG).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_87b882000a87.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/197608326ccc4253830e3041007ef783.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Bij boezemfibrilleren kunnen bloedstolsels ontstaan als gevolg van de beperkte doorstroming in het hart. Daardoor is er een verhoogd risico op een beroerte (herseninfarct).</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Het spierweefsel van de boezems wordt door een bindweefseltussenschot gescheiden van het spierweefsel van de kamers. Bindweefsel is een slechte geleider van elektrische impulsen. In het bovenaanzicht van een hart waarvan de boezems niet getekend zijn (afbeelding 2), is het lichtgekleurde bindweefsel te zien.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_b865dced3625.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c26a060335034b22913702a8859dbb61.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Drie momenten in de hartcyclus zijn:<br>1 het einde van de hartpauze<br>2 het midden van de boezemsystole<br>3 het midden van de kamersystole<br>&nbsp;</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Vaak gaat boezemfibrilleren vanzelf weer over, maar het kan ook een permanent karakter krijgen. Daarom neemt de cardioloog na de diagnose meestal maatregelen om het normale hartritme te herstellen. Chronisch boezemfibrilleren kan behandeld worden met een externe defibrillator. Deze geeft bij fibrilleren een sterke stroomstoot om alle hartspiercellen te depolariseren, waarna de normale boezemcontractie hersteld wordt. Dat is een heftige ingreep.<br>In het Leids Universitair Medisch Centrum is 'optogenetica' ingezet om een schokvrije inwendige defibrillator te ontwikkelen. Optogenetica maakt gebruik van een lichtgevoelig eiwit uit groenalgen. Het eiwit is een ionkanaal dat geopend wordt bij blootstelling aan blauw licht. In transgene hartspiercellen met dit lichtgevoelige eiwit, kunnen door een lichtflits impulsen opgewekt worden.</p><p>De onderzoeksgroep van Daniël Pijnappels gebruikte een virus om een gen uit de algen over te brengen in gekweekte hartspiercellen om ze lichtgevoelig te maken. Bij gebruik van een virus als vector komt het transgen op een willekeurige plaats in het DNA van de hartspiercel terecht.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Met behulp van ledlampjes kunnen de onderzoekers de transgene hartspiercellen regelmatig laten samentrekken (pacemakerfunctie) of alle samentrekkingen in één keer laten stoppen (defibrillatorfunctie). In de toekomst kunnen bij patiënten met hartritmestoornissen de hartspiercellen misschien lichtgevoelig worden gemaakt. Het hartritme kan dan worden beïnvloed met behulp van kleine ledlampjes rondom het hart die lichtflitsen afgeven.</p><p>Wanneer de ledlampjes worden gebruikt als inwendige pacemaker, blijft het hart in het juiste ritme kloppen. Meestal is een pacemaker nodig als het hartritme te langzaam is. Om ervoor te zorgen dat de ledlampjes op het juiste moment een lichtflits afgeven, moeten ze verbonden zijn aan sensoren.<br>Enkele sensoren zijn:<br>1 bewegingssensor<br>2 lichtsensor<br>3 spanningssensor</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Twee variabelen voor de ledlampjes rondom het hart, met de te gebruiken instellingen zijn:<br>1 de duur van de lichtflits: relatief kort of lang<br>2 het te belichten gebied: relatief klein of groot</p>"
+    }
+  ],
+  "bijlages": []
+}

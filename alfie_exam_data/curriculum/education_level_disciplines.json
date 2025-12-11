@@ -1,0 +1,607 @@
+{
+  "112": {
+    "id": 112,
+    "discipline_id": 19,
+    "education_level_id": 6
+  },
+  "45": {
+    "id": 45,
+    "discipline_id": 27,
+    "education_level_id": 2
+  },
+  "119": {
+    "id": 119,
+    "discipline_id": 31,
+    "education_level_id": 6
+  },
+  "84": {
+    "id": 84,
+    "discipline_id": 18,
+    "education_level_id": 4
+  },
+  "6": {
+    "id": 6,
+    "discipline_id": 9,
+    "education_level_id": 1
+  },
+  "89": {
+    "id": 89,
+    "discipline_id": 21,
+    "education_level_id": 4
+  },
+  "30": {
+    "id": 30,
+    "discipline_id": 6,
+    "education_level_id": 2
+  },
+  "11": {
+    "id": 11,
+    "discipline_id": 25,
+    "education_level_id": 1
+  },
+  "40": {
+    "id": 40,
+    "discipline_id": 28,
+    "education_level_id": 2
+  },
+  "94": {
+    "id": 94,
+    "discipline_id": 20,
+    "education_level_id": 5
+  },
+  "27": {
+    "id": 27,
+    "discipline_id": 5,
+    "education_level_id": 1
+  },
+  "53": {
+    "id": 53,
+    "discipline_id": 30,
+    "education_level_id": 3
+  },
+  "29": {
+    "id": 29,
+    "discipline_id": 12,
+    "education_level_id": 2
+  },
+  "28": {
+    "id": 28,
+    "discipline_id": 20,
+    "education_level_id": 2
+  },
+  "14": {
+    "id": 14,
+    "discipline_id": 18,
+    "education_level_id": 1
+  },
+  "21": {
+    "id": 21,
+    "discipline_id": 8,
+    "education_level_id": 1
+  },
+  "87": {
+    "id": 87,
+    "discipline_id": 4,
+    "education_level_id": 4
+  },
+  "36": {
+    "id": 36,
+    "discipline_id": 14,
+    "education_level_id": 2
+  },
+  "7": {
+    "id": 7,
+    "discipline_id": 13,
+    "education_level_id": 1
+  },
+  "99": {
+    "id": 99,
+    "discipline_id": 28,
+    "education_level_id": 5
+  },
+  "68": {
+    "id": 68,
+    "discipline_id": 27,
+    "education_level_id": 3
+  },
+  "33": {
+    "id": 33,
+    "discipline_id": 9,
+    "education_level_id": 2
+  },
+  "88": {
+    "id": 88,
+    "discipline_id": 27,
+    "education_level_id": 4
+  },
+  "2": {
+    "id": 2,
+    "discipline_id": 12,
+    "education_level_id": 1
+  },
+  "110": {
+    "id": 110,
+    "discipline_id": 27,
+    "education_level_id": 6
+  },
+  "116": {
+    "id": 116,
+    "discipline_id": 29,
+    "education_level_id": 6
+  },
+  "47": {
+    "id": 47,
+    "discipline_id": 2,
+    "education_level_id": 2
+  },
+  "10": {
+    "id": 10,
+    "discipline_id": 19,
+    "education_level_id": 1
+  },
+  "19": {
+    "id": 19,
+    "discipline_id": 27,
+    "education_level_id": 1
+  },
+  "9": {
+    "id": 9,
+    "discipline_id": 14,
+    "education_level_id": 1
+  },
+  "82": {
+    "id": 82,
+    "discipline_id": 16,
+    "education_level_id": 4
+  },
+  "49": {
+    "id": 49,
+    "discipline_id": 26,
+    "education_level_id": 2
+  },
+  "95": {
+    "id": 95,
+    "discipline_id": 27,
+    "education_level_id": 5
+  },
+  "81": {
+    "id": 81,
+    "discipline_id": 28,
+    "education_level_id": 4
+  },
+  "24": {
+    "id": 24,
+    "discipline_id": 15,
+    "education_level_id": 1
+  },
+  "60": {
+    "id": 60,
+    "discipline_id": 25,
+    "education_level_id": 3
+  },
+  "55": {
+    "id": 55,
+    "discipline_id": 10,
+    "education_level_id": 3
+  },
+  "80": {
+    "id": 80,
+    "discipline_id": 25,
+    "education_level_id": 4
+  },
+  "43": {
+    "id": 43,
+    "discipline_id": 22,
+    "education_level_id": 2
+  },
+  "86": {
+    "id": 86,
+    "discipline_id": 22,
+    "education_level_id": 4
+  },
+  "67": {
+    "id": 67,
+    "discipline_id": 4,
+    "education_level_id": 3
+  },
+  "26": {
+    "id": 26,
+    "discipline_id": 11,
+    "education_level_id": 1
+  },
+  "108": {
+    "id": 108,
+    "discipline_id": 33,
+    "education_level_id": 6
+  },
+  "62": {
+    "id": 62,
+    "discipline_id": 16,
+    "education_level_id": 3
+  },
+  "77": {
+    "id": 77,
+    "discipline_id": 1,
+    "education_level_id": 4
+  },
+  "72": {
+    "id": 72,
+    "discipline_id": 20,
+    "education_level_id": 4
+  },
+  "106": {
+    "id": 106,
+    "discipline_id": 32,
+    "education_level_id": 5
+  },
+  "102": {
+    "id": 102,
+    "discipline_id": 1,
+    "education_level_id": 5
+  },
+  "66": {
+    "id": 66,
+    "discipline_id": 22,
+    "education_level_id": 3
+  },
+  "15": {
+    "id": 15,
+    "discipline_id": 24,
+    "education_level_id": 1
+  },
+  "5": {
+    "id": 5,
+    "discipline_id": 1,
+    "education_level_id": 1
+  },
+  "17": {
+    "id": 17,
+    "discipline_id": 22,
+    "education_level_id": 1
+  },
+  "76": {
+    "id": 76,
+    "discipline_id": 29,
+    "education_level_id": 4
+  },
+  "105": {
+    "id": 105,
+    "discipline_id": 21,
+    "education_level_id": 5
+  },
+  "51": {
+    "id": 51,
+    "discipline_id": 5,
+    "education_level_id": 2
+  },
+  "8": {
+    "id": 8,
+    "discipline_id": 3,
+    "education_level_id": 1
+  },
+  "78": {
+    "id": 78,
+    "discipline_id": 34,
+    "education_level_id": 4
+  },
+  "57": {
+    "id": 57,
+    "discipline_id": 1,
+    "education_level_id": 3
+  },
+  "70": {
+    "id": 70,
+    "discipline_id": 35,
+    "education_level_id": 3
+  },
+  "20": {
+    "id": 20,
+    "discipline_id": 7,
+    "education_level_id": 1
+  },
+  "104": {
+    "id": 104,
+    "discipline_id": 31,
+    "education_level_id": 5
+  },
+  "52": {
+    "id": 52,
+    "discipline_id": 20,
+    "education_level_id": 3
+  },
+  "90": {
+    "id": 90,
+    "discipline_id": 35,
+    "education_level_id": 4
+  },
+  "71": {
+    "id": 71,
+    "discipline_id": 8,
+    "education_level_id": 3
+  },
+  "121": {
+    "id": 121,
+    "discipline_id": 32,
+    "education_level_id": 6
+  },
+  "114": {
+    "id": 114,
+    "discipline_id": 28,
+    "education_level_id": 6
+  },
+  "50": {
+    "id": 50,
+    "discipline_id": 11,
+    "education_level_id": 2
+  },
+  "58": {
+    "id": 58,
+    "discipline_id": 34,
+    "education_level_id": 3
+  },
+  "35": {
+    "id": 35,
+    "discipline_id": 3,
+    "education_level_id": 2
+  },
+  "39": {
+    "id": 39,
+    "discipline_id": 16,
+    "education_level_id": 2
+  },
+  "120": {
+    "id": 120,
+    "discipline_id": 21,
+    "education_level_id": 6
+  },
+  "98": {
+    "id": 98,
+    "discipline_id": 25,
+    "education_level_id": 5
+  },
+  "64": {
+    "id": 64,
+    "discipline_id": 18,
+    "education_level_id": 3
+  },
+  "13": {
+    "id": 13,
+    "discipline_id": 28,
+    "education_level_id": 1
+  },
+  "117": {
+    "id": 117,
+    "discipline_id": 1,
+    "education_level_id": 6
+  },
+  "54": {
+    "id": 54,
+    "discipline_id": 36,
+    "education_level_id": 3
+  },
+  "115": {
+    "id": 115,
+    "discipline_id": 10,
+    "education_level_id": 6
+  },
+  "34": {
+    "id": 34,
+    "discipline_id": 13,
+    "education_level_id": 2
+  },
+  "61": {
+    "id": 61,
+    "discipline_id": 28,
+    "education_level_id": 3
+  },
+  "100": {
+    "id": 100,
+    "discipline_id": 10,
+    "education_level_id": 5
+  },
+  "107": {
+    "id": 107,
+    "discipline_id": 18,
+    "education_level_id": 6
+  },
+  "75": {
+    "id": 75,
+    "discipline_id": 10,
+    "education_level_id": 4
+  },
+  "22": {
+    "id": 22,
+    "discipline_id": 2,
+    "education_level_id": 1
+  },
+  "32": {
+    "id": 32,
+    "discipline_id": 1,
+    "education_level_id": 2
+  },
+  "101": {
+    "id": 101,
+    "discipline_id": 29,
+    "education_level_id": 5
+  },
+  "37": {
+    "id": 37,
+    "discipline_id": 19,
+    "education_level_id": 2
+  },
+  "69": {
+    "id": 69,
+    "discipline_id": 21,
+    "education_level_id": 3
+  },
+  "38": {
+    "id": 38,
+    "discipline_id": 25,
+    "education_level_id": 2
+  },
+  "73": {
+    "id": 73,
+    "discipline_id": 30,
+    "education_level_id": 4
+  },
+  "118": {
+    "id": 118,
+    "discipline_id": 4,
+    "education_level_id": 6
+  },
+  "23": {
+    "id": 23,
+    "discipline_id": 23,
+    "education_level_id": 1
+  },
+  "18": {
+    "id": 18,
+    "discipline_id": 21,
+    "education_level_id": 1
+  },
+  "113": {
+    "id": 113,
+    "discipline_id": 25,
+    "education_level_id": 6
+  },
+  "12": {
+    "id": 12,
+    "discipline_id": 16,
+    "education_level_id": 1
+  },
+  "65": {
+    "id": 65,
+    "discipline_id": 33,
+    "education_level_id": 3
+  },
+  "93": {
+    "id": 93,
+    "discipline_id": 33,
+    "education_level_id": 5
+  },
+  "111": {
+    "id": 111,
+    "discipline_id": 8,
+    "education_level_id": 6
+  },
+  "91": {
+    "id": 91,
+    "discipline_id": 8,
+    "education_level_id": 4
+  },
+  "56": {
+    "id": 56,
+    "discipline_id": 29,
+    "education_level_id": 3
+  },
+  "3": {
+    "id": 3,
+    "discipline_id": 6,
+    "education_level_id": 1
+  },
+  "42": {
+    "id": 42,
+    "discipline_id": 17,
+    "education_level_id": 2
+  },
+  "96": {
+    "id": 96,
+    "discipline_id": 8,
+    "education_level_id": 5
+  },
+  "63": {
+    "id": 63,
+    "discipline_id": 31,
+    "education_level_id": 3
+  },
+  "59": {
+    "id": 59,
+    "discipline_id": 19,
+    "education_level_id": 3
+  },
+  "1": {
+    "id": 1,
+    "discipline_id": 20,
+    "education_level_id": 1
+  },
+  "83": {
+    "id": 83,
+    "discipline_id": 31,
+    "education_level_id": 4
+  },
+  "103": {
+    "id": 103,
+    "discipline_id": 4,
+    "education_level_id": 5
+  },
+  "41": {
+    "id": 41,
+    "discipline_id": 18,
+    "education_level_id": 2
+  },
+  "25": {
+    "id": 25,
+    "discipline_id": 26,
+    "education_level_id": 1
+  },
+  "48": {
+    "id": 48,
+    "discipline_id": 15,
+    "education_level_id": 2
+  },
+  "4": {
+    "id": 4,
+    "discipline_id": 10,
+    "education_level_id": 1
+  },
+  "92": {
+    "id": 92,
+    "discipline_id": 18,
+    "education_level_id": 5
+  },
+  "31": {
+    "id": 31,
+    "discipline_id": 10,
+    "education_level_id": 2
+  },
+  "85": {
+    "id": 85,
+    "discipline_id": 33,
+    "education_level_id": 4
+  },
+  "46": {
+    "id": 46,
+    "discipline_id": 8,
+    "education_level_id": 2
+  },
+  "16": {
+    "id": 16,
+    "discipline_id": 17,
+    "education_level_id": 1
+  },
+  "79": {
+    "id": 79,
+    "discipline_id": 19,
+    "education_level_id": 4
+  },
+  "109": {
+    "id": 109,
+    "discipline_id": 20,
+    "education_level_id": 6
+  },
+  "44": {
+    "id": 44,
+    "discipline_id": 21,
+    "education_level_id": 2
+  },
+  "74": {
+    "id": 74,
+    "discipline_id": 36,
+    "education_level_id": 4
+  },
+  "97": {
+    "id": 97,
+    "discipline_id": 19,
+    "education_level_id": 5
+  }
+}

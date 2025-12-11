@@ -1,0 +1,164 @@
+{
+  "id": "vwo_biologie_2022_t1_q39",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 36,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 37,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 38,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Verklaar waarom een injectie met vitamine B12 te verkiezen is boven orale toediening van vitamine B12 via een pil.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Lachgas <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">N</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>wordt door jongeren steeds vaker gebruikt als partydrug. Zij beschouwen het als een relatief onschadelijk middel dat je een lachkick bezorgt. Vwo-scholier Lia liep ernstige zenuwschade op door het gebruik van lachgas.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Bij lachgasgebruik wordt een ballon gevuld met het gas. Vervolgens wordt een paar keer in- en uitgeademd in de ballon. Hierdoor ontstaat een kortdurend vrolijk gevoel. Dit gevoel ontstaat waarschijnlijk doordat lachgas NMDA-receptoren in synapsen in de hersenen blokkeert. Er ontstaat ook duizeligheid door een tijdelijk zuurstofgebrek in de hersenen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De NMDA-receptor is een ionkanaal dat geactiveerd wordt als glutaminezuur en glycine er tegelijk aan binden. Geactiveerde NMDAreceptoren veroorzaken excitatie van het postsynaptisch neuron.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">N</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi>&#160;</mrow></math>werkt snel. Binnen een minuut is het effect op de hersenen merkbaar, maar dit effect is even snel alweer voorbij.<br>Enkele bloedvaten zijn:<br>1 aorta<br>2 halsader<br>3 halsslagader<br>4 longader<br>5 longslagader<br>6 onderste holle ader</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Doordat de lucht in de ballon geen zuurstof bevat, daalt tijdens het in- en uitademen in de ballon de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">pO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>in de longen naar ongeveer 6 kPa . Bovendien stijgt het koolstofdioxidegehalte <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">pCO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>in de longen.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Lia gebruikte lachgas gelukkig nooit samen met alcohol. De combinatie van lachgas en alcohol kan namelijk leiden tot een levensgevaarlijke onderdrukking van de ademreflex. Alcohol onderdrukt het ademcentrum en lachgas onderdrukt de respons van de betrokken chemoreceptoren.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Het is niet altijd meteen duidelijk dat zenuwschade het gevolg kan zijn van lachgasgebruik. Lia kreeg minder gevoel in haar benen en ze kreeg moeite met lopen. Toen ze met deze klachten bij haar huisarts kwam, verwees die haar door naar een neuroloog. De neuroloog onderzocht haar beenreflexen en vermoedde een probleem in de impulsgeleiding als gevolg van aantasting van de myelineschedes. Lia vertelde niet over haar lachgasgebruik.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>De neuroloog testte de geleiding van de zenuwen in het been door op een bepaalde plaats de zenuw te stimuleren en met sensoren te meten wanneer de opgewekte impuls op een andere plaats aankomt. In afbeelding 1 zijn de plaatsen van de twee sensoren en de plaats van stimulering aangegeven.</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_ed3042973c21.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0fd57d0be5254aef9369f1500ab93ddc.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Uit de metingen bleek dat bij Lia de impulsgeleiding was verstoord. De impulsen komen bij Lia later aan dan bij iemand bij wie de myelineschedes wel goed functioneren.</p>"
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Op basis van de verstoorde impulsgeleiding en bloedonderzoek vermoedde de neuroloog bij Lia het syndroom van Guillain-Barré, een auto-immuunreactie tegen myeline. Bij deze ontstekingsreactie worden antistoffen gevormd die leiden tot de afbraak van de cellen van Schwann door macrofagen (afbeelding 2).</p>"
+    },
+    {
+      "order": 11,
+      "type": "image",
+      "media_path": "media/in-exam/img_75cdc8118ee1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4ffd7ca7cbeb42f1acdb0199372afd9b.png",
+      "caption": ""
+    },
+    {
+      "order": 12,
+      "type": "text",
+      "text": "<p>Om de ontstekingsreactie te remmen, werd Lia gedurende vijf dagen behandeld met intraveneus immuunglobuline (IVIg). Deze behandeling remt de productie van cytokine IL-2 door T-helpercellen. Cytokine IL-2 heeft een stimulerend effect op onder andere T-helpercellen zelf.</p>"
+    },
+    {
+      "order": 13,
+      "type": "text",
+      "text": "<p>Na doorvragen van de neuroloog biechtte Lia op dat zij in de weken voorafgaand aan haar klachten regelmatig lachgas had gebruikt. Lachgasgebruik was een zeer plausibele verklaring voor haar klachten, omdat lachgas vitamine B12 inactiveert. Functioneel vitamine B12 is onmisbaar voor de vorming van myeline in de cellen van Schwann.</p>"
+    },
+    {
+      "order": 14,
+      "type": "text",
+      "text": "<p>Afbeelding 3 laat op vereenvoudigde wijze zien hoe vitamine B12 uit de voeding via enkele omzettingen terecht kan komen in het bloed.</p>"
+    },
+    {
+      "order": 15,
+      "type": "image",
+      "media_path": "media/in-exam/img_451df1dd8346.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/03e88f7c567144858f4402cdf81fff33.png",
+      "caption": ""
+    },
+    {
+      "order": 16,
+      "type": "text",
+      "text": "<p>Bij opname van vitamine B12 zijn drie verschillende eiwitten betrokken: haptocorrine, intrinsieke factor en dierlijk eiwit uit de voeding. Elk van deze eiwitten heeft bepaalde eigenschappen die dat eiwit geschikt maken voor zijn rol in de vitamine-B12-opname.</p><p>Enkele eigenschappen van drie betrokken eiwitten zijn:<br>1 wordt alleen afgebroken door proteasen (eiwitsplitsende enzymen) uit de alvleesklier<br>2 wordt afgebroken door proteasen uit de maag en de alvleesklier<br>3 is bestand tegen proteasen uit de maag en de alvleesklier</p>"
+    },
+    {
+      "order": 17,
+      "type": "text",
+      "text": "<p>Een bloedonderzoek kan geen onderscheid maken tussen functioneel en niet-functioneel vitamine B12. Daarom wordt het tekort aan functioneel vitamine B12 indirect aangetoond.<br>In afbeelding 4 is te zien dat twee vormen van vitamine B12 als cofactor betrokken zijn bij bepaalde enzymatische omzettingen.</p>"
+    },
+    {
+      "order": 18,
+      "type": "image",
+      "media_path": "media/in-exam/img_5abbb5d56b8a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/16677fb6ec784e4fbf6cfbc91683a6cb.png",
+      "caption": ""
+    },
+    {
+      "order": 19,
+      "type": "text",
+      "text": "<p>Het bloedonderzoek bij Lia toonde aan dat ze inderdaad een tekort had aan functioneel vitamine B12.</p>"
+    },
+    {
+      "order": 20,
+      "type": "text",
+      "text": "<p>Nadat Lia vitamine-B12-injecties kreeg, verdwenen de symptomen snel. Vitamine-B12 kan ook als pil worden ingenomen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2022_I_uitwerkbijlage_78c37bbf4d16.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/214a33aa9bdb4fb98f309ba6558eee12.pdf"
+    }
+  ]
+}

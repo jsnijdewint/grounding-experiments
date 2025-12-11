@@ -1,0 +1,1226 @@
+{
+  "34": {
+    "id": 34,
+    "name": "Reproductie van het organisme",
+    "domain": 14,
+    "prefix_code": 7
+  },
+  "39": {
+    "id": 39,
+    "name": "Reproductie van het organisme",
+    "domain": 15,
+    "prefix_code": 9
+  },
+  "185": {
+    "id": 185,
+    "name": "Tijdvak 2 – Grieken en Romeinen",
+    "domain": 244,
+    "prefix_code": 2
+  },
+  "186": {
+    "id": 186,
+    "name": "Tijdvak 3 – Monniken en ridders",
+    "domain": 245,
+    "prefix_code": 3
+  },
+  "187": {
+    "id": 187,
+    "name": "Tijdvak 4 – Steden en staten",
+    "domain": 245,
+    "prefix_code": 4
+  },
+  "188": {
+    "id": 188,
+    "name": "Tijdvak 5 – Ontdekkers en hervormers",
+    "domain": 246,
+    "prefix_code": 5
+  },
+  "189": {
+    "id": 189,
+    "name": "Tijdvak 6 – Regenten en vorsten",
+    "domain": 246,
+    "prefix_code": 6
+  },
+  "190": {
+    "id": 190,
+    "name": "Tijdvak 7 – Pruiken en revoluties",
+    "domain": 246,
+    "prefix_code": 7
+  },
+  "191": {
+    "id": 191,
+    "name": "Tijdvak 7 – Pruiken en revoluties",
+    "domain": 247,
+    "prefix_code": 7
+  },
+  "192": {
+    "id": 192,
+    "name": "Tijdvak 8 – Burgers en stoommachines",
+    "domain": 247,
+    "prefix_code": 8
+  },
+  "193": {
+    "id": 193,
+    "name": "Tijdvak 9 – Wereldoorlogen",
+    "domain": 247,
+    "prefix_code": 9
+  },
+  "194": {
+    "id": 194,
+    "name": "Tijdvak 10 – Televisie en computer",
+    "domain": 247,
+    "prefix_code": 10
+  },
+  "195": {
+    "id": 195,
+    "name": "Chronologie",
+    "domain": 247,
+    "prefix_code": 11
+  },
+  "196": {
+    "id": 196,
+    "name": "Gebeurtenissen",
+    "domain": 247,
+    "prefix_code": 12
+  },
+  "197": {
+    "id": 197,
+    "name": "Tijdvak 5 – Ontdekkers en hervormers",
+    "domain": 249,
+    "prefix_code": 5
+  },
+  "198": {
+    "id": 198,
+    "name": "Tijdvak 6 – Regenten en vorsten",
+    "domain": 249,
+    "prefix_code": 6
+  },
+  "199": {
+    "id": 199,
+    "name": "Tijdvak 7 – Pruiken en revoluties",
+    "domain": 249,
+    "prefix_code": 7
+  },
+  "200": {
+    "id": 200,
+    "name": "Tijdvak 7 – Pruiken en revoluties",
+    "domain": 250,
+    "prefix_code": 7
+  },
+  "201": {
+    "id": 201,
+    "name": "Tijdvak 8 – Burgers en stoommachines",
+    "domain": 250,
+    "prefix_code": 8
+  },
+  "202": {
+    "id": 202,
+    "name": "Tijdvak 9 – Wereldoorlogen",
+    "domain": 250,
+    "prefix_code": 9
+  },
+  "203": {
+    "id": 203,
+    "name": "Tijdvak 10 – Televisie en computer",
+    "domain": 250,
+    "prefix_code": 10
+  },
+  "204": {
+    "id": 204,
+    "name": "Chronologie",
+    "domain": 250,
+    "prefix_code": 11
+  },
+  "150": {
+    "id": 150,
+    "name": "Gebruiken van chemische concepten",
+    "domain": 89,
+    "prefix_code": 10
+  },
+  "151": {
+    "id": 151,
+    "name": "Redeneren in termen van context-concept",
+    "domain": 89,
+    "prefix_code": 11
+  },
+  "24": {
+    "id": 24,
+    "name": "Vorm-functie denken",
+    "domain": 13,
+    "prefix_code": 11
+  },
+  "115": {
+    "id": 115,
+    "name": "Vorm-functie denken",
+    "domain": 68,
+    "prefix_code": 11
+  },
+  "25": {
+    "id": 25,
+    "name": "Ecologisch denken",
+    "domain": 13,
+    "prefix_code": 12
+  },
+  "116": {
+    "id": 116,
+    "name": "Ecologisch denken",
+    "domain": 68,
+    "prefix_code": 12
+  },
+  "152": {
+    "id": 152,
+    "name": "Redeneren in termen van structuur-eigenschappen",
+    "domain": 89,
+    "prefix_code": 12
+  },
+  "26": {
+    "id": 26,
+    "name": "Evolutionair denken",
+    "domain": 13,
+    "prefix_code": 13
+  },
+  "117": {
+    "id": 117,
+    "name": "Evolutionair denken",
+    "domain": 68,
+    "prefix_code": 13
+  },
+  "153": {
+    "id": 153,
+    "name": "Redeneren over systemen, verandering en energie",
+    "domain": 89,
+    "prefix_code": 13
+  },
+  "154": {
+    "id": 154,
+    "name": "Redeneren in termen van duurzaamheid",
+    "domain": 89,
+    "prefix_code": 14
+  },
+  "27": {
+    "id": 27,
+    "name": "Systeemdenken",
+    "domain": 13,
+    "prefix_code": 14
+  },
+  "118": {
+    "id": 118,
+    "name": "Systeemdenken",
+    "domain": 68,
+    "prefix_code": 14
+  },
+  "119": {
+    "id": 119,
+    "name": "Contexten",
+    "domain": 68,
+    "prefix_code": 15
+  },
+  "28": {
+    "id": 28,
+    "name": "Contexten",
+    "domain": 13,
+    "prefix_code": 15
+  },
+  "155": {
+    "id": 155,
+    "name": "Redeneren over ontwikkelen van chemische kennis",
+    "domain": 89,
+    "prefix_code": 15
+  },
+  "29": {
+    "id": 29,
+    "name": "Kennisontwikkeling en toepassing",
+    "domain": 13,
+    "prefix_code": 16
+  },
+  "120": {
+    "id": 120,
+    "name": "Kennisontwikkeling en toepassing",
+    "domain": 68,
+    "prefix_code": 16
+  },
+  "87": {
+    "id": 87,
+    "name": "Algemene vaardigheden",
+    "domain": 50,
+    "prefix_code": 1
+  },
+  "53": {
+    "id": 53,
+    "name": "Analyseren en interpreteren",
+    "domain": 32,
+    "prefix_code": 1
+  },
+  "138": {
+    "id": 138,
+    "name": "Analyseren en interpreteren",
+    "domain": 87,
+    "prefix_code": 1
+  },
+  "1": {
+    "id": 1,
+    "name": "Geografische benadering",
+    "domain": 1,
+    "prefix_code": 1
+  },
+  "92": {
+    "id": 92,
+    "name": "Geografische benadering",
+    "domain": 56,
+    "prefix_code": 1
+  },
+  "141": {
+    "id": 141,
+    "name": "Informatievaardigheden gebruiken",
+    "domain": 89,
+    "prefix_code": 1
+  },
+  "15": {
+    "id": 15,
+    "name": "Informatievaardigheden",
+    "domain": 13,
+    "prefix_code": 1
+  },
+  "106": {
+    "id": 106,
+    "name": "Informatievaardigheden",
+    "domain": 68,
+    "prefix_code": 1
+  },
+  "54": {
+    "id": 54,
+    "name": "Beoordelen",
+    "domain": 32,
+    "prefix_code": 2
+  },
+  "139": {
+    "id": 139,
+    "name": "Beoordelen",
+    "domain": 87,
+    "prefix_code": 2
+  },
+  "142": {
+    "id": 142,
+    "name": "Communiceren",
+    "domain": 89,
+    "prefix_code": 2
+  },
+  "16": {
+    "id": 16,
+    "name": "Communiceren",
+    "domain": 13,
+    "prefix_code": 2
+  },
+  "107": {
+    "id": 107,
+    "name": "Communiceren",
+    "domain": 68,
+    "prefix_code": 2
+  },
+  "88": {
+    "id": 88,
+    "name": "Profiel specifieke vaardigheden",
+    "domain": 50,
+    "prefix_code": 2
+  },
+  "143": {
+    "id": 143,
+    "name": "Reflecteren op leren",
+    "domain": 89,
+    "prefix_code": 3
+  },
+  "17": {
+    "id": 17,
+    "name": "Reflecteren op leren",
+    "domain": 13,
+    "prefix_code": 3
+  },
+  "108": {
+    "id": 108,
+    "name": "Reflecteren op leren",
+    "domain": 68,
+    "prefix_code": 3
+  },
+  "55": {
+    "id": 55,
+    "name": "Samenvatten",
+    "domain": 32,
+    "prefix_code": 3
+  },
+  "140": {
+    "id": 140,
+    "name": "Samenvatten",
+    "domain": 87,
+    "prefix_code": 3
+  },
+  "89": {
+    "id": 89,
+    "name": "Wiskundige vaardigheden",
+    "domain": 50,
+    "prefix_code": 3
+  },
+  "144": {
+    "id": 144,
+    "name": "Studie en beroep",
+    "domain": 89,
+    "prefix_code": 4
+  },
+  "18": {
+    "id": 18,
+    "name": "Studie en beroep",
+    "domain": 13,
+    "prefix_code": 4
+  },
+  "109": {
+    "id": 109,
+    "name": "Studie en beroep",
+    "domain": 68,
+    "prefix_code": 4
+  },
+  "145": {
+    "id": 145,
+    "name": "Onderzoeken",
+    "domain": 89,
+    "prefix_code": 5
+  },
+  "19": {
+    "id": 19,
+    "name": "Onderzoeken",
+    "domain": 13,
+    "prefix_code": 5
+  },
+  "110": {
+    "id": 110,
+    "name": "Onderzoeken",
+    "domain": 68,
+    "prefix_code": 5
+  },
+  "146": {
+    "id": 146,
+    "name": "Ontwerpen",
+    "domain": 89,
+    "prefix_code": 6
+  },
+  "20": {
+    "id": 20,
+    "name": "Ontwerpen",
+    "domain": 13,
+    "prefix_code": 6
+  },
+  "111": {
+    "id": 111,
+    "name": "Ontwerpen",
+    "domain": 68,
+    "prefix_code": 6
+  },
+  "147": {
+    "id": 147,
+    "name": "Modelvorming",
+    "domain": 89,
+    "prefix_code": 7
+  },
+  "21": {
+    "id": 21,
+    "name": "Modelvorming",
+    "domain": 13,
+    "prefix_code": 7
+  },
+  "112": {
+    "id": 112,
+    "name": "Modelvorming",
+    "domain": 68,
+    "prefix_code": 7
+  },
+  "148": {
+    "id": 148,
+    "name": "Natuurwetenschappelijk instrumentarium",
+    "domain": 89,
+    "prefix_code": 8
+  },
+  "22": {
+    "id": 22,
+    "name": "Natuurwetenschappelijk instrumentarium",
+    "domain": 13,
+    "prefix_code": 8
+  },
+  "113": {
+    "id": 113,
+    "name": "Natuurwetenschappelijk instrumentarium",
+    "domain": 68,
+    "prefix_code": 8
+  },
+  "149": {
+    "id": 149,
+    "name": "Waarderen en oordelen",
+    "domain": 89,
+    "prefix_code": 9
+  },
+  "23": {
+    "id": 23,
+    "name": "Waarderen en oordelen",
+    "domain": 13,
+    "prefix_code": 9
+  },
+  "114": {
+    "id": 114,
+    "name": "Waarderen en oordelen",
+    "domain": 68,
+    "prefix_code": 9
+  },
+  "76": {
+    "id": 76,
+    "name": "Algebra",
+    "domain": 42,
+    "prefix_code": 1
+  },
+  "56": {
+    "id": 56,
+    "name": "Deeltjesmodellen",
+    "domain": 35,
+    "prefix_code": 1
+  },
+  "156": {
+    "id": 156,
+    "name": "Deeltjesmodellen",
+    "domain": 90,
+    "prefix_code": 1
+  },
+  "30": {
+    "id": 30,
+    "name": "Eiwitsynthese",
+    "domain": 14,
+    "prefix_code": 1
+  },
+  "44": {
+    "id": 44,
+    "name": "Informatieoverdracht",
+    "domain": 26,
+    "prefix_code": 1
+  },
+  "131": {
+    "id": 131,
+    "name": "Informatieoverdracht",
+    "domain": 81,
+    "prefix_code": 1
+  },
+  "6": {
+    "id": 6,
+    "name": "Persoonlijke financiële zelfredzaamheid",
+    "domain": 7,
+    "prefix_code": 1
+  },
+  "97": {
+    "id": 97,
+    "name": "Persoonlijke financiële zelfredzaamheid",
+    "domain": 62,
+    "prefix_code": 1
+  },
+  "174": {
+    "id": 174,
+    "name": "Rekenen",
+    "domain": 97,
+    "prefix_code": 1
+  },
+  "90": {
+    "id": 90,
+    "name": "Rekenen en algebra",
+    "domain": 51,
+    "prefix_code": 1
+  },
+  "2": {
+    "id": 2,
+    "name": "Samenhang en verscheidenheid in de wereld",
+    "domain": 2,
+    "prefix_code": 1
+  },
+  "175": {
+    "id": 175,
+    "name": "Algebra",
+    "domain": 97,
+    "prefix_code": 2
+  },
+  "7": {
+    "id": 7,
+    "name": "De oprichting van een eenmanszaak",
+    "domain": 7,
+    "prefix_code": 2
+  },
+  "98": {
+    "id": 98,
+    "name": "De oprichting van een eenmanszaak",
+    "domain": 62,
+    "prefix_code": 2
+  },
+  "57": {
+    "id": 57,
+    "name": "Eigenschappen en modellen",
+    "domain": 35,
+    "prefix_code": 2
+  },
+  "157": {
+    "id": 157,
+    "name": "Eigenschappen en modellen",
+    "domain": 90,
+    "prefix_code": 2
+  },
+  "45": {
+    "id": 45,
+    "name": "Medische beeldvorming",
+    "domain": 26,
+    "prefix_code": 2
+  },
+  "132": {
+    "id": 132,
+    "name": "Medische beeldvorming",
+    "domain": 81,
+    "prefix_code": 2
+  },
+  "93": {
+    "id": 93,
+    "name": "Samenhangen en verschillen in de wereld",
+    "domain": 57,
+    "prefix_code": 2
+  },
+  "31": {
+    "id": 31,
+    "name": "Stofwisseling van de cel",
+    "domain": 14,
+    "prefix_code": 2
+  },
+  "121": {
+    "id": 121,
+    "name": "Stofwisseling van de cel",
+    "domain": 69,
+    "prefix_code": 2
+  },
+  "91": {
+    "id": 91,
+    "name": "Telproblemen",
+    "domain": 51,
+    "prefix_code": 2
+  },
+  "77": {
+    "id": 77,
+    "name": "Telproblemen",
+    "domain": 42,
+    "prefix_code": 2
+  },
+  "58": {
+    "id": 58,
+    "name": "Bindingen en eigenschappen",
+    "domain": 35,
+    "prefix_code": 3
+  },
+  "158": {
+    "id": 158,
+    "name": "Bindingen en eigenschappen",
+    "domain": 90,
+    "prefix_code": 3
+  },
+  "36": {
+    "id": 36,
+    "name": "Stofwisseling van het organisme",
+    "domain": 15,
+    "prefix_code": 1
+  },
+  "125": {
+    "id": 125,
+    "name": "Stofwisseling van het organisme",
+    "domain": 70,
+    "prefix_code": 1
+  },
+  "8": {
+    "id": 8,
+    "name": "Van eenmanszaak naar rechtspersoon",
+    "domain": 7,
+    "prefix_code": 3
+  },
+  "99": {
+    "id": 99,
+    "name": "Van eenmanszaak naar rechtspersoon",
+    "domain": 62,
+    "prefix_code": 3
+  },
+  "59": {
+    "id": 59,
+    "name": "Bindingen, structuren en eigenschappen",
+    "domain": 35,
+    "prefix_code": 4
+  },
+  "159": {
+    "id": 159,
+    "name": "Bindingen, structuren en eigenschappen",
+    "domain": 90,
+    "prefix_code": 4
+  },
+  "9": {
+    "id": 9,
+    "name": "Perspectief op de organisatie",
+    "domain": 7,
+    "prefix_code": 4
+  },
+  "100": {
+    "id": 100,
+    "name": "Perspectief op de organisatie",
+    "domain": 62,
+    "prefix_code": 4
+  },
+  "37": {
+    "id": 37,
+    "name": "Zelfregulatie van het organisme",
+    "domain": 15,
+    "prefix_code": 2
+  },
+  "126": {
+    "id": 126,
+    "name": "Zelfregulatie van het organisme",
+    "domain": 70,
+    "prefix_code": 2
+  },
+  "38": {
+    "id": 38,
+    "name": "Afweer van het organisme",
+    "domain": 15,
+    "prefix_code": 3
+  },
+  "127": {
+    "id": 127,
+    "name": "Afweer van het organisme",
+    "domain": 70,
+    "prefix_code": 3
+  },
+  "160": {
+    "id": 160,
+    "name": "Macroscopische eigenschappen",
+    "domain": 90,
+    "prefix_code": 5
+  },
+  "40": {
+    "id": 40,
+    "name": "Regulatie van ecosystemen",
+    "domain": 16,
+    "prefix_code": 1
+  },
+  "128": {
+    "id": 128,
+    "name": "Regulatie van ecosystemen",
+    "domain": 71,
+    "prefix_code": 1
+  },
+  "60": {
+    "id": 60,
+    "name": "Chemische processen",
+    "domain": 36,
+    "prefix_code": 1
+  },
+  "161": {
+    "id": 161,
+    "name": "Chemische processen",
+    "domain": 91,
+    "prefix_code": 1
+  },
+  "3": {
+    "id": 3,
+    "name": "De aarde als natuurlijk systeem; samenhangen en diversiteit",
+    "domain": 3,
+    "prefix_code": 1
+  },
+  "46": {
+    "id": 46,
+    "name": "Kracht en beweging",
+    "domain": 27,
+    "prefix_code": 1
+  },
+  "133": {
+    "id": 133,
+    "name": "Kracht en beweging",
+    "domain": 82,
+    "prefix_code": 1
+  },
+  "78": {
+    "id": 78,
+    "name": "Standaardfuncties",
+    "domain": 43,
+    "prefix_code": 1
+  },
+  "176": {
+    "id": 176,
+    "name": "Tabellen",
+    "domain": 98,
+    "prefix_code": 1
+  },
+  "32": {
+    "id": 32,
+    "name": "Zelforganisatie van cellen",
+    "domain": 14,
+    "prefix_code": 3
+  },
+  "122": {
+    "id": 122,
+    "name": "Zelforganisatie van cellen",
+    "domain": 69,
+    "prefix_code": 3
+  },
+  "61": {
+    "id": 61,
+    "name": "Chemisch rekenen",
+    "domain": 36,
+    "prefix_code": 2
+  },
+  "162": {
+    "id": 162,
+    "name": "Chemisch rekenen",
+    "domain": 91,
+    "prefix_code": 2
+  },
+  "47": {
+    "id": 47,
+    "name": "Energie en wisselwerking",
+    "domain": 27,
+    "prefix_code": 2
+  },
+  "134": {
+    "id": 134,
+    "name": "Energieomzettingen",
+    "domain": 82,
+    "prefix_code": 2
+  },
+  "79": {
+    "id": 79,
+    "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+    "domain": 43,
+    "prefix_code": 2
+  },
+  "177": {
+    "id": 177,
+    "name": "Grafieken, vergelijkingen en ongelijkheden",
+    "domain": 98,
+    "prefix_code": 2
+  },
+  "10": {
+    "id": 10,
+    "name": "Personeelsbeleid",
+    "domain": 8,
+    "prefix_code": 2
+  },
+  "101": {
+    "id": 101,
+    "name": "Personeelsbeleid",
+    "domain": 63,
+    "prefix_code": 2
+  },
+  "94": {
+    "id": 94,
+    "name": "Samenhangen en verschillen op aarde",
+    "domain": 58,
+    "prefix_code": 2
+  },
+  "48": {
+    "id": 48,
+    "name": "Gravitatie",
+    "domain": 27,
+    "prefix_code": 3
+  },
+  "62": {
+    "id": 62,
+    "name": "Behoudswetten en kringlopen",
+    "domain": 36,
+    "prefix_code": 3
+  },
+  "163": {
+    "id": 163,
+    "name": "Energieberekeningen",
+    "domain": 91,
+    "prefix_code": 3
+  },
+  "178": {
+    "id": 178,
+    "name": "Formules met één of meer variabelen",
+    "domain": 98,
+    "prefix_code": 3
+  },
+  "41": {
+    "id": 41,
+    "name": "Zelforganisatie van ecosystemen",
+    "domain": 16,
+    "prefix_code": 2
+  },
+  "179": {
+    "id": 179,
+    "name": "Lineaire verbanden",
+    "domain": 98,
+    "prefix_code": 4
+  },
+  "63": {
+    "id": 63,
+    "name": "Reactiekinetiek",
+    "domain": 36,
+    "prefix_code": 4
+  },
+  "64": {
+    "id": 64,
+    "name": "Chemisch evenwicht",
+    "domain": 36,
+    "prefix_code": 5
+  },
+  "180": {
+    "id": 180,
+    "name": "Exponentiële verbanden",
+    "domain": 98,
+    "prefix_code": 5
+  },
+  "65": {
+    "id": 65,
+    "name": "Energieberekeningen",
+    "domain": 36,
+    "prefix_code": 6
+  },
+  "164": {
+    "id": 164,
+    "name": "Reactiekinetiek",
+    "domain": 91,
+    "prefix_code": 6
+  },
+  "165": {
+    "id": 165,
+    "name": "Behoudswetten en kringlopen",
+    "domain": 91,
+    "prefix_code": 7
+  },
+  "166": {
+    "id": 166,
+    "name": "Classificatie van reacties",
+    "domain": 91,
+    "prefix_code": 8
+  },
+  "4": {
+    "id": 4,
+    "name": "Afbakening en gebiedskenmerken",
+    "domain": 4,
+    "prefix_code": 1
+  },
+  "66": {
+    "id": 66,
+    "name": "Chemische vakmethodes",
+    "domain": 37,
+    "prefix_code": 1
+  },
+  "167": {
+    "id": 167,
+    "name": "Chemische vakmethodes",
+    "domain": 92,
+    "prefix_code": 1
+  },
+  "135": {
+    "id": 135,
+    "name": "Eigenschappen van stoffen en materialen",
+    "domain": 83,
+    "prefix_code": 1
+  },
+  "49": {
+    "id": 49,
+    "name": "Elektrische systemen",
+    "domain": 28,
+    "prefix_code": 1
+  },
+  "95": {
+    "id": 95,
+    "name": "Gebiedskenmerken",
+    "domain": 59,
+    "prefix_code": 1
+  },
+  "80": {
+    "id": 80,
+    "name": "Rijen",
+    "domain": 44,
+    "prefix_code": 1
+  },
+  "33": {
+    "id": 33,
+    "name": "Moleculaire en cellulaire interactie",
+    "domain": 14,
+    "prefix_code": 4
+  },
+  "50": {
+    "id": 50,
+    "name": "Elektrische en magnetische velden",
+    "domain": 28,
+    "prefix_code": 2
+  },
+  "11": {
+    "id": 11,
+    "name": "Financieren",
+    "domain": 9,
+    "prefix_code": 2
+  },
+  "102": {
+    "id": 102,
+    "name": "Financieren",
+    "domain": 64,
+    "prefix_code": 2
+  },
+  "81": {
+    "id": 81,
+    "name": "Helling",
+    "domain": 44,
+    "prefix_code": 2
+  },
+  "82": {
+    "id": 82,
+    "name": "Afgeleide",
+    "domain": 44,
+    "prefix_code": 3
+  },
+  "168": {
+    "id": 168,
+    "name": "Chemische procesontwerpen",
+    "domain": 92,
+    "prefix_code": 3
+  },
+  "67": {
+    "id": 67,
+    "name": "Chemische synthese",
+    "domain": 37,
+    "prefix_code": 3
+  },
+  "129": {
+    "id": 129,
+    "name": "Interactie in ecosystemen",
+    "domain": 71,
+    "prefix_code": 3
+  },
+  "42": {
+    "id": 42,
+    "name": "Interactie in ecosystemen",
+    "domain": 16,
+    "prefix_code": 3
+  },
+  "68": {
+    "id": 68,
+    "name": "Chemisch onderzoek",
+    "domain": 38,
+    "prefix_code": 1
+  },
+  "169": {
+    "id": 169,
+    "name": "Kenmerken van innovatieve processen",
+    "domain": 93,
+    "prefix_code": 1
+  },
+  "83": {
+    "id": 83,
+    "name": "Meetkundige vaardigheden",
+    "domain": 49,
+    "prefix_code": 1
+  },
+  "5": {
+    "id": 5,
+    "name": "Nationale en regionale vraagstukken",
+    "domain": 5,
+    "prefix_code": 1
+  },
+  "96": {
+    "id": 96,
+    "name": "Nationale en regionale vraagstukken",
+    "domain": 60,
+    "prefix_code": 1
+  },
+  "181": {
+    "id": 181,
+    "name": "Presentaties van data interpreteren en beoordelen",
+    "domain": 100,
+    "prefix_code": 1
+  },
+  "136": {
+    "id": 136,
+    "name": "Zonnestelsel en heelal",
+    "domain": 84,
+    "prefix_code": 1
+  },
+  "84": {
+    "id": 84,
+    "name": "Algebraïsche methoden in de vlakke meetkunde",
+    "domain": 49,
+    "prefix_code": 2
+  },
+  "182": {
+    "id": 182,
+    "name": "Data verwerken",
+    "domain": 100,
+    "prefix_code": 2
+  },
+  "51": {
+    "id": 51,
+    "name": "Elektromagnetische straling en materie",
+    "domain": 29,
+    "prefix_code": 2
+  },
+  "12": {
+    "id": 12,
+    "name": "Marketingbeleid",
+    "domain": 10,
+    "prefix_code": 2
+  },
+  "103": {
+    "id": 103,
+    "name": "Marketingbeleid",
+    "domain": 65,
+    "prefix_code": 2
+  },
+  "69": {
+    "id": 69,
+    "name": "Selectiviteit en specificiteit",
+    "domain": 38,
+    "prefix_code": 2
+  },
+  "183": {
+    "id": 183,
+    "name": "Data en verdelingen",
+    "domain": 100,
+    "prefix_code": 3
+  },
+  "85": {
+    "id": 85,
+    "name": "Vectoren en inproduct",
+    "domain": 49,
+    "prefix_code": 3
+  },
+  "123": {
+    "id": 123,
+    "name": "Erfelijke eigenschap",
+    "domain": 69,
+    "prefix_code": 7
+  },
+  "184": {
+    "id": 184,
+    "name": "Statistische uitspraken doen",
+    "domain": 100,
+    "prefix_code": 4
+  },
+  "86": {
+    "id": 86,
+    "name": "Toepassingen",
+    "domain": 49,
+    "prefix_code": 4
+  },
+  "70": {
+    "id": 70,
+    "name": "Industriële processen",
+    "domain": 39,
+    "prefix_code": 1
+  },
+  "170": {
+    "id": 170,
+    "name": "Industriële processen",
+    "domain": 94,
+    "prefix_code": 1
+  },
+  "52": {
+    "id": 52,
+    "name": "Quantumwereld",
+    "domain": 30,
+    "prefix_code": 1
+  },
+  "35": {
+    "id": 35,
+    "name": "Selectie",
+    "domain": 14,
+    "prefix_code": 8
+  },
+  "124": {
+    "id": 124,
+    "name": "Selectie",
+    "domain": 69,
+    "prefix_code": 8
+  },
+  "13": {
+    "id": 13,
+    "name": "Vastleggen van financiële en niet financiële informatie",
+    "domain": 11,
+    "prefix_code": 1
+  },
+  "104": {
+    "id": 104,
+    "name": "Vastleggen van financiële en niet financiële informatie",
+    "domain": 66,
+    "prefix_code": 1
+  },
+  "71": {
+    "id": 71,
+    "name": "Groene chemie",
+    "domain": 39,
+    "prefix_code": 2
+  },
+  "105": {
+    "id": 105,
+    "name": "Kosten- en winstvraagstukken",
+    "domain": 66,
+    "prefix_code": 2
+  },
+  "14": {
+    "id": 14,
+    "name": "Kosten- en winstvraagstukken",
+    "domain": 11,
+    "prefix_code": 2
+  },
+  "43": {
+    "id": 43,
+    "name": "Soortvorming",
+    "domain": 16,
+    "prefix_code": 4
+  },
+  "130": {
+    "id": 130,
+    "name": "Soortvorming",
+    "domain": 71,
+    "prefix_code": 4
+  },
+  "72": {
+    "id": 72,
+    "name": "Energieomzettingen",
+    "domain": 39,
+    "prefix_code": 3
+  },
+  "171": {
+    "id": 171,
+    "name": "Energieomzettingen",
+    "domain": 94,
+    "prefix_code": 3
+  },
+  "73": {
+    "id": 73,
+    "name": "Chemie van het leven",
+    "domain": 40,
+    "prefix_code": 1
+  },
+  "172": {
+    "id": 172,
+    "name": "Chemie van het leven",
+    "domain": 95,
+    "prefix_code": 1
+  },
+  "137": {
+    "id": 137,
+    "name": "Gebruik van elektriciteit",
+    "domain": 85,
+    "prefix_code": 1
+  },
+  "74": {
+    "id": 74,
+    "name": "Milieueffectrapportage",
+    "domain": 40,
+    "prefix_code": 2
+  },
+  "173": {
+    "id": 173,
+    "name": "Milieueisen",
+    "domain": 95,
+    "prefix_code": 2
+  },
+  "75": {
+    "id": 75,
+    "name": "Energie en industrie",
+    "domain": 40,
+    "prefix_code": 3
+  }
+}

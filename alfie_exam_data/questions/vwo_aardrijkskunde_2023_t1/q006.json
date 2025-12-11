@@ -1,0 +1,56 @@
+{
+  "id": "vwo_aardrijkskunde_2023_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "aardrijkskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 21,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 2,
+          "name": "Samenhang en verscheidenheid in de wereld",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beredeneer waarom na 2001 zowel de ruimtelijke segregatie als de sociale polarisatie in Dubai sterk toenam.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 4 tot en met 6.<br><br>Technologische ontwikkelingen hebben bijgedragen aan een toename van<br>het aantal Aziatische migranten naar de Arabische Golfstaten (zie bron 4)<br>&nbsp;</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik de bronnen 4 en 5.</p><p>Na het afschaffen van de woningwet in 2001 veranderde Dubai snel en nam de ruimtelijke segregatie en de sociale polarisatie in de stad sterk toe.<br>&nbsp;</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2023_I_bijlage_248a50c12d53.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7f989d72434c4d799e087d834390e90f.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2023 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2023_I_kaartenk_e5ac5704001a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/87a0b7c501054137ad17a7a871b8eb90.pdf"
+    }
+  ]
+}

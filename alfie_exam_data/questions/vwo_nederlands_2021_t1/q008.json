@@ -1,0 +1,56 @@
+{
+  "id": "vwo_nederlands_2021_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 55,
+          "name": "Samenvatten",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Citeer uit alinea 6 tot en met 9 van tekst 1 de zin die de strekking van deze alinea’s het beste samenvat.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De tekst ‘We leren (n)iets van de geschiedenis’ kan door middel van onderstaande kopjes in zes delen worden onderverdeeld:</p><p>deel 1: Inleiding</p><p>deel 2: Het (on)nut van historische kennis</p><p>deel 3: Ons (on)vermogen lessen te trekken uit het verleden</p><p>deel 4: Vergelijkingen tussen heden en verleden</p><p>deel 5: Poging tot toepassing in de praktijk</p><p>deel 6: Slot</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In alinea 4 van tekst 1 vind je een argumentatie. De functie van elk gedeelte in deze argumentatie kan met behulp van functiewoorden worden weergeven.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In alinea 3 en 4 van tekst 1 komt de vraag aan de orde of historische kennis zinvol is of niet.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2021_I_bijlage_a140e076680b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8f09b902c8234f79a5b66b53e4cd1e25.pdf"
+    }
+  ]
+}

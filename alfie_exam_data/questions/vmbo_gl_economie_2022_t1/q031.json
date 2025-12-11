@@ -1,0 +1,53 @@
+{
+  "id": "vmbo_gl_economie_2022_t1_q31",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 126,
+          "name": "Internationale ontwikkelingen",
+          "prefix_code": "EC/K/7"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik informatiebron 7.<br>Het inkomen per hoofd van de bevolking in 2017 in India bedraagt<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">$</mi> <mn>1.710</mn>&#160;</math>. Veel boeren hebben echter een veel lager inkomen.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Bereken het inkomen per hoofd van de bevolking werkzaam in de Indiase landbouw. Schrijf je berekening op.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 7 in de bijlage.</p><p>India is een van de best presterende economieën van Azië, met een groei van het nationaal inkomen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn> <mo>,</mo> <mn>5</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> in 2017. Toch zijn er grote problemen, bijvoorbeeld in de landbouw.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_ce82d16503ef.webp",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b62583fbc9b74004b254533d6ed291ff.webp",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_ef2c1b8354d0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dc02323a63d64258a36e6a9729a51c74.pdf"
+    }
+  ]
+}

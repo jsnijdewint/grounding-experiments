@@ -1,0 +1,40 @@
+{
+  "id": "vmbo_gl_maatschappijkunde_2024_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "maatschappijkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 63,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zie tekst 1.<br>Greenpeace is een wereldwijde organisatie die aandacht vraagt voor milieuproblemen. Greenpeace wil dat het maken van reclame voor fossiele brandstoffen op de politieke agenda komt.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Leg uit of je met de informatie uit tekst 1 kunt zeggen of dat Greenpeace gelukt is.<br>Doe het zo: neem het onderstaande over en vul het antwoord aan. Met de informatie uit tekst 1 kun je ... (vul in: wel of niet) zeggen dat het op de politieke agenda staat, want ...</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>tekst 1<br>Greenpeace-activisten opgepakt na actie bij Shell in Rotterdamse haven</p><p>De politie heeft een einde gemaakt aan een actie van Greenpeace bij Shell in de Rotterdamse haven. Ongeveer tachtig actievoerders hadden met rubberbootjes, kano's en een zeilschip de Tweede Petroleumhaven geblokkeerd.</p><p>De actievoerders eisen een verbod op het maken van reclame voor fossiele brandstoffen 1). Greenpeace wil de komende maanden een miljoen handtekeningen ophalen om zo'n verbod in Europa af te dwingen.<br><br>noot 1 fossiele brandstoffen = bijvoorbeeld steenkool, aardolie en aardgas<br><br>bron: <a href=\"http://nos.nl\">nos.nl</a> van 4 oktober 2021</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijkunde 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijkunde_2024_I_bijla_a1b1d5d80e01.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f0feb1b884b0472caf7fb8b7012cc682.pdf"
+    }
+  ]
+}

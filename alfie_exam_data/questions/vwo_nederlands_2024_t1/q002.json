@@ -1,0 +1,61 @@
+{
+  "id": "vwo_nederlands_2024_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 54,
+          "name": "Beoordelen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke bedenking zal een kritische lezer waarschijnlijk vooral hebben bij het antwoord op de vraag in bovenstaand citaat? ‘Mooie verhalen’ en ‘mooie lezers’</p><p><strong>A</strong> staan inhoudelijk geheel los van de ontlezing.</p><p><strong>B</strong> verergeren de ontlezing eerder dan dat ze haar verminderen.</p><p><strong>C</strong> zijn inhoudelijk nauwelijks of niet te onderscheiden van elkaar.</p><p><strong>D</strong> zijn zeker niet de enige zaken die de ontlezing kunnen stoppen.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Na publicatie van tekst 1 verschenen hierop landelijk verscheidene reacties. Vier van deze reacties staan als fragment in het tekstboekje, na tekst 1. Behalve vragen over tekst 1 bevat dit examen vragen over deze reacties in samenhang met tekst 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Tekst 1 Fastfood voor jonge lezers: de schadelijke promotie van pulp in het onderwijs</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>\r\nTekst 1 kun je met onderstaande kopjes in vier opeenvolgende delen onderverdelen:\r\n</p><p>- deel 1: Het probleem van de ontlezing\r\n</p><p>- deel 2: Een verkeerde overheidsmaatregel\r\n</p><p>- deel 3: De schade aan jongeren ontrafeld\r\n</p><p>- deel 4: Juiste overheidsinitiatieven?</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“Wat hebben we nodig om ontlezing een halt toe te roepen? Mooie verhalen natuurlijk, maar ook ‘mooie lezers’.” (regels 1-4)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_ac05fe426b26.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fb5d918d91ec4599a96647704fa584d3.pdf"
+    }
+  ]
+}

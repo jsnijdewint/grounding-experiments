@@ -1,0 +1,112 @@
+{
+  "id": "havo_wiskunde_a_2021_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 176,
+          "name": "Tabellen",
+          "prefix_code": 1
+        },
+        {
+          "id": 177,
+          "name": "Grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        },
+        {
+          "id": 178,
+          "name": "Formules met één of meer variabelen",
+          "prefix_code": 3
+        },
+        {
+          "id": 179,
+          "name": "Lineaire verbanden",
+          "prefix_code": 4
+        },
+        {
+          "id": 180,
+          "name": "Exponentiële verbanden",
+          "prefix_code": 5
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel graden de temperatuur moet toenemen om de snelheid van het geluid te laten stijgen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>339</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>naar <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>349</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>. Geef je antwoord in een geheel aantal graden.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een klarinet is een houten blaasinstrument. Alle mogelijke tonen die op het instrument kunnen worden gespeeld, worden samen het bereik genoemd. Het bereik van een klarinet is bijna vier octaven. Een octaaf bestaat uit 12 opeenvolgende toonafstanden. Zie de tabel.<br>Elke voorafgaande of opeenvolgende octaaf heeft dezelfde namen voor de tonen in dat octaaf.</p><p>De frequentie van een toon wordt gegeven in hertz ( Hz ), dit is het aantal trillingen per seconde. Bij een hogere toon hoort een hogere frequentie. Als je eenzelfde toon één octaaf hoger speelt, wordt de frequentie twee keer zo groot. Er bestaat een exponentieel verband tussen de frequenties en de tonen in de tabel: van elke volgende toon neemt de frequentie met een vast percentage toe. In de tabel zie je van enkele tonen de frequenties.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2f168f2b8dd8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/af9c3fc193394bf08df93e46519010dd.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_8ba9151c6150.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4b3d1e4bdf8545feb9eea0e9df2c84e7.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In de tabel is de frequentie van de D-toon afgerond op hele Hz .</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In de figuur wordt op een logaritmische schaalverdeling het bereik van verschillende instrumenten aangegeven.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_262557fb7f33.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6b4aca7d107b4730baa4e9ba782f861f.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De laagste toon die een klarinet kan laten horen is een D. De hoogste toon is een A .</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Een klarinettist moet altijd eerst een korte tijd inspelen om de klarinet op een vaste temperatuur van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>31</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>te brengen. Als de klarinet koud is, klinken de tonen namelijk lager dan als de klarinet warm is. Dit komt omdat de snelheid van het geluid afhankelijk is van de temperatuur. Dit verband wordt gegeven door de formule:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi> <mo>=</mo> <mn>20</mn> <msqrt><mn>273</mn> <mo>+</mo> <mi>T</mi>&#160;</msqrt></math></p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi>&#160;</math>de snelheid van het geluid (in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>) en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi>&#160;</math>de temperatuur (in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>).<br>Met de formule kun je bijvoorbeeld berekenen dat bij een temperatuur van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>20</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>de snelheid van het geluid ongeveer <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>342</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>is. Bij een temperatuur van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>31</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>is deze snelheid ongeveer <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>349</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_0dabafad3b33.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5c360001b36c4ef48517dc88f333f720.pdf"
+    },
+    {
+      "name": "formule_blad_2.pdf",
+      "media_path": "media/bijlages/formule_blad_2_acdfdd81974a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a88db860b41b46039b4ea79fff214389.pdf"
+    }
+  ]
+}

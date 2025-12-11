@@ -1,0 +1,57 @@
+{
+  "id": "havo_biologie_2024_t1_q22",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 123,
+          "name": "Erfelijke eigenschap",
+          "prefix_code": 7
+        },
+        {
+          "id": 124,
+          "name": "Selectie",
+          "prefix_code": 8
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wat is het karyotype van Emma?&nbsp;<br>A 22, XY&nbsp;<br>B 23, XY&nbsp;<br>C 44, XY&nbsp;<br>D 46, XY</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Emma is 17 jaar en heeft zich altijd een meisje gevoeld. Ze is echter nog nooit ongesteld geworden en heeft ook nauwelijks borstontwikkeling. Daarom gaat ze naar de huisarts.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_1e1883223a92.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7e687413c42f4413acf9eca4cd6cb5c9.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het karyotype beschrijft per lichaamscel het totale aantal chromosomen, de geslachtschromosomen en eventuele extra chromosomen.</p>"
+    }
+  ],
+  "bijlages": []
+}

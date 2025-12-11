@@ -1,0 +1,61 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2023_t1_q39",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 140,
+          "name": "Stoffen en materialen",
+          "prefix_code": "NASK1/K/4"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Op de veiligheidskaart van de geurstof staan de twee bijbehorende veiligheidspictogrammen.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Zet in de tabel op de uitwerkbijlage een kruisje onder de twee juiste veiligheidspictogrammen.</p>",
+    "max_score": 2,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_f6de0274e69a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9537d77f2db04d5d9caf4efd659fa663.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Anja gebruikt een elektrische geurverspreider om haar kamer lekker te laten ruiken.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_9bcd154986cd.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4e5479ce2c354d91aa5368817915a67a.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Anja vult de geurverspreider met een paar druppels geurstof uit een flesje en verdunt dit met water.<br>Onverdunde geurstof kan gevaarlijk zijn. Je ziet een deel van de veiligheidskaart van de onverdunde geurstof in het flesje.</p><p>&nbsp;</p><p>Gevaarlijk voor in het water levende organismen.<br>Irriterend voor de huid en ogen.</p><p>&nbsp;</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2023_I_146f2ef32a60.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a553a8c7e49437a900373fa6ec9748e.pdf"
+    }
+  ]
+}

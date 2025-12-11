@@ -1,0 +1,58 @@
+{
+  "id": "havo_natuurkunde_2024_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 132,
+          "name": "Medische beeldvorming",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:&nbsp;</p><p>- Leg uit welke capsule (I, II, III of IV) mag blijven zitten.&nbsp;</p><p>- Geef een reden waarom de isotopen uit figuur 1 alleen geschikt zijn om de tumor van binnenuit te behandelen.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een veelvoorkomende tumor bij paarden is een zogenaamde sarcoïde. Dit is een huidtumor. Er bestaan verschillende methodes om deze tumor te behandelen. Een eerste behandelmethode is bestraling. Hierbij kunnen afgesloten capsules gebruikt worden met radioactieve isotopen die ioniserende straling uitzenden. Deze capsules worden in de tumor geplaatst. In figuur 1 staat een tabel met een aantal capsules met verschillende isotopen die gebruikt kunnen worden.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_cfedef508ff4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f1ead45491d84932b788a9590710737c.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een van de capsules mag blijven zitten na de behandeling. De overige capsules moeten verwijderd worden wanneer de sarcoïde voldoende is bestraald.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2024_I_uitwerkbijl_183c8a842092.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d36e010b434c4896854f0afb7f3f861d.pdf"
+    }
+  ]
+}

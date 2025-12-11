@@ -1,0 +1,63 @@
+{
+  "id": "vwo_bedrijfseconomie_2022_t1_q28",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 11,
+          "name": "Financieren",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Toon met behulp van de berekening van de RTV over 2021 van Schaeffer aan dat bij Schaeffer in 2021 sprake moet zijn geweest van een positief hefboomeffect.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>In deze opgave blijven belastingen buiten beschouwing.</i></p><p><br>Van hotelketen Schaeffer nv zijn onderstaande financiële gegevens bekend:</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_80fbd3c8668b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/460939173cdd48f2989efebd6cfa4e2f.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<ul><li>Op de onderhandse lening is op 1 april 2021 afgelost.</li><li>Bij alle andere balansposten hebben veranderingen gelijkmatig verspreid over het jaar plaatsgevonden.</li><li>De totale interestkosten over 2021 waren <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>29.000</mn>&#160;</math>.</li></ul><p>De interest vreemd vermogen (IVV) over 2021 van Schaeffer is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_bijlag_62086e27b4ef.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a93cd8f679584499a2c7de8ddf763cff.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_uitwer_fe9d963a16b1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e693b318cf614e21b8c84f861816b24e.pdf"
+    }
+  ]
+}

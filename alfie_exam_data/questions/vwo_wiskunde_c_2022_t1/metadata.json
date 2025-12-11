@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 58,
+    "education_level": "vwo",
+    "discipline": "wiskunde_c",
+    "year": 2022,
+    "tijdvak": 1
+  },
+  "question_count": 21
+}

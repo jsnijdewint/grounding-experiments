@@ -1,0 +1,52 @@
+{
+  "id": "havo_wiskunde_b_2024_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 102,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken exact de x-coördinaat van <i>B</i>.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De functie <i>f</i> wordt gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>f</mi>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>x</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo>=</mo>\r\n  <msup>\r\n    <mn>2</mn>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi>x</mi>\r\n      <mo>+</mo>\r\n      <mn>3</mn>\r\n    </mrow>\r\n  </msup>\r\n</math> en de functie <i>g </i>wordt gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>g</mi>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>x</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo>=</mo>\r\n  <msup>\r\n    <mn>2</mn>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>3</mn>\r\n      <mo>+</mo>\r\n      <mn>2</mn>\r\n      <msqrt>\r\n        <mi>x</mi>\r\n      </msqrt>\r\n    </mrow>\r\n  </msup>\r\n</math></p><p>In figuur 1 zijn de grafieken van <i>f </i>en <i>g </i>weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_08e9a40d657b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ead1d70611e04b78b61a1f4f6d35fe52.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De grafieken van <i>f</i> en <i>g</i> snijden elkaar in de punten <i>A</i> en i. Punt <i>A</i> ligt op de <i>y</i>-as.</p>"
+    }
+  ],
+  "bijlages": []
+}

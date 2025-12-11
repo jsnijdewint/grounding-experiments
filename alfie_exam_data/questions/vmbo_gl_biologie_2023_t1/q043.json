@@ -1,0 +1,53 @@
+{
+  "id": "vmbo_gl_biologie_2023_t1_q43",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 118,
+          "name": "Erfelijkheid en evolutie",
+          "prefix_code": "BI/K/13"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Uv-straling beschadigt het DNA in de cellen van de huid. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>In welk deel van de cel bevindt zich dit DNA?</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Als je gaat zonnen, kan je huid verbranden door de uv-straling van de zon. Pigmentcellen houden een deel van de uv-straling tegen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_4a07a2d81168.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a53e3f6ba5a5468da53fa76039b7915d.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2023_I_uitwerkbijlage_4e0013036ef8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9a816268fb648d6bbff9679cf7f9a46.pdf"
+    }
+  ]
+}

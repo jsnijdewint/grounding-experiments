@@ -1,0 +1,65 @@
+{
+  "id": "vmbo_gl_biologie_2023_t1_q27",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 112,
+          "name": "Leervaardigheden in het vak biologie",
+          "prefix_code": "BI/K/3"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Over dit diagram worden twee uitspraken gedaan.<br>1 Hoe dieper de koningsvis zwemt, hoe meer zijn lichaamstemperatuur daalt.<br>2 De koningsvis is tijdens de meting op meer dan 80 meter diepte geweest.<br>Wat is juist?<br>A alleen uitspraak 1<br>B alleen uitspraak 2<br>C beide uitspraken<br>D geen van beide uitspraken</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_decd0901cb2b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5babcaae27e94a32b513bba30263cde3.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Koningsvissen zijn grote vissen die diep in zee kunnen leven. Koningsvissen hebben een constante lichaamstemperatuur, in tegenstelling tot de meeste vissoorten.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Onderzoekers hebben de lichaamstemperatuur van een koningsvis gemeten terwijl hij in zee zwom. Hieronder staat een deel van deze meting in een diagram uitgezet.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_5b36bf9a1846.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/67f53cc2499e405498479195ce92c142.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2023_I_uitwerkbijlage_4e0013036ef8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9a816268fb648d6bbff9679cf7f9a46.pdf"
+    }
+  ]
+}

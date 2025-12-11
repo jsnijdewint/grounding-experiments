@@ -1,0 +1,94 @@
+{
+  "id": "vwo_wiskunde_c_2023_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [
+        {
+          "id": 53,
+          "name": "Veranderingen",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [
+        {
+          "id": 90,
+          "name": "Rekenen en algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 91,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel procent van het mengsel aan het eind van het 7e jaar bestaat uit whisky van 5 jaar of ouder. Geef je antwoord in twee decimalen.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Traditioneel gebrouwen whisky wordt enkele jaren in houten vaten opgeslagen om daarin te rijpen. In het algemeen geldt: hoe langer de whisky rijpt, hoe beter hij smaakt. Lang rijpen heeft echter een nadeel: een deel van de whisky gaat verloren doordat deze in het houten vat trekt of verdampt. Het deel van de whisky dat tijdens het rijpen verloren gaat, wordt het <strong>engelendeel </strong>genoemd. Het engelendeel wordt uitgedrukt in een percentage per jaar.</p><p>&nbsp;</p><p>Van een bepaald soort whisky is het engelendeel 4,5%. Neem aan dat het engelendeel elk jaar hetzelfde percentage is.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In werkelijkheid is bij traditioneel gebrouwen whisky het engelendeel niet ieder jaar even groot. Zeker aan het begin van de rijpingsperiode is dit deel een stuk groter, doordat de whisky nog in het hout moet trekken.</p><p>&nbsp;</p><p><strong>Pappy Van Winkle 23</strong> is een zeer exclusieve whisky die op traditionele wijze geproduceerd wordt en, zoals de naam al suggereert, 23 jaar in een houten vat rijpt voordat hij in flessen gedaan wordt. Op de website van de producent staat het volgende:</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het rijpingsproces begint met een vat met 200 liter whisky. Het eerste jaar gaat er maar liefst 10% verloren, doordat de whisky in het hout trekt. De 8 jaren erna gaat er 4% per jaar verloren en daarna steeds 3% per jaar. Tenslotte gaat er van het eindproduct ook nog 6 liter verloren bij het vullen van de flessen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Pappy Van Winkle 23 wordt verkocht in flessen van 750 ml.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De meeste whisky rijpt tegenwoordig niet meer in houten vaten. In plaats daarvan wordt de whisky in grote metalen ketels gedaan en worden er houtsnippers aan toegevoegd. Hierdoor wordt het engelendeel beperkt tot zo’n 3% per jaar. Voor het vervolg van de opgave gaan we ervan uit dat het engelendeel <strong>ieder jaar</strong> 3% is.</p><p>&nbsp;</p><p>Bij de massaproductie van whisky wordt ervoor gezorgd dat de totale hoeveelheid whisky gelijk blijft door jaarlijks de ketel weer bij te vullen met nieuw geproduceerde whisky. Hierdoor ontstaat er een mengsel dat maar voor een deel uit de oorspronkelijke whisky bestaat.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Bijvoorbeeld: Een ketel bevat 500 liter whisky. Na een jaar is daarvan 3%, dus 15 liter, verloren gegaan. Er wordt aan het eind van dat jaar 15 liter nieuw geproduceerde whisky in de ketel gedaan, zodat er dan 485 liter whisky van 1 jaar oud en 15 liter whisky van 0 jaar oud in zit. Aan het eind van het tweede jaar is er weer 15 liter verloren gegaan en ook dit wordt weer aangevuld met nieuw geproduceerde whisky, enzovoorts.</p><p>&nbsp;</p><p>In de tabel staat voor een aantal jaren de samenstelling van het mengsel <strong>aan het eind van het jaar</strong>, in procenten.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_8d9e6c9cb854.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d79a23e1864047f6b95e47a5c5a78782.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>In de tabel kun je bijvoorbeeld aflezen dat aan het eind van het 4e jaar 88,53% van het mengsel bestaat uit 4 jaar oude whisky, 2,74% uit 3 jaar oude whisky, 2,82% uit 2 jaar oude whisky, 2,91% uit 1 jaar oude whisky en 3% uit nieuw geproduceerde whisky (0 jaar oude whisky).</p><p>&nbsp;</p><p>Aan het eind van jaar n is een deel van het mengsel dus n jaar oud. De rest is een mengsel van whisky’s van leeftijd 0 jaar tot en met <i>n</i> -1 jaar oud. De percentages later toegevoegde whisky’s in dat mengsel vormen de rij: 3; 2,91; 2,82; 2,74; … .</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2023_I_uitwerkbijla_d26cf5047c40.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5daa39e9d7114989a2f0a9cab3045d3b.pdf"
+    }
+  ]
+}

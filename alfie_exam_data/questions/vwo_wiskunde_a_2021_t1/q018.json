@@ -1,0 +1,56 @@
+{
+  "id": "vwo_wiskunde_a_2021_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 78,
+          "name": "Standaardfuncties",
+          "prefix_code": 1
+        },
+        {
+          "id": 79,
+          "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de reële gemiddelde huurstijging. Geef je antwoord in één decimaal.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>New York is al decennialang een van de populairste steden ter wereld om te wonen met als gevolg dat de gemiddelde prijs van huurwoningen er explosief gestegen is. In 1970 bedroeg de gemiddelde huur van een woning in New York $125 per maand. In 2013 was dat gestegen tot <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">$</mi> <mn>917</mn>&#160;</math>per maand. Dat is een toename van ruim 600%.<br>Zo'n vergelijking is echter niet helemaal eerlijk, want de waarde van geld verandert ook. Dat heet inflatie. Sinds 1970 bedroeg de gemiddelde inflatie per jaar 3,95%. We gaan ervan uit dat sinds 1970 de huurprijzen, onafhankelijk van andere factoren, jaarlijks door de inflatie 3,95% gestegen zijn.<br>Door de $125 uit 1970 om te rekenen naar dollars uit 2013 kan je de reële gemiddelde huurstijging berekenen. De reële gemiddelde huurstijging is de procentuele stijging van de gemiddelde huurprijzen boven op de stijging als gevolg van de inflatie.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_66115931efb1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a82d76c736914785983bf91c92b9a256.pdf"
+    },
+    {
+      "name": "Wiskunde A 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2021_I_uitwerkbijla_3883774f4ae1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cdb796394a4c4a968d52b9ce2edc08ed.pdf"
+    }
+  ]
+}

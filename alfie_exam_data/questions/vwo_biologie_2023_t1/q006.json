@@ -1,0 +1,89 @@
+{
+  "id": "vwo_biologie_2023_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 36,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 37,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 38,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noteer zo’n proces dat direct aangestuurd wordt door het animale zenuwstelsel.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 2018 deed olympisch zwemkampioen Maarten van der Weijden zijn eerste poging om de 200 kilometer lange Elfstedentocht te zwemmen om geld in te zamelen voor onderzoek naar de behandeling van kanker (afbeelding 1). Deze poging slaagde net niet, maar een jaar later lukte het wel.<br><br>Gedurende een intensieve trainingsperiode heeft Maarten zijn lichaam voorbereid op deze uitzonderlijke inspanning. Door de training is zijn maximale zuurstofopname vergroot. Dit is op weefselniveau te verklaren doordat de concentratie van rode bloedcellen in het bloed verhoogd is. Ook op andere organisatieniveaus zijn als gevolg van training veranderingen opgetreden die leiden tot een vergroting van de maximale zuurstofopname uit de lucht.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_843644bd7d5f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7ab8d9f222234184b0b7c83ba3093e72.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Door de training is ook het aantal haarvaten in Maartens skeletspieren toegenomen. Hierdoor kan in de skeletspieren meer aerobe dissimilatie plaatsvinden.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Spiervezels kunnen worden ingedeeld op type. In tabel 1 staan enkele eigenschappen van twee typen spiervezels.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_7c127ad5d511.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/865e4697b75a409391a3b3dde98ddbe8.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Tijdens de Elfstedentocht zwom Maarten op een rustig tempo om het risico op de ophoping van melkzuur in de spieren zo laag mogelijk te houden.<br>Stofwisselingsprocessen waarbij ATP wordt gevormd zijn:<br>1 glycolyse<br>2 citroenzuurcyclus<br>3 oxidatieve fosforylering</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Halverwege zijn eerste Elfstedentocht was Maarten het dieet van koolhydraatrijke energierepen en sportsnacks even zat. Door een oproepje via sociale media kon hij binnen een half uur van een pizza genieten. Een pizza bevat veel vet (triglyceriden) en koolhydraten (zetmeel).<br>Over het verschil tussen vertering van triglyceriden en van zetmeel worden de volgende uitspraken gedaan:<br>1 De vertering van zetmeel start eerder in het spijsverteringsstelsel.<br>2 Voor de vertering tot opneembare producten zijn bij zetmeel minder verschillende enzymen nodig.<br>3 Een deel van de opgenomen verteringsproducten van triglyceriden wordt via een andere route naar het bloed vervoerd.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Voorafgaand aan zijn Elfstedentocht had Maarten een thermometerpil ingeslikt. Daardoor kreeg zijn coach continu informatie over Maartens kerntemperatuur. Als die onder de 35 °C zou komen, zou er sprake zijn van onderkoeling en zou Maarten moeten stoppen. Verschillende processen, aangestuurd door het autonome en het animale zenuwstelsel, zorgden er tijdens het zwemmen voor dat Maartens lichaamstemperatuur niet te snel daalde.</p>"
+    }
+  ],
+  "bijlages": []
+}

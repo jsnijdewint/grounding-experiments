@@ -1,0 +1,58 @@
+{
+  "id": "vmbo_gl_economie_2022_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 124,
+          "name": "Arbeid en productie",
+          "prefix_code": "EC/K/5A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg in twee stappen uit dat de krapte op deze arbeidsmarkt gevolgen kan hebben voor de hoogte van de loonkosten van HAL. Gebruik de begrippen 'vraag naar arbeid' en 'aanbod van arbeid' in je antwoord.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 3 in de bijlage.<p>De aandeelhouders van HAL nv zijn bij elkaar gekomen om het jaarverslag van 2017 te bespreken. HAL nv produceert met een beperkt aantal werknemers en veel techniek één type machine die computerchips produceert.</p></p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_107a899bb911.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7d3546cf346a42199346794f16984df6.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Ondanks de behaalde winst in 2016 maken de aandeelhouders zich zorgen over de toekomst. Bij HAL werken vooral hoogopgeleide werknemers. Er is sprake van krapte op de arbeidsmarkt van deze hoogopgeleiden. Dat kan gevolgen hebben voor de loonkosten.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_ef2c1b8354d0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dc02323a63d64258a36e6a9729a51c74.pdf"
+    }
+  ]
+}

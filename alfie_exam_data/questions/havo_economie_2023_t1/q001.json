@@ -1,0 +1,46 @@
+{
+  "id": "havo_economie_2023_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 76,
+          "name": "Risico en informatie",
+          "prefix_code": "G"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Maak van de onderstaande zinnen een economisch juiste redenering. De verzekering tegen arbeidsongeschiktheid voor werkenden in loondienst is een ...(1)... verzekering en wordt gefinancierd via het (2) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8230;</mo></math></p><p>Zzp'ers kunnen kiezen voor een individuele aov. Door het ontbreken van ... (3)... bij het afsluiten van een individuele aov, is er bij deze verzekeringen sprake van ...(4) ... waardoor de premie relatief hoog is. Kies uit:<br>bij (1) particuliere / sociale<br>bij (2) kapitaaldekkingsstelsel / omslagstelsel<br>bij (3) asymmetrische informatie / collectieve dwang / intertemporele ruil bij (4) averechtse selectie / meeliftgedrag / verzonken kosten</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Uit een krant, 2019:<br><br>Werkenden in loondienst zijn verplicht verzekerd tegen inkomensverlies bij arbeidsongeschiktheid. Voor deze verzekering betalen werknemers en werkgevers een inkomensafhankelijke premie aan een verzekeringsmaatschappij. De ontvangen premies worden gebruikt om de uitkeringen te betalen die moeten worden uitgekeerd in dat jaar. Zelfstandigen zonder personeel (zzp'ers) daarentegen, moeten dit onvoorziene inkomensverlies zelf verzekeren via een individuele arbeidsongeschiktheidsverzekering (aov). In de praktijk is een individuele aov voor een zzp'er duurder dan een aov voor een werknemer, waardoor veel zzp'ers op zoek gaan naar betaalbare, alternatieve verzekeringsvormen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2023_I_bijlage_eaf186f81c74.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/723bbf20b7c0415f956f8db16a4c63fd.pdf"
+    }
+  ]
+}

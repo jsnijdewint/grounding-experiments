@@ -1,0 +1,46 @@
+{
+  "id": "havo_economie_2023_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 78,
+          "name": "Goede tijden, slechte tijden",
+          "prefix_code": "I"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat verwachte deflatie een negatieve invloed heeft op de economische groei.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De Europese Centrale Bank (ECB) pakt flink uit met een nóg lagere rente om de bestedingen te stimuleren. De economie heeft het hard nodig, vindt de ECB.<br>Het is de taak van een centrale bank om er alles aan te doen om de inflatie op een gewenst stabiel niveau (2%) te houden. De ECB wil de inflatie op dit moment stimuleren, om een veiligheidsmarge te hebben tegen de mogelijke risico's van deflatie.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2023_I_bijlage_eaf186f81c74.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/723bbf20b7c0415f956f8db16a4c63fd.pdf"
+    }
+  ]
+}

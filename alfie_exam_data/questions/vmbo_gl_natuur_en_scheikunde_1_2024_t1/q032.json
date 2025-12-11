@@ -1,0 +1,70 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2024_t1_q32",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 144,
+          "name": "Kracht en veiligheid",
+          "prefix_code": "NASK1/K/9"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Na het versnellen stijgt de drone verder met een constante snelheid van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn> <mo>,</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>. Je ziet drie afbeeldingen met de krachten op de drone. Welke afbeelding hoort bij het stijgen met een constante snelheid?</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een drone is een onbemand luchtvaartuig dat op afstand bestuurbaar is.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_198cdb3cb582.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/292d7445714645a69595049a79e78154.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Er staat een drone stil op de grond. De motoren worden gestart en de drone stijgt op. De drone versnelt eenparig met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn> <mo>,</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">s</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></math>.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De massa van de drone is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>6</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">kg</mi>&#160;</mrow></math>.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_0f0632d80e91.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/96582808f3804273a92612e30f75a0df.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2024_I_c96405ee1a91.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c258a8174cb04fbba9275f60e7aa3610.pdf"
+    }
+  ]
+}

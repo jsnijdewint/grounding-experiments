@@ -1,0 +1,57 @@
+{
+  "id": "vwo_economie_2023_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 18,
+          "name": "Markt",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de prijs waarbij Superstream maximale winst behaalt.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Superstream is een internationaal opererend bedrijf dat abonnementen aanbiedt waarbij klanten tegen een vast jaarbedrag onbeperkt content (films en series) kunnen kijken op telefoon, tablet en tv (streamen). Superstream koopt deze content in bij productiemaatschappijen, deels gefinancierd met nieuw afgesloten kredieten. Het aanbieden van streamingsdiensten vereist forse investeringen in content (eigen films en series) en serverparken (voor het opslaan van data / de content).&nbsp;<br><br>Superstream opereert op een oligopolistische markt en voert een nietkostendekkende prijs. Onder invloed van het stijgende marktaandeel en de aanwezigheid van schaalvoordelen verwacht het bestuur de komende jaren echter wel winst te boeken.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Bedrijfsanalist Vera Vierklau ziet in haar onderzoek dat er bij de huidige<br>prijs sprake is van een prijsinelastische vraag als door het gevoerde<br>prijsbeleid de concurrentie verdwijnt. Ze constateert het volgende:</p><p>i. “Door het verdwijnen van de concurrentie verandert de marktvorm<br>Hierdoor verschuift de prijsafzetfunctie (GO-curve),</p><p>ii Door deze verschuiving verandert (bij iedere prijs) de prijselasticiteit<br>van de vraag naar abonnementen</p><p>ii Als Superstream de prijs (matig) verhoogt, zal de omzet stijgen.”<br>&nbsp;</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>GO = 200 – 10Q&nbsp;<br>MK = 2&nbsp;<br>GO (=P) = de jaarlijkse abonnementsprijs in euro’s&nbsp;<br>Q = het aantal abonnementen in miljoenen<br><br>Door de toegenomen marktmacht wordt Superstream een monopolist en streeft naar maximale winst.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_eb9b801dd85a.jpg",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/af322063787f4da7b2243d4793ead151.jpg",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

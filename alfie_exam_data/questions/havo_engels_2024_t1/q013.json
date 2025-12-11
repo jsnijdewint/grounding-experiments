@@ -1,0 +1,34 @@
+{
+  "id": "havo_engels_2024_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "engels",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 28,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>‘So why do we sometimes get it wrong?’ (alinea 1)<br><br>Welke twee verklaringen worden gegeven in alinea 2 tot en met 5 voor het feit dat mensen signalen uit gezichtsuitdrukkingen niet oppikken? Geef antwoord in het Nederlands.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Engels 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2024_I_bijlage_25cdf7f0d775.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cee1f26d8ed54416ab379491be4f82c8.pdf"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "havo_economie_2024_t1_q26",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 77,
+          "name": "Welvaart en groei",
+          "prefix_code": "H"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zijn de bestedingen van buitenlandse toeristen voor de Nederlandse economie in Nederland een vorm van import, van export of geen van beide? Leg je keuze uit.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De wereldbevolking blijft groeien. Bovendien zijn er, mede door lagere prijzen, steeds meer mensen in staat om vaker en langer te reizen. De bestedingen in de sector toerisme nemen daardoor wereldwijd toe. Ook in Nederland leveren hogere bestedingen in deze sector in toenemende mate een bijdrage aan het bruto binnenlands product (bbp) en de werkgelegenheid. Driekwart van de bestedingen in de sector toerisme is te danken aan de bestedingen van buitenlandse toeristen in Nederland.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2024_I_bijlage_92c84f45cc20.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/67b732e325834a28a9d329f8cba100cd.pdf"
+    }
+  ]
+}

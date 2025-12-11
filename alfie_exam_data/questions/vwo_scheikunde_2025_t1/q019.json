@@ -1,0 +1,79 @@
+{
+  "id": "vwo_scheikunde_2025_t1_q19",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat het PVA-PVB slechter hecht aan het glasoppervlak bij een lagere temperatuur tijdens het aanbrengen.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gelaagd veiligheidsglas is een composiet, die is opgebouwd uit twee of meer lagen glas, met daartussen steeds een laag van een kunststof. Dit soort veiligheidsglas wordt gebruikt in auto's en als kogelwerend glas. De kunststof is vervormbaar, waardoor veiligheidsglas beter bestand is tegen breuk en er geen stukken glas loslaten als een glaslaag toch breekt. De glaslagen zorgen voor krasbestendigheid en vormvastheid. De meest gebruikte kunststof voor gelaagd glas is het willekeurig (random) copolymeer PVA-PVB. In figuur 1 is de structuurformule gegeven van de twee monomeer-eenheden in de keten van PVA-PVB. Hierbij staat VA voor vinylalcohol en VB voor vinylbutyral.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_f01694238216.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f7d767da442a4da7b861acf28db0d6d8.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>PVA-PVB wordt geproduceerd door PVA in een waterige oplossing te laten reageren met butanal. Hierbij reageren steeds twee OH-groepen van naast elkaar gelegen VA-eenheden met één molecuul butanal. Bij deze reactie wordt een willekeurig (random) copolymeer gevormd en ontstaat nog één andere stof. Op de uitwerkbijlage is deze omzetting onvolledig weergegeven.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_dbd95a071598.jpg",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5b1150fc88e748329122e1065a85e59e.jpg",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De reactie tussen PVA en butanal vindt plaats in een batch-reactor bij een constante temperatuur. Op de uitwerkbijlage is een mogelijk verloop van de reactiesnelheid tegen de tijd weergegeven. De reactiesnelheid is hier gedefinieerd als de hoeveelheid butanal per liter mengsel die per seconde reageert.<br>Op <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>t</mi> <mrow data-mjx-texclass=\"ORD\"><mn>0</mn>&#160;</mrow></msub></math> bevindt zich in de reactor een oplossing van PVA en butanal in water. Naarmate de reactie vordert, stijgt het percentage VB-eenheden. Vanaf <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>t</mi> <mrow data-mjx-texclass=\"ORD\"><mn>1</mn>&#160;</mrow></msub></math> begint zich een suspensie te vormen van het gevormde PVAPVB. De vorming van de suspensie heeft invloed op de reactiesnelheid. Hierdoor is het verloop van de reactiesnelheid niet zoals dat in de grafiek is weergegeven.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Voor de toepassing in gelaagd glas moet de reactie worden gestopt voordat alle OH-groepen met butanal hebben gereageerd. Voor gebruik in autoruiten wordt PVA-PVB-78 gebruikt. Dit copolymeer bestaat voor 78 massa-% uit VB-eenheden.<br>De molaire massa van een eenheid VA is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>44</mn> <mo>,</mo> <mn>1</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">g</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">mol</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math>.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Met een titratie kan het percentage overgebleven OH-groepen worden bepaald. Op deze wijze kan worden gecontroleerd of het geproduceerde materiaal voldoet aan de specificaties.<br>Hieronder is deze bepaling beschreven:<br>1 Een monster PVA-PVB wordt in een organisch oplosmiddel opgelost. Daarna wordt een reagens toegevoegd dat in een aflopende reactie alle overgebleven OH-groepen omzet.<br>Per mol OH-groepen wordt hierbij 1 mol ethaanzuur gevormd.<br>2 Na de reactie wordt water toegevoegd. Ethaanzuur en het oplosmiddel lossen op in water, de omgezette PVA-PVB lost niet op.<br>De gevormde oplossing wordt afgescheiden van de overige stoffen.<br>3 De oplossing die ethaanzuur bevat, wordt vervolgens getitreerd met een KOH -oplossing met fenolftaleïen als indicator.<br>Voor een monster van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mo>,</mo> <mn>200</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">g</mi>&#160;</mrow></math> PVA-PVB was <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>16</mn><mo>,</mo><mn>00</mn><mi>mL</mi><mo>&#160;</mo><mi>KOH</mi></math>-oplossing met een molariteit van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>650</mn> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">M</mi>&#160;</mrow></math> nodig om alle ethaanzuur volledig om te zetten.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>De batch-productie van PVA-PVB levert korrels op. Deze korrels worden verwarmd en gewalst tot een vervormbare folie. Bij een temperatuur van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>70</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math> wordt de folie vervolgens tussen de glaslagen aangebracht. Hierbij wordt geen lijm gebruikt omdat de folie vanzelf hecht. Wanneer de temperatuur tijdens het aanbrengen lager is dan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>70</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>, is na het afkoelen de hechting tussen het glasoppervlak en PVA-PVB minder sterk. Dit is te verklaren aan de hand van de eigenschappen van PVA-PVB bij verschillende temperaturen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vw-1028-a-25-1-u.pdf",
+      "media_path": "media/bijlages/vw-1028-a-25-1-u_992021c79286.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6a02d28c7f0e4c32b051d527b5d553bb.pdf"
+    }
+  ]
+}

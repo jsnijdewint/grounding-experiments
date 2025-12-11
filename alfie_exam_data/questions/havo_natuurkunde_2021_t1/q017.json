@@ -1,0 +1,102 @@
+{
+  "id": "havo_natuurkunde_2021_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 132,
+          "name": "Medische beeldvorming",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bepaal met behulp van de figuur op de uitwerkbijlage de halveringsdikte voor de straling van de kitmarker in menselijk lichaamsweefsel.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een kitmarker is een permanente lichtbron die aan een sleutelbos gehangen kan worden. Zie figuur 1. Zo zijn sleutels in het donker terug te vinden. Een kitmarker heeft geen batterij. Het is een glazen buisje met daarin gasvormig H-3 (tritium). Tritium is een <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi>&#160;</math>-straler.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2c26e0d57db0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a7a920f308324ec3add56e9764f8e3d5.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De binnenkant van de glazen buis is voorzien van een speciale verflaag. De vrijgekomen straling uit het tritiumverval zorgt ervoor dat de verflaag groenblauw licht gaat uitzenden. De fotonen van dit zichtbare licht hebben een energie van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mo>,</mo> <mn>5</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">eV</mi>&#160;</mrow></math>.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De uitgezonden <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi>&#160;</math>-deeltjes passeren de positieve kernen van het tritium. Hierbij verandert de richting van de baan van het <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi>&#160;</math>-deeltje.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_b586cc658dc4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e6d991b655fb4b5da6330cfdf89bedae.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Bij de verandering van de baan van een <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi>&#160;</math>-deeltje komt energie vrij. Deze energie komt vrij als een foton met een energie van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>0</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>2</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">MeV</mi>&#160;</mrow></math>. Dit foton wordt ook door de kitmarker uitgezonden.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Sleutels worden vaak meegenomen in een broekzak. De kitmarker wordt dan langdurig tegen het lichaam gedragen. Een onderzoeker wil het risico hiervan onderzoeken. Hij wil veilig de halveringsdikte voor deze fotonen in menselijk lichaamsweefsel bepalen. In plaats van menselijk weefsel gebruikt hij aluminium en hanteert hij daarbij de volgende vuistregel:</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>De halveringsdikte van menselijk lichaamsweefsel voor dit soort straling is 10 keer zo groot als de halveringsdikte van aluminium.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Achter aluminium plaatjes van diverse diktes meet de onderzoeker de intensiteit van de straling afkomstig van de kitmarker. Hij meet met een GM-teller het aantal pulsen per minuut. Zijn metingen zijn uitgezet in een diagram. Zie figuur 2.</p>"
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_d6cef888e86d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2fff342fa8a248cf9a4e6f257233de7a.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Ten slotte heeft hij de achtergrondstraling bepaald. Deze is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>00</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>3</mn>&#160;</mrow></msup></math>pulsen per minuut. Figuur 2 is ook op de uitwerkbijlage weergegeven.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2021_I_uitwerkbijl_615e0715d0ed.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ae05f1ce95cd4d549a2e6c6e34cdeacc.pdf"
+    }
+  ]
+}

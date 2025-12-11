@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 89,
+    "education_level": "vmbo_gl",
+    "discipline": "economie",
+    "year": 2023,
+    "tijdvak": 1
+  },
+  "question_count": 42
+}

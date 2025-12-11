@@ -1,0 +1,64 @@
+{
+  "id": "vmbo_gl_aardrijkskunde_2024_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "aardrijkskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 71,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bekijk bron 5 .<br>In bron 5 staan twee klimaatgrafieken van twee verschillende plaatsen in Spanje. Een van de klimaatgrafieken past ook bij het klimaat in Nederland.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Beargumenteer welke klimaatgrafiek alleen van een Spaanse plaats kan zijn.<br>Doe het zo:</p><ul><li>Kies eerst of het klimaat van klimaatgrafiek 1 of klimaatgrafiek 2 alleen in Spanje voorkomt.</li><li>Geef daarna met behulp van bron 5 een argument voor je keuze.</li></ul>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_c5e5eff4783f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e260bbff3a454bf287af06c23b3e731f.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_9cfbb8928cdb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/67bd030b15b74d19878c3d558fe6d319.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_61e638a38e66.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3087b5ef9d6546eabd5e6332b883399c.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_982fd1f931b8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4d68a1f767ea43e0942407ce8c692c48.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_010baea89e57.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cdf78ba696fe4160a152a4ac81335df3.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

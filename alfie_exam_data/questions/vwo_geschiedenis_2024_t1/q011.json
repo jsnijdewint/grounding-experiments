@@ -1,0 +1,56 @@
+{
+  "id": "vwo_geschiedenis_2024_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 190,
+          "name": "Tijdvak 7 – Pruiken en revoluties",
+          "prefix_code": 7
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 6. Je kunt met deze petitie verschillende kenmerkende aspecten van de achttiende eeuw illustreren.<br><br>Toon dit aan voor twee kenmerkende aspecten van de achttiende eeuw.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gebruik bron 4. Met deze beschrijving kun je een verklaring geven voor het veranderde wereldbeeld in Europa en voor de snelle Europese expansie.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In 1521 kwam in Bazel (het huidige Zwitserland) het stadsbestuur, dat tot dan toe bestond uit patriciërs, in handen van de gilden. Het nieuwe stadsbestuur liet het stadhuis herinrichten en daarbij een muurschildering aanbrengen van het verhaal dat Lactantius schreef over koning Sjapoer en keizer Valerianus (zie bron 1).</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een anekdote: In 1679 verzochten regenten van het gewest Utrecht aan stadhouder Willem III om tijdens een bijeenkomst de belangrijkste bestuursfuncties in het gewest te verdelen. Hij moest hiervoor briefjes uit een hoed trekken en ongezien uitdelen aan de verschillende regenten. De functie die op het briefje stond werd aan de regent toegewezen. Met deze anekdote kun je verandering en continuïteit aantonen in het bestuur van de gewesten van de Republiek.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2024_I_bijlage_57b61674271e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/293f53e566cc48c6b58f4d54b880c393.pdf"
+    }
+  ]
+}

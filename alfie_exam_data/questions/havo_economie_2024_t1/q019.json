@@ -1,0 +1,46 @@
+{
+  "id": "havo_economie_2024_t1_q19",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 74,
+          "name": "Ruilen over de tijd",
+          "prefix_code": "E"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik het krantenbericht.<br>Bereken het bedrag in euro's dat het ABP eind augustus tekort komt om de toekomstige uitkeringen te kunnen betalen.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Uit een krant:<br>Het pensioenfonds ABP behaalde in augustus een beleggingswinst van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>5</mn>&#160;</math> miljard uit onder meer aandelen, vastgoed en obligaties. Daardoor had het fonds eind augustus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>456</mn>&#160;</math> miljard in de pensioenkas. De huidige waarde van de toekomstige verplichtingen van het ABP groeide echter veel harder.<br>Bij het ABP daalde de dekkingsgraad <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mn>1</mn> <mo stretchy=\"false\">)</mo>&#160;</mrow></msup></math>in augustus van 94 naar 89 procent. Dat betekent dat het ABP te weinig vermogen heeft om de toekomstige uitkeringen te kunnen uitbetalen. De Nederlandsche Bank (DNB) is de toezichthouder op de pensioenfondsen en berekent de huidige waarde van de toekomstige verplichtingen op basis van de rentestand.</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mtext>1) </mtext></mrow></msup><mtext>dekkingsgraad </mtext><mo>=</mo> <mfrac><mtext>huidige vermogen pensioenfonds </mtext><mtext>huidige waarde toekomstige verplichtingen pensioenfonds </mtext></mfrac><mo>&#215;</mo> <mn>100</mn> <mi mathvariant=\"normal\">%</mi></math></p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2024_I_bijlage_92c84f45cc20.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/67b732e325834a28a9d329f8cba100cd.pdf"
+    }
+  ]
+}

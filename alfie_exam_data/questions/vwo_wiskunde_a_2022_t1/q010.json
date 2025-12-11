@@ -1,0 +1,61 @@
+{
+  "id": "vwo_wiskunde_a_2022_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 78,
+          "name": "Standaardfuncties",
+          "prefix_code": 1
+        },
+        {
+          "id": 79,
+          "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken welk aantal bestellingen per jaar <strong>minimaal </strong>mogelijk is.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Voor een winkelier zijn zowel aan het bestellen van producten als aan het in voorraad houden van producten kosten verbonden. Daarom doen economen onderzoek naar een juiste balans tussen het aantal bestellingen per jaar en het aantal producten per bestelling.</p><p>Veronderstel dat een winkelier jaarlijks 100 stuks van een bepaald product verkoopt. Hij wil dat er per jaar in totaal 100 exemplaren besteld worden in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>n</mi>&#160;</math>even grote bestellingen, bijvoorbeeld 4 bestellingen van elk 25 stuks.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Bij een veel gebruikt algemeen model nemen economen aan dat de winkelier voor elke bestelling en voor elk in voorraad gehouden product een vast bedrag rekent. De formule bij dit model is:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi> <mo>=</mo> <mfrac><mrow><mi>A</mi> <mo>&#8901;</mo> <mi>B</mi> </mrow><mi>n</mi> </mfrac><mo>+</mo> <mfrac><mn>1</mn> <mn>2</mn> </mfrac><mo>&#8901;</mo> <mi>n</mi> <mo>&#8901;</mo> <mi>V</mi></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(1)</p><p>Hierin is:</p><ul><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi>&#160;</math>de totale jaarlijkse kosten in euro's;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>het aantal producten dat jaarlijks besteld wordt;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mi>B</mi>&#160;</math>de bestelkosten per bestelling in euro's;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mi>n</mi>&#160;</math>het aantal producten per bestelling;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mi>V</mi>&#160;</math>de voorraadkosten per product per jaar in euro's.</li></ul><p>Voor een bepaald product hanteert een winkelier <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>8</mn>&#160;</math>,- bestelkosten per bestelling. De voorraadkosten zijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>0</mn> <mo>,</mo> <mn>60</mn>&#160;</math> per product per jaar. Per jaar verkoopt de winkelier 1000 stuks van dit product en hij wil dus ook dat er 1000 producten per jaar besteld worden.<br>De winkelier wil dat de totale jaarlijkse kosten maximaal € 110,- zijn.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_73fca02d2c1b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5d05a69549d843d992d31326c4d8bd2f.pdf"
+    },
+    {
+      "name": "Wiskunde A 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2022_I_uitwerkbijla_986f038aa607.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/05b11d946a864537912b61b903133caa.pdf"
+    }
+  ]
+}

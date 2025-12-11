@@ -1,0 +1,45 @@
+{
+  "id": "vwo_economie_2021_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 23,
+          "name": "Goede tijden, slechte tijden",
+          "prefix_code": "I"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>De presidentskandidaat wil zijn plannen doorzetten: \"Ook al vermindert het tekort op de lopende rekening niet van vandaag op morgen, er is op termijn tenminste uitzicht op verbetering. Het voorstel van Liman ga ik niet uitvoeren. Hierdoor zou de werkloosheid al te zeer toenemen.\" Leg uit dat het voorstel van Liman om de overheid te laten bezuinigen kan leiden tot toename van de werkloosheid.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In het land Imareca zijn presidentsverkiezingen. Centraal in de campagne staat het stimuleren van de zwakke economie. De werkloosheid neemt toe en de lopende rekening van de betalingsbalans met de belangrijkste handelspartner, het land Nachi, vertoont een groot tekort. De valuta van Imareca heeft een vaste wisselkoers ten opzichte van die van Nachi. Een kandidaat kondigt aan dat hij als president onmiddellijk over zal gaan tot een devaluatie van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> ten opzichte van de valuta van Nachi. Dit zou volgens hem zowel het tekort op de lopende rekening van de betalingsbalans met Nachi als de binnenlandse werkloosheid verminderen.</p><p>Econoom Paulus stelt: \"Devaluatie zal op korte termijn juist nadelig zijn voor de economie van Imareca. Dit heeft te maken met de prijselasticiteiten van de import en van de export. De importwaarde, gemeten in eigen valuta, kan op korte termijn stijgen waardoor het tekort op de lopende rekening met Nachi verder zal toenemen.\" De formules van de prijselasticiteiten van de export en van de import van goederen en diensten luiden:<br><br>&nbsp;</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable rowspacing=\"4pt\"><mtr><mtd><mtext>prijselasticiteit van de export </mtext><mo>=</mo> <mfrac><mrow><mi mathvariant=\"normal\">%</mi> <mtext>verandering exportvolume </mtext></mrow><mrow><mi mathvariant=\"normal\">%</mi> <mtext>verandering exportprijs in vreemde valuta </mtext></mrow></mfrac></mtd></mtr><mtr><mtd><mtext>prijselasticiteit van de import </mtext><mo>=</mo> <mfrac><mrow><mi mathvariant=\"normal\">%</mi> <mtext>verandering importvolume </mtext></mrow><mrow><mi mathvariant=\"normal\">%</mi> <mtext>verandering importprijs in eigen valuta&#160;</mtext></mrow></mfrac></mtd></mtr></mtable></math></p><p>Analyses wijzen uit dat op korte termijn de prijselasticiteit van de export <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8722;</mo> <mn>0</mn> <mo>,</mo> <mn>5</mn>&#160;</math> bedraagt en de prijselasticiteit van de import - 0,4.</p><p>Beide formules zijn varianten op de prijselasticiteit van de vraag. Bij de prijselasticiteit van de export staat in de noemer de prijs in vreemde valuta, terwijl bij de prijselasticiteit van de import in de noemer de prijs is genoteerd in eigen (binnenlandse) valuta.</p><p>&nbsp;</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Econoom Liman stelt binnenlands beleid voor. \"Als we gebruikmaken van het kringloopmodel, is te zien dat er in Imareca sprake is van een overheidstekort dat niet wordt opgevangen door een particulier spaaroverschot. Ik stel voor dat de overheid gaat bezuinigen om daarmee ook het tekort op de lopende rekening te verlagen.\" Liman onderbouwt zijn visie met gegevens uit tabel 1.</p><p>Tabel 1 macro-economische gegevens van Imareca in 2019</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\">variabele</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;text-align:center;width:auto;\">in procenten van het bbp</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">overheidstekort</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">2,6</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">particuliere besparingen (S)</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8230;</mo></math></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">particuliere investeringen (I)</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">20,3</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">tekort op de lopende rekening</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">3,2</td></tr></tbody></table></figure>"
+    }
+  ],
+  "bijlages": []
+}

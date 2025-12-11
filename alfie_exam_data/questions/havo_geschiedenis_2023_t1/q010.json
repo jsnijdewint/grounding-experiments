@@ -1,0 +1,91 @@
+{
+  "id": "havo_geschiedenis_2023_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "geschiedenis",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 29,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 199,
+          "name": "Tijdvak 7 – Pruiken en revoluties",
+          "prefix_code": 7
+        },
+        {
+          "id": 201,
+          "name": "Tijdvak 8 – Burgers en stoommachines",
+          "prefix_code": 8
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg voor beide apart uit welke boodschap dat is.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gebruik bron 1.<br>Een conclusie:<br>De Europese overzeese expansie draagt bij aan het veranderende mens- en wereldbeeld van de renaissance.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In 1594 gaf generaal Willem Lodewijk van Nassau-Dillenburg aan de opperbevelhebber van het leger van de Republiek het advies om 'de contramars' in te voeren. Dit was een methode waardoor soldaten sneller klaarstonden voor de aanval. Willem Lodewijk had over de contramars gelezen in het boek <i>Tactische theorie</i> van de Griekse schrijver Aelianus uit de tweede eeuw.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 2.</i></p><p>De Champlain publiceert het boek Reizen kort na zijn benoeming als vicegouverneur van de Franse kolonie in Amerika.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Twee gegevens over Rachel Ruysch (1664-1750):<br>1 Rachel bestudeerde inheemse bloemen om ze na te tekenen en op te nemen in een verzameling.<br>2 Rachel werd beroemd in de Republiek vanwege haar geschilderde bloemstillevens, die populair waren bij Amsterdamse regenten.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 3.</i><br>Twee conclusies:<br>1 Het verbod op dit huwelijk past bij de samenleving tijdens het ancien régime.<br>2 Anne Marie Louise van Orléans wil met deze beschrijving van de gebeurtenis haar status aan het hof benadrukken.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Een gegeven:</p><p>In 1763 bepaalde de Britse koning George III dat trouwe officieren en soldaten uit zijn leger in nieuw veroverd gebied in Noord-Amerika grond kregen. De voorwaarde was dat ze deze grond in gebruik moesten nemen als landbouwgrond.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 4.</i><br>Twee beweringen:<br>1 Abigail Adams gebruikt in haar oproep een argument waarmee de Amerikaanse opstandelingen hun strijd rechtvaardigen.<br>2 Abigail Adams gaat bij haar oproep om vrouwenrechten niet uit van het verlichte ideaal van natuurlijke rechten.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 5.</i><br>De voordelen van het Grand Trunk Canal die Pennant beschrijft maken de verdere industrialisering van Groot-Brittannië mogelijk.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 6.</i><br>Tipoe laat het kunstwerk in zijn paleis in India tentoonstellen. Nadat Britse soldaten het paleis hebben veroverd, wordt het kunstwerk naar Groot-Brittannië gebracht en tentoongesteld in het museum van de East India Company in Londen. Tipoe <strong>en </strong>de East India Company willen elk met het tentoonstellen van het kunstwerk een boodschap overbrengen over het Britse imperialisme.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2023_I_bijlage_2ccfd292fdea.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/55cb39c4e0dc4b628a1ed42d2c5ca13a.pdf"
+    }
+  ]
+}

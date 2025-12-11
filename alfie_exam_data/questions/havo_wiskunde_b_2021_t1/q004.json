@@ -1,0 +1,46 @@
+{
+  "id": "havo_wiskunde_b_2021_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 103,
+          "name": "Meetkundige berekeningen",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bewijs dit.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De cirkel <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>c</mi> <mrow data-mjx-texclass=\"ORD\"><mn>1</mn>&#160;</mrow></msub></math>wordt gegeven door:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>&#8722;</mo> <mn>4</mn> <mi>x</mi> <mo>+</mo> <msup><mi>y</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>&#8722;</mo> <mn>6</mn> <mi>y</mi> <mo>=</mo> <mo>&#8722;</mo> <mn>8</mn></math></p><p>De lijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi>&#160;</math>wordt gegeven door:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi> <mo>=</mo> <mfrac><mn>1</mn> <mn>2</mn> </mfrac><mi>x</mi> <mo>+</mo> <mn>4</mn> <mfrac><mn>1</mn> <mn>2</mn>&#160;</mfrac></math></p><p>Lijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi>&#160;</math>raakt cirkel <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>c</mi> <mrow data-mjx-texclass=\"ORD\"><mn>1</mn>&#160;</mrow></msub></math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde B 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2021_I_uitwerkbijla_c8e2f9f7d1ae.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2a3aa3c09ed74fada6a58eebc3894dd7.pdf"
+    }
+  ]
+}

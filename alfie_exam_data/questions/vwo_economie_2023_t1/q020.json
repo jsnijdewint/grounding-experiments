@@ -1,0 +1,47 @@
+{
+  "id": "vwo_economie_2023_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 23,
+          "name": "Goede tijden, slechte tijden",
+          "prefix_code": "I"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg de bewering van Kempes uit. Bereken daarvoor eerst de grootte van de multiplier van de algemene heffingskorting.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De regering van een land discussieert over mogelijkheden om het bestaande overheidstekort terug te dringen. Een van de opties is het verlagen van de algemene heffingskorting bij de inkomstenbelasting, dat levert € 2 miljard extra autonome belastinginkomsten op. Econoom Maria Kempes onderzoekt deze optie, waarbij ze uitgaat van een gesloten economie.&nbsp;<br><br>Kempes beweert: “Op basis van tabel 1 blijkt dat de nominale daling van het bbp groter is dan de nominale daling van de algemene heffingskorting. Dat is het gevolg van de multiplierwerking.”</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_66d992d1966a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1c7f16342103486bb4862660325c6add.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

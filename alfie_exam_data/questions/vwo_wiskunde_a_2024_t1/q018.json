@@ -1,0 +1,68 @@
+{
+  "id": "vwo_wiskunde_a_2024_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 78,
+          "name": "Standaardfuncties",
+          "prefix_code": 1
+        },
+        {
+          "id": 79,
+          "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Stel met behulp van de gegevens van 21- en 28-jarige spelers een formule op voor het gemiddelde jaarsalaris <i>S </i>in duizenden dollars van honkballers van <i>t</i> jaar oud. Geef de getallen in je antwoord zo nodig in drie decimalen.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Honkbal is een van de populairste sporten in de Verenigde Staten.&nbsp;</p><p>Omdat honkbal vooral een tactische sport is en kracht en snelheid minder belangrijk zijn dan bij veel andere sporten, kunnen professionele honkballers normaal gesproken tot rond hun veertigste jaar aan de top meespelen. Naarmate een speler ouder wordt en meer seizoenen mee heeft gespeeld, zal deze speler meer ervaring opdoen en beter worden, en zijn salaris zal dus ook stijgen.</p><p>In figuur 1 staan de gemiddelde salarissen van alle honkballers uit de belangrijkste Amerikaanse competities tussen 1995 en 2018.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_9ea6d69f57cb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e488d902edf44817a50b9907a20441bf.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de grafiek kun je bijvoorbeeld aflezen dat honkballers van 21 jaar gemiddeld 0,4 miljoen dollar per jaar verdienen en honkballers van 28 jaar gemiddeld 2,6 miljoen dollar.</p><p>Uit de figuur blijkt dat het salaris tussen de 21 en 28 jaar nagenoeg exponentieel toeneemt. Het is, uitgaande van exponentiële groei, mogelijk een formule op te stellen van het verband tussen de leeftijd en het gemiddelde jaarsalaris van honkballers.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde A 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2024_I_uitwerkbijla_10eda6c4e39f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0fd4a0d092ea4f26ae0c6203b7f1dbf1.pdf"
+    },
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_50ee8ab18ba5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d7f2659ec4da481880d7347b05791af4.pdf"
+    }
+  ]
+}

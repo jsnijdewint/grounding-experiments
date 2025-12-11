@@ -1,0 +1,66 @@
+{
+  "id": "vwo_bedrijfseconomie_2022_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 6,
+          "name": "Persoonlijke financiële zelfredzaamheid",
+          "prefix_code": 1
+        },
+        {
+          "id": 7,
+          "name": "De oprichting van een eenmanszaak",
+          "prefix_code": 2
+        },
+        {
+          "id": 8,
+          "name": "Van eenmanszaak naar rechtspersoon",
+          "prefix_code": 3
+        },
+        {
+          "id": 9,
+          "name": "Perspectief op de organisatie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noem een andere vermogenstitel waarin kan worden belegd, naast aandelen en opties.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Sibel heeft een deel van haar spaargeld belegd in aandelen Swatch. Dit geeft een risico. Daarom heeft ze het risico op koersdaling afgedekt door te beleggen in opties Swatch met aandelen Swatch als onderliggende waarde.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_bijlag_62086e27b4ef.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a93cd8f679584499a2c7de8ddf763cff.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_uitwer_fe9d963a16b1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e693b318cf614e21b8c84f861816b24e.pdf"
+    }
+  ]
+}

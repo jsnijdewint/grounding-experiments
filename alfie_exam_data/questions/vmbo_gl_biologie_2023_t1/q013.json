@@ -1,0 +1,72 @@
+{
+  "id": "vmbo_gl_biologie_2023_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 120,
+          "name": "Gedrag bij mens en dier",
+          "prefix_code": "BI/V/2"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Hoeveel seconden besteedt de wulp aan lopen gedurende deze minuut?</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Biologen bestuderen het gedrag van wulpen in een weiland. Wulpen zijn vogels met gebogen, lange snavels waarmee zij wormen en larven uit de grond halen. De biologen beschrijven enkele gedragingen in een tabel en voegen een tekening toe (zie de tabel hieronder).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_9b75b27b5be9.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/041c09fe17b54851a924b8a119543170.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een bioloog observeert één wulp. Met een stopwatch houdt ze gedurende één minuut bij, welk gedrag ze ziet. De resultaten zie je in de afbeelding.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_4ce473184126.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f45faf9eb9f9414ea839f3d35f3ff6f3.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_fbe129935446.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d537474e0af846f3ab0c00411f29ae79.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2023_I_uitwerkbijlage_4e0013036ef8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9a816268fb648d6bbff9679cf7f9a46.pdf"
+    }
+  ]
+}

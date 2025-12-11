@@ -1,0 +1,119 @@
+{
+  "id": "havo_natuurkunde_2022_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 133,
+          "name": "Kracht en beweging",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:</p><ul><li>Bepaal met behulp van het <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo> <mi>v</mi> <mo>,</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo>&#160;</math>-diagram op de uitwerkbijlage de afstand die McDougall aflegde tussen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>5</mn> <mo>,</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>.</li><li>Teken in hetzelfde diagram het verdere verloop van de ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi> <mo>,</mo> <mi>t</mi>&#160;</math>)-grafiek tot McDougall de grond bereikte. Laat zien met behulp van een berekening hoe je aan je antwoord komt.</li></ul>",
+    "max_score": 5,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_6ff9315eb846.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/19ec6987c0a24b18831500a330bc435e.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Met een katapult kun je steentjes wegschieten. Zie figuur 1.<br>In Dubai heeft stuntman Chris McDougall zichzelf op een vergelijkbare manier vanaf de grond recht omhoog de lucht in geschoten. Hij gebruikte twee hijskranen als een soort reuzenkatapult. McDougall lag op een klein platform dat door de katapult werd versneld. Zie figuur 2.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_0475fa876ca1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8bebba5b3ba34b489b0183d89ac7efc8.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_0527a7ed3380.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9d479b2aae96453780783eb479f8a6d3.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De katapult oefende een grote kracht uit op het platform met McDougall. Hierdoor kreeg het platform met McDougall een grote versnelling in verticale richting. Op een bepaalde hoogte kwam hij los van het platform. Even na het bereiken van het hoogste punt opende hij een parachute om veilig te kunnen landen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De energie voor de lancering werd geleverd door een groot blok. Tijdens het lanceren viel het blok ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>blok </mtext></mrow></msub><mo>=</mo> <mn>27</mn> <mo>,</mo> <mn>5</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">ton</mi>&#160;</mrow></math>) van een kleine hoogte op de grond. Zie figuur 3.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_97563a3f123f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c319465c15624713bba7bb9154e6a10b.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Het blok viel over een afstand van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>8</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math>. De energie van het blok werd gebruikt om het platform met McDougall ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>total </mtext></mrow></msub><mo>=</mo> <mn>85</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">kg</mi>&#160;</mrow></math>) over een afstand van 34 m vanuit stilstand omhoog te versnellen. Op die hoogte verliet hij de katapult met een snelheid van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>59</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math>.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Van de stunt is een videometing gemaakt. In figuur 4 is de hoogte van McDougall tijdens het eerste deel van de stunt in een ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi> <mo>,</mo> <mi>t</mi>&#160;</math>)-diagram weergegeven. In dit diagram zijn geen waardes langs de assen weergegeven.</p><p>&nbsp;</p><p>Op de uitwerkbijlage staat een tabel met drie fases van de stunt.</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_11f0d8bface4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a1f51d1476514908bdbca22fbffbcef5.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Er is ook een <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo> <mi>v</mi> <mo>,</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo>&#160;</math>-diagram van de stunt gemaakt. Zie figuur 5 .</p>"
+    },
+    {
+      "order": 10,
+      "type": "image",
+      "media_path": "media/in-exam/img_e6fea6c0ec2f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fb0d7bc0fb5946da886a8d4edb129156.png",
+      "caption": ""
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>In het diagram op de uitwerkbijlage zijn de eerste vijf seconden van de stunt weergegeven.<br>Nadat McDougall het platform op <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>1</mn> <mo>,</mo> <mn>05</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>had verlaten, nam de snelheid van McDougall af met een vertraging groter dan de grootte van de valversnelling <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi>&#160;</math>.</p>"
+    },
+    {
+      "order": 12,
+      "type": "text",
+      "text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Na</mi> </mrow><mn>5</mn> <mo>,</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>bereikte McDougall een hoogte van 125 m en begon de val naar beneden. Even later trok McDougall zijn parachute open voor het laatste deel van de val tot de (veilige) landing. Van dit deel van de val ontbreekt in het <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo> <mi>v</mi> <mo>,</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo>&#160;</math>-diagram op de uitwerkbijlage het stuk vanaf <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2022_I_uitwerkbijl_81c84d6bcda8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5d2d7ab14a724c268e292e7f96ede649.pdf"
+    }
+  ]
+}

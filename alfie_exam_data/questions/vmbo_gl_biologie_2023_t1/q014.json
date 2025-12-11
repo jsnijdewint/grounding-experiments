@@ -1,0 +1,46 @@
+{
+  "id": "vmbo_gl_biologie_2023_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 117,
+          "name": "Van generatie op generatie",
+          "prefix_code": "BI/K/12"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Als de penis stijf wordt, vult een deel van de penis zich met bloed.&nbsp;<br> Geef de naam van dit deel.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de puberteit krijgt een jongen voor het eerst een zaadlozing. Bij seksuele opwinding wordt zijn penis stijf. Bij de zaadlozing wordt een bepaalde verbinding afgesloten, zodat er geen sperma in de blaas terechtkomt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2023_I_uitwerkbijlage_4e0013036ef8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9a816268fb648d6bbff9679cf7f9a46.pdf"
+    }
+  ]
+}

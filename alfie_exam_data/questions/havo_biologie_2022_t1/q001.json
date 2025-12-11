@@ -1,0 +1,62 @@
+{
+  "id": "havo_biologie_2022_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 128,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 129,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef een ander argument waarom gebruik van olie van oliepalmplantages in Zuidoost-Azië vanuit ecologisch oogpunt minder duurzaam is dan gebruik van in Nederland geproduceerde algen-olie.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Door de aanleg van oliepalmplantages in Zuidoost-Azië gaan vele hectaren oerwoud verloren. Mede daarom wordt palmolie door milieu-organisaties als niet-duurzaam bestempeld. Voor onderzoeker Lenny de Jaeger (afbeelding 1) was dit een reden om op zoek te gaan naar een manier om olie te produceren met behulp van algen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_fd8178fcb28b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6f0a94e79dec4dca8754e080e8ce3c8a.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Palmolie wordt gewonnen uit de olierijke vruchten van de oliepalm en wordt gebruikt als ingrediënt van veel voedingsmiddelen en verzorgingsproducten, maar ook voor de productie van biodiesel. Olie geproduceerd door algen in kwekerijen in Nederland kan een duurzaam alternatief bieden voor palmolie.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Boskap leidt tot het verkleinen van leefgebied voor planten en dieren. Dit is een argument om het gebruik van palmolie vanuit ecologisch oogpunt niet-duurzaam te noemen.</p>"
+    }
+  ],
+  "bijlages": []
+}

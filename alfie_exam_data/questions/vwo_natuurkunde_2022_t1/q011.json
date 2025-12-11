@@ -1,0 +1,70 @@
+{
+  "id": "vwo_natuurkunde_2022_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 49,
+          "name": "Elektrische systemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 50,
+          "name": "Elektrische en magnetische velden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken het vermogen dat het verwarmingselement direct na inschakelen opneemt.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tess en Fem voeren een practicum uit over warmtestraling waarmee ze de constante van Stefan-Boltzmann gaan bepalen. Ze gebruiken de opstelling zoals weergegeven in figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_54227ada5bb7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/66168d9ed8dc42d39ce7d5e813f78384.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de opstelling zie je een oven. In de oven is een verwarmingselement aangesloten op gelijkspanning. Zie figuur 2.</p><p>Het verwarmingselement bestaat uit een draad van constantaan met een diameter van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn> <mo>,</mo> <mn>0</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>5</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math>en een lengte van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>35</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math>. De spanning wordt ingesteld op 120 V .</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_35df308303a4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/990c675d2bbc49e8aa47057be67e846d.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2022_I_uitwerkbijl_9a4d39873fbe.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cfd906bcef9d47ec9c94427a551f4b61.pdf"
+    }
+  ]
+}

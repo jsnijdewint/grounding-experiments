@@ -1,0 +1,58 @@
+{
+  "id": "vwo_wiskunde_b_2024_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 47,
+          "name": "Differentiaal- en integraalrekening",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bewijs dat <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>y</mi>\r\n  <mo>=</mo>\r\n  <mrow data-mjx-texclass=\"INNER\">\r\n    <mo data-mjx-texclass=\"OPEN\">(</mo>\r\n    <mfrac>\r\n      <mn>1</mn>\r\n      <mi>a</mi>\r\n    </mfrac>\r\n    <mi>t</mi>\r\n    <mo>&#8722;</mo>\r\n    <mfrac>\r\n      <mn>1</mn>\r\n      <msup>\r\n        <mi>a</mi>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mn>2</mn>\r\n        </mrow>\r\n      </msup>\r\n    </mfrac>\r\n    <mo data-mjx-texclass=\"CLOSE\">)</mo>\r\n  </mrow>\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">e</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi>a</mi>\r\n      <mi>t</mi>\r\n    </mrow>\r\n  </msup>\r\n</math> inderdaad een juiste primitieve is van <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>y</mi>\r\n  <mo>=</mo>\r\n  <mi>t</mi>\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">e</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi>a</mi>\r\n      <mi>t</mi>\r\n    </mrow>\r\n  </msup>\r\n</math> voor elke waarde van a (met <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>a</mi>\r\n  <mo>&#8800;</mo>\r\n  <mn>0</mn>\r\n</math>).</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een wachttijd is de tijd die je op een dienst moet wachten. Denk hierbij bijvoorbeeld aan de tijd die nodig is om een medewerker van een klantenservice aan de telefoon te krijgen of de tijd die nodig is voordat je wordt geholpen bij de bakker.</p><p>&nbsp;</p><p>In 1909 ontwikkelde de Deense wiskundige Agner Erlang een wiskundig model om te berekenen in hoeveel procent van de gevallen bepaalde wachttijden voorkomen. Dit percentage komt overeen met de oppervlakte onder een grafiek.</p><p>&nbsp;</p><p>In deze opgave gaan we uit van een dienst waarbij het volgende model van Erlang hoort:&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>f</mi>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>t</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo>=</mo>\r\n  <mn>50</mn>\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">e</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8722;</mo>\r\n      <mfrac>\r\n        <mi>t</mi>\r\n        <mn>2</mn>\r\n      </mfrac>\r\n      <mi>t</mi>\r\n    </mrow>\r\n  </msup>\r\n</math> met <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>t</mi>\r\n  <mo>&#8805;</mo>\r\n  <mn>0</mn>\r\n</math></p><p>Hierbij is <i>t</i> de tijd in minuten.&nbsp;</p><p>&nbsp;</p><p>Stel dat je wilt weten in hoeveel procent van de gevallen de wachttijd tussen 3 en 4 minuten ligt. Je bepaalt dan de oppervlakte van het gebied dat wordt ingesloten door de grafiek van <i>f </i>, de t as en de lijnen met vergelijking <i>t</i> = 3 en <i>t</i> = 4 . Deze oppervlakte blijkt (afgerond) 8,8 te zijn. Dit wil zeggen dat in 8,8% van alle gevallen de wachttijd tussen 3 en 4 minuten ligt. Zie de figuur.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_826ea74aa5f8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b4423721eb644447bce1d1848a707bcb.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een wachttijd van meer dan twintig minuten komt in dit voorbeeld zelden voor. Daarom wordt de <strong>gemiddelde wachttijd</strong> berekend met:&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mfrac>\r\n    <mn>1</mn>\r\n    <mn>100</mn>\r\n  </mfrac>\r\n  <mo>&#8901;</mo>\r\n  <msubsup>\r\n    <mo data-mjx-texclass=\"OP\">&#8747;</mo>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>0</mn>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>20</mn>\r\n    </mrow>\r\n  </msubsup>\r\n  <mi>t</mi>\r\n  <mo>&#8901;</mo>\r\n  <mi>f</mi>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>t</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi mathvariant=\"normal\">d</mi>\r\n  </mrow>\r\n  <mi>t</mi>\r\n</math></p><p>Om de gemiddelde wachttijd te kunnen berekenen, maakt iemand gebruik van het gegeven dat <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>y</mi>\r\n  <mo>=</mo>\r\n  <mrow data-mjx-texclass=\"INNER\">\r\n    <mo data-mjx-texclass=\"OPEN\">(</mo>\r\n    <mfrac>\r\n      <mn>1</mn>\r\n      <mi>a</mi>\r\n    </mfrac>\r\n    <mi>t</mi>\r\n    <mo>&#8722;</mo>\r\n    <mfrac>\r\n      <mn>1</mn>\r\n      <msup>\r\n        <mi>a</mi>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mn>2</mn>\r\n        </mrow>\r\n      </msup>\r\n    </mfrac>\r\n    <mo data-mjx-texclass=\"CLOSE\">)</mo>\r\n  </mrow>\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">e</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi>a</mi>\r\n      <mi>t</mi>\r\n    </mrow>\r\n  </msup>\r\n</math> een primitieve is van <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>y</mi>\r\n  <mo>=</mo>\r\n  <mi>t</mi>\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">e</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi>a</mi>\r\n      <mi>t</mi>\r\n    </mrow>\r\n  </msup>\r\n</math> (met <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>a</mi>\r\n  <mo>&#8800;</mo>\r\n  <mn>0</mn>\r\n</math> ).</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_b_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_b_formules_e2addf3f392e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/470a7c92ad484df6baaee4f1da8379d6.pdf"
+    }
+  ]
+}

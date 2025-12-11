@@ -1,0 +1,66 @@
+{
+  "id": "havo_bedrijfseconomie_2024_t1_q25",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "bedrijfseconomie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 33,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 101,
+          "name": "Personeelsbeleid",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Toon met een berekening aan of de werkgever zich met een betaling van een maandloon van € 1.108,11 in februari heeft gehouden aan de cao (zie informatiebron 5).</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de informatiebronnen 4 en 5.&nbsp;<br>De 22-jarige Evy heeft in het restaurant “De buik vol” de functie van medewerker bediening. Twee keer per jaar wordt er een functioneringsgesprek gehouden tussen leidinggevende Dilan en medewerker Evy.&nbsp;<br><br><strong>Onvoldoende functioneren&nbsp;</strong><br><br>In een functioneringsgesprek zegt Dilan, dat Evy medeverantwoordelijk is voor een afname van de gasttevredenheid in “De buik vol” en de sterke omzetdaling.&nbsp;<br><br>Dilan laat Evy een recente review lezen:<br>“Dit nooit meer! Het was koud en ongezellig in het restaurant en het eten was flauw van smaak. We kregen niet wat we hadden besteld en moesten lang wachten op het nagerecht. Bij het afrekenen werd chagrijnig gekeken toen we geen fooi gaven. Voor ons de laatste keer!”<br><br>Dilan zegt dat Evy gezien haar functieomschrijving verantwoordelijk is voor deze slechte review. Volgens Evy is zij daar gezien haar functieomschrijving niet alleen verantwoordelijk voor.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><strong>Arbeidsomstandigheden van Evy</strong>&nbsp;<br>Evy vertelt Dilan op haar beurt wat haar dwarszit. In de maand februari is ze ziek thuisgebleven en leverde daarvoor een deel van haar loon in. Evy vraagt zich af of het restaurant zich daarbij wel aan de cao-afspraken heeft gehouden.&nbsp;<br>Evy geeft aan dat haar klachten grotendeels werkgerelateerd zijn. Ze noemt de hoge werkdruk die het gevolg is van verkeerd inplannen van personeel en de te zware fysieke belasting. Volgens Evy houdt het restaurant zich hierbij niet altijd aan de wettelijke regels met betrekking tot de arbeidsomstandigheden.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><strong>Loondoorbetaling bij ziekte</strong>&nbsp;<br>Evy vraagt zich af waarom haar loon niet voor 95% is doorbetaald in de periode dat ze ziek was. Ze vermoedt dat ze niet heeft voldaan aan bepaalde voorwaarden, waarmee de ondernemingsraad heeft ingestemd. Volgens Dilan is dat omdat Evy herhaaldelijk niet thuis was bij het huisbezoek van de bedrijfsarts (zie informatiebron 5). De ondernemingsraad heeft meerdere bevoegdheden.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De 22-jarige Evy is ingedeeld in functiegroep 3 met het daarbij behorende brutoloon. Evy heeft een deeltijdbaan met een contract voor onbepaalde tijd. Ze werkt 32 uur per week, verdeeld over 4 dagen van 8 uur en ontvangt per maand haar salaris. Februari bestaat uit vier werkweken. In de eerste week van februari heeft Evy gewerkt en vervolgens was ze drie weken aaneengesloten ziek thuis. Haar brutomaandloon bedroeg in februari € 1.108,11 exclusief vakantiegeld</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_bijlag_2e10e0982197.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a7a15ca0f9d2401aa24055b39fdd0a81.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_uitwer_e1cba7355851.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/555ba55aca42476292c914bf8a9a09fe.pdf"
+    }
+  ]
+}

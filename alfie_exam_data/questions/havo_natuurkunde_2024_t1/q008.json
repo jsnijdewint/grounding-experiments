@@ -1,0 +1,85 @@
+{
+  "id": "havo_natuurkunde_2024_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [
+        {
+          "id": 80,
+          "name": "Vaardigheden",
+          "prefix_code": "A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken het temperatuurverschil dat nodig is om een <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>U</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>pelt </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math> van 5,0 V op te wekken.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tijdens een kampeervakantie wordt vaak gekookt op een brander met een gasblikje. Zie figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_4cdb61aff7fa.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f5d71a0168ca427e8196ea93736b00f7.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Omdat gasblikjes niet overal verkrijgbaar zijn, willen Jos en Martijn voor hun profielwerkstuk een brander ontwerpen die op hout werkt. Met deze brander moet ook een telefoon opgeladen kunnen worden. Ze stellen een programma van eisen op waar hun brander aan moet voldoen.&nbsp;</p><p>&nbsp;</p><p>Enkele eisen zijn:&nbsp;</p><p>1 Het rendement voor water koken moet hoger zijn dan 40%.</p><p>2 De brander moet een elektrische spanning kunnen opwekken van 5,0 V voor het opladen van een telefoon.</p><p>3 Er moet zichtbaar gemaakt worden of de spanning hoog genoeg is om de telefoon op te laden.</p><p>4 De telefoon moet volledig kunnen opladen tijdens het koken van een maaltijd.</p><p>&nbsp;</p><p>Ze bouwen een brander die hout verbrandt en koken daarmee water om de eerste eis te controleren. Om 400 gram water van 10 °C aan de kook te brengen, hebben ze 18 gram hout nodig.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Als spanningsbron gebruiken ze een zogenaamd peltier-element. Een peltier-element levert een elektrische spanning <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>U</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>pelt </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math> &nbsp;als er een temperatuurverschil is tussen de twee zijden van het element. Jos en Martijn verwarmen de ene kant met het vuur en koelen de andere kant met een ventilator. Aan beide zijdes van het peltier-element zijn warmtegeleiders van metaal bevestigd. Zie figuur 2.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_1dba97bbe8e2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0dd6314ec13f444a8002673e78b73fc3.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De warmtegeleiders moeten zo snel mogelijk warmte geleiden naar en van het peltier-element.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De spanning Upelt is afhankelijk van het temperatuurverschil tussen beide zijdes van het element. Bij benadering geldt:&nbsp;</p><p>&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>U</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi data-mjx-auto-op=\"false\">pe</mi>\r\n      </mrow>\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n  <mo>=</mo>\r\n  <mi>C</mi>\r\n  <mi mathvariant=\"normal\">&#916;</mi>\r\n  <mi>T</mi>\r\n</math></p><p>&nbsp;</p><p>Hierin is:&nbsp;</p><p>- &nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>U</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>pelt </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math> de opgewekte spanning;</p><p>- <i>C</i> een constante;</p><p>- <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi mathvariant=\"normal\">&#916;</mi>\r\n  <mi>T</mi>\r\n</math> het temperatuurverschil.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Jos en Martijn meten de temperatuur aan beide zijdes van het peltier-element. Deze is 160 °C voor de verwarmde zijde en 63 °C voor de gekoelde zijde. Het peltier-element levert dan een spanning <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>U</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>pelt </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math> van 2,8 V. Om hun telefoon te kunnen opladen, is echter een spanning van 5,0 V nodig.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2024_I_uitwerkbijl_183c8a842092.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d36e010b434c4896854f0afb7f3f861d.pdf"
+    }
+  ]
+}

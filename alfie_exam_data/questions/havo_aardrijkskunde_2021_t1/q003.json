@@ -1,0 +1,51 @@
+{
+  "id": "havo_aardrijkskunde_2021_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "aardrijkskunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 46,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 93,
+          "name": "Samenhangen en verschillen in de wereld",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik de bronnen 2 en 3.<br>Neem de onderstaande tabel over op je antwoordblad. Geef in de tabel aan welk cirkeldiagram uit bron 3 bij elk land hoort en welk leeftijdsdiagram uit bron 3 bij elk land hoort.<figure class=\"table\"><table><tbody><tr><td style=\"border-bottom:1px !important solid !important !important;border-left-color:!important;border-left-style:none;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;\" colspan=\"1\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">cirkeldiagram</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">leeftijdsdiagram</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Burkina Faso</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8230;</mo></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8230;</mo></math></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Frankrijk</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8230;</mo></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8230;</mo></math></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Vietnam</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8230;</mo></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8230;</mo></math></td></tr></tbody></table></figure></p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 1 tot en met 3.<br>Gebruik de bronnen 1 en 2.<br>In de koloniale periode is de basis gelegd van het huidige centrum-periferiepatroon. Na de dekolonisatie behoorden Burkina Faso en Vietnam beide tot de groep van perifere landen. Tegenwoordig neemt Vietnam in het wereldsysteem een andere positie in.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2021_I_bijlage_d5e1d542d89f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b4b0ddd9af6c4d90b654414dbae13452.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2021 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2021_I_kaartenk_37a583c0ab38.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/05dc921c5df2400c8791a209fb43776b.pdf"
+    }
+  ]
+}

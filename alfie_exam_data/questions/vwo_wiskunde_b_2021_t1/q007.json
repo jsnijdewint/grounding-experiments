@@ -1,0 +1,75 @@
+{
+  "id": "vwo_wiskunde_b_2021_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 46,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Onderzoek hoeveel die voorspelling afwijkt van de gegevens in de tabel. Geef je eindantwoord als geheel getal.</p>",
+    "max_score": 6,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een aardbeving ontstaat op een plek in de aarde. Het punt recht boven die plek, op het aardoppervlak, heet het <strong>epicentrum </strong>van die aardbeving. We bekijken in deze opgave een model over aardbevingen, waarbij we ervan uitgaan dat de aardbeving in het epicentrum ontstaat.</p><p>Bij een aardbeving ontstaan verschillende typen golven in de aarde: primaire golven en secundaire golven. Primaire golven zijn sneller dan secundaire golven. We nemen in deze opgave aan dat een primaire golf een constante snelheid van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">km</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>heeft en een secundaire golf een constante snelheid van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn> <mo>,</mo> <mn>5</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">km</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>.</p><p>Een seismograaf is een meetinstrument waarmee je primaire en secundaire golven van elkaar kunt onderscheiden. Bij een bepaalde aardbeving registreert een seismograaf in een meetstation dat de eerste secundaire golf 17 seconden na de eerste primaire golf bij het meetstation aankomt. Met deze gegevens kun je de afstand <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi>&#160;</math>(in km) van de seismograaf tot het epicentrum van de aardbeving bepalen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Om de plaats van het epicentrum te bepalen worden de meetgegevens van verschillende meetstations gecombineerd. In een bepaald gebied staan twee meetstations: S en T. Meetstation T ligt 192 km oostelijker en 128 km noordelijker dan meetstation S.<br>Uit de metingen in meetstation S volgt dat het epicentrum van de aardbeving op een afstand van 240 km van dit meetstation S ligt. Uit de metingen in meetstation T volgt dat het epicentrum op 80 km van dit meetstation T ligt.<br>Op grond van deze gegevens zijn er twee mogelijke plaatsen van het epicentrum aan te wijzen. Om deze plaatsen te bepalen worden de meetstations in een assenstelsel geplaatst, waarbij meetstation S in de oorsprong ligt. De coördinaten van meetstation T zijn dan (192, 128). Zie de figuur.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_e2df372caa60.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a8c3576da0924bcb8f96a180cc37d24c.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De zwaarte van een aardbeving wordt uitgedrukt in een getal: de <strong>magnitude</strong>. Een zware aardbeving heeft een grote magnitude, een lichte aardbeving heeft een kleine magnitude. De United States Geological Survey heeft voor verschillende magnitudes onderzocht hoe vaak aardbevingen met die magnitude in een bepaald gebied voorkwamen.<br>Zie de tabel.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_2d4e072f4527.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bc2501d725474d4686de4244b863e023.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De onderzoekers Gutenberg en Richter hebben een model ontwikkeld om het aantal aardbevingen per jaar in een gebied te voorspellen. Dit model is van de vorm:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi> <mo>=</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mi>a</mi> <mo>&#8722;</mo> <mi>b</mi> <mi>M</mi>&#160;</mrow></msup></math></p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi>&#160;</math>de magnitude en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi>&#160;</math>het te verwachten aantal aardbevingen per jaar met deze magnitude <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi>&#160;</math>of <strong>groter</strong>. De waarden <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi>&#160;</math>zijn constanten.</p><p>Uit de tabel kun je afleiden dat er gemiddeld 285,5 aardbevingen per jaar zijn met een magnitude van 6,0 of groter. Ook kun je afleiden dat er gemiddeld 4,5 aardbevingen per jaar zijn met een magnitude van 7,5 of groter.<br>Met behulp van deze twee gegevens is het mogelijk de waarden van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi>&#160;</math>uit te rekenen. Vervolgens kun je met dat model een voorspelling doen van het aantal aardbevingen per jaar met een magnitude van 6,5 of groter.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_3a0824c1577f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c4b8e721c4c94202abb8ace2ac024907.pdf"
+    }
+  ]
+}

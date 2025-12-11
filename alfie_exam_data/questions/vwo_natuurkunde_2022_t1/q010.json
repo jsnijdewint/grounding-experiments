@@ -1,0 +1,138 @@
+{
+  "id": "vwo_natuurkunde_2022_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 51,
+          "name": "Elektromagnetische straling en materie",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bepaal met behulp van figuur 6 de straal van de quantum-dots die de fabrikant zoekt. Noteer je antwoord in twee significante cijfers.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In het scherm van een Qled-tv valt violet licht afkomstig uit leds op een laagje met quantumdots. Quantum-dots zijn kleine bolletjes met afmetingen variërend van 1 tot 20 nm , gemaakt van een speciaal materiaal. In figuur 1 staat een artist's impression van één quantum-dot (opgebouwd uit atomen). De quantum-dots absorberen het violette licht waarmee ze bestraald worden en zenden daarna zelf licht uit met een andere kleur dan violet.<br>Voor de werking van een Qled-tv zijn quantumdots nodig die blauw, groen of rood licht uitzenden. De kleur van het uitgezonden licht hangt af van de grootte van de quantum-dot. Zie figuur 2.<br>figuur 1屋</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_de69f7474d7f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5da728de309248a0b9cb9adfb4933648.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_bc7b183fb0e8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/12624f477c9d40b5804bde785185d96a.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De quantum-dots in een Qled-tv worden met violet licht bestraald.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p><strong>Halfgeleider</strong><br>Een quantum-dot is gemaakt van een zogenaamd halfgeleidermateriaal. In een halfgeleider kan een elektron slechts in banden van zeer dicht bij elkaar gelegen energieniveaus bestaan. Voor de werking van een quantum-dot zijn slechts twee van deze energiebanden van belang: de valentieband en de geleidingsband.<br>Daartussen zit bij een halfgeleider een energieverschil, de zogeheten bandgap <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>gap&#160;</mtext></mrow></msub></math>. Zie figuur 3.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_93cb374eeb14.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/565150cce9fa4ff48959c2832df636ca.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Als een foton geabsorbeerd wordt maakt het één elektron vrij uit het atoomrooster. De energie van dat foton moet daarvoor groot genoeg zijn. Het elektron gaat dan van een energieniveau in de valentieband naar een energieniveau in de geleidingsband. Dit betekent dat het loskomt uit het atoomrooster van de halfgeleider. Het achterblijvende gat in de valentieband kan worden opgevat als een positief deeltje dat door het rooster beweegt. Het aangeslagen elektron en het achterblijvende gat worden samen een elektron-gatpaar genoemd.<br>In figuur 4 is van enkele halfgeleiders de bandgap gegeven.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_c5174b139956.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1b9c843ac68c42888c2d66811ddbc560.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Neem aan dat de fotonenergie van het gebruikte violette licht tussen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mo>,</mo> <mn>75</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">eV</mi>&#160;</mrow></math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn> <mo>,</mo> <mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">eV</mi>&#160;</mrow></math>ligt.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>In goede benadering kunnen elektron en gat van een elektron-gatpaar worden opgevat als vrije deeltjes. Als gevolg van de invloed van het atoomrooster op hun beweging zijn de massa's van deze deeltjes echter niet gelijk aan de elektronmassa <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">e</mi>&#160;</mrow></mrow></msub></math>. Ze krijgen beide een zogenaamde effectieve massa <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>eff&#160;</mtext></mrow></msub></math>. Voor de halfgeleider die wordt gebruikt in een Qled-tv geldt: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>eff, elektron </mtext></mrow></msub><mo>=</mo> <mn>0</mn> <mo>,</mo> <mn>13</mn> <msub><mi>m</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">e</mi>&#160;</mrow></mrow></msub></math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>eff, gat </mtext></mrow></msub><mo>=</mo> <mn>0</mn> <mo>,</mo> <mn>45</mn> <msub><mi>m</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">e</mi>&#160;</mrow></mrow></msub></math>.</p><p>Voor de debroglie-golflengte <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#955;</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">B</mi>&#160;</mrow></mrow></msub></math>van het elektron of het gat geldt:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#955;</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">B</mi> </mrow></mrow></msub><mo>=</mo> <mfrac><mi>h</mi> <msqrt><mn>2</mn> <msub><mi>m</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">eff</mi> </mrow></mrow></msub><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">k</mi>&#160;</mrow></mrow></msub></msqrt></mfrac></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (1)</p><p>Hierin is:</p><ul><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi>&#160;</math>de constante van Planck</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>eff&#160;</mtext></mrow></msub></math>de effectieve massa</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">k</mi>&#160;</mrow></mrow></msub></math>de kinetische energie</li></ul>"
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Neem voor de kinetische energie van het elektron 1 eV .</p>"
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p><strong>Quantum-dot</strong><br>In een oneindig grote halfgeleider kan de energie van het elektron-gatpaar <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>eg&#160;</mtext></mrow></msub></math>elke waarde hebben boven de bandgap. In een quantum-dot wordt het elektron-gatpaar in een kleine ruimte opgesloten. Daardoor worden de energieniveaus van het elektron-gatpaar gequantiseerd. Hoe kleiner de ruimte, hoe groter de afstand tussen de afzonderlijke energieniveaus. Zie figuur 5.</p>"
+    },
+    {
+      "order": 12,
+      "type": "image",
+      "media_path": "media/in-exam/img_b04547f463d0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/52fdf06d2a5f46a99ba887bc4fa861af.png",
+      "caption": ""
+    },
+    {
+      "order": 13,
+      "type": "text",
+      "text": "<p>In een vereenvoudigd model kan de quantum-dot beschouwd worden als een energieput met oneindig hoge wanden. Voor de nulpuntsenergie van een deeltje in deze energieput kan worden uitgegaan van een eendimensionale put, waarvan de lengte <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi>&#160;</math>gelijk is aan de straal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi>&#160;</math>van de quantum-dot. De energie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>nul&#160;</mtext></mrow></msub></math>in figuur 5 is de som van de nulpuntsenergieën van elektron en gat in deze energieput. Dus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>nul </mtext></mrow></msub><mo>=</mo> <msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>nul,elektron </mtext></mrow></msub><mo>+</mo> <msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>nul, gat&#160;</mtext></mrow></msub></math>.</p><p>Na zijn ontstaan komt het elektron-gatpaar door wisselwerking met het atoomrooster uiteindelijk in de grondtoestand van de energieput terecht. Als het elektron vervolgens terugvalt in het gat zendt de quantum-dot een foton uit. In figuur 5 is dit schematisch weergegeven.</p>"
+    },
+    {
+      "order": 14,
+      "type": "text",
+      "text": "<p>Voor de energie van het uitgezonden foton <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mi>f</mi>&#160;</mrow></msub></math>geldt:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">f</mi> </mrow></mrow></msub><mo>=</mo> <msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">gap</mi> </mrow></mrow></msub><mo>+</mo> <mfrac><mi>C</mi> <msup><mi>R</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></mfrac></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (2)</p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi>&#160;</math>een constante met de eenheid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">J</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></math>, die afhangt van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>m</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>eff, elektron </mtext></mrow></msub><mo>,</mo> <msub><mi>m</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>eff, gat&#160;</mtext></mrow></msub></math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi>&#160;</math>.</p>"
+    },
+    {
+      "order": 15,
+      "type": "text",
+      "text": "<p>Een fabrikant van Qled-tv's wil quantum-dots selecteren die na bestraling met het violette licht groen licht uitzenden met een golflengte van 534 nm . Door een coördinatentransformatie toe te passen, is van formule (2) een lineaire grafiek gemaakt. Zie figuur 6.</p>"
+    },
+    {
+      "order": 16,
+      "type": "image",
+      "media_path": "media/in-exam/img_f06a87e393c6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/35dd3e2c971d45b1baa6e061e04ea88b.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2022_I_uitwerkbijl_9a4d39873fbe.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cfd906bcef9d47ec9c94427a551f4b61.pdf"
+    }
+  ]
+}

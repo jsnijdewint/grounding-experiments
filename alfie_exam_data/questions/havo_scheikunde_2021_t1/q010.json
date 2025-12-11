@@ -1,0 +1,59 @@
+{
+  "id": "havo_scheikunde_2021_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef aan of PEO een thermoplast of een thermoharder is. Licht je antwoord toe aan de hand van een structuurkenmerk uit figuur 2.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In veel mobiele telefoons zit een lithium-ionbatterij. Deze batterijen zijn licht, kunnen veel energie leveren en zijn snel op te laden. Het basisontwerp van een lithium-ionbatterij is in figuur 1 schematisch weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_107c658f3ea6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5dd5cf77ecc74f84a9116e23d1dbdfd0.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Elektrode A bevat onder andere het metaal lithium (Li). Elektrode B bevat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Li</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo>&#160;</mrow></msup></math>-ionen. Tussen beide elektroden bevindt zich een elektrolyt, dat bestaat uit een polymeer waarin zich een vloeibaar lithiumzout bevindt.</p><p>Een veelgebruikt polymeer is PEO. De formule van PEO is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mo data-mjx-texclass=\"CLOSE\">)</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi>n</mi>&#160;</mrow></msub></math>. In figuur 2 is een vergroting van het elektrolyt schematisch weergegeven. Hierin is te zien hoe een <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Li</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo>&#160;</mrow></msup></math>-ion van polymeerketen naar polymeerketen wordt doorgegeven, doordat telkens een ander groepje O-atomen het <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Li</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo>&#160;</mrow></msup></math>-ion bindt. De binding komt tot stand doordat de O-atomen in PEO enigszins negatief geladen zijn. Dit is het gevolg van een polaire atoombinding tussen de C-atomen en de O-atomen in PEO. Tijdens de stroomlevering bewegen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Li</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo>&#160;</mrow></msup></math>-ionen van elektrode A naar elektrode <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_7e161915dd7b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/274745002fa54f1e8fdd0e1168865f40.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2021_I_uitwerkbijla_1bb960b8859b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/de4ac50bb8424775a1d05546cf8e6711.pdf"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "vwo_geschiedenis_2021_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 195,
+          "name": "Chronologie",
+          "prefix_code": 11
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zet deze gebeurtenissen in de juiste chronologische volgorde, van vroeger naar later. Noteer alleen de nummers.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De volgende gebeurtenissen rondom de Duitse familie Krupp, eigenaar van staal- en wapenfabrieken, staan in willekeurige volgorde:</p><p>1 Alfred Krupp leverde tijdens de Frans-Duitse oorlog moderne kanonnen aan de Duitse troepen.</p><p>2 Alfried Krupp zette gevangenen uit Duitse concentratiekampen in als dwangarbeiders in zijn wapenfabrieken.</p><p>3 Friedrich Krupp wilde de beloning binnenhalen die Napoleon uitloofde aan diegene die smeltkroesstaal kon maken.</p><p>4 Gustav Krupp schond de voorschriften van het Verdrag van Versailles door de wapenproductie niet volledig stop te zetten.</p><p>5 Met het kanon 'Dikke Bertha', dat volgens sommigen vernoemd was naar Bertha Krupp, konden de Duitsers wel Franse forten neerhalen maar niet de Franse loopgraven vernietigen.</p><p>6 Na aanname van de Vlootwet nam Friedrich Alfred Krupp een werf over voor de bouw van marineschepen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2021_I_bijlage_802f54fb3aeb.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f094215d14eb43de9153c53cd1712540.pdf"
+    }
+  ]
+}

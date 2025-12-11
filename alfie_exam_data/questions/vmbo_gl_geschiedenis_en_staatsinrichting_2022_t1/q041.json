@@ -1,0 +1,40 @@
+{
+  "id": "vmbo_gl_geschiedenis_en_staatsinrichting_2022_t1_q41",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "geschiedenis_en_staatsinrichting",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 65,
+      "domains": [
+        {
+          "id": 136,
+          "name": "Historisch overzicht vanaf 1900",
+          "prefix_code": "GS/K/10"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 22.<br>Hieronder staan vier landen:<br>a Duitsland<br>b Groot-Brittannië<br>c Sovjet-Unie<br>d Verenigde Staten<br>Vier begrippen:<br>1 containmentpolitiek<br>2 invloedssfeer<br>3 satellietstaten<br>4 wapenwedloop<br>De bron gaat over de Koude Oorlog.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Bij welk land hoort de raket die links is afgebeeld? En welk begrip past bij de bron?<br>Doe het zo:<br>land: ... (schrijf letter op)<br>begrip: ... (schrijf nummer op)</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Geschiedenis en staatsinrichting 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_en_staatsinrichti_d97a81606872.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a82c2a3d929949f1803bcca598ae713f.pdf"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "havo_wiskunde_b_2023_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 102,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bewijs dat er zo'n manier is. In je antwoord moeten de translaties worden genoemd.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De functie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>wordt gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mn>2</mn> <mo>&#8901;</mo> <msup><mn>2</mn> <mrow data-mjx-texclass=\"ORD\"><mi>x</mi> <mo>&#8722;</mo> <mn>3</mn> </mrow></msup><mo>&#8722;</mo> <mn>4</mn>&#160;</math>.</p><p><br>Het is mogelijk de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>door middel van transformaties te laten ontstaan uit de grafiek die hoort bij de formule <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi> <mo>=</mo> <msup><mn>2</mn> <mrow data-mjx-texclass=\"ORD\"><mi>x</mi>&#160;</mrow></msup></math>. Dit kan op verschillende manieren. Er is een manier die alleen gebruikmaakt van translaties, dus <strong>zonder </strong>vermenigvuldigingen ten opzichte van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-as.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde B 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2023_I_uitwerkbijla_9ba57d6520e4.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9679abc20da6403596a9f0f1d8e1d3b8.pdf"
+    }
+  ]
+}

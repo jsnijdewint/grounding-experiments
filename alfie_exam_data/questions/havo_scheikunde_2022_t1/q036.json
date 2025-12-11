@@ -1,0 +1,84 @@
+{
+  "id": "havo_scheikunde_2022_t1_q36",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef de naam van de aminozuureenheid die kan reageren volgens reactie 2. Maak gebruik van Binas-tabel 67H1 of ScienceData-tabel 13.7c.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De munten van 10, 20 en 50 eurocent zijn gemaakt van 'Nordic gold'. Dit materiaal is een legering van koper, aluminium, zink en tin. In tabel 1 staan enkele gegevens van de atoomsoorten in Nordic gold.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_4a442c70d447.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5cd4956861cd4463abe51b48648dd0cf.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Nordic gold heeft een specifieke samenstelling en daarmee een specifiek elektrische-geleidingsvermogen. Het elektrische-geleidingsvermogen kan gebruikt worden voor de herkenning van munten in muntgeldautomaten. Dit geleidingsvermogen is een gevolg van de aanwezigheid van beweeglijke geladen deeltjes.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Nordic gold is harder en moeilijker vervormbaar dan zuiver koper. Dit wordt onder andere veroorzaakt door de microstructuur van Nordic gold. De hardheid wordt bepaald door de atoomdiameter van de toegevoegde metaalatomen. De invloed van de tin-atomen en de zink-atomen op de hardheid is weergegeven in figuur 1a. Ook is schematisch weergegeven hoe een Sn -atoom en een Zn -atoom zich tussen de Cu -atomen bevinden (figuur 1b).</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_f519a45e9a6d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b89846abee754251a60e0826166b7b90.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In figuur 1b is de invloed van de atoomdiameter van de toegevoegde metaalatomen op het rooster te zien. De atomen zijn met streepjes verbonden. Dit is echter een onjuiste weergave van het type binding tussen de atomen in Nordic gold. De streepjes in figuur 1b zijn geen echte bindingsstreepjes zoals die worden gebruikt in structuurformules van moleculaire stoffen, maar ze geven wel een interactie weer tussen de atomen waaruit deze legering is samengesteld.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Een van de lijnen I, II en III in figuur 1a geeft de invloed van aluminiumatomen op de hardheid van een koperlegering weer.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Aan het oppervlak van de munten kan corrosie plaatsvinden, waardoor geoxideerd koper in de vorm van koper(I)oxide <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Cu</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>en geoxideerd aluminium (aluminiumoxide) kunnen ontstaan. Doordat aluminium minder edel is dan koper oxideert het eerder dan koper. Geoxideerd aluminium beperkt de corrosiegevoeligheid van Nordic gold.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Koperlegeringen hebben een antibacteriële werking, die onder meer veroorzaakt wordt door de volgende twee reacties:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Cu</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo> </mrow></msup><mo>+</mo> <mn>2</mn> <msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo> </mrow></msup><mo>+</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Cu</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> <mo>+</mo> </mrow></msup><mo>+</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (reactie 1)</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Cu</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> <mo>+</mo> </mrow></msup><mo>+</mo> <mn>2</mn> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">R</mi> </mrow><mo>&#8722;</mo> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">SH</mi> </mrow><mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Cu</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo> </mrow></msup><mo>+</mo> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">R</mi> </mrow><mo>&#8722;</mo> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">S</mi> </mrow><mo>&#8722;</mo> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">S</mi> </mrow><mo>&#8722;</mo> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">R</mi> </mrow><mo>+</mo> <mn>2</mn> <msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo>&#160;</mrow></msup></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (reactie 2)</p><p><br>Waterstofperoxide <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>, dat ontstaan is bij reactie 1 , beschadigt de celmembranen van bacteriën. Bij reactie 1 ontstaan ook <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Cu</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> <mo>+</mo>&#160;</mrow></msup></math>-ionen. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Cu</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> <mo>+</mo>&#160;</mrow></msup></math>-ionen reageren met de SH-groepen in eiwitten van bacteriën (reactie 2). In de vergelijking van deze reactie is het eiwit weergegeven met R-SH. Uiteindelijk sterven bacteriën als gevolg van de opgelopen schade.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2022_I_uitwerkbijla_f5e7f9155c59.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a02c79c5875f4978b042c59ce1514099.pdf"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "vwo_biologie_2024_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 19,
+          "name": "Onderzoeken",
+          "prefix_code": 5
+        },
+        {
+          "id": 20,
+          "name": "Ontwerpen",
+          "prefix_code": 6
+        },
+        {
+          "id": 21,
+          "name": "Modelvorming",
+          "prefix_code": 7
+        },
+        {
+          "id": 22,
+          "name": "Natuurwetenschappelijk instrumentarium",
+          "prefix_code": 8
+        },
+        {
+          "id": 23,
+          "name": "Waarderen en oordelen",
+          "prefix_code": 9
+        },
+        {
+          "id": 40,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 41,
+          "name": "Zelforganisatie van ecosystemen",
+          "prefix_code": 2
+        },
+        {
+          "id": 42,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Schrijf nummers 1, 2 en 3 onder elkaar en noteer erachter of de betreffende uitspraak juist of onjuist is.&nbsp;</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Door klimaatverandering wordt de vegetatie in arctische gebieden ’s winters steeds vaker door een ijslaag bedekt. De Noorse bioloog Brage Bremset Hansen en zijn collega’s hebben aangetoond dat het dieet van Spitsbergenrendieren dan verandert. Dit veroorzaakt een verandering in de nutriëntenkringloop in het ecosysteem.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_cad3b1efc5f9.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c10c8c2424704fcdb7d9ff06d3af3176.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een aantal aanpassingen maakten deze ondersoort geschikt om te overleven in de kou op Spitsbergen. Zo hebben ze een dikke vacht, waardoor ze minder energie verbruiken om warm te blijven, en door hun korte poten is hun oppervlakte-inhoudsverhouding gunstig.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De poten van het Spitsbergenrendier zijn kort, maar ook de rest van zijn lichaam is klein vergeleken met ondersoorten die op andere plaatsen leven. Een mogelijke verklaring hiervoor is de afwezigheid van predatoren zoals de wolf. Kleinere dieren vallen daardoor niet vaker ten prooi aan wolven dan grotere exemplaren. Selectiedruk door andere factoren leidde tot de kleine ondersoort op Spitsbergen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Onderzoekers hebben geconstateerd dat temperatuurstijging als gevolg van klimaatverandering in de arctische gebieden een hogere productiviteit van de vegetatie veroorzaakt. Een aantal effecten van temperatuurstijging zijn:&nbsp;<br>1 De dissimilatie door plantencellen neemt toe.&nbsp;<br>2 De periode waarin reducenten in de bodem actief zijn, wordt langer.&nbsp;<br>3 De stikstofassimilatie verloopt sneller.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De populatiegrootte van sommige soorten herbivoren neemt toe door een hogere productiviteit van de vegetatie.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>In de winter is de vegetatie op Spitsbergen bedekt met sneeuw. Wanneer er regen valt op het sneeuwdek, vormt zich een ijslaag over de vegetatie. Hierdoor kunnen herbivoren minder makkelijk aan voedsel komen. Deze ijslagen komen door klimaatverandering vaker voor. Hansen en collega’s onderzochten wat het effect hiervan is op het dieet van Spitsbergenrendieren. Hun hypothese was dat als landplanten onbereikbaar zijn, Spitsbergenrendieren zeewier eten dat is aangespoeld op de kust.<br><br>De onderzoekers bepaalden negen jaar lang de ruimtelijke spreiding van Spitsbergenrendieren en de gemiddelde dikte van de ijslaag die ontstaat door regen-op-sneeuw. In afbeelding 3 is de relatie weergegeven tussen de dikte van de ijslaag en het aandeel Spitsbergenrendieren dat aan de kust voedsel zoekt. Elk bolletje stelt het gemiddelde voor van één jaar van een bepaalde populatie.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_8391c897530e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/597c95fdeb544222b88160dd80c2c7ff.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Over afbeelding 3 worden de volgende uitspraken gedaan:&nbsp;<br>1 Alleen wanneer er een ijslaag aanwezig is, zoeken Spitsbergenrendieren voedsel aan de kust.&nbsp;<br>2 Het aandeel Spitsbergenrendieren dat aan de kust voedsel zoekt in populatie 1 wordt gemiddeld groter naarmate de ijslaag dikker is.&nbsp;<br>3 Als de ijsdikte meer dan 9 cm is, zoekt 31% van de Spitsbergenrendieren uit populatie 2 voedsel aan de kust.</p>"
+    }
+  ],
+  "bijlages": []
+}

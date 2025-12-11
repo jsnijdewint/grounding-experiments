@@ -1,0 +1,75 @@
+{
+  "id": "havo_wiskunde_a_2024_t1_q22",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [
+        {
+          "id": 98,
+          "name": "Verbanden",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Onderzoek hoeveel stuks jongvee er in de periode 2005-2016 gemiddeld per bedrijf bij zijn gekomen.</p>",
+    "max_score": 7,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Op melkveebedrijven wordt onderscheid gemaakt tussen jongvee en volwassen melkkoeien. Binnen het jong</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_48b221826157.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8a05f5d836d645a99d6b2858f795cdfc.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De grootte van een melkveebedrijf wordt uitgedrukt in het aantal grootvee-eenheden (GVE). In de tabel staat voor hoeveel GVE een dier van een bedrijf meetelt.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_9998307801d4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8c8ab730dd0c472aabedec7193799d21.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In de periode 2005-2016 zijn melkveebedrijven gemiddeld genomen steeds groter geworden. Vanaf 2005 is het gemiddeld aantal volwassen melkkoeien per melkveebedrijf in Nederland jaarlijks met 3,75% gestegen tot 99 in 2016. Tegelijkertijd steeg het gemiddeld aantal GVE per bedrijf van 84 in 2005 tot 126 in 2016.</p><p>Neem aan dat er op elk bedrijf altijd evenveel kalveren als pinken waren.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde A 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2024_I_uitwerkbijla_f9ae22db2d27.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/803d0c79996043e4a0d7ab20f340aa91.pdf"
+    },
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_11e2f4336287.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/68b501e3c58045cc93dfc3658f67cc97.pdf"
+    }
+  ]
+}

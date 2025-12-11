@@ -1,0 +1,72 @@
+{
+  "id": "vwo_wiskunde_c_2023_t1_q22",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [
+        {
+          "id": 54,
+          "name": "Logisch redeneren",
+          "prefix_code": "F"
+        },
+        {
+          "id": 55,
+          "name": "Vorm en Ruimte",
+          "prefix_code": "G"
+        }
+      ],
+      "subdomains": [
+        {
+          "id": 90,
+          "name": "Rekenen en algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 91,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Onderzoek van elk van beide uitspraken of deze waar is.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>New York Pizza is een Nederlandse pizzaketen, die in 1993 in Amsterdam is opgericht. New York Pizza is een zogenaamde franchise. Dat wil zeggen dat iedereen die dat wil een New York Pizza-filiaal kan openen. Een ondernemer moet dan elk jaar 6,5% van zijn omzet betalen aan het hoofdkantoor van New York Pizza. Door het betalen van deze zogenaamde<strong> franchise fee</strong> krijgt de ondernemer het recht om het concept van New York Pizza te gebruiken en profiteert hij bovendien van de naamsbekendheid.</p><p>&nbsp;</p><p>In 2017 was de totale omzet van New York Pizza € 99,7 miljoen. Hiervan werd € 23 miljoen gerealiseerd door de groothandel die bij het bedrijf hoort en de rest door de 143 filialen</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Een van de voordelen van het franchisemodel is dat een ondernemer zelf beslissingen mag nemen binnen bepaalde grenzen. Zo is bijvoorbeeld de menukaart niet bij alle New York Pizza-vestigingen hetzelfde.</p><p>&nbsp;</p><p>Bij een bepaalde vestiging van New York Pizza staan er 32 verschillende pizzavarianten op het menu. Denk daarbij bijvoorbeeld aan een Pizza Hawaii en een Pizza Margherita. Veel pizza’s worden gemaakt op een zogeheten New York Style-bodem, die verkrijgbaar is in vier verschillende maten (20 cm, 25 cm, 30 cm en 35 cm). Ook kan er gekozen worden uit een Italiaanse, een glutenvrije of een biologische bodem, maar van elk van deze drie bodems is er maar één maat beschikbaar (30 cm). Daarnaast bestaat er de mogelijkheid om van één pizzabodem de beide helften te beleggen met twee verschillende varianten van het menu: de zogeheten <strong>double tasty</strong>.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In 2018 was een van de meest verkochte bodems de 25 cm New York Style. Volgens de website van New York Pizza is deze pizza goed voor één persoon. De grootste pizzabodem, de 35 cm New York Style, is volgens de website goed voor één à twee personen.<br>Als je met drie personen pizza gaat eten, dan kun je bijvoorbeeld kiezen uit óf twee pizza's met een diameter van 35 cm óf drie pizza's met een diameter van 25 cm .<br>Een pizza met een diameter van 25 cm kostte <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>8</mn> <mo>,</mo> <mn>99</mn>&#160;</math> in 2018 en een pizza met een diameter van 35 cm kostte toen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>15</mn> <mo>,</mo> <mn>49</mn>&#160;</math>€</p><p>Arie deed in 2018 twee uitspraken:</p><p><br>A: De totale hoeveelheid pizza bij de keuze voor twee grote pizza's is groter dan bij de keuze voor drie kleine pizza's.</p><p>&nbsp;</p><p>B: De prijs per <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">cm</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></math>is bij de keuze voor twee grote pizza's hoger dan bij de keuze voor drie kleine pizza's.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2023_I_uitwerkbijla_d26cf5047c40.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5daa39e9d7114989a2f0a9cab3045d3b.pdf"
+    }
+  ]
+}

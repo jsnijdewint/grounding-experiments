@@ -1,0 +1,76 @@
+{
+  "id": "vwo_scheikunde_2021_t1_q22",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit welke van de drie alkaloīden uit de figuur niet als base reageert.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De politie controleert regelmatig op bezit van harddrugs. Voor een snelle test is onder andere het Marquis-reagens ontwikkeld. Aan een zakje van dit reagens voegt men wat van het te onderzoeken monster toe. Als het monster drugs bevat, ontstaat een kenmerkende kleur.</p><p>Het Marquis-reagens wordt bereid door oplossingen van zwavelzuur en methanal te mengen in de volumeverhouding <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn> <mo>:</mo> <mn>1</mn> <mo>,</mo> <mn>0</mn>&#160;</math>.<br>In de tabel staan enkele gegevens van de gebruikte oplossingen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_1a967f386c85.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8317d269ed334ba1b9d9a0f697c87c59.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_b128b4398764.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e2be4de9785f4e7b9daef0704e9d24f4.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Marquis-reagens wordt voornamelijk gebruikt om alkaloïden van elkaar te onderscheiden. Veel alkaloïden zijn afgeleid van een aminozuur. In de figuur zijn drie alkaloïden weergegeven die zijn ontstaan uit het aminozuur tyrosine. De oorspronkelijke structuur van tyrosine is nog in de drie structuren te herkennen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_b93735837c25.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/66c0c51c68b8458980879db8fbeb6555.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Op de uitwerkbijlage is de structuurformule van morfine nogmaals weergegeven.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>In alle alkaloïden zijn stikstofatomen aanwezig. Als zo'n stikstofatoom een niet-bindend elektronenpaar heeft, kan het atoom een <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo>&#160;</mrow></msup></math>-ion binden waardoor het alkaloîde als base kan reageren.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2021_I_uitwerkbijla_19d95dde309e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1b51fa23f34e49019700aa8a5bf7165f.pdf"
+    }
+  ]
+}

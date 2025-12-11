@@ -1,0 +1,83 @@
+{
+  "id": "vwo_bedrijfseconomie_2024_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 6,
+          "name": "Persoonlijke financiële zelfredzaamheid",
+          "prefix_code": 1
+        },
+        {
+          "id": 7,
+          "name": "De oprichting van een eenmanszaak",
+          "prefix_code": 2
+        },
+        {
+          "id": 8,
+          "name": "Van eenmanszaak naar rechtspersoon",
+          "prefix_code": 3
+        },
+        {
+          "id": 9,
+          "name": "Perspectief op de organisatie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken het saldo van de spaarrekening van Alin op 31 december 2022 na bijschrijving van de interest op 31 december 2022 (zie formuleblad).</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In deze opgave blijft de btw buiten beschouwing.&nbsp;<br><br>Alin zit in 6 vwo. Hij werkt daarnaast zes tot acht uur per week in een supermarkt en bouwt af en toe websites voor kleine ondernemingen. Voor zijn werkzaamheden bij de supermarkt heeft hij een individuele arbeidsovereenkomst, voor zijn werkzaamheden als websitebouwer niet.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Het saldo op de spaarrekening van Alin bedraagt op 31 december 2021 € 652,75. Dit spaarsaldo groeit in 2022 doordat:&nbsp;<br> Alin in 2022 elke eerste dag van de maand € 440 loon ontvangt van de supermarkt. De helft van dit bedrag stort hij steeds op dezelfde dag op zijn spaarrekening, voor het eerst op 1 januari 2022.&nbsp;<br> Alin als bouwer van websites af en toe een incidentele klus heeft. Hiervoor ontvangt hij de volgende vergoedingen die hij op dezelfde dag op zijn spaarrekening stort.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_b04732c2a7e1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bde2dbf698b848c2909091edb27e7a31.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p> Alin op de spaarrekening een interestvergoeding van 0,15% samengestelde interest per maand ontvangt. De interest wordt maandelijks op de laatste dag van de maand bijgeschreven.&nbsp;</p><p> Alin tussentijds geen geld van de spaarrekening opneemt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_bijlag_7eadadfb909b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b308f8bea0724a7aafeda7412effc100.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_uitwer_83345fd16197.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9381244ee6040b2bd0134a67d821ddb.pdf"
+    }
+  ]
+}

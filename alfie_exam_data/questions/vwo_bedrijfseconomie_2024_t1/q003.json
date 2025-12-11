@@ -1,0 +1,66 @@
+{
+  "id": "vwo_bedrijfseconomie_2024_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 13,
+          "name": "Vastleggen van financiële en niet financiële informatie",
+          "prefix_code": 1
+        },
+        {
+          "id": 14,
+          "name": "Kosten- en winstvraagstukken",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef bij twee van deze kritische succesfactoren een prestatie-indicator.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De ondernemende broers Ton en Huib hebben een vers groente- en fruitsap ontwikkeld. Op 1 januari 2022 hebben ze het bedrijf “Sap&amp;Bro” ingeschreven bij de Kamer van Koophandel en zijn ze gestart in de garage van het ouderlijk huis. Het sap wordt bereid met zoveel mogelijk verse producten van lokale groente- en fruittelers. Elk flesje sap bestaat voor 70% uit groente en voor 30% uit fruit. Het sap wordt gemaakt met behulp van een slowjuicer van hun ouders. Zo blijven alle voedingsstoffen en vitamines behouden. Het groente en fruitsap wordt na het ‘slowjuicen’ meteen ingevroren. Met deze verse sappen spelen de broers in op de trend dat er steeds meer aandacht is voor een gezonde levensstijl .<br><br>Verder is van belang:<br>- Er is sprake van kleinschalige productie bij Sap&amp;Bro&nbsp;<br>- Bij afwezigheid van één van de broers komt de productie in gevaar&nbsp;<br>- Sap&amp;Bro verkoopt haar verse sappen via de eigen webwinkel en via 20 verkooppunten van groente en fruit in Noord-Holland</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De broers zijn ontevreden over de verkopen in het eerste jaar. Het aantal concurrenten is toegenomen en zij bieden groente- en fruitsap tegen een lagere prijs aan dan Sap&amp;Bro. Daarnaast heeft de overheid plannen voor een suikertaks1) waarbij een fles groente- en fruitsap net zo zwaar wordt belast als een fles suikerhoudende frisdrank.<br><br>noot 1 extra heffing op suikerhoudende producten, met als doel om de verkoop van deze producten te verminderen in verband met het risico op overgewicht<br><br>Vanwege de tegenvallende verkopen en de toegenomen concurrentie hebben de broers op basis van bovenstaande informatie een SWOTanalyse gemaakt.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De broers willen graag met hun bedrijf groeien en analyseren de uitkomst van de SWOT-analyse. Op basis van de SWOT-analyse formuleren ze hun strategische doelen. Om deze doelen te realiseren, formuleren de broers de volgende kritische succesfactoren voor Sap&amp;Bro:<br>a Sap&amp;Bro heeft toegang tot de kapitaalmarkt (banken).&nbsp;<br>b De groente-en fruitsappen sluiten aan bij een gezonde levensstijl.&nbsp;<br>c De groente- en fruitsappen zijn gemakkelijk verkrijgbaar.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_bijlag_7eadadfb909b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b308f8bea0724a7aafeda7412effc100.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_uitwer_83345fd16197.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9381244ee6040b2bd0134a67d821ddb.pdf"
+    }
+  ]
+}

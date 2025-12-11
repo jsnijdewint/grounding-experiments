@@ -1,0 +1,61 @@
+{
+  "id": "havo_geschiedenis_2024_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "geschiedenis",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 29,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 202,
+          "name": "Tijdvak 9 – Wereldoorlogen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 8.&nbsp;<br>Het stadsbestuur van Schmölln heeft opdracht gegeven voor de bestraffing.<br><br>Toon aan:&nbsp;<br> dat de situatie op de foto past bij 'het in praktijk brengen van het nationaalsocialisme', en&nbsp;<br> met een verwijzing naar de foto, wat het stadsbestuur wilde bereiken met deze bestraffing.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 1832 werden honderden slaafgemaakten gedood tijdens het neerslaan van een slavenopstand op Jamaica. De Britse militair bevelhebber schreef in een affiche: \"Ik heb veel soldaten meegenomen om de schuldigen te straffen. Iedereen die bij de rebellen wordt aangetroffen zal zonder pardon ter dood worden gebracht. Verzet tegen de troepen van de koning is zinloos! Geef je over en smeek om genade.\"</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In India verscheen vanaf de jaren 1890 wekelijks het tijdschrift Mirror of British Merchandise and Hindustani Pictorial News in het Urdu (een veel gesproken taal in India). In het tijdschrift werden onder andere artikelen gepubliceerd:&nbsp;</p><p>1 over invloedrijke Indiërs, met fotorapportages van hun reizen en activiteiten, vaak in Groot-Brittannië.&nbsp;</p><p>2 over de productie en het gebruik van onder andere katoen en bedrukte stoffen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Gebruik bron 7.&nbsp;<br>Twee gegevens:&nbsp;<br>1 Het is onduidelijk wie de opdracht heeft gegeven voor dit schilderij.&nbsp;<br>2 Er is aan het einde van de negentiende eeuw onder Indonesiërs veel belangstelling voor het verhaal van Surapati.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Twee gegevens over de Duitse sociaaldemocratische politicus Kuttner:&nbsp;<br>1 In 1921 citeerde Kuttner een bericht van de Duitse generaalveldmaarschalk Von Hindenburg uit 1918: \"Onder deze omstandigheden is het absoluut noodzakelijk om de strijd af te breken om het Duitse volk en hun bondgenoten nutteloze slachtoffers te besparen. Elke gemiste dag kost het leven van duizenden dappere soldaten.\"&nbsp;<br>2 In 1933 moest Kuttner Duitsland ontvluchten.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2024_I_bijlage_ca421fa87c76.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e819c55e9496484aac48d85b1c4cc890.pdf"
+    }
+  ]
+}

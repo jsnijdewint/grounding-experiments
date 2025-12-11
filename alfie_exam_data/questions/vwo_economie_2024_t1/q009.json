@@ -1,0 +1,73 @@
+{
+  "id": "vwo_economie_2024_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 22,
+          "name": "Welvaart en groei",
+          "prefix_code": "H"
+        },
+        {
+          "id": 23,
+          "name": "Goede tijden, slechte tijden",
+          "prefix_code": "I"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat een verhoging van de inkomstenbelasting door het uitverdieneffect, een beperkt effect heeft op de staatsschuld.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Maecenates is een land dat al jaren kampt met een oplopende staatsschuld. Economen Falco en Colomba analyseren de houdbaarheid<br>van de overheidsfinanciën en de doelmatigheid van de overheidsbestedingen in de periode 2011-2020 aan de hand van de<br>gegevens in figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_f601d98c0247.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/11b0dd70844a4376891fbcf1c62fea2f.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mi>t</mi><mi>a</mi><mi>a</mi><mi>t</mi><mi>s</mi><mi>s</mi><mi>c</mi><mi>h</mi><mi>u</mi><mi>l</mi><mi>d</mi><mi>q</mi><mi>u</mi><mi>o</mi><mi>t</mi><mi>e</mi><mo>=</mo><mfrac><mtext>staatsschuld</mtext><mtext>bbp</mtext></mfrac><mo>&#215;</mo><mn>100</mn><mi mathvariant=\"normal\">%</mi></math><br><br>Econoom Falco beweert dat er een verband bestaat tussen de<br>staatsschuldquote en de ontwikkeling van het nominaal rentepercentage<br>op staatsobligaties.</p><p>&nbsp;</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Econoom Falco beweert dat de dienstverlening van de overheid onder druk komt te staan, als de rente-uitgaven groter worden dan 10% van de<br>overheidsuitgaven. De overheidsuitgaven van Maecenates bedragen 43% van het bbp in 2020.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Falco wil dat de staatsschuldquote afneemt door een verhoging van de inkomstenbelasting. Colomba vindt dat een verhoging van de<br>inkomstenbelasting door een uitverdieneffect en een grotere belastingwig, een beperkt effect heeft op de staatsschuld.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Economie_2024_I_uitwerkbijlage_1a973a084ece.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4c41604ce9b148bcac3ea440f8fd9796.pdf"
+    }
+  ]
+}

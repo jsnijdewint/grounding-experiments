@@ -1,0 +1,58 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2023_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 142,
+          "name": "Verbranden en verwarmen",
+          "prefix_code": "NASK1/K/6"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken het rendement van deze zonnecel. Reken eerst de waarde van het opgenomen vermogen van de zonnecel uit.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De Solar Sensor Light is een lamp met 10 identieke leds. In de lamp zit een lichtsensor die uit een LDR bestaat. Als het licht is, zijn de leds uitgeschakeld. Als het donker wordt, worden de leds automatisch ingeschakeld. De benodigde stroom komt van een oplaadbare accu. Overdag laadt de zonnecel de accu op.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_271417d390fb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/311d610804e64313985e7e17e6ae52eb.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Per <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">dm</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></math>is het gemiddeld vermogen van zonlicht 10 W . De zonnecel heeft een oppervlak van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>64</mn> <msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">dm</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></math>. Het gemiddeld afgegeven vermogen van de zonnecel is 1,6 W.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2023_I_146f2ef32a60.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a553a8c7e49437a900373fa6ec9748e.pdf"
+    }
+  ]
+}

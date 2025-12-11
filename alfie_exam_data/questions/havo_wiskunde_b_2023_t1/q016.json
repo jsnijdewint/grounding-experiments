@@ -1,0 +1,63 @@
+{
+  "id": "havo_wiskunde_b_2023_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 102,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de <strong>langzaamste </strong>tijd waarmee je méér punten behaalt dan met een sprong van 228 cm hoog. Geef je eindantwoord in minuten en seconden, met het aantal seconden in twee decimalen.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De tienkamp is een sportwedstrijd waarbij atleten gedurende twee dagen tien atletiekonderdelen moeten afleggen. Twee onderdelen van de tienkamp zijn hoogspringen en 1500 m hardlopen.</p><p>Met formules worden de resultaten van de onderdelen omgezet in punten. Vervolgens worden alle punten die de atleet op de onderdelen heeft behaald, opgeteld. De atleet met de meeste punten wint de tienkamp.</p><p>Per onderdeel is ooit bepaald wat de ondergrens is om punten te scoren. Bij het hoogspringen was die ondergrens een hoogte van 75 cm . Daarom krijgt de atleet 0 punten als hij 75 cm of lager springt. Bij sprongen met een hoogte boven 75 cm behaalt de atleet wél punten. Bij een sprong met een hoogte van 220 cm krijgt hij 1000 punten.</p><p>Bij het hoogspringen gebruikte men tot het jaar 1920 voor sprongen vanaf 75 cm een lineaire formule van de volgende vorm:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi> <mo>=</mo> <mi>a</mi> <mo>&#8901;</mo> <mo stretchy=\"false\">(</mo> <mi>H</mi> <mo>&#8722;</mo> <mi>b</mi> <mo stretchy=\"false\">)</mo></math></p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>het aantal punten en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi>&#160;</math>de gesprongen hoogte in centimeters <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo> <mi>H</mi> <mo>&#8805;</mo> <mn>75</mn> <mo stretchy=\"false\">)</mo>&#160;</math>en zijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi>&#160;</math>constanten.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_e5ada43b6584.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4bc2a9855d874687a1cf50c88bb717b8.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een lineaire formule werd niet eerlijk gevonden, omdat bijvoorbeeld een verbetering van 75 cm naar 76 cm makkelijker te behalen is dan een verbetering van 160 cm naar 161 cm , terwijl dat toch evenveel extra punten oplevert. Daarom wilde men een andere formule, waarbij een verbetering van bijvoorbeeld 1 cm , méér extra punten oplevert naarmate er hoger wordt gesprongen.</p><p>De formule die tegenwoordig voor het hoogspringen gehanteerd wordt, is</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi> <mo>=</mo> <mn>0</mn> <mo>,</mo> <mn>8465</mn> <mo>&#8901;</mo> <mo stretchy=\"false\">(</mo> <mi>H</mi> <mo>&#8722;</mo> <mn>75</mn> <msup><mo stretchy=\"false\">)</mo> <mrow data-mjx-texclass=\"ORD\"><mn>1</mn> <mo>,</mo> <mn>42</mn>&#160;</mrow></msup></math></p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>weer het aantal punten en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi>&#160;</math>de gesprongen hoogte in centimeters ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi> <mo>&#8805;</mo> <mn>75</mn>&#160;</math>).</p><p>&nbsp;</p><p>Het aantal punten dat je extra verdient door 1 cm hoger te springen, wordt steeds groter.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De punten die bij de tienkamp-onderdelen worden behaald, worden eerst met de bijbehorende formule berekend en daarna naar beneden afgerond op een geheel getal. Dus als de uitkomst van de formule bijvoorbeeld 982,73 is, dan krijgt de atleet 982 punten.</p><p>Bij het onderdeel 1500 m hardlopen wordt de volgende formule gebruikt:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi> <mo>=</mo> <mn>0</mn> <mo>,</mo> <mn>03768</mn> <mo>&#8901;</mo> <mo stretchy=\"false\">(</mo> <mn>480</mn> <mo>&#8722;</mo> <mi>t</mi> <msup><mo stretchy=\"false\">)</mo> <mrow data-mjx-texclass=\"ORD\"><mn>1</mn> <mo>,</mo> <mn>85</mn>&#160;</mrow></msup></math></p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi>&#160;</math>het aantal punten en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi>&#160;</math>de gelopen tijd in seconden. Deze tijd wordt altijd gemeten in honderdsten van seconden nauwkeurig.</p><p>Op 1 juli 2019 was tot dan toe de beste prestatie bij het onderdeel hoogspringen een sprong met hoogte 228 cm .<br>Er worden verschillende tijden gelopen op de 1500 m hardlopen waarmee je méér punten behaalt dan met een sprong van 228 cm hoog.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde B 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2023_I_uitwerkbijla_9ba57d6520e4.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9679abc20da6403596a9f0f1d8e1d3b8.pdf"
+    }
+  ]
+}

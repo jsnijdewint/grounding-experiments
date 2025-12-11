@@ -1,0 +1,87 @@
+{
+  "id": "vwo_biologie_2021_t1_q19",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 30,
+          "name": "Eiwitsynthese",
+          "prefix_code": 1
+        },
+        {
+          "id": 31,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 32,
+          "name": "Zelforganisatie van cellen",
+          "prefix_code": 3
+        },
+        {
+          "id": 33,
+          "name": "Moleculaire en cellulaire interactie",
+          "prefix_code": 4
+        },
+        {
+          "id": 36,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 37,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 38,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welk type molecuul wordt herkend bij restrictie? En welk type molecuul wordt doorgaans herkend bij een immunologische reactie bij de mens?</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-right-color:!important;border-right-style:none;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-style:solid !important;border-top-width:1px !important;width:auto;\" rowspan=\"2\"><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">herkend bij</td></tr><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">restrictie</td></tr></tbody></table></figure></td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-style:solid !important;border-top-width:1px !important;width:auto;\" rowspan=\"2\"><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">herkend bij immunologische</td></tr><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-top-color:!important;border-top-style:none;width:auto;\">reactie bij de mens</td></tr></tbody></table></figure></td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">A</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">eiwit</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">DNA</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">B</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">eiwit</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">eiwit</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">C</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">DNA</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">DNA</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">D</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">DNA</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">eiwit</td></tr></tbody></table></figure>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Zuivelbedrijven die yoghurt bereiden, krijgen soms een opbrengst van waterige melk met klonten, veroorzaakt door bacteriofagen in de yoghurtcultuur. Dankzij CRISPR-Cas kan dit voorkomen worden.</p><p>Yoghurt wordt gemaakt door melk te enten met de melkzuurbacteriën Streptococcus thermophilus en Lactobacillus bulgaricus. Deze bacteriën zetten melkeiwitten om en verbruiken lactose (melksuiker) uit de melk voor hun energievoorziening. Hierdoor verzuurt de melk snel en krijgt die een andere smaak, structuur en voedingswaarde: het wordt yoghurt. Doordat yoghurt veel minder lactose bevat dan melk is het een geschikt zuivelproduct voor mensen met lactose-intolerantie.<br>Na het eten van yoghurt hebben de yoghurtbacteriën die levend de darm bereiken een gunstig effect op de darmflora, de stoelgang en het immuunsysteem van de darm.</p><p>De twee bacteriesoorten zijn samen efficiënter in het veranderen van de melk in yoghurt dan ieder apart. Zo produceert L. bulgaricus voornamelijk endopeptidasen, enzymen die peptidebindingen binnen een peptideketen verbreken, en produceert S. thermophilus voornamelijk exopeptidasen, enzymen die peptide-bindingen aan de uiteinden van een peptideketen verbreken.<br>De enzymactiviteit van S. thermophilus is hoger als deze bacterie samen met L. bulgaricus aan melk wordt toegevoegd dan als alleen<br>S. thermophilus wordt toegevoegd.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Als de melkzuurbacteriën geïnfecteerd worden door virussen kan de yoghurt mislukken. Zo'n type virus wordt bacteriofaag, of kortweg faag genoemd (afbeelding 1). In afbeelding 2 is een bacterie weergegeven met daarop vele fagen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_a364178aa03b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7fedc6bfdf9545d99a8a05ee319d758d.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Bacteriën kunnen zich verdedigen tegen fagen met behulp van restrictieenzymen die de vermeerdering van de fagen remmen. Restrictie bij bacteriën is te vergelijken met immunologische afweer bij de mens. Bij beide processen vindt herkenning van een moleculaire structuur plaats.</p>"
+    }
+  ],
+  "bijlages": []
+}

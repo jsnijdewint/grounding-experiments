@@ -1,0 +1,113 @@
+{
+  "id": "havo_biologie_2024_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welk type witte bloedcel is dit?&nbsp;<br>A B-cel&nbsp;<br>B cytotoxische T-cel&nbsp;<br>C macrofaag</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In Nederland worden jaarlijks ongeveer vijfduizend hartkleppen vervangen door kunsthartkleppen. Bij kinderen met een kunsthartklep, moet de klep meerdere keren worden vervangen, omdat een kunsthartklep niet meegroeit. Biomedisch ingenieur Carlijn Bouten werkt aan een oplossing voor dit probleem.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_e32485da52dc.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0ac7e522bdaa4abda69dbc8c7078ca8a.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_0d0653914e24.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/47a3b7cdbf64465d9244c3cf794dbf53.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Bouten heeft een slagaderklep ontwikkeld van een biologisch afbreekbare kunststof (afbeelding 2). Na de implantatie worden tussen de kunstvezels van de slagaderklep witte bloedcellen en bindweefselcellen ingevangen. Tegen de tijd dat de bindweefselcellen voldoende stevige en elastische eiwitten (collageen en elastine) hebben aangemaakt, wordt de kunststof afgebroken.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Het grote probleem bij een geïmplanteerde kunstklep is dat het materiaal bloedstolling veroorzaakt.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Het functioneren van de kunstklep is in het laboratorium getest in een kunstslagader onder de omstandigheden die heersen in een longslagader. In plaats van bloed werd een zoutoplossing door de kunstklep heen gepompt.<br><br>In afbeelding 3 zijn foto’s te zien van een filmpje van het functioneren van de kunstklep als longslagaderklep. De foto’s beslaan één hartcyclus, waarvan de drie achtereenvolgende perioden zijn aangegeven met letters.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_d623769efd42.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e5011ff0506f412591f93b6026e1d9c4.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>De drie fasen van de hartcyclus zijn:&nbsp;<br> hartpauze&nbsp;<br> samentrekken boezems&nbsp;<br> samentrekken kamers</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Na de test onder de omstandigheden die heersen in de longslagader, is de kunstklep getest onder de omstandigheden die heersen in de aorta.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Na de succesvolle tests in het laboratorium is de kunstklep bij schapen geïmplanteerd op de plaats van de longslagaderklep. Gedurende een jaar werd de gezondheid van deze schapen gecontroleerd. Uit dit onderzoek blijkt dat het weefsel van de geïmplanteerde klep verschillende fasen doorloopt om uiteindelijk een ‘levende’ klep te worden (afbeelding 4).</p>"
+    },
+    {
+      "order": 10,
+      "type": "image",
+      "media_path": "media/in-exam/img_769a362aa0b9.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f0538086b4f74edd9ee74c3ec5448e6b.png",
+      "caption": ""
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>De eerste cellen die het kunstvezelnetwerk van de kunstklep binnendringen, zijn witte bloedcellen die in weefsels op zoek zijn naar lichaamsvreemde stoffen. Deze cellen veroorzaken in de kunstklep een ontstekingsreactie.</p>"
+    }
+  ],
+  "bijlages": []
+}

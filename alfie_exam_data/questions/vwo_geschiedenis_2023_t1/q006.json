@@ -1,0 +1,45 @@
+{
+  "id": "vwo_geschiedenis_2023_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 186,
+          "name": "Tijdvak 3 – Monniken en ridders",
+          "prefix_code": 3
+        },
+        {
+          "id": 187,
+          "name": "Tijdvak 4 – Steden en staten",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 4.<br>Stel: een onderzoek naar de beweging van de begijnen heeft twee onderzoeksgebieden:<br>1 De verspreiding van de beweging van de begijnen in Europa.<br>2 De motieven van vrouwen om toe te treden tot de beweging van de begijnen.<br>De bron wordt alleen gebruikt voor de eerste deelvraag.<br>Verklaar dit door:</p><ul><li>aan te geven dat je de bron kunt gebruiken voor het eerste onderzoeksgebied, en</li><li>uit te leggen dat de bron minder betrouwbare informatie bevat voor het tweede onderzoeksgebied.</li></ul>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2023_I_bijlage_55374cf5cbf5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5244a635b97841b7b1e77f67a3c0f38a.pdf"
+    }
+  ]
+}

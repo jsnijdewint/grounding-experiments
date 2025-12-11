@@ -1,0 +1,66 @@
+{
+  "id": "havo_wiskunde_a_2022_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 181,
+          "name": "Presentaties van data interpreteren en beoordelen",
+          "prefix_code": 1
+        },
+        {
+          "id": 182,
+          "name": "Data verwerken",
+          "prefix_code": 2
+        },
+        {
+          "id": 183,
+          "name": "Data en verdelingen",
+          "prefix_code": 3
+        },
+        {
+          "id": 184,
+          "name": "Statistische uitspraken doen",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit waarom deze steekproef waarschijnlijk niet representatief is en geef aan hoe dat verbeterd kan worden.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In veel dorpen geldt een snelheidslimiet van 30 of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">km</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">uur</mi>&#160;</mrow></math>. Niet elke automobilist houdt zich hieraan en dit kan onveilige situaties opleveren. Daarom kan iedereen onveilige verkeerssituaties melden bij Veilig Verkeer Nederland (VVN). Als men bij VVN het vermoeden heeft dat het om een gegronde melding gaat, dan gaan vrijwilligers op pad om de snelheid van passerende automobilisten te meten.</p><p>&nbsp;</p><p>Vanuit het dorp Borssele is zo'n melding binnengekomen over de Monsterweg. Vervolgens is op een dinsdagochtend tussen 7 en 9 uur op deze weg de snelheid van 250 passerende automobilisten gemeten. Aan de hand van de resultaten van deze steekproef wil men een uitspraak doen over het percentage automobilisten dat in een willekeurige week op deze weg te hard rijdt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_47358876a1f1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/481e05ea1b3d4f8abbc66849e31c4129.pdf"
+    },
+    {
+      "name": "Wiskunde A 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2022_I_uitwerkbijla_ed3f16cbc21f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7a0c7f08da744830b81b66f1bba66954.pdf"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "vmbo_gl_biologie_2023_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 114,
+          "name": "Planten en dieren en hun samenhang: de eigen omgeving verkend",
+          "prefix_code": "BI/K/6"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zitten in dit recept de kroonbladeren van insectenbloemen of van windbloemen? Leg je antwoord uit.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Karel leest in een kookboek dat je sommige bloemen kunt eten. Hij kiest een recept voor een bloementaart uit. Enkele van de benodigde ingrediënten staan hieronder.</p><ul><li>100 g roomboter</li><li>150 mL melk</li><li>300 g tarwemeel</li><li>400 g bloemkool</li><li>150 g pompoenpitten</li><li>gele kroonbladeren van zonnebloemen</li><li>paarse kroonbladeren van viooltjes</li><li>1 citroen</li></ul>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_30e3d9706791.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/646f29ca0ba84425b9027e337a0520be.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2023_I_uitwerkbijlage_4e0013036ef8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9a816268fb648d6bbff9679cf7f9a46.pdf"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "havo_aardrijkskunde_2023_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "aardrijkskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 46,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 93,
+          "name": "Samenhangen en verschillen in de wereld",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef&nbsp;<br>− eerst <strong>twee</strong> uitdagingen waar Nigeria door het grote bevolkingsaantal in 2100 mee te maken krijgt;&nbsp;<br>− vervolgens met de bronnen aan waarom deze bevolkingsgroei juist in Nigeria tot etnische conflicten kan leiden.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 3 tot en met 6. Gebruik bron 3. Het aantal kinderen dat een vrouw gemiddeld in haar leven krijgt, neemt wereldwijd af. Als die trend doorgaat zal de wereldbevolking rond 2100 gaan dalen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik bron 3. De dalende bevolkingsomvang in centrumlanden en semi-perifere landen kan leiden tot een demografisch probleem in deze landen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Gebruik de bronnen 3 en 4. De bevolkingsopbouw van Nigeria is kenmerkend voor veel Afrikaanse landen. Ondanks de daling van het gemiddeld aantal kinderen per vrouw in Afrika, blijft de bevolking tot 2100 groeien.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Gebruik de bronnen 4 tot en met 6. Nigeria heeft in 2100 naar verwachting bijna net zoveel inwoners als India en China. Dit enorme bevolkingsaantal brengt juist voor Nigeria grote uitdagingen met zich mee.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2023_I_bijlage_69f68dcbb685.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/10ac6d191f384f45b2c7a166e7f7f20d.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2023 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2023_I_kaartenk_28572665cc74.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e2c0e21f03a64d3bb38be49a41a361db.pdf"
+    }
+  ]
+}

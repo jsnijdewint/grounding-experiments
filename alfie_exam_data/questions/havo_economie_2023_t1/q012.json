@@ -1,0 +1,66 @@
+{
+  "id": "havo_economie_2023_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 73,
+          "name": "Markt",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 1.<br>Maak van onderstaande zinnen een economisch juiste redenering.<br>De sterke economische groei in Azië zorgt ervoor dat de vraag naar koks in Azië ...(1)... In de grafiek van bron 1 verschuift daardoor de ... (2)...<br>naar ...(3).... Dit leidt tot een ... (4)... van het totale surplus op deze markt.<br>Kies uit:<br>bij (1) daalt / stijgt<br>bij (2) aanbodlijn / vraaglijn<br>bij (3) links / rechts<br>bij (4) afname / toename</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De Aziatische restaurants in Nederland kampen met een groot tekort aan specialiteitenkoks. Dit tekort is ontstaan doordat Aziatische restaurants in korte tijd zeer populair zijn geworden. Specialiteitenkoks zijn koks die in Azië zijn opgeleid en ervaring hebben met specialistische kooktechnieken. De zeer specialistische kennis en kunde kan tot op heden niet worden aangeleerd op Nederlandse scholen. Omscholingstrajecten van Nederlandse koks hebben ook nog geen specialiteitenkoks opgeleverd die op het vereiste hoge kwaliteitsniveau werken.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Als gevolg van het tekort aan specialiteitenkoks dreigen de loonkosten van Aziatische restaurants hoog op te lopen. Om dit te voorkomen willen de Aziatische restaurants koks uit Azië laten overkomen. Dit wordt echter bemoeilijkt door de Wet arbeid vreemdelingen (WAV). In de WAV staan strenge voorwaarden voor het laten werken van werknemers uit landen waarmee Nederland geen vrij verkeer van arbeid heeft afgesproken.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De Vereniging Chinese-Aziatische Horeca Ondernemers (VCHO) onderzoekt de arbeidsmarkt van specialiteitenkoks voor Aziatische restaurants met behulp van een model (zie bron 1) om een aantal mogelijke oplossingen te analyseren.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De Nederlandse regering en de VCHO sluiten uiteindelijk het zogenoemde Wokakkoord om het vraagoverschot naar specialiteitenkoks te verminderen. In dit Wokakkoord is bepaald dat maximaal 900 nieuwe specialiteitenkoks mogen overkomen uit Azië om in Nederlandse Aziatische restaurants te komen werken. De voorwaarden voor werkvergunningen zijn voor deze koks versoepeld. Een woordvoerder van de VCHO stelt: \"We zijn blij met het overeengekomen quotum, maar het is niet voldoende om het tekort aan specialiteitenkoks volledig weg te werken.\"</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Ook de sterke economische groei in Azië zorgt ervoor dat niet aan de totale vraag naar specialiteitenkoks in Nederland kan worden voldaan.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2023_I_bijlage_eaf186f81c74.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/723bbf20b7c0415f956f8db16a4c63fd.pdf"
+    }
+  ]
+}

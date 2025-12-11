@@ -1,0 +1,41 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_2_2024_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_2",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 53,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Met hoeveel moleculen waterstof kan een molecuul tolueen maximaal reageren?<br>Maak gebruik van de vergelijking van reactie 1.<br><strong>A </strong>1<br><strong>B </strong>2<br><strong>C </strong>3<br><strong>D </strong>4<br><strong>E </strong>5<br><strong>F </strong>6</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een alternatief voor fossiele brandstoffen is waterstof. Dit gas kan uit water worden verkregen door middel van elektrolyse. Gassen kunnen minder gemakkelijk opgeslagen en vervoerd worden dan vloeistoffen. Maar het vloeibaar maken van waterstof kost veel energie. Daarom is bedacht om waterstof te laten reageren met de vloeistof tolueen ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>7</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>8</mn>&#160;</mrow></msub></math>). Hierbij ontstaat methylcyclohexaan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>7</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>14</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>, dat ook vloeibaar is. De reactievergelijking voor de vorming van methylcyclohexaan is hieronder onvolledig weergegeven. De formule van waterstof en de bijbehorende coëfficiënt ontbreken.</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>7</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>8</mn> </mrow></msub><mo>+</mo> <mo>&#8230;</mo> <mo>&#8230;</mo> <mo stretchy=\"false\">&#8594;</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>7</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>14</mn> </mrow></msub><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mtext>(reactie 1)&#160;</mtext></math></p><p>Uit methylcyclohexaan worden waterstof en tolueen vervolgens weer volledig vrijgemaakt. De waterstof wordt daarna gebruikt als brandstof. Het tolueen kan worden hergebruikt. Deze cyclus van chemische processen, opslag en vervoer is hieronder vereenvoudigd weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_fd3e5424e90f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c34317eef0d44f058c55feaf53db7cb7.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

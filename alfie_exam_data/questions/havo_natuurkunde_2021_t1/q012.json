@@ -1,0 +1,112 @@
+{
+  "id": "havo_natuurkunde_2021_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 136,
+          "name": "Zonnestelsel en heelal",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Teken in de derde figuur op de uitwerkbijlage de stand van de manen op <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>5</mn> <mo>,</mo> <mn>32</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">d</mi>&#160;</mrow></math>. Leg je antwoord uit met behulp van een berekening.</p>",
+    "max_score": 4,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_e35861956a8e.jpg",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ea9c177334af416ba50edfc13316fc98.jpg"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De planeet Jupiter heeft meerdere manen. Zie figuur 1. Deze figuur is niet op schaal. Een van deze manen heet Europa. Gegevens over de maan Europa zijn te vinden in Binas-tabel 31 of Sciencedata-tabel 3.3a.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_5f931f796e83.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b59de8d1d1d44b8bbcb35fe9bc0d2739.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De straal van de baan van Europa is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>670</mn> <mo>,</mo> <mn>9</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>6</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math>.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De oppervlaktetemperatuur van Europa is 173 K . Dit is bepaald door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>&#955;</mi> <mrow data-mjx-texclass=\"ORD\"><mo movablelimits=\"true\" data-mjx-texclass=\"OP\">max</mo>&#160;</mrow></msub></math>te meten van het infraroodspectrum dat deze maan uitzendt.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Sommige wetenschappers denken dat de temperatuur onder het oppervlak van Europa veel hoger is dan 173 K . Hun verklaring hiervoor is de voortdurende verandering van de gravitatiekracht op de maan Europa. In figuur 2 zijn Jupiter en Europa getekend. Deze figuur is niet op schaal. Op de maan Europa zijn twee punten gemarkeerd met 'a' en 'b'.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_20f0745aa7e8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ae943450d52041c3b26050528012d50a.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De gravitatiekracht die Jupiter op Europa uitoefent is in punt a niet even groot als in punt b . Hierdoor wordt Europa een beetje vervormd. Dit is schematisch weergegeven in figuur 3.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_6e28623e47a6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5fb045fdbc2a46cb80898526799a54c4.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Behalve Jupiter oefenen ook de manen Ganymedes en lo een (kleine) gravitatiekracht uit op Europa. Omdat deze drie manen ten opzichte van elkaar in beweging zijn, veranderen deze gravitatiekrachten steeds. De wetenschappers denken dat de maan Europa zo 'gekneed' wordt. Hierbij zou dan warmte ontstaan waardoor de temperatuur in het inwendige van Europa kan stijgen.</p><p>In figuur 4 is de stand van de drie manen op een bepaald moment <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>0</mn>&#160;</math> weergegeven. Neem aan dat Jupiter stilstaat en dat de drie manen in een cirkelbaan in de aangegeven richting bewegen. Op <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>3</mn> <mo>,</mo> <mn>55</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">d</mi>&#160;</mrow></math> heeft de maan lo 2,0 omwentelingen om Jupiter gemaakt en is de stand zoals in figuur 5 . Figuur 4 en 5 zijn niet op schaal.</p>"
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_cd3c500ff38c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d74158b6ed2b4f1da890ff28d7898646.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Vergelijk de resulterende kracht op (het zwaartepunt van) Europa in figuur 5 met die in figuur 4.</p>"
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>De omlooptijden van de manen van Jupiter hebben een vaste verhouding tot elkaar. Er geldt:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>T</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">lo</mi> </mrow></mrow></msub><mo>:</mo> <msub><mi>T</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>Europa </mtext></mrow></msub><mo>:</mo> <msub><mi>T</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>Ganymedes </mtext></mrow></msub><mo>=</mo> <mn>1</mn> <mo>:</mo> <mn>2</mn> <mo>:</mo> <mn>4</mn></math></p><p>Figuur 4 en figuur 5 staan ook op de uitwerkbijlage.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2021_I_uitwerkbijl_615e0715d0ed.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ae05f1ce95cd4d549a2e6c6e34cdeacc.pdf"
+    }
+  ]
+}

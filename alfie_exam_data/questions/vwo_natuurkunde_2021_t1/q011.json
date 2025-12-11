@@ -1,0 +1,99 @@
+{
+  "id": "vwo_natuurkunde_2021_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [
+        {
+          "id": 31,
+          "name": "Natuurwetten en modellen",
+          "prefix_code": "H"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Toon met een berekening aan dat die conclusie juist is.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Roland en Arno bouwen de opstelling zoals schematisch weergegeven in figuur 1. In deze opstelling is een toongenerator verbonden met een trillingsapparaat. Aan het trillingsapparaat is een cirkelvormige metalen lus gekoppeld. Deze lus heeft een diameter van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>24</mn> <mo>,</mo> <mn>5</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">cm</mi>&#160;</mrow></math>. Bij bepaalde ingestelde frequenties op de toongenerator ontstaat er een staande golf in de cirkelvormige lus. In figuur 2 is een voorbeeld van zo'n staande golf te zien.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_b1a0a056a3e3.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ff7b09496519482fb98ab4e887870e8e.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_bf2d8b379b1d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ef67b02f91334c8589cd3691f96791da.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De plek waar de lus aan het trillingsapparaat bevestigd is, mag beschouwd worden als een knoop.<br>Roland en Arno trekken op basis van figuur 2 de conclusie dat de golfsnelheid in de lus niet overal gelijk kan zijn.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Op het moment dat de foto van figuur 2 gemaakt werd, stond de toongenerator ingesteld op 69 Hz .</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Roland en Arno variëren de frequentie van de toongenerator en kijken wanneer er een staande golf in de lus ontstaat. Hun waarnemingen staan in figuur 3.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_6677ebf11352.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/25753a4938a14caf906a279791032a6f.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_11a722a23523.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/97d9fd3f0e4d4b84b20e937e4317bbf1.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Het valt Roland en Arno op dat er alleen staande golven met een oneven aantal buiken in de lus ontstaan. In het bovenste punt van de lus ontstaat dus altijd een buik.<br>In de lus beweegt een golf in de richting van de wijzers van de klok en een golf in de tegengestelde richting. Dit is schematisch weergegeven in figuur 4.<br>Deze twee lopende golven interfereren met elkaar. Op plaatsen met constructieve interferentie ontstaan buiken en op plaatsen met destructieve interferentie ontstaan knopen.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Roland en Arno gaan op zoek naar het verband tussen de frequentie van het trillingsapparaat en het aantal buiken dat in de lus ontstaat. Uit de meetresultaten in figuur 3 trekken ze de conclusie dat er onmogelijk sprake kan zijn van een recht evenredig verband.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2021_I_uitwerkbijl_c33ae80fc3fe.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/81dc392e495c476891779b4272db5a6c.pdf"
+    }
+  ]
+}

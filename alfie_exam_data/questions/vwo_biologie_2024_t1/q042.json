@@ -1,0 +1,99 @@
+{
+  "id": "vwo_biologie_2024_t1_q42",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 19,
+          "name": "Onderzoeken",
+          "prefix_code": 5
+        },
+        {
+          "id": 20,
+          "name": "Ontwerpen",
+          "prefix_code": 6
+        },
+        {
+          "id": 21,
+          "name": "Modelvorming",
+          "prefix_code": 7
+        },
+        {
+          "id": 22,
+          "name": "Natuurwetenschappelijk instrumentarium",
+          "prefix_code": 8
+        },
+        {
+          "id": 23,
+          "name": "Waarderen en oordelen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Licht toe waarom er ook groenten uit Bilthoven getest werden.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In Nederland ontstond grote ophef toen PFAS (poly- en perfluoralkylstoffen) werden aangetroffen in afvalwater, oppervlaktewater en zelfs drinkwater. PFAS leveren namelijk risico’s op voor de volksgezondheid en het milieu. Wetenschappers van het RIVM (Rijksinstituut voor Volksgezondheid en Milieu) onderzochten of PFAS via besmette groentetuintjes terecht kunnen komen in voedsel voor mensen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_1da0874802d5.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dd775b10a6654901906ccd670415eabc.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>PFOA wordt nauwelijks afgebroken of uitgescheiden door het lichaam van de mens. Voor PFOA is de grenswaarde een dagelijkse inname van 0,63 ng/kg lichaamsgewicht per dag. Deze waarde is afgeleid van de waarde van 750 ng/kg lichaamsgewicht per dag die uit onderzoek bij ratten kwam.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>PFOA wordt nauwelijks uitgescheiden doordat veel PFOA-moleculen binden aan plasma-eiwitten in het bloed. De PFOA-moleculen die niet gebonden zijn, kunnen wel worden uitgescheiden.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Hoewel PFOA geen mutagene effecten heeft, wordt in proefdieren toch een verhoogd aantal tumoren gevonden.<br><br>Tumoren kunnen – onder invloed van mutagene factoren – ontstaan door mutaties in bepaalde genen die een regulerende functie hebben bij celdeling.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De toename van het aantal tumoren bij de proefdieren zou een gevolg kunnen zijn van een verminderde hoeveelheid T-lymfocyten.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Door de besmetting van grond- en oppervlaktewater met PFAS zouden deze stoffen terecht kunnen komen in voedselgewassen die in de directe omgeving geteeld worden. Om te onderzoeken of dit werkelijk gebeurt, werden groenten uit volkstuintjes in de omgeving van een groot chemiebedrijf in Dordrecht getest op aanwezigheid van PFOA. Behalve groenten uit volkstuintjes in de omgeving van het chemisch bedrijf in Dordrecht werden ook groenten uit volkstuintjes in Bilthoven, dat 60 km verderop ligt, getest op de aanwezigheid van PFOA. De resultaten staan in afbeelding 2.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_eb4ad5cf0616.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e30599347e9b45a0a06c732f569b8ff0.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

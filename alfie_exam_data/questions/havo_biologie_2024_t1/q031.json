@@ -1,0 +1,52 @@
+{
+  "id": "havo_biologie_2024_t1_q31",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 123,
+          "name": "Erfelijke eigenschap",
+          "prefix_code": 7
+        },
+        {
+          "id": 124,
+          "name": "Selectie",
+          "prefix_code": 8
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Verklaar waardoor de kans op het ontwikkelen van schizofrenie voor iemand in situatie 5 groter is dan voor iemand in situatie 4.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Charles heeft tweemaal meegemaakt dat hij stemmen hoorde die er niet waren. Hij is bang dat hij aan schizofrenie lijdt, een ziekte die meerdere van zijn familieleden hebben.<br><br>De psychische aandoening schizofrenie is een ziekte waarbij iemands denken en waarnemen ernstig zijn verstoord. Een kenmerk van schizofrenie is het optreden van psychoses, waarbij iemand dingen waarneemt die er niet zijn. Maar niet iedereen die een psychose doormaakt, heeft schizofrenie. De precieze oorzaak van schizofrenie is nog niet bekend. Wel is duidelijk dat er een of meerdere erfelijke factoren een rol spelen. Als een familielid schizofrenie heeft, is de kans op het ontwikkelen van schizofrenie groter. In de tabel is voor vijf verschillende situaties weergegeven hoe groot de kans is dat iemand de aandoening ontwikkelt.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_611e64d91f7d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bb90c0c7f2864493a733cbd32b7a4857.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "vwo_geschiedenis_2022_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 192,
+          "name": "Tijdvak 8 – Burgers en stoommachines",
+          "prefix_code": 8
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit, telkens met een verwijzing naar het betreffende standpunt:</p><p>- welke kritiek een deel van die feministen heeft op het eerste standpunt en</p><p>- waardoor het tweede standpunt wel werd nagestreefd door die feministen.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In het verdrag van Nanjing, dat Groot-Brittannië en China in 1842 sloten, stond: \"Het is noodzakelijk en wenselijk dat Britse onderdanen een haven hebben waar zij naar behoefte hun schepen kunnen onderhouden als dat nodig is. Zijne Majesteit de keizer van China zal daarvoor het eiland Hongkong afstaan aan Hare Majesteit de Koningin van Groot-Brittannië.\" Een bewering: Het Verdrag van Nanjing was een gevolg van de politieke situatie in China en van het toenemende Britse imperialisme.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 6.</i></p><p>De standpunten van Mina Kruseman worden door feministen in de tweede helft van de negentiende eeuw deels bekritiseerd en deels nagestreefd.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2022_I_bijlage_a36412ab6c17.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ffb233ca393f4e5495872a5032cf7133.pdf"
+    }
+  ]
+}

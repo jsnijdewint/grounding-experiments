@@ -1,0 +1,36 @@
+{
+  "id": "vmbo_gl_aardrijkskunde_2024_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "aardrijkskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 71,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bekijk bron 19.<br>In de grafieken van bron 19 zie je de waterafvoer van de Maas en de Rijn tussen 1 maart en 1 september 2022.<br>Naar aanleiding van bron 19 worden drie uitspraken gedaan.<br>Uitspraak 1: in mei veroorzaakte smeltwater een piekafvoer in de benedenloop van de Rijn en de Maas.<br>Uitspraak 2: de waterstand van de Maas was in september lager dan de waterstand van de Rijn.<br>Uitspraak 3: de afvoer van de Maas verloopt onregelmatiger dan die van de Rijn, omdat de afvoer van de Maas alleen uit neerslag bestaat.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Neem de cijfers 1, 2 en 3 van de uitspraken over op het antwoordblad en zet erachter of de uitspraak juist of onjuist is.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_f103afd09332.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f5673dc46db3461a8af6deb58075078a.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

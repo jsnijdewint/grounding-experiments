@@ -1,0 +1,50 @@
+{
+  "id": "vmbo_gl_engels_2024_t1_q37",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "engels",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 52,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>De zinnen van alinea 5 staan hierboven, maar niet in de juiste volgorde.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Schrijf de letters van de zinnen in de juiste volgorde op.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>[a] \"There's plenty of people like Jorja Smith and Mahalia who are really, really flying the flag for UK R'n'B, and I think that's going to change hopefully in the future.\" With Vickery too, that change is surely closer. That tattoo behind his ear is just a small reminder of how much he can achieve.<br>[b] \"The thing is the UK R'n'B scene is so, so good,\" he says. \"But when you turn on a radio you will never find an R'n'B song on in the daytime,\" he explains.<br>[c] Vickery says he hopes he adds another voice to highlight the UK's new resurging R'n'B scene, which he feels is overlooked.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "VMBO bijlage.pdf",
+      "media_path": "media/bijlages/VMBO_bijlage_5c45adc82d08.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6217a170550c4d9ebcb27fee9ccc94d2.pdf"
+    },
+    {
+      "name": "Engels 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2024_I_bijlage_298b3c5ef9fc.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/db8ad06ca58f4ec4b29778ba39be77c3.pdf"
+    },
+    {
+      "name": "Engels 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Engels_2024_I_uitwerkbijlage_88ccdad35738.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d37689505561412a8ff903e385448f7b.pdf"
+    }
+  ]
+}

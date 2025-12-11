@@ -1,0 +1,66 @@
+{
+  "id": "vwo_aardrijkskunde_2022_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "aardrijkskunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 21,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 2,
+          "name": "Samenhang en verscheidenheid in de wereld",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beredeneer dat de hoge positie van Amsterdam op de Global Power City Index tot stand komt doordat in deze ranglijst niet vanuit alle dimensies indicatoren meegewogen worden.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 1 en 2.</p><p>Gebruik bron 1.<br>Er bestaat een verband tussen het economisch ontwikkelingspeil, de verstedelijkingsgraad en het verstedelijkingstempo.<br>In het algemeen geldt: hoe hoger het ontwikkelingspeil, des te ... a ... de verstedelijkingsgraad en des te ... b ... het verstedelijkingstempo.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik bron 2.<br>Uitspraak 1: in de top tien aantrekkelijkste wereldsteden scoren westerse steden op de indicator leefbaarheid in het algemeen hoger dan niet-westerse steden.<br>Uitspraak 2: Berlijn scoort op sociaal-culturele indicatoren beter dan op economische indicatoren.<br>Uitspraak 3: de steden Singapore, Seoul en Hongkong zijn pas de laatste twintig jaar de top tien van aantrekkelijkste wereldsteden binnengedrongen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 2.</i><br>Amsterdam heeft in de Global Power City Index een hogere positie dan in veel andere ranglijsten van wereldsteden.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2022 I_bijlage tweede herziene versie.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2022_I_bijlage__88aae15ced4f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d2ccb851cec4430a802548a6ec4a994e.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2022_I_bijlage_36c5b8adca2e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fc20d49f728944deb7e6b4e46d8b5a4d.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2022 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2022_I_kaartenk_fc425ebd0dcc.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/628196278454411ba47a6f09fd204183.pdf"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "havo_natuurkunde_2024_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [
+        {
+          "id": 80,
+          "name": "Vaardigheden",
+          "prefix_code": "A"
+        }
+      ],
+      "subdomains": [
+        {
+          "id": 137,
+          "name": "Gebruik van elektriciteit",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:&nbsp;</p><p>- Bereken de tijd die minimaal nodig is om de lege accu volledig op te laden met deze opstelling.&nbsp;</p><p>- Leg uit welke conclusie Jos en Martijn moeten trekken over het halen van de vierde ontwerpeis.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tijdens een kampeervakantie wordt vaak gekookt op een brander met een gasblikje. Zie figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_4cdb61aff7fa.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f5d71a0168ca427e8196ea93736b00f7.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Omdat gasblikjes niet overal verkrijgbaar zijn, willen Jos en Martijn voor hun profielwerkstuk een brander ontwerpen die op hout werkt. Met deze brander moet ook een telefoon opgeladen kunnen worden. Ze stellen een programma van eisen op waar hun brander aan moet voldoen.&nbsp;</p><p>&nbsp;</p><p>Enkele eisen zijn:&nbsp;</p><p>1 Het rendement voor water koken moet hoger zijn dan 40%.</p><p>2 De brander moet een elektrische spanning kunnen opwekken van 5,0 V voor het opladen van een telefoon.</p><p>3 Er moet zichtbaar gemaakt worden of de spanning hoog genoeg is om de telefoon op te laden.</p><p>4 De telefoon moet volledig kunnen opladen tijdens het koken van een maaltijd.</p><p>&nbsp;</p><p>Ze bouwen een brander die hout verbrandt en koken daarmee water om de eerste eis te controleren. Om 400 gram water van 10 °C aan de kook te brengen, hebben ze 18 gram hout nodig.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Als spanningsbron gebruiken ze een zogenaamd peltier-element. Een peltier-element levert een elektrische spanning <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>U</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>pelt </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math> &nbsp;als er een temperatuurverschil is tussen de twee zijden van het element. Jos en Martijn verwarmen de ene kant met het vuur en koelen de andere kant met een ventilator. Aan beide zijdes van het peltier-element zijn warmtegeleiders van metaal bevestigd. Zie figuur 2.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_1dba97bbe8e2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0dd6314ec13f444a8002673e78b73fc3.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De warmtegeleiders moeten zo snel mogelijk warmte geleiden naar en van het peltier-element.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De spanning Upelt is afhankelijk van het temperatuurverschil tussen beide zijdes van het element. Bij benadering geldt:&nbsp;</p><p>&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>U</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi data-mjx-auto-op=\"false\">pe</mi>\r\n      </mrow>\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n  <mo>=</mo>\r\n  <mi>C</mi>\r\n  <mi mathvariant=\"normal\">&#916;</mi>\r\n  <mi>T</mi>\r\n</math></p><p>&nbsp;</p><p>Hierin is:&nbsp;</p><p>- &nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>U</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>pelt </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math> de opgewekte spanning;</p><p>- <i>C</i> een constante;</p><p>- <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi mathvariant=\"normal\">&#916;</mi>\r\n  <mi>T</mi>\r\n</math> het temperatuurverschil.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Jos en Martijn meten de temperatuur aan beide zijdes van het peltier-element. Deze is 160 °C voor de verwarmde zijde en 63 °C voor de gekoelde zijde. Het peltier-element levert dan een spanning <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>U</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>pelt </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math> van 2,8 V. Om hun telefoon te kunnen opladen, is echter een spanning van 5,0 V nodig.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Ze voeren de spanning <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>U</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>pelt </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math>op door het vuur heter te stoken. Jos en Martijn willen kunnen zien of de spanning al hoog genoeg is om de telefoonaccu op te laden (de derde ontwerpeis). Ze sluiten daarom een led-schakeling aan op het peltier-element. De led-schakeling bestaat uit een led en een weerstand <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>R</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>1</mn>\r\n    </mrow>\r\n  </msub>\r\n</math>. Het peltier-element werkt dus als voedingsbron. Zie figuur 3.</p>"
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_1134b1c02b75.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9567b216daee4da4b206448ebc1f11a6.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "image",
+      "media_path": "media/in-exam/img_9b47a3f35c9b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c925d39d018549d68dbcc008c74f25ad.png",
+      "caption": ""
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>In figuur 4 is het (I,U)-diagram van deze led weergegeven. Jos en Martijn zien dat de led licht gaat geven bij een spanning <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>U</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>led </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math> van 1,5 V. De led moet licht gaan geven bij een spanning <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>U</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>pelt </mtext>\r\n    </mrow>\r\n  </msub>\r\n</math> van 5,0 V.</p>"
+    },
+    {
+      "order": 12,
+      "type": "text",
+      "text": "<p>Op het peltier-element sluiten ze nu de ventilator, de led-schakeling en een lader voor een telefoonaccu parallel aan elkaar aan. Ze houden het peltier-element op temperatuur zodanig dat het 5,0 V blijft leveren. Ze meten dat het peltier-element een stroomsterkte van 0,41 A levert. Door de ventilator en de led-schakeling samen loopt een totale stroom van 0,30 A. De telefoonaccu heeft een capaciteit van 2,6 Ah.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2024_I_uitwerkbijl_183c8a842092.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d36e010b434c4896854f0afb7f3f861d.pdf"
+    }
+  ]
+}

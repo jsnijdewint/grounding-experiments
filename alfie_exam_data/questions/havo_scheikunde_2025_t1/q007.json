@@ -1,0 +1,52 @@
+{
+  "id": "havo_scheikunde_2025_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Reactie 1 is exotherm.<br>Bereken de reactiewarmte van reactie 1 per mol gevormd HCl . Gebruik Binas-tabel 57 of ScienceData-tabel 9.2.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij het maken van plaatstaal wordt beitsvloeistof gebruikt. Na gebruik bevat deze waterige vloeistof <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Fe</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> <mo>+</mo>&#160;</mrow></msup></math>-ionen, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo>&#160;</mrow></msup></math>-ionen en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Cl</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-ionen. In deze opgave worden twee processen beschreven waarmee gebruikte beitsvloeistof wordt gerecycled: het proces van New Zealand Steel (proces A) en het proces van SMS Siemag (proces B). In beide processen wordt gebruikte beitsvloeistof omgezet tot onder andere <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Fe</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> <mo>+</mo>&#160;</mrow></msup></math>-ionen en HCl-gas.</p><p>Proces A<br>Het bedrijf New Zealand Steel maakt gebruik van een vortexreactor. Zie figuur 1. Een vortexreactor is een reactor waarin een ronddraaiende stroom van gassen (een vortex) aanwezig is. De reactor wordt verwarmd met behulp van gasbranders. De gebruikte beitsvloeistof wordt via vernevelaars van boven in de reactor gebracht bij een temperatuur van minimaal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>350</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>. Hierdoor verdampt het water waarin de ionen zijn opgelost en ontstaan vast <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">FeCl</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math> en gasvormig HCl . Het vaste <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">FeCl</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math> reageert vervolgens in de vortexreactor tot <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Fe</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn>&#160;</mrow></msub></math>, wat aan de onderkant van de reactor wordt afgevoerd en opgeslagen. HCl en stoom verlaten de vortexreactor aan de bovenkant en worden opgevangen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_29eddef7e8c4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a823779efd804027af0cc1ce6d595b44.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De omzetting van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">FeCl</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>tot <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Fe</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn>&#160;</mrow></msub></math>verloopt volgens reactie 1 .</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><msub><mi>FeCl</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=\"normal\">s</mi><mo>)</mo><mo>+</mo><mn>4</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo><mo>+</mo><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo><mo stretchy=\"false\">&#8594;</mo><mn>2</mn><msub><mi>Fe</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>3</mn></msub><mo>(</mo><mi mathvariant=\"normal\">s</mi><mo>)</mo><mo>+</mo><mn>8</mn><mi>HCl</mi><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo><mo>&#160;</mo><mtext>(reactie 1)&#160;</mtext></math></p><p>Reactie 1 verloopt zeer snel onder de omstandigheden in de reactor.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "ha-1028-a-25-1-u.pdf",
+      "media_path": "media/bijlages/ha-1028-a-25-1-u_c2bab5b58221.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f3aee0d3e8b747e2b4f1a424e9bd0f04.pdf"
+    }
+  ]
+}

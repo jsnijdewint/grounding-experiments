@@ -1,0 +1,40 @@
+{
+  "id": "havo_geschiedenis_2021_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "geschiedenis",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 29,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zet deze beschrijvingen in de juiste chronologische volgorde, van vroeger naar later. Noteer alleen de nummers.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Steden worden soms vernoemd naar personen. De volgende vernoemingen staan in willekeurige volgorde:<br>1 De Amerikaanse hoofdstad Washington werd vernoemd naar George Washington, de eerste president van de Verenigde Staten, nadat hij de locatie van deze federale hoofdstad had uitgekozen.<br>2 De Brabantse vesting Willemstad werd vernoemd naar Willem van Oranje, de eerste leider van de Nederlandse Opstand, die kort daarvoor in Delft was vermoord.<br>3 De havenstad Lüderitz, in de kolonie Duits-Zuidwest-Afrika, werd vernoemd naar de koopman Adolf Lūderitz, die verdronk tijdens zijn zoektocht naar grondstoffen voor de Duitse industrie.<br>4 De regering van de DDR noemde een stad die werd aangelegd voor grootschalige ijzer- en staalproductie Stalinstadt, naar de pas overleden Sovjetleider Jozef Stalin.<br>5 In de Engelse kolonie Virginia werd de stad Jamestown bij de stichting vernoemd naar koning James I, die aan kolonisten toestemming gaf in Amerika tabak te produceren voor de Engelse markt.<br>6 Na de Duitse inval werd voorgesteld de Poolse stad Zamość Himmlerstadt te noemen, naar de nationaalsocialistische SS-leider Heinrich Himmler.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2021_I_bijlage_b326ab23bf83.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/efae95267208486faa880d162f0a0441.pdf"
+    }
+  ]
+}

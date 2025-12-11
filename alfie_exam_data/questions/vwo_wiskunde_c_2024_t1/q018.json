@@ -1,0 +1,86 @@
+{
+  "id": "vwo_wiskunde_c_2024_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken met behulp van de formule vanaf welk kubusnummer het wereldrecord boven het uur zal liggen.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Rubiks kubussen zijn er in verschillende maten. De bekendste is de kubus waar negen vierkantjes zichtbaar zijn op elk zijvlak (de middelste kubus in foto 1). Dit is de klassieke Rubiks kubus, die in de jaren zeventig van de vorige eeuw door de Hongaar Ernő Rubik is ontwikkeld.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_6f6dccc17dc6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7a2f82b35ac8489cbd967f288436776e.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In deze opgave wordt het getal n gebruikt voor het kubusnummer. Bij kubusnummer <i>n </i>bestaat een zijvlak van de Rubiks kubus uit <i>n </i>bij <i>n </i>vierkantjes, dus <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mi>n</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msup>\r\n</math> in totaal.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_1dbcd77708e8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/beb6756b5e3f48dda0dc027209f1193d.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Het oplossen van de Rubiks kubus is het terugbrengen van een door elkaar gedraaide kubus (zie foto 2) naar de opgeloste toestand. In de opgeloste toestand hebben alle vierkantjes op een zijvlak dezelfde kleur. In totaal heeft de Rubiks kubus zes verschillende kleuren.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Er worden regelmatig wedstrijden gehouden waarbij Rubiks kubussen zo snel mogelijk moeten worden opgelost. In de tabel staan de wereldrecords<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><maction actiontype=\"argument\"><mrow/></maction><mrow><mn>1</mn><mo>)</mo></mrow></msup></math> voor het oplossen van Rubiks kubussen. Hierbij is <i>n</i> het kubusnummer en <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>T</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi>n</mi>\r\n    </mrow>\r\n  </msub>\r\n</math> de wereldrecordtijd in seconden behorende bij kubusnummer <i>n</i>.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_436ed677b664.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/da8fead57a324feeba4fd2618366e7d3.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>In de tabel is te zien dat hoe groter de <i>n</i> is, hoe langer de tijd is die nodig is om de Rubiks kubus op te lossen.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>De gegevens in de tabel worden redelijk benaderd door de formule <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>T</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi>n</mi>\r\n    </mrow>\r\n  </msub>\r\n  <mo>=</mo>\r\n  <mn>0</mn>\r\n  <mo>,</mo>\r\n  <mn>026</mn>\r\n  <mo>&#8901;</mo>\r\n  <msup>\r\n    <mi>n</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>4</mn>\r\n      <mo>,</mo>\r\n      <mn>4</mn>\r\n    </mrow>\r\n  </msup>\r\n</math>. We nemen aan dat deze formule geldt voor alle waarden van n groter dan of gelijk aan 2.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2024_I_uitwerkbijla_ba7fbca6f6ec.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d5fa61ef232d4c3195ae03fd7f6d41cb.pdf"
+    }
+  ]
+}

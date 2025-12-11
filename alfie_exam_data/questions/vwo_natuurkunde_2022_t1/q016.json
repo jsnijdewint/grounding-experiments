@@ -1,0 +1,51 @@
+{
+  "id": "vwo_natuurkunde_2022_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 44,
+          "name": "Informatieoverdracht",
+          "prefix_code": 1
+        },
+        {
+          "id": 45,
+          "name": "Medische beeldvorming",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef de vervalvergelijking van dat vervalproces.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Niels voert een practicum uit waarin hij het gedrag van bètadeeltjes in de lucht onderzoekt. Hij gebruikt een radioactief preparaat als bron voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-deeltjes. Neem aan dat deze bron bij de start van het practicum maar één isotoop bevat. Tijdens het vervalproces van deze isotoop ontstaat Yttrium-90 als vervalproduct. Bij dit vervalproces komt geen gammastraling vrij.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2022_I_uitwerkbijl_9a4d39873fbe.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cfd906bcef9d47ec9c94427a551f4b61.pdf"
+    }
+  ]
+}

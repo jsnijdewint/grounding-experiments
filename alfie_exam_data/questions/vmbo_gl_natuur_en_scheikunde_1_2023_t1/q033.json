@@ -1,0 +1,75 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2023_t1_q33",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 141,
+          "name": "Elektrische energie",
+          "prefix_code": "NASK1/K/5"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Merte zet de spanningsbron uit. Het blokje gaat daardoor wat hoger hangen. Daarna verwisselt ze de aansluitingen op de + en de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo mathvariant=\"bold\">&#8722;</mo>&#160;</math>van de spanningsbron.<br>Wat gebeurt er nu met het blokje als Merte de spanningsbron aanzet?<br><strong>A</strong> Het blokje blijft stil hangen.<br><strong>B </strong>Het blokje wordt aangetrokken.<br><strong>C </strong>Het blokje wordt afgestoten.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Merte voert een practicum 'elektromagneet' uit. Je ziet een afbeelding met de apparatuur die ze voor dit practicum gebruikt.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_93a9f36a6d5d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dddb45093b4741fe9423ec885bcdb165.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Er hangt een metalen blokje aan een krachtmeter.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Onder het hangende blokje zet Merte een spoel met een kern. De spoel is aangesloten op een variabele gelijkspanningsbron. Ze kan deze spanningsbron instellen op verschillende spanningen.</p><p>Merte zet de spanningsbron aan. De spoel wordt magnetisch, waardoor het blokje verder naar de spoel toe beweegt.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_63a54de8471f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dd088cd58f654e53a19e1f80bf2ee2f9.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Merte bepaalt de magnetische kracht op het blokje bij verschillende afgegeven vermogens van de spanningsbron.</p><p>Je ziet een tabel van het (berekende) afgegeven vermogen van de spanningsbron en de magnetische kracht op het blokje.</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\">afgegeven vermogen (W)</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;text-align:center;width:auto;\">2,0</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;text-align:center;width:auto;\">3,6</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;text-align:center;width:auto;\">5,8</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;text-align:center;width:auto;\">6,6</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;text-align:center;width:auto;\">8,0</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">magnetische <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"bold-italic\">k</mi> <mi mathvariant=\"bold-italic\">r</mi> <mi mathvariant=\"bold-italic\">a</mi> <mi mathvariant=\"bold-italic\">c</mi> <mi mathvariant=\"bold-italic\">h</mi> <mi mathvariant=\"bold-italic\">t</mi> <mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\" mathvariant=\"bold\">(</mo> <mi mathvariant=\"bold\">N</mi> <mo stretchy=\"false\" mathvariant=\"bold\">)</mo>&#160;</mrow></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">0,01</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">0,02</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">0,04</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">0,05</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">0,07</td></tr></tbody></table></figure>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2023_I_146f2ef32a60.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a553a8c7e49437a900373fa6ec9748e.pdf"
+    }
+  ]
+}

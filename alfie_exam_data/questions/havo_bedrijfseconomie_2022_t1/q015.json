@@ -1,0 +1,78 @@
+{
+  "id": "havo_bedrijfseconomie_2022_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "bedrijfseconomie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 33,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 104,
+          "name": "Vastleggen van financiële en niet financiële informatie",
+          "prefix_code": 1
+        },
+        {
+          "id": 105,
+          "name": "Kosten- en winstvraagstukken",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken het maximaal beschikbare dividend per aandeel (afgerond op hele centen) op grond van de verdeling van het resultaat van 2021.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Douwe Egberts NV is een van oorsprong Nederlands bedrijf dat handelt in koffie en thee. Vanwege overname- en uitbreidingsplannen wil Douwe Egberts vermogen aantrekken. Vermogen kan onderhands of openbaar aangetrokken worden.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Douwe Egberts kiest ervoor om per 1 april 2021 aandelen te emitteren. Bij de emissie van aandelen moet een prospectus <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mn>1</mn> <mo stretchy=\"false\">)</mo>&#160;</mrow></msup></math>worden opgesteld. Deze moet door de toezichthouder worden gecontroleerd.<br>&nbsp;</p><p>noot 1 Prospectus: een wettelijk vereist document bij een emissie van financiële producten, zoals aandelen of obligaties. In de prospectus staan de voorwaarden en de risico's van de emissie vermeld.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Ook al heeft de aandelenemissie op 1 april 2021 plaatsgevonden, toch delen de houders van de nieuwe aandelen volledig mee met de resultaatverdeling van 2021.<br>In het jaarverslag over 2021 staan de volgende gegevens per<br>31 december 2021:</p><ul><li>Maatschappelijk aandelenkapitaal &nbsp; &nbsp; &nbsp; &nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo><mo>&#160;</mo><mo>&#160;</mo><mn>7.000</mn><mn>.000</mn></math></li><li>Aandelen in portefeuille &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo><mo>&#160;</mo><mo>&#160;</mo><mn>2.005</mn><mn>.000</mn></math></li><li>Geplaatst aandelenkapitaal &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo><mo>&#160;</mo><mo>&#160;</mo><mn>4.995</mn><mn>.000</mn></math></li><li>Agioreserve &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>150.000</mn> <mn>.000</mn>&#160;</math></li><li>Overige reserves &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>200.000</mn> <mn>.000</mn>&#160;</math></li><li>Resultaat voor belasting &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>179.000</mn> <mn>.000</mn>&#160;</math></li></ul><p>&nbsp;</p><ul><li>Nominale waarde per aandeel &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo><mspace width=\"1em\"/><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mn>0</mn><mo>,</mo><mn>05</mn></math></li><li>Liquide middelen &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mo>&#8364;</mo> <mn>520.000</mn> <mn>.000</mn>&#160;</math></li></ul><p>&nbsp;</p><p>Gegevens met betrekking tot de verdeling van het resultaat:</p><ul><li>vennootschapsbelasting:</li></ul>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_d7820d30ff0c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9abf6ee3943d49c885df1408c9c9f980.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<ul><li>reservering uit het resultaat: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>20.000</mn> <mn>.000</mn>&#160;</math></li><li>dividend</li></ul>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_bijlag_70e2ce33bdc7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/644420d6788d4f0f80e381cd749535ed.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_uitwer_56a28eba2520.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2d2bf6c37a654f14bdb890765dd0cb67.pdf"
+    }
+  ]
+}

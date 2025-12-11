@@ -1,0 +1,69 @@
+{
+  "id": "vwo_biologie_2024_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 36,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 37,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 38,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>De toename van de osmotische waarde leidt tot een hoge bloeddruk. Dit kan oedeem veroorzaken.<br><br>Verklaar hoe een hoge bloeddruk oedeem kan veroorzaken.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Anna heeft last van een hoge bloeddruk. Als ze voor controle naar haar huisarts gaat, vraagt de huisarts of ze vaak drop eet of zoethoutthee drinkt. Bepaalde stoffen in deze voedingsmiddelen kunnen namelijk een hoge bloeddruk veroorzaken.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_16362abd6e94.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ade78aa414f74d59aed97493d56013c0.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>GA heeft effect op bepaalde cellen in de nierbuisjes (afbeelding 2). In het grondplasma van deze cellen bevinden zich mineralocorticoïd-receptoren. Door binding van cortisol wordt een mineralocorticoïd-receptor (MR) geactiveerd. De geactiveerde MR verplaatst zich naar de kern, waar dit complex bindt aan een hormoon-respons-element (HRE). Daardoor komen bepaalde genen tot expressie, wat leidt tot de synthese van Na+-kanalen die in het celmembraan terechtkomen. GA verhindert de werking van het enzym 11β-HSD2 in deze niercellen. Dit enzym zet normaliter cortisol om in cortison. Cortison kan niet binden aan de MR.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_189f88a83a67.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e3fb72693f2a44ed8e35dcdb05304b12.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

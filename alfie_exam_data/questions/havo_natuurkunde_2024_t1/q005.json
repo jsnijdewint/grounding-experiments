@@ -1,0 +1,58 @@
+{
+  "id": "havo_natuurkunde_2024_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 135,
+          "name": "Eigenschappen van stoffen en materialen",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Toon met een berekening aan of het ontwerp van de jongens daarmee aan de eerste ontwerpeis voldoet.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tijdens een kampeervakantie wordt vaak gekookt op een brander met een gasblikje. Zie figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_4cdb61aff7fa.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f5d71a0168ca427e8196ea93736b00f7.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Omdat gasblikjes niet overal verkrijgbaar zijn, willen Jos en Martijn voor hun profielwerkstuk een brander ontwerpen die op hout werkt. Met deze brander moet ook een telefoon opgeladen kunnen worden. Ze stellen een programma van eisen op waar hun brander aan moet voldoen.&nbsp;</p><p>&nbsp;</p><p>Enkele eisen zijn:&nbsp;</p><p>1 Het rendement voor water koken moet hoger zijn dan 40%.</p><p>2 De brander moet een elektrische spanning kunnen opwekken van 5,0 V voor het opladen van een telefoon.</p><p>3 Er moet zichtbaar gemaakt worden of de spanning hoog genoeg is om de telefoon op te laden.</p><p>4 De telefoon moet volledig kunnen opladen tijdens het koken van een maaltijd.</p><p>&nbsp;</p><p>Ze bouwen een brander die hout verbrandt en koken daarmee water om de eerste eis te controleren. Om 400 gram water van 10 °C aan de kook te brengen, hebben ze 18 gram hout nodig.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2024_I_uitwerkbijl_183c8a842092.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d36e010b434c4896854f0afb7f3f861d.pdf"
+    }
+  ]
+}

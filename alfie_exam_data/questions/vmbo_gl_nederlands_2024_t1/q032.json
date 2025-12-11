@@ -1,0 +1,45 @@
+{
+  "id": "vmbo_gl_nederlands_2024_t1_q32",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 60,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p><strong>Opdracht</strong><br>Schrijf het artikel voor de nieuwsbrief van school. Gebruik daarvoor de gegevens op de vorige bladzijde en eventueel de tekst 'Uit gewoonte naar Instagram'. Gegevens die niet in de opdracht staan, moet je zelf bedenken.</p><p>Besteed in jouw artikel aandacht aan de volgende punten:</p><ul><li>de aanleiding om het artikel te schrijven;</li><li>hoe het idee is ontstaan voor een challenge waarbij leerlingen een week geen sociale media gebruiken;</li><li>het doel van de challenge;</li><li>twee verschillende nadelen van overmatig gebruik van sociale media;</li><li>twee verschillende manieren om het gebruik van sociale media te verminderen;</li><li>een oproep om bereidheid tot deelname aan de challenge te laten weten;</li><li>de manier om te reageren;</li><li>de uiterste datum om te kunnen reageren;</li><li>een activerende slotzin.</li></ul><p>Maak er een samenhangend geheel van en zet er een passende titel boven.<br>Zet je voor- en achternaam en je klas eronder.</p><p><br>Let op: Zorg ervoor dat je tekst minimaal uit 100 woorden bestaat. Bij minder dan 100 woorden krijg je geen punten voor taalgebruik.</p>",
+    "max_score": 13,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de les Nederlands is de tekst 'Uit gewoonte naar Instagram' behandeld. Je docent vroeg de leerlingen of ze een dag zonder sociale media zouden kunnen of dat ze dit lastig zouden vinden. Er ontstond een levendige discussie. Zo bleek dat er leerlingen waren die niet zonder sociale media kunnen, maar er waren ook leerlingen die hier weinig om geven. Daarnaast werden er nadelen genoemd van het overmatig gebruik van sociale media. Ook werden mogelijke manieren besproken om het gebruik van sociale media te verminderen. Het onderwerp lijkt iedereen bezig te houden.</p><p>Jij zit in de leerlingenraad en bespreekt deze discussie. Een medeleerling uit de raad komt met het plan om een challenge te organiseren waarbij leerlingen een week geen sociale media gebruiken. De meningen binnen de leerlingenraad zijn verdeeld. Bovendien kost het organiseren van zo'n challenge veel tijd, dus willen jullie eerst weten of er wel behoefte is aan zo'n week. Jullie plaatsen een artikel in de nieuwsbrief. In het artikel roepen jullie leerlingen op om te laten weten of ze bereid zijn deel te nemen aan de challenge.</p><p>Je gaat dit artikel schrijven. Je vertelt hierin wat de aanleiding voor het artikel is, namelijk het idee van de leerlingenraad om een challenge te organiseren waarbij leerlingen een week geen sociale media gebruiken. Je legt uit dat jullie op dit idee zijn gekomen door de verschillende meningen bij de discussie in de les Nederlands. Ook het doel van de challenge vergeet je niet te vermelden. Natuurlijk geef je verder aan tot welke datum de leerlingen de leerlingenraad kunnen e-mailen. Ze kunnen hun mail sturen naar <a href=\"mailto:challenge@leerlingenraad.nl\">challenge@leerlingenraad.nl</a> om zo te laten weten of ze wel of niet aan de challenge mee zouden willen doen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_72e6e0ffb16a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f72e99feb3944c19bd1b658b5429d81a.pdf"
+    },
+    {
+      "name": "Nederlands 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_uitwerkbijla_f57b7da9a165.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7d469a250dee4df8b5245abf65e0587d.pdf"
+    }
+  ]
+}

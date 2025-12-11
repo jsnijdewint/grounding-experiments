@@ -1,0 +1,116 @@
+{
+  "id": "havo_natuurkunde_2024_t1_q23",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 131,
+          "name": "Informatieoverdracht",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welk diagram geeft het juiste meetresultaat weer als de infrasone frequentie van de luidspreker overeenkomt met de eigenfrequentie van het bureau?</p><p>A diagram I</p><p>B diagram II</p><p>C diagram III</p><p>D diagram IV</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de jaren 80 deed wetenschapper Vic Tandy een toevallige ontdekking. Hij had een zwaard vastgeklemd om het schoon te maken. Het vrije uiteinde van het zwaard bleek uit zichzelf te trillen. Zie schematisch in figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_1f3941a2b115.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/efb5976f50ee49b4a9c48544ecdfcdfd.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Hij verplaatste het zwaard in de kamer. Midden in de kamer trilde het zwaard het hardst. Richting de wanden nam de trilling af, bij de wanden trilde het zwaard niet.</p><p>&nbsp;</p><p>Tandy concludeerde dat infrasone geluidsgolven de oorzaak waren van het trillen van het zwaard. Infrasoon geluid is onhoorbaar voor mensen omdat het een frequentie heeft lager dan 20 Hz. De lengte <i>L</i> van de ruimte is 11,0 m en de temperatuur is 20 °C.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In 2012 vertoonde een nieuw gebouw van Rijkswaterstaat ongewenste trillingen. Zie figuur 2 voor een foto van dit gebouw. Al snel werd gedacht aan infrasone trillingen. Men startte een onderzoek naar de oorzaak van die trillingen. Tijdens het onderzoek hebben onderzoekers in beeld gebracht hoeveel klachten er binnen waren gekomen per verdieping. In hun rapport zijn de resultaten weergegeven op de manier van figuur 3.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_f6f974b1e0a0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6bbe6c30ed004d73a35ee9a5dee27133.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_9b1552c31917.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/85cac114e20e424091a1f9c60c756038.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Hoe donkerder de verdieping is weergegeven, hoe groter het percentage klagers op deze verdieping. De onderzoekers hebben geconstateerd dat het gaat om een golf in het gebouw.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Ook staat in het rapport:</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Veel melders zeggen dat de glaswasinstallatie op dat moment in gebruik was, maar wijzen de glaswasinstallatie niet aan als mogelijke oorzaak. De melders kunnen zich niet voorstellen dat deze installatie dergelijke heftige trillingen in het gebouw kan veroorzaken.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>In het rapport staat verder dat de medewerkers hun bureaus soms heftig op en neer voelden trillen. Tijdens het onderzoek zijn daarom de infrasone eigenfrequenties van de bureaus bepaald. Een mogelijke methode om deze eigenfrequenties te bepalen is een bureau tussen een luidspreker en een microfoon te plaatsen en de luidspreker steeds een toon met een vaste (infrasone) frequentie te laten uitzenden. Zie schematisch in figuur 4.</p>"
+    },
+    {
+      "order": 10,
+      "type": "image",
+      "media_path": "media/in-exam/img_0241cd2bb617.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/da7b7067289a4c41937c4a090515cf77.png",
+      "caption": ""
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>Het signaal dat de microfoon opvangt, wordt vastgelegd in een (<i>u,t</i>)-diagram. In figuur 5 staan vier (<i>u,t</i>)-diagrammen. De gestippelde lijn geeft in elke grafiek de trilling van de microfoon weer als er geen bureau tussen de luidspreker en de microfoon staat. De doorgetrokken streep geeft een mogelijke meetuitkomst als er wel een bureau tussen de luidspreker en de microfoon staat.</p>"
+    },
+    {
+      "order": 12,
+      "type": "image",
+      "media_path": "media/in-exam/img_5e506f98339f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/07a9d5a7c8b34de5844fea8294524eb2.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2024_I_uitwerkbijl_183c8a842092.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d36e010b434c4896854f0afb7f3f861d.pdf"
+    }
+  ]
+}

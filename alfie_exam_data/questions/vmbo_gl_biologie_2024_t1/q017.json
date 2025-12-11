@@ -1,0 +1,53 @@
+{
+  "id": "vmbo_gl_biologie_2024_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 116,
+          "name": "Reageren op prikkels",
+          "prefix_code": "BI/K/11"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bij diepe gaatjes boort de tandarts door het tandbeen en maakt de tandholte leeg. Bij de behandeling worden zenuwen geraakt.<br>Waar bevinden zich de zenuwen?<br>A alleen in het tandbeen<br>B alleen in de tandholte<br>C in beide<br>D in geen van beide</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tandbederf begint met gaatjes in tanden en kiezen. Kleine gaatjes kunnen na uitboren van het tandbeen worden gerepareerd met een vulling. Bij een dieper gat in een kies of een tand kan een ontsteking in de holte van het tandbeen ontstaan. Zo’n ontsteking moet eerst door de tandarts worden gestopt. De tandarts boort dan door het tandbeen en maakt de tandholte leeg. De tandholte wordt dan ontsmet en daarna opgevuld met een grotere vulling.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_ad50501336d0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/39dd927f314d48449d6c504f843093f3.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2024_I_uitwerkbijlage_c89173bb9d6c.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ce4f7301c75b48c7b4639aaa9b761e2a.pdf"
+    }
+  ]
+}

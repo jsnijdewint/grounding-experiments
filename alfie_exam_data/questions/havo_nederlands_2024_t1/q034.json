@@ -1,0 +1,76 @@
+{
+  "id": "havo_nederlands_2024_t1_q34",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Neem de nummers uit onderstaande tabel over en geef steeds aan of de betreffende persoon het wel of niet eens is met de stelling en wat diens belangrijkste argument daarvoor is.</p><p><p>stelling: \"Een verhaal in boekvorm heeft meerwaarde boven een Netflixverhaal.\"</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\">persoon</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">wel of niet eens</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">belangrijkste argument</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">1 auteur tekst 2</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">2 auteur tekst 3</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">3 Fleur Jongepier</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">4 Désanne van Brederode</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr></tbody></table></figure></p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Hieronder staan zeven uitspraken naar aanleiding van tekst 2 en 3.</p><p>1 De auteur benadert zowel beeld als schrift positief.</p><p>2 De auteur is bezorgd over de gevolgen van ontlezing voor de maatschappij.</p><p>3 De auteur presenteert zich als leesliefhebber.</p><p>4 De auteur richt zich in de tekst tot het onderwijs.</p><p>5 De auteur richt zich in de tekst tot de politiek.</p><p>6 De auteur vindt dat boeken iets unieks kunnen bewerkstelligen bij de lezer.</p><p>7 De auteur ziet een generatiekloof op het gebied van lezen</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><i>Tekstfragment 1 is een fragment uit een interview met twee filosofen waarin de vraag aan bod komt of het erg is dat er minder gelezen en meer genetflixt wordt.</i></p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><strong>tekstfragment 1</strong></p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p><strong>(1) </strong>“Je kunt beter een goede serie kijken dan een slecht boek lezen”, zegt <strong>Fleur Jongepier</strong>, docent toegepaste ethiek en onderzoeker aan de Radboud Universiteit. “Dat neemt niet weg dat er tal van redenen zijn waarom lezen waardevol is. Zo zorgen boeken ervoor dat wij andere tijden, culturen en opvattingen begrijpen; dat we kennis opdoen over onszelf, anderen en de wereld in brede zin. Maar dat kunnen series en films ook bieden. We hebben behoefte aan goede verhalen, niet per se aan boeken. De ene vorm is daarbij niet per definitie beter dan de andere vorm, het gaat om de kwaliteit van het verhaal. Neem het boek 1984 van George Orwell en de serie Black Mirror op Netflix. Is het beter als een scholier een roman over een dystopie leest dan dat hij een sciencefictionserie over dystopieën kijkt? Dat lijkt mij niet; het zijn beide interessante, gelaagde verhalen.”&nbsp;</p><p><strong>(2)</strong> “Er is wel degelijk een groot verschil tussen beide”, reageert filosoof en schrijver<strong> Désanne van Brederode</strong>. “Een boek lezen is een intieme aangelegenheid tussen mij en het fysieke boek. Hoewel de schrijver zo goed mogelijk een bepaalde wereld schetst, is het mijn verbeelding die aan de hand van zijn woorden de personages, kamers en landschappen oproept. Bij een serie of film krijg ik die hele wereld op een presenteerblaadje aangereikt. Dit verschil tussen actieve en passieve verbeelding is van belang: boeken dagen het verbeeldingsvermogen meer uit en bieden ruimte voor persoonlijke invullingen. Dat blijft iets magisch van het geschreven woord.”</p><p><strong>(3) Fleur Jongepier</strong>: “In hoeverre we iets actief of passief meemaken, heeft denk ik meer te maken met de inhoud en kwaliteit van het verhaal. En ook films of series kunnen een intieme relatie teweegbrengen. Bovendien, is onszelf passief onderdompelen in verhalen altijd slechter? Als je geen energie hebt om een boek op te pakken, maar wel om een goede serie te kijken, lijkt mij dat prima. Het is beter dan eindeloos door sociale media scrollen, wat je anders misschien zou doen.”&nbsp;</p><p>&nbsp;</p><p><i>naar: Alexandra van Ditmars, ‘Woord én beeld zijn waardevol’ uit: Trouw, 25 juni 2020</i></p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Stel je voor: Op school ga je discussiëren over de volgende stelling: “Een verhaal in boekvorm heeft meerwaarde boven een Netflixverhaal.” Je leest ter voorbereiding op de discussie tekst 2, tekst 3 en tekstfragment 1.&nbsp;</p><p>&nbsp;</p><p>Tijdens het lezen merk je op dat het begrip “geestelijke […] oefening” uit tekst 2 (regels 202-203) inhoudelijk overeenkomt met een zin in alinea 5 tot en met 8 van tekst 3.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Het begrip “geestelijke oefening” komt ook in andere bewoordingen voor in alinea 2 van tekstfragment 1.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Je zoekt uit of de auteurs van tekst 2 en tekst 3 en de twee personen in tekstfragment 1 het wel of niet eens zijn met de stelling en waarom.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_fba5d5bcdd9a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e64529d1393448beb9499f8bd4fb3aaa.pdf"
+    }
+  ]
+}

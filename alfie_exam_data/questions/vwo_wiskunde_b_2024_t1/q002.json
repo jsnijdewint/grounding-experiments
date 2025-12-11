@@ -1,0 +1,70 @@
+{
+  "id": "vwo_wiskunde_b_2024_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 46,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de x-coördinaat van <i>P</i>. Geef je eindantwoord in drie decimalen.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De functie <i>f</i> wordt gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>f</mi>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>x</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo>=</mo>\r\n  <msup>\r\n    <mi>x</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>5</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mo>&#8722;</mo>\r\n  <mn>3</mn>\r\n  <mi>x</mi>\r\n  <msqrt>\r\n    <mi>x</mi>\r\n  </msqrt>\r\n</math>.</p><p>In figuur 1 is de grafiek van <i>f</i> weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_bc23009724da.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4c350f68f23d413e9c7c5d342357645d.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Op de grafiek ligt het punt <i>A</i>(1, 2).</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Het lijnstuk <i>PQ</i> is horizontaal en heeft lengte <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mfrac>\r\n    <mn>1</mn>\r\n    <mn>2</mn>\r\n  </mfrac>\r\n</math>.</p><p>De eindpunten <i>P </i>en <i>Q </i>van dit lijnstuk liggen op de grafiek van <i>f</i>.</p><p>Zie figuur 2.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_b6b71040eeb2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bc893a7328e34ff480816fa5d87fdb3b.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_b_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_b_formules_e2addf3f392e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/470a7c92ad484df6baaee4f1da8379d6.pdf"
+    }
+  ]
+}

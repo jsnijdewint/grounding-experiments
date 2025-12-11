@@ -1,0 +1,53 @@
+{
+  "id": "vwo_wiskunde_b_2024_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 48,
+          "name": "Goniometrische functies",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken exact de afstand tussen <i>P</i> en <i>Q </i>in deze situaties.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het punt P beweegt over een baan gegeven door de volgende bewegingsvergelijkingen:&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mrow data-mjx-texclass=\"INNER\">\r\n    <mo data-mjx-texclass=\"OPEN\">{</mo>\r\n    <mtable columnalign=\"left\" columnspacing=\"1em\" rowspacing=\"4pt\">\r\n      <mtr>\r\n        <mtd>\r\n          <msub>\r\n            <mi>x</mi>\r\n            <mrow data-mjx-texclass=\"ORD\">\r\n              <mi>P</mi>\r\n            </mrow>\r\n          </msub>\r\n          <mo stretchy=\"false\">(</mo>\r\n          <mi>t</mi>\r\n          <mo stretchy=\"false\">)</mo>\r\n          <mo>=</mo>\r\n          <mn>4</mn>\r\n          <mi>cos</mi>\r\n          <mo data-mjx-texclass=\"NONE\">&#8289;</mo>\r\n          <mo stretchy=\"false\">(</mo>\r\n          <mi>t</mi>\r\n          <mo stretchy=\"false\">)</mo>\r\n          <mo>+</mo>\r\n          <mi>cos</mi>\r\n          <mo data-mjx-texclass=\"NONE\">&#8289;</mo>\r\n          <mo stretchy=\"false\">(</mo>\r\n          <mn>4</mn>\r\n          <mi>t</mi>\r\n          <mo stretchy=\"false\">)</mo>\r\n        </mtd>\r\n      </mtr>\r\n      <mtr>\r\n        <mtd>\r\n          <msub>\r\n            <mi>y</mi>\r\n            <mrow data-mjx-texclass=\"ORD\">\r\n              <mi>P</mi>\r\n            </mrow>\r\n          </msub>\r\n          <mo stretchy=\"false\">(</mo>\r\n          <mi>t</mi>\r\n          <mo stretchy=\"false\">)</mo>\r\n          <mo>=</mo>\r\n          <mn>4</mn>\r\n          <mi>sin</mi>\r\n          <mo data-mjx-texclass=\"NONE\">&#8289;</mo>\r\n          <mo stretchy=\"false\">(</mo>\r\n          <mi>t</mi>\r\n          <mo stretchy=\"false\">)</mo>\r\n          <mo>+</mo>\r\n          <mi>sin</mi>\r\n          <mo data-mjx-texclass=\"NONE\">&#8289;</mo>\r\n          <mo stretchy=\"false\">(</mo>\r\n          <mn>4</mn>\r\n          <mi>t</mi>\r\n          <mo stretchy=\"false\">)</mo>\r\n        </mtd>\r\n      </mtr>\r\n    </mtable>\r\n    <mo data-mjx-texclass=\"CLOSE\" fence=\"true\" stretchy=\"true\" symmetric=\"true\"></mo>\r\n  </mrow>\r\n</math> met <i>t </i>in seconden en <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>0</mn>\r\n  <mo>&#8804;</mo>\r\n  <mi>t</mi>\r\n  <mo>&#8804;</mo>\r\n  <mn>2</mn>\r\n  <mi>&#960;</mi>\r\n</math></p><p>De baan waarover punt <i>P</i> beweegt, is weergegeven in de figuur.</p><p>Het punt <i>Q</i> beweegt ook over deze baan. Punt<i> Q</i> loopt π seconden voor op punt P. De bewegingsvergelijkingen van Q zijn dus:&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mrow data-mjx-texclass=\"INNER\">\r\n    <mo data-mjx-texclass=\"OPEN\">{</mo>\r\n    <mtable columnalign=\"left\" columnspacing=\"1em\" rowspacing=\"4pt\">\r\n      <mtr>\r\n        <mtd>\r\n          <msub>\r\n            <mi>x</mi>\r\n            <mrow data-mjx-texclass=\"ORD\">\r\n              <mi>Q</mi>\r\n            </mrow>\r\n          </msub>\r\n          <mo stretchy=\"false\">(</mo>\r\n          <mi>t</mi>\r\n          <mo stretchy=\"false\">)</mo>\r\n          <mo>=</mo>\r\n          <mn>4</mn>\r\n          <mi>cos</mi>\r\n          <mo data-mjx-texclass=\"NONE\">&#8289;</mo>\r\n          <mo stretchy=\"false\">(</mo>\r\n          <mi>t</mi>\r\n          <mo>+</mo>\r\n          <mi>&#960;</mi>\r\n          <mo stretchy=\"false\">)</mo>\r\n          <mo>+</mo>\r\n          <mi>cos</mi>\r\n          <mo data-mjx-texclass=\"NONE\">&#8289;</mo>\r\n          <mo stretchy=\"false\">(</mo>\r\n          <mn>4</mn>\r\n          <mo stretchy=\"false\">(</mo>\r\n          <mi>t</mi>\r\n          <mo>+</mo>\r\n          <mi>&#960;</mi>\r\n          <mo stretchy=\"false\">)</mo>\r\n          <mo stretchy=\"false\">)</mo>\r\n        </mtd>\r\n      </mtr>\r\n      <mtr>\r\n        <mtd>\r\n          <msub>\r\n            <mi>y</mi>\r\n            <mrow data-mjx-texclass=\"ORD\">\r\n              <mi>Q</mi>\r\n            </mrow>\r\n          </msub>\r\n          <mo stretchy=\"false\">(</mo>\r\n          <mi>t</mi>\r\n          <mo stretchy=\"false\">)</mo>\r\n          <mo>=</mo>\r\n          <mn>4</mn>\r\n          <mi>sin</mi>\r\n          <mo data-mjx-texclass=\"NONE\">&#8289;</mo>\r\n          <mo stretchy=\"false\">(</mo>\r\n          <mi>t</mi>\r\n          <mo>+</mo>\r\n          <mi>&#960;</mi>\r\n          <mo stretchy=\"false\">)</mo>\r\n          <mo>+</mo>\r\n          <mi>sin</mi>\r\n          <mo data-mjx-texclass=\"NONE\">&#8289;</mo>\r\n          <mo stretchy=\"false\">(</mo>\r\n          <mn>4</mn>\r\n          <mo stretchy=\"false\">(</mo>\r\n          <mi>t</mi>\r\n          <mo>+</mo>\r\n          <mi>&#960;</mi>\r\n          <mo stretchy=\"false\">)</mo>\r\n          <mo stretchy=\"false\">)</mo>\r\n        </mtd>\r\n      </mtr>\r\n    </mtable>\r\n    <mo data-mjx-texclass=\"CLOSE\" fence=\"true\" stretchy=\"true\" symmetric=\"true\"></mo>\r\n  </mrow>\r\n</math> met <i>t </i>in seconden en <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>0</mn>\r\n  <mo>&#8804;</mo>\r\n  <mi>t</mi>\r\n  <mo>&#8804;</mo>\r\n  <mn>2</mn>\r\n  <mi>&#960;</mi>\r\n</math></p><p>Er zijn twee momenten waarop <i>P</i> en <i>Q </i>recht boven elkaar liggen, dus dan geldt <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>x</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi>P</mi>\r\n    </mrow>\r\n  </msub>\r\n  <mo>=</mo>\r\n  <msub>\r\n    <mi>x</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi>Q</mi>\r\n    </mrow>\r\n  </msub>\r\n</math>. In de figuur is zo’n situatie weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_56dcca43ef1f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/db6ef2e9965d4b72a9d0b3926ad97f5a.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_b_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_b_formules_e2addf3f392e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/470a7c92ad484df6baaee4f1da8379d6.pdf"
+    }
+  ]
+}

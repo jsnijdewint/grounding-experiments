@@ -1,0 +1,56 @@
+{
+  "id": "vwo_geschiedenis_2024_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 188,
+          "name": "Tijdvak 5 – Ontdekkers en hervormers",
+          "prefix_code": 5
+        },
+        {
+          "id": 192,
+          "name": "Tijdvak 8 – Burgers en stoommachines",
+          "prefix_code": 8
+        },
+        {
+          "id": 193,
+          "name": "Tijdvak 9 – Wereldoorlogen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Verklaar:&nbsp;<br> met een van de gegevens dat de Britten het belangrijk vonden de Taiping te bestrijden, en&nbsp;<br> met een ander gegeven dat het centrale gezag in China werd verzwakt. Let op: er blijft een gegeven over.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Drie gegevens over de Taiping-opstand in China:&nbsp;<br>1 Hong, de leider van de opstand, noemde zichzelf 'Hemelse Koning' en liet een paleis bouwen.&nbsp;<br>2 De Taiping bestraften de handel in en het gebruik van opium met de dood.&nbsp;<br>3 De Taiping werden mede verslagen door een Europees leger onder leiding van een Britse generaal.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2024_I_bijlage_57b61674271e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/293f53e566cc48c6b58f4d54b880c393.pdf"
+    }
+  ]
+}

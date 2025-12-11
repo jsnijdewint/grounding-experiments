@@ -1,0 +1,51 @@
+{
+  "id": "havo_aardrijkskunde_2022_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "aardrijkskunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 46,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 95,
+          "name": "Gebiedskenmerken",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noteer op je antwoordblad</p><ul><li>de vijf stappen in de juiste volgorde;</li><li>de naam van de rivier die het zand transporteert waaruit de duinen uiteindelijk ontstaan.</li></ul>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Bij deze opgave horen de bronnen 13 en 14.</i></p><p><br><i>Gebruik de bronnen 13 tot en 14 en het kaartenkatern.</i><br>Het ontstaan van Lençóis Maranhenses is in vijf stappen te beschrijven.<br>Die stappen staan hieronder in willekeurige volgorde:<br>a Een rivier transporteert het zand naar de kust.<br>b Exogene krachten breken gesteenten af in het binnenland van Brazilië.<br>c Golf- en getijdewerking leggen het zand op de kust.<br>d Het zand wordt door zeestromen verplaatst.<br>e Wind blaast het zand op tot duinen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2022_I_bijlage_782c0ac44adb.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8bb9ac59533e4060acee8bf226c73127.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2022 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2022_I_kaartenk_fad448d9d313.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9fba758e0ba449bda998b8165ed93023.pdf"
+    }
+  ]
+}

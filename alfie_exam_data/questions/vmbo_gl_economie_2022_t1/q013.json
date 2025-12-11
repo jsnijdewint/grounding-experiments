@@ -1,0 +1,53 @@
+{
+  "id": "vmbo_gl_economie_2022_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 126,
+          "name": "Internationale ontwikkelingen",
+          "prefix_code": "EC/K/7"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Inwoners van een EU-land mogen werken en wonen in een ander EU-land vanwege:<br>A vrij verkeer van goederen en diensten.<br>B vrij verkeer van kapitaal.<br>C vrij verkeer van personen.<br>D vrij verkeer van werkgelegenheid.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 4 in de bijlage.</p><p>Nederlandse transportbedrijven en Oost-Europese uitzendbureaus profiteerden van de lage lonen in Oost-Europese landen. Zo werden Poolse vrachtwagenchauffeurs die werken voor een Nederlands bedrijf, maar in dienst zijn van een Pools uitzendbureau, veel lager betaald dan Nederlandse vrachtwagenchauffeurs.</p><p>De landen van de Europese Unie (EU) hebben in 2017 een overeenkomst gesloten om deze ongelijke loonbetaling te stoppen. Er is afgesproken dat alle EU-werknemers het cao-loon van het EU-land waarin ze werken, gaan verdienen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2bbaa0db32e4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5f193e950a3a4ea2aa184ed9fa7a513a.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_ef2c1b8354d0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dc02323a63d64258a36e6a9729a51c74.pdf"
+    }
+  ]
+}

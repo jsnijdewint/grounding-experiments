@@ -1,0 +1,57 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_2_2023_t1_q47",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_2",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 53,
+      "domains": [
+        {
+          "id": 150,
+          "name": "Water, zuren en basen",
+          "prefix_code": "NASK2/K/7"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>De kleurverandering in de erlenmeyer is zichtbaar doordat methyloranje aan de vloeistof was toegevoegd.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Geef aan welke kleurverandering plaatsvindt.<br>Noteer je antwoord als volgt:<br>De kleur verandert van ... naar ... .</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>1 &nbsp; &nbsp;Een docent maakt een opstelling voor een demonstratieproef.</p><p>2 &nbsp; &nbsp;In de erlenmeyer doet hij achtereenvolgens zoutzuur, een paar</p><p>3 &nbsp; &nbsp;druppels methyloranje en een klein schepje calciumcarbonaat.</p><p>4 &nbsp; &nbsp;Direct daarna sluit hij de erlenmeyer af met een kurk waar</p><p>5 &nbsp; &nbsp;een glasbuisje doorheen steekt met een slangetje eraan.</p><p>6 &nbsp; &nbsp;Het slangetje leidt naar een maatcilinder die helder</p><p>7 &nbsp; &nbsp;kalkwater bevat. Doordat in de erlenmeyer</p><p>8 &nbsp; &nbsp;calciumcarbonaat reageert met zoutzuur ontstaat</p><p>9 &nbsp; &nbsp;koolstofdioxide (reactie I). Dit gas reageert vervolgens</p><p>10 &nbsp;met de vloeistof in de maatcilinder (reactie II).</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De docent geeft deze proef schematisch weer op het bord. Twee stoffen geeft hij alleen aan met een letter: X en Y . Hij geeft de leerlingen de opdracht om de ontbrekende namen aan te vullen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_d7b83967cb98.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2e57318adb114859bb02a89874a48929.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De docent voegt steeds wanneer de reactie stopt, een beetje calciumcarbonaat toe. Dit doet hij net zolang totdat het calciumcarbonaat niet meer reageert.</p><p>De leerlingen maken vervolgens een verslag van deze demonstratieproef. Hieronder staat een onderdeel uit zo'n verslag:</p><ul><li>In de erlenmeyer ontstaan belletjes.</li><li>In de maatcilinder gaat het borrelen.</li><li>In de maatcilinder wordt de vloeistof troebel.</li><li>In de erlenmeyer verandert de kleur.</li><li>Na de kleurverandering stopt na een tijdje de gasvorming.</li><li>Op de bodem in de erlenmeyer blijft vaste stof liggen.</li></ul>"
+    }
+  ],
+  "bijlages": []
+}

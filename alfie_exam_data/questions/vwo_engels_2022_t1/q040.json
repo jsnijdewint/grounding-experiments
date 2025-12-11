@@ -1,0 +1,46 @@
+{
+  "id": "vwo_engels_2022_t1_q40",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "engels",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 1,
+      "domains": [
+        {
+          "id": 24,
+          "name": "Leesvaardigheid",
+          "prefix_code": "A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Which of the following was the original subtitle of this article?<br>A A low-carb diet might do more than affect health - it could make people more tolerant.<br>B Does social context influence people's preference for a low-carb diet? Spoiler alert: it does.<br>C Eating less is more - the low-carb diet myth unravelled.<br>D Healthy, wealthy and wise: the low-carb diet is here to stay.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De volgende drie alinea's kwamen oorspronkelijk na alinea 3, maar zijn uit de tekst weggehaald (zie stippellijntjes in de tekst).<br>[a] Blood taken from the volunteers found that low-carb meals raised a chemical precursor to dopamine, which correlated with more tolerant behaviour in the game. No such link was seen with a range of other blood measurements.<br><br>[b] In several experiments, participants who had eaten a low-carb meal earlier in the day were more likely to accept unfair offers in the game than those who had eaten a high-carb meal. In one experiment, 76 per cent of low-carbers accepted an unfair offer compared with 47 per cent of a high-carb group.<br><br>[c] In theory, people should always accept, but in practice, people often reject low offers. We seem to have an urge to punish those who split the money unfairly, even if we suffer a small loss, says Park.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Engels 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2022_I_bijlage_dacd7860cc8f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5a350af12163418d849c72d09710a439.pdf"
+    }
+  ]
+}

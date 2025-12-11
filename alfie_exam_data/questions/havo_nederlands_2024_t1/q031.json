@@ -1,0 +1,46 @@
+{
+  "id": "havo_nederlands_2024_t1_q31",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef voor elke uitspraak aan of deze van toepassing is op alleen tekst 2, alleen tekst 3 of allebei. Noteer steeds het nummer van de uitspraak en zet je antwoord daarachter.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Hieronder staan zeven uitspraken naar aanleiding van tekst 2 en 3.</p><p>1 De auteur benadert zowel beeld als schrift positief.</p><p>2 De auteur is bezorgd over de gevolgen van ontlezing voor de maatschappij.</p><p>3 De auteur presenteert zich als leesliefhebber.</p><p>4 De auteur richt zich in de tekst tot het onderwijs.</p><p>5 De auteur richt zich in de tekst tot de politiek.</p><p>6 De auteur vindt dat boeken iets unieks kunnen bewerkstelligen bij de lezer.</p><p>7 De auteur ziet een generatiekloof op het gebied van lezen</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_fba5d5bcdd9a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e64529d1393448beb9499f8bd4fb3aaa.pdf"
+    }
+  ]
+}

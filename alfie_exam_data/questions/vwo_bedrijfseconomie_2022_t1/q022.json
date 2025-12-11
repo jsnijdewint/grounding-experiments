@@ -1,0 +1,58 @@
+{
+  "id": "vwo_bedrijfseconomie_2022_t1_q22",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 12,
+          "name": "Marketingbeleid",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beschrijf de klantwaarde die de app van Klusstudent genereert voor de plaatsers van de klussen. Geef hiervoor een voorbeeld van een 'opbrengst' en een 'kostenpost' die de app met zich meebrengt.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Bij deze opgave horen de informatiebronnen 7 en 8.</i></p><p><br><i>In deze opgave blijft de btw buiten beschouwing.</i></p><p>&nbsp;</p><p>Paul en Osman studeren Financial Control aan de Hogeschool van Haarlem. Ze financieren hun studie onder andere door op vrije dagdelen bij een aantal bekenden het gras te maaien en ramen te zemen. De laatste tijd krijgen ze via deze bekenden meer aanvragen om dergelijke kleine klusjes uit te voeren.</p><p>&nbsp;</p><p><strong>Startup Klusstudent</strong></p><p><br>Eind 2021 vragen Paul en Osman zich af of ze de vraag naar de uitvoering van dergelijke klusjes, waar geen scholing voor nodig is, kunnen omzetten naar een winstgevende startup. Ze hebben het idee om met ingang van 1 januari 2022 een digitaal platform in de vorm van een app te introduceren waar de vraag naar en het aanbod van klussen kunnen samenkomen (zie informatiebron 7). Ze gaan daarom de haalbaarheid van dit plan onderzoeken.</p><p>Het gebruik van de app van Klusstudent levert voor degene die de klus plaatst klantwaarde op. Klantwaarde heeft twee kanten: een 'opbrengstenkant' en een 'kostenkant'.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_9d9f8ee7b378.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/46a032ee11db4b828cbfc7813cea2d16.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_bijlag_62086e27b4ef.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a93cd8f679584499a2c7de8ddf763cff.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_uitwer_fe9d963a16b1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e693b318cf614e21b8c84f861816b24e.pdf"
+    }
+  ]
+}

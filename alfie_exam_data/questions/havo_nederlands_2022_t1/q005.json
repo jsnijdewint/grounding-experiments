@@ -1,0 +1,51 @@
+{
+  "id": "havo_nederlands_2022_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 140,
+          "name": "Samenvatten",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke van onderstaande zinnen vat alinea 8 het best samen?</p><p><strong>A </strong>Fantasieën zijn een manier om onze beschaving te begrijpen en op een zinvolle wijze vorm te geven.</p><p><strong>B </strong>Onze fantasie wordt mede gevoed door begrippen uit onze beschaving, waardoor bestaande rolpatronen voorkomen in fantasieën.</p><p><strong>C </strong>Romantische beelden in onze fantasie zijn een protest tegen rolpatronen in onze samenleving.</p><p><strong>D </strong>Veelvoorkomende fantasieën zijn geïnspireerd door romantische idealen van onze samenleving.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>“Dat zette haar [Marjan Slob] aan tot het schrijven van het boek Foute fantasieën” (regels 14-16)</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Damiaan Denys stelt: “Door fantasie zijn wij in staat tot anticipatie, zoals dit verschijnsel in de neurowetenschappen genoemd wordt.” (regels 79-82)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2022_I_bijlage_92799e4db006.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a400249c9526410d9001698a4ae56d34.pdf"
+    }
+  ]
+}

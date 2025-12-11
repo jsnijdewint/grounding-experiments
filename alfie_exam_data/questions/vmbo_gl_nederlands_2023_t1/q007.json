@@ -1,0 +1,51 @@
+{
+  "id": "vmbo_gl_nederlands_2023_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 60,
+      "domains": [
+        {
+          "id": 157,
+          "name": "Leesvaardigheid",
+          "prefix_code": "NE/K/6"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In alinea 10 wordt het 'App Noot Muis'-project genoemd.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Citeer de zin uit alinea 10 die samenvat wat dit project inhoudt.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-color:!important;border-right-style:none;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">activiteit</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">geïntegreerde digitale geletterdheid</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">1</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><p>een boekverslag voor Nederlands opslaan als</p><p>pdf</p></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">2</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">elke avond een dagboek voor jezelf bijhouden</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">3</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">een overzicht in Excel maken voor economie</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">4</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><p>een spelletje op je telefoon spelen in je vrije</p><p>tijd</p></td></tr></tbody></table></figure>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_0713cd11b614.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fb589d755bd34bcc894e3d04ee63d4b1.pdf"
+    },
+    {
+      "name": "Nederlands 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_uitwerkbijla_89b91ec36c88.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b23062525a6d4570a8c70d6453f56bd9.pdf"
+    }
+  ]
+}

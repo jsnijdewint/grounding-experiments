@@ -1,0 +1,56 @@
+{
+  "id": "havo_nederlands_2024_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wat wordt met deze uitspraak duidelijk gemaakt, gelet op tekst 2? Hiermee wordt duidelijk gemaakt dat</p><p><strong>A </strong>boeken de burgers meer hebben geleerd over een zinvolle manier van samenleven dan oorlogen hebben gedaan.</p><p><strong>B </strong>de boekdrukkunst de grote sociale ongelijkheid veel meer heeft aangewakkerd dan oorlogen hebben gedaan.</p><p><strong>C </strong>de boekdrukkunst een grotere bijdrage heeft geleverd aan vrijheid en gelijkheid dan oorlogen hebben gedaan.</p><p><strong>D </strong>het lezen van boeken een grotere invloed heeft gehad op het uit de tijd raken van gewoontes dan oorlogen hebben gehad.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In alinea 1 en 2 worden een probleem en twee oorzaken van dat probleem geschetst.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In alinea 3 en 4 komen de begrippen intensief lezen en extensief lezen voorbij.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>“Volgens de achttiende-eeuwse schrijver Georg Christoph Lichtenberg was de wereld meer veranderd ‘door het lood in zetkasten dan door lood in kogels’.” (regels 70-75)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_fba5d5bcdd9a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e64529d1393448beb9499f8bd4fb3aaa.pdf"
+    }
+  ]
+}

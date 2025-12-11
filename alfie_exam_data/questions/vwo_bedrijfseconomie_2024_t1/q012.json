@@ -1,0 +1,91 @@
+{
+  "id": "vwo_bedrijfseconomie_2024_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [
+        {
+          "id": 12,
+          "name": "Verslaggeving",
+          "prefix_code": "G"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat door gebruik te maken van SARs een verslechtering van de liquiditeit in de opstartfase bij Fenix kan worden voorkomen.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de informatiebronnen 1 tot en met 3.&nbsp;<br><br>Fenix bv is een innovatieve start-up met ambitieuze plannen voor duurzaam en gedeeld stadsvervoer. Bij Fenix kan de klant tegen betaling gebruikmaken van een elektrische deelscooter. Fenix ziet de e-scooter als een duurzaam alternatief voor reizen in de stad. In de Fenix-app kan de klant zien waar zich een deelscooter bevindt, deze reserveren en vervolgens activeren. Meestal verleent het gemeentebestuur van een stad een vergunning voor slechts een deel van de stad en worden andere delen van de stad toegewezen aan andere aanbieders. Fenix krijgt van de gemeente een uitbreiding van de vergunning, waardoor zij toegang krijgt tot meerdere delen van de stad. Dit betekent een uitbreiding van het servicegebied.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Voor Fenix is het vinden van voldoende kapitaal en de juiste mensen van belang om de startupfase door te komen. Vermogen Bij de start van Fenix op 1 januari 2020 hebben de vier oprichters ieder voor € 44.000 deelgenomen in het aandelenkapitaal. Fenix heeft op die datum bij kredietinstellingen ook leningen afgesloten. In daaropvolgende financieringsrondes in de jaren 2021 tot en met 2023 heeft Fenix extra vermogen aangetrokken om te kunnen groeien. De laatste financieringsronde is op 1 januari 2023 geweest. Toen werd zowel eigen vermogen als vreemd vermogen aangetrokken (zie informatiebron 1).</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De aandelenemissie van 1 januari 2023 was voor verschaffers van vreemd vermogen een voorwaarde om ook mee te doen aan de financieringsronde op deze datum.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Personeel&nbsp;<br><br>“De grootste uitdaging voor Fenix is om in de start-up-fase talentvol personeel aan te trekken én te behouden”, aldus een van de oprichters in een interview. Een manier daarvoor is een goede financiële beloning, maar ook het zorgen voor veilig en gezond werken.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Eind 2023 ontbreekt het Fenix aan voldoende liquide middelen om haar talentvolle personeel een substantiële, jaarlijkse loonsverhoging te bieden. Fenix onderzoekt twee mogelijkheden om talentvol personeel aan zich te binden:&nbsp;<br> uitgifte van aandelen aan personeel&nbsp;<br> uitgifte van Stock Appreciation Rights (SARs) aan personeel (zie informatiebron 2).</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Een van de oprichters van Fenix geeft aan dat de inzet van SARs ook kan leiden tot een beter resultaat van Fenix.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De vier oprichters van Fenix kiezen voor SARs als extra beloningsvorm en dit zal worden vermeld in personeelsadvertenties. De voorwaarden staan vermeld in informatiebron 3. Voor de hoogte van de SAR-uitkering aan talentvolle werknemers moet de waarde van het aandeel Fenix worden vastgesteld. Fenix stelt de waarde van 1 aandeel Fenix gelijk aan 5.000 (x EBIT per aandeel), waarbij de EBIT die van het jaar 2023 is en het aantal aandelen dat van 31 december 2023.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Fenix sluit op 31 december 2023 met 30% van de werknemers een SAR-overeenkomst af. In de overeenkomst staat vermeld dat de betreffende werknemers ieder 20 SARs krijgen. Nieuwe medewerkers en nieuwe afspraken worden buiten beschouwing gelaten (zie informatiebron 3). De algemene vergadering van aandeelhouders besluit dat het trigger-event 31 december 2026 is. Voor het inschatten van de verwachte SAR-uitkering op 31 december 2026, drie jaar na het vesting-event, gaat Fenix ervan uit dat:&nbsp;<br> de waardestijging van het aandeel Fenix gemiddeld 12,5% per jaar is in 2024 tot en met 2026;&nbsp;<br> er geen aandelenemissie plaatsvindt in de jaren 2024 tot en met 2026;&nbsp;<br> de arbeidsovereenkomst van het personeel met een SAR-overeenkomst niet voor 31 december 2026 wordt beëindigd.&nbsp;<br> Er geen andere SAR toekenningen zullen zijn vanaf 31 december 2023.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Fenix vormt voor deze SAR-uitkering op 31 december 2026 een voorziening. Vanaf januari 2024 wordt maandelijks een bedrag aan deze voorziening toegevoegd, waardoor het resultaat vermindert. Een van de aandeelhouders twijfelt over de SARs en de te vormen voorziening. Hij stelt: “Met de SARs als beloningsvorm wordt weliswaar voorkomen dat er in de opstartfase een verslechtering van de liquiditeit ontstaat, maar ze hebben effect op de solvabiliteit in de jaren 2024 tot en met 2026.”</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_bijlag_7eadadfb909b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b308f8bea0724a7aafeda7412effc100.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_uitwer_83345fd16197.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9381244ee6040b2bd0134a67d821ddb.pdf"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "vwo_geschiedenis_2023_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 185,
+          "name": "Tijdvak 2 – Grieken en Romeinen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 1.<br>Met deze Romeinse kopie van de beelden kun je twee kenmerkende aspecten uit de tijd van de Romeinse Oudheid illustreren.<br>Noem deze twee kenmerkende aspecten.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 514 voor Christus doodden de Atheense burgers Harmodios en Aristogeiton de alleenheerser Hipparchos. Enkele jaren daarna besloot het stadsbestuur op het centrale plein in Athene standbeelden van Harmodios en Aristogeiton te plaatsen en legde vast dat elk jaar offers moesten worden gebracht bij deze beelden.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2023_I_bijlage_55374cf5cbf5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5244a635b97841b7b1e77f67a3c0f38a.pdf"
+    }
+  ]
+}

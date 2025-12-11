@@ -1,0 +1,40 @@
+{
+  "id": "vmbo_gl_geschiedenis_en_staatsinrichting_2022_t1_q38",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "geschiedenis_en_staatsinrichting",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 65,
+      "domains": [
+        {
+          "id": 136,
+          "name": "Historisch overzicht vanaf 1900",
+          "prefix_code": "GS/K/10"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Een invulopdracht over Nederland tussen 1945 en 1970.<br>In Nederland begon op economisch gebied direct na de Tweede Wereldoorlog een periode van ...(1)... . Mede dankzij de extra ondersteuning van de ...(2)... kon de economie zich herstellen. Door producten als de spijkerbroek, films en Coca-Cola was er sprake van ...(3)... van de samenleving. In de jaren zestig nam de ...(4)... steeds verder toe waardoor meer mensen luxeartikelen konden kopen, zoals een auto of televisie.<br>Hieronder staan acht begrippen:<br>a amerikanisering<br>b emigratie<br>c individualisering<br>d jongerencultuur<br>e Marshallhulp<br>f ontzuiling<br>g wederopbouw<br>h welvaart<br>In de tekst ontbreken vier begrippen.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Maak de tekst kloppend door per nummer aan te geven welk begrip daarbij hoort. Let op! Elk begrip mag maar één keer gebruikt worden.<br>Er blijven vier begrippen over.<br>Doe het zo:<br>Bij nummer 1 hoort begrip ... (vul letter in).<br>(enzovoort tot en met nummer 4)</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Geschiedenis en staatsinrichting 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_en_staatsinrichti_d97a81606872.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a82c2a3d929949f1803bcca598ae713f.pdf"
+    }
+  ]
+}

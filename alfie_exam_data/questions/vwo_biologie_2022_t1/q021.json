@@ -1,0 +1,78 @@
+{
+  "id": "vwo_biologie_2022_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 34,
+          "name": "Reproductie van het organisme",
+          "prefix_code": 7
+        },
+        {
+          "id": 35,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 43,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de betreffende bewering <strong>wel </strong>of <strong>niet </strong>wordt ondersteund door de fylogenetische stamboom in afbeelding 1.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De mens is een van de weinige zoogdieren die menstrueert. Evolutiebiologen onderzoeken hoe dit in de evolutie is ontstaan.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Bij zoogdieren wordt tijdens de rijping van eicellen in de eierstokken het baarmoederslijmvlies dikker door de invloed van oestrogeen. Het gereedmaken van het verdikte baarmoederslijmvlies voor de innesteling van een embryo wordt bij niet-menstruerende zoogdieren pas in gang gezet als een embryo in de baarmoeder aanwezig is. De baarmoederslijmvliescellen van de moeder worden dan aangezet tot decidualisatie. Dit is het vormen van een cellaag (de decidua) waarin het embryo zich kan innestelen. Als de innesteling uitblijft, wordt dit verdikte baarmoederslijmvlies niet afgestoten maar geabsorbeerd. Er volgt dus geen menstruatie.<br>Bij menstruerende zoogdieren begint de vorming van de decidua 'vanzelf het progesteron dat door het geel lichaam wordt afgegeven, veroorzaakt de celdifferentiatie in het baarmoederslijmvlies. Dit wordt <strong>spontane </strong>decidualisatie genoemd. Bij de menstruatie wordt de decidua afgescheiden.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Menstruatie is relatief recent in de evolutie ontstaan. In afbeelding 1 is in een fylogenetische stamboom van een groot aantal zoogdieren aangegeven of ze wel of niet menstrueren of dat dat niet bekend is.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_92f6a434ec94.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/967478013331405e9875f077e6be2801.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Drie beweringen over de fylogenetische stamboom in afbeelding 1 zijn:<br>1 Menstruatie is in de evolutie ten minste drie keer onafhankelijk ontstaan.<br>2 Tijdens de evolutie van primaten is het menstrueren in ten minste éen afstammingslijn weer verloren gegaan.<br>3 Menstruerende vleermuizen zijn meer verwant aan primaten dan nietmenstruerende vleermuizen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2022_I_uitwerkbijlage_78c37bbf4d16.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/214a33aa9bdb4fb98f309ba6558eee12.pdf"
+    }
+  ]
+}

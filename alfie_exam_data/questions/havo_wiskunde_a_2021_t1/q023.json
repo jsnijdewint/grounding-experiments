@@ -1,0 +1,110 @@
+{
+  "id": "havo_wiskunde_a_2021_t1_q23",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 176,
+          "name": "Tabellen",
+          "prefix_code": 1
+        },
+        {
+          "id": 177,
+          "name": "Grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        },
+        {
+          "id": 178,
+          "name": "Formules met één of meer variabelen",
+          "prefix_code": 3
+        },
+        {
+          "id": 179,
+          "name": "Lineaire verbanden",
+          "prefix_code": 4
+        },
+        {
+          "id": 180,
+          "name": "Exponentiële verbanden",
+          "prefix_code": 5
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken het percentage brieven/kaarten met 2 postzegels in 2016. Geef je antwoord in hele procenten.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Mensen sturen steeds minder brieven en kaarten. Postzegels zijn in Nederland de afgelopen jaren flink duurder geworden. Elk jaar op 1 januari wordt de prijs zo nodig aangepast. In de figuur zie je de postzegelprijs (in centen) en het aantal brieven/kaarten (in miljarden) dat bezorgd werd in de jaren 2005-2016.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_46ec3406ab69.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8f70ae20a8a24f47982b71fae1118775.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Je kunt in de figuur bijvoorbeeld aflezen dat op 1 januari 2007 de postzegelprijs 44 cent was en dat er in het jaar 2007 4,8 miljard brieven/kaarten werden bezorgd.</p><p>Op 1 januari 2010 kostte een postzegel 44 cent. Op 1 januari 2014 was de prijs gestegen tot 64 cent. Veronderstel dat in de periode 2010-2014 de postzegelprijs exponentieel groeide.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In de periode 2010-2016 nam het aantal brieven/kaarten dat jaarlijks werd bezorgd bij benadering lineair af. Er werd in 2016 voorspeld dat deze afname zich nog een aantal jaren op deze manier zou voortzetten.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In de tabel zie je voor 2015 en 2016 onder andere het aantal bezorgde brieven/kaarten en de bijbehorende opbrengst. Dit is het totale bedrag dat aan postzegels is verkocht dat op al die brieven/kaarten is geplakt. De opbrengst in 2016 was lager dan die in 2015, ondanks de verhoging van de postzegelprijs van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>0</mn> <mo>,</mo> <mn>69</mn>&#160;</math> naar <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>0</mn> <mo>,</mo> <mn>73</mn>&#160;</math>.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_0a122b676431.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bd7f202d78a64a93a9063fccbef5c037.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Voor het versturen van brieven/kaarten tot 20 gram heb je 1 postzegel nodig. Voor het versturen van brieven/kaarten vanaf 20 gram tot 50 gram moet je 2 postzegels plakken, en vanaf 50 tot 100 gram 3 postzegels. Neem aan dat op alle brieven/kaarten maximaal 3 postzegels zijn geplakt.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Neem aan dat in 2016 op 88% van de brieven/kaarten 1 postzegel werd geplakt en op de overige brieven/kaarten 2 of 3 postzegels. Je kunt dan met behulp van de tabel de volgende vergelijking opstellen om het aantal brieven/kaarten met 2 postzegels te berekenen:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>73</mn> <mo>&#8901;</mo> <mn>1947</mn> <mo>,</mo> <mn>44</mn> <mo>+</mo> <mn>1</mn> <mo>,</mo> <mn>46</mn> <mo>&#8901;</mo> <mi>x</mi> <mo>+</mo> <mn>2</mn> <mo>,</mo> <mn>19</mn> <mo>&#8901;</mo> <mo stretchy=\"false\">(</mo> <mn>265</mn> <mo>,</mo> <mn>56</mn> <mo>&#8722;</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mn>1877</mn></math></p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>het aantal brieven/kaarten met 2 postzegels in miljoenen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_0dabafad3b33.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5c360001b36c4ef48517dc88f333f720.pdf"
+    },
+    {
+      "name": "formule_blad_2.pdf",
+      "media_path": "media/bijlages/formule_blad_2_acdfdd81974a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a88db860b41b46039b4ea79fff214389.pdf"
+    }
+  ]
+}

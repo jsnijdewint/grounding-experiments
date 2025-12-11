@@ -1,0 +1,87 @@
+{
+  "id": "vwo_wiskunde_b_2023_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 83,
+          "name": "Meetkundige vaardigheden",
+          "prefix_code": 1
+        },
+        {
+          "id": 84,
+          "name": "Algebraïsche methoden in de vlakke meetkunde",
+          "prefix_code": 2
+        },
+        {
+          "id": 85,
+          "name": "Vectoren en inproduct",
+          "prefix_code": 3
+        },
+        {
+          "id": 86,
+          "name": "Toepassingen",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken algebraïsch hoeveel procent de oppervlakte van vlakdeel <i>A'B'C'D'</i> groter is dan de oppervlakte van vlakdeel <i>ABCD</i>. Geef je eindantwoord als geheel getal.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de werktuigbouw moeten vaak metalen platen in een bepaalde hoek worden gebogen. Een van de technieken die daarbij worden gebruikt is <strong>vrijbuigen</strong>. Daarbij ligt de metalen plaat op een matrijs met een bepaalde vorm. Hierna wordt een stempel met kracht op de plaat gedrukt, zodat deze de gewenste vorm krijgt. In figuur 1 is dit in een vooraanzicht weergegeven. In figuur 2 zie je een voorbeeld van een metalen plaat na het buigen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_5044ab90388f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3efd07b2083e48b1974c2255f897364a.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_bb7f8b38ac06.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9a4ca01d40d34845a6870bb602821bb0.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Tijdens het vrijbuigen treedt vervorming op: aan de buitenkant rekt het metaal iets op en aan de binnenkant wordt het samengedrukt. In het inwendige van de metalen plaat bevindt zich de <strong>neutrale lijn</strong>: de lengte hiervan blijft gelijk na vervorming. In deze opgave nemen we aan dat de dikte van de plaat bij het buigen gelijk blijft.</p><p>In figuur 3 is het vooraanzicht van een metalen plaat met een dikte van <i>d </i>mm zowel vóór als na het buigen weergegeven. Wanneer de plaat wordt gebogen over een hoek van 45°, verandert rechthoek <i>ABCD</i> in de vorm <i>A'B'C'D'</i> . Hierbij is boog <i>C'D'</i> de boog van een cirkel met middelpunt <i>M</i> en straal 2<i>d</i> en <i>A'B'</i> de boog van een cirkel met middelpunt <i>M</i> en straal 3<i>d</i>. De neutrale lijn <i>P'Q'</i> is een cirkelboog op een afstand van 0,4<i>d</i> van boog<i> C'D'</i> . Verder geldt dat de lengte van de neutrale lijn gelijk blijft, dus de lengte van boog <i>P'Q'</i> is gelijk aan de lengte van<i> PQ</i></p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_4a9ac974772c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ca9172024ad640d8ac76b4472d6986c9.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_b_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_b_formules_84daf09e2c5a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1ca38286256f423c923a34eb38578ea3.pdf"
+    }
+  ]
+}

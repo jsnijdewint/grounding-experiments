@@ -1,0 +1,45 @@
+{
+  "id": "vmbo_gl_nederlands_2023_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 60,
+      "domains": [
+        {
+          "id": 157,
+          "name": "Leesvaardigheid",
+          "prefix_code": "NE/K/6"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Als je een samenvatting gaat maken van de hele tekst, welke zin uit alinea 5 moet dan zeker worden opgenomen in de samenvatting?<br><strong>A </strong>Het verschil tussen wat leerlingen digitaal kunnen, is groot.<br><strong>B </strong>Dit blijkt uit een leerlingenmonitor in opdracht van Kennisnet, die deze maandag verschijnt.<br><strong>C </strong>Voor dit onderzoek, uitgevoerd door de Universiteit Twente, maakten 746 leerlingen tussen 10 en 13 jaar een digitale toets, waarbij ze bijvoorbeeld een sterk wachtwoord moesten bedenken en informatie op internet moesten opzoeken.<br><strong>D </strong>Vwo'ers blijken over meer digitale vaardigheden te beschikken dan vmbo'ers, maar er zijn ook hoog presterende vmbo'ers en laag presterende vwo'ers.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_0713cd11b614.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fb589d755bd34bcc894e3d04ee63d4b1.pdf"
+    },
+    {
+      "name": "Nederlands 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_uitwerkbijla_89b91ec36c88.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b23062525a6d4570a8c70d6453f56bd9.pdf"
+    }
+  ]
+}

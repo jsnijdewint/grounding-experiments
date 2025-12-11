@@ -1,0 +1,90 @@
+{
+  "id": "havo_wiskunde_a_2021_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 176,
+          "name": "Tabellen",
+          "prefix_code": 1
+        },
+        {
+          "id": 177,
+          "name": "Grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        },
+        {
+          "id": 178,
+          "name": "Formules met één of meer variabelen",
+          "prefix_code": 3
+        },
+        {
+          "id": 179,
+          "name": "Lineaire verbanden",
+          "prefix_code": 4
+        },
+        {
+          "id": 180,
+          "name": "Exponentiële verbanden",
+          "prefix_code": 5
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken op basis van de frequenties van de A-tonen uit de tabel de frequentie van de D-toon. Geef je antwoord in één decimaal.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een klarinet is een houten blaasinstrument. Alle mogelijke tonen die op het instrument kunnen worden gespeeld, worden samen het bereik genoemd. Het bereik van een klarinet is bijna vier octaven. Een octaaf bestaat uit 12 opeenvolgende toonafstanden. Zie de tabel.<br>Elke voorafgaande of opeenvolgende octaaf heeft dezelfde namen voor de tonen in dat octaaf.</p><p>De frequentie van een toon wordt gegeven in hertz ( Hz ), dit is het aantal trillingen per seconde. Bij een hogere toon hoort een hogere frequentie. Als je eenzelfde toon één octaaf hoger speelt, wordt de frequentie twee keer zo groot. Er bestaat een exponentieel verband tussen de frequenties en de tonen in de tabel: van elke volgende toon neemt de frequentie met een vast percentage toe. In de tabel zie je van enkele tonen de frequenties.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2f168f2b8dd8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/af9c3fc193394bf08df93e46519010dd.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_8ba9151c6150.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4b3d1e4bdf8545feb9eea0e9df2c84e7.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In de tabel is de frequentie van de D-toon afgerond op hele Hz .</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_0dabafad3b33.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5c360001b36c4ef48517dc88f333f720.pdf"
+    },
+    {
+      "name": "formule_blad_2.pdf",
+      "media_path": "media/bijlages/formule_blad_2_acdfdd81974a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a88db860b41b46039b4ea79fff214389.pdf"
+    }
+  ]
+}

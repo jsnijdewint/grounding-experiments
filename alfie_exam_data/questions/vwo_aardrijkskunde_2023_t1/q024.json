@@ -1,0 +1,76 @@
+{
+  "id": "vwo_aardrijkskunde_2023_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "aardrijkskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 21,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 4,
+          "name": "Afbakening en gebiedskenmerken",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef aan waarom&nbsp;<br>− aardoliemaatschappijen juist in neoliberale staten relatief makkelijk kunnen investeren;&nbsp;<br>− door toenemende bevolkingsparticipatie het investeren lastiger kan worden.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 13 tot en met 17.&nbsp;<br><br>Gebruik bron 13. Ondanks de toenemende aandacht voor de mondiale energietransitie willen aardoliemaatschappijen toch investeren in Zuid-Amerikaanse aardolie. Deze investeringen worden vooral gedaan op basis van redenen vanuit de economische dimensie.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik de bronnen 13 en 14 en het kaartenkatern. Niet alleen bij de passieve continentrand van Zuid-Amerika, maar ook in het dalingsgebied ten oosten van de Andes is aardolie ontstaan.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Gebruik bron 16.</p><p>Hieronder staan drie uitspraken over de productie en de consumptie van</p><p>aardolie in Zuid-Amerika</p><p>Uitspraak 1: een hoge olieprijs is voor landen in Midden-Amerika in het<br>algemeen gunstiger dan voor landen in Zuid-Amerika</p><p>Uitspraak 2: Brazilië is tussen 1965 en 2019 steeds afhankelijker<br>geworden van de import van aardolie</p><p>Uitspraak 3: politieke ontwikkelingen hebben de laatste jaren invloed<br>gehad op de productie van aardolie in Venezuela<br>&nbsp;</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Gebruik de bronnen 13, 16 en 17. De aanwezigheid van aardolie of aardgas is vaak een garantie voor een hoog welvaartsniveau, maar niet altijd.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Investeringen in de Zuid-Amerikaanse aardolie kunnen op verschillende schaalniveaus negatieve gevolgen hebben.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Aardoliemaatschappijen kunnen relatief makkelijk investeren in neoliberale staten in Zuid-Amerika, maar door toenemende bevolkingsparticipatie kan investeren ook lastiger worden.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2023_I_bijlage_248a50c12d53.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7f989d72434c4d799e087d834390e90f.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2023 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2023_I_kaartenk_e5ac5704001a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/87a0b7c501054137ad17a7a871b8eb90.pdf"
+    }
+  ]
+}

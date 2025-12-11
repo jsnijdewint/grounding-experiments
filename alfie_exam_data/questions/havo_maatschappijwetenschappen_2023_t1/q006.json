@@ -1,0 +1,40 @@
+{
+  "id": "havo_maatschappijwetenschappen_2023_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "maatschappijwetenschappen",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 34,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik tekst 2.<br>Sociale ongelijkheid kan sociale uitsluiting tot gevolg hebben. Sociale uitsluiting heeft vier componenten. Een daarvan is het niet goed kunnen voorzien in elementaire levensbehoeften.</p><ul><li>Noem een andere component van sociale uitsluiting die te herkennen is in tekst 2.</li><li>Geef een voorbeeld van deze component uit tekst 2.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de teksten 1 en 2 en figuur 1 uit het bronnenboekje.</p><p>Inleiding<br>Deze opgave gaat over de problemen op de woningmarkt en protesten die in 2021 hiertegen gehouden zijn.</p><p>Gebruik regel 1 tot en met 24 van tekst 1, inclusief noot 1.<br>In tekst 1 staat dat tientallen organisaties zich achter de standpunten van het protest hebben geschaard. Daaronder zaten ook politieke partijen die in de Tweede Kamer zitten.<br>Er zijn verschillende politieke stromingen te onderscheiden. Deze politieke stromingen hebben elk een andere opvatting over de rol van de overheid.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijwetenschappen 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijwetenschappen_2023_801b96d91784.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c08092d21a474d229627a17f6a0b25cc.pdf"
+    }
+  ]
+}

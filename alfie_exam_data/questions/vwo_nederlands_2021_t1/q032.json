@@ -1,0 +1,76 @@
+{
+  "id": "vwo_nederlands_2021_t1_q32",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 55,
+          "name": "Samenvatten",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noem op basis van alinea 1 tot en met 9 de zes inhoudelijke elementen die beslist in een conclusie zouden moeten staan. Geef antwoord in een of meer volledige zinnen en gebruik voor je antwoord niet meer dan 60 woorden.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een schrijver kan in de inleiding van een tekst op verschillende manieren de aandacht van de lezer trekken.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Tekst 2 kan in drie opeenvolgende delen worden onderverdeeld:</p><p>deel 1: Een onhaalbaar plan</p><p>deel 2: Onbetaalbare alternatieven</p><p>deel 3: In conflict met het stelsel</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In alinea 2 van tekst 2 wordt geprobeerd Bregmans argumenten voor de invoering van een basisinkomen te weerleggen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“Er circuleren ook voorstellen waarbij iedere volwassene een basisinkomen krijgt gelijk aan de helft van de AOW voor een echtpaar (circa 750 euro).” (regels 34-38)</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In tekst 2 komt een aantal groepen aan bod die op een of andere manier belang hebben bij het al dan niet invoeren van een basisinkomen.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>“Het voorstel tot een basisinkomen gaat bovendien voorbij aan het principe van wederkerigheid in solidariteit.” (regels 99-102)</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Aan tekst 2 ontbreekt een conclusie.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2021_I_bijlage_a140e076680b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8f09b902c8234f79a5b66b53e4cd1e25.pdf"
+    }
+  ]
+}

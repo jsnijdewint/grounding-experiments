@@ -1,0 +1,51 @@
+{
+  "id": "havo_aardrijkskunde_2024_t1_q23",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "aardrijkskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 46,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 95,
+          "name": "Gebiedskenmerken",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 14 en het kaartenkatern. De deelstaat Roraima heeft de grootste relatieve bevolkingsgroei in Brazilië.<br><br>Geef drie oorzaken waardoor de relatieve bevolkingsgroei in Roraima zo groot is.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 13 en 14.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_bijlage_e5aee28a8749.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/852747fcf4004fde8244fbb76d88396b.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2024 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_kaartenk_be0f755c05aa.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b1aad8ed2f3d416c8a64def58f7e8c12.pdf"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "havo_biologie_2022_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<ul><li>Noteer de nummers 1 tot en met 4 in de juiste volgorde van<strong> oorzaak naar gevolg</strong> onder elkaar.</li><li>Noteer achter elk nummer op welk organisatieniveau de betreffende verandering is beschreven. Kies uit molecuulniveau, celniveau, orgaanniveau en organismeniveau. Gebruik elk niveau één keer.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Diabetes type 2 is een welvaartsziekte die in steeds meer landen veel voorkomt. Onderzoek toont aan dat voedingspatroon en erfelijke factoren een rol spelen in het ontwikkelen van deze aandoening.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Patiënten met diabetes type 2 maken wel insuline aan, maar de gevoeligheid van hun cellen voor insuline neemt af. De symptomen van diabetes type 2 zijn onder andere vermoeidheid en dorst. Na verloop van tijd kan schade aan bloedvaten ontstaan.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Bij het ontstaan van diabetes type 2 zijn veranderingen op verschillende organisatieniveaus waar te nemen.<br>Veranderingen zijn:<br>1 De opname van glucose uit het bloed door de cellen vermindert.<br>2 De hersenstam registreert een hoge osmotische waarde van het bloed.<br>3 De patiënt gaat veel drinken.<br>4 Receptoren voor insuline worden minder gevoelig.</p>"
+    }
+  ],
+  "bijlages": []
+}

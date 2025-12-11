@@ -1,0 +1,46 @@
+{
+  "id": "vwo_wiskunde_b_2024_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 46,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken exact welk rangnummer Saturnus dan zou hebben</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De Wet van<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi><mi>i</mi><mi>t</mi><mi>i</mi><mi>u</mi><mi>s</mi><mo>-</mo><mi>B</mi><mi>o</mi><mi>d</mi><msup><mi>e</mi><mrow><mn>1</mn><mo>)</mo></mrow></msup></math> is een wet uit de astronomie die door Johann Titius werd opgesteld in de achttiende eeuw. Deze wet legt een verband tussen het rangnummer van een planeet en de afstand van die planeet tot de zon. Met het rangnummer van een planeet wordt bedoeld: ‘de zoveelste planeet geteld vanaf de zon’. De planeet die het dichtst bij de zon staat krijgt nummer 1, de volgende 2 enzovoorts.&nbsp;</p><p>De wet luidt:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>a</mi>\r\n  <mo>=</mo>\r\n  <mn>0</mn>\r\n  <mo>,</mo>\r\n  <mn>4</mn>\r\n  <mo>+</mo>\r\n  <mn>0</mn>\r\n  <mo>,</mo>\r\n  <mn>3</mn>\r\n  <mo>&#8901;</mo>\r\n  <msup>\r\n    <mn>2</mn>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi>n</mi>\r\n      <mo>&#8722;</mo>\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msup>\r\n</math></p><p>Hierin is a de afstand van de planeet tot de zon uitgedrukt in AE (Astronomische Eenheid, 1 AE = afstand van de aarde tot de zon) en is<i> n</i> het rangnummer van de planeet.&nbsp;</p><p>&nbsp;</p><p>Saturnus heeft volgens de Wet van Titius-Bode een afstand van 10 AE tot de zon.</p><p>&nbsp;</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_b_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_b_formules_e2addf3f392e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/470a7c92ad484df6baaee4f1da8379d6.pdf"
+    }
+  ]
+}

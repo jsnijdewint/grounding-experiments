@@ -1,0 +1,73 @@
+{
+  "id": "havo_bedrijfseconomie_2024_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "bedrijfseconomie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 33,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 104,
+          "name": "Vastleggen van financiële en niet financiële informatie",
+          "prefix_code": 1
+        },
+        {
+          "id": 105,
+          "name": "Kosten- en winstvraagstukken",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de balansposten “Inventaris” en “Banklening” op de balans van 1 januari 2024.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De accountant van Jakko bv heeft in de boekhouding van Jakko een fout ontdekt. Jakko heeft op 1 december 2023 een investering gedaan en daarvoor een banklening afgesloten. De gevolgen hiervan zijn niet meer verwerkt in de winst- en verliesrekening over 2023 en in de eindbalans per 31 december 2023.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_66ba1c9422bb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/365da880129a422192fb62bf3ce8bf9c.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De accountant geeft aan dat het resultaat van 2023 voor aftrek van belasting moet worden aangepast vanwege de gedane investering en de bijbehorende financiering.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Voor de investering op 1 december 2023 was er nog geen inventaris aanwezig en was er nog geen banklening afgesloten. Door de investering en financiering van de inventaris moeten er enkele balansposten op 31 december 2023 worden aangepast, waaronder “Inventaris”, “Banklening”, “Liquide middelen” en “Resultaat 2023 voor aftrek van belasting”. De factuur van € 50.820 is volledig betaald.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_bijlag_2e10e0982197.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a7a15ca0f9d2401aa24055b39fdd0a81.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_uitwer_e1cba7355851.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/555ba55aca42476292c914bf8a9a09fe.pdf"
+    }
+  ]
+}

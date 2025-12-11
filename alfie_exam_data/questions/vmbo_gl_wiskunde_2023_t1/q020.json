@@ -1,0 +1,94 @@
+{
+  "id": "vmbo_gl_wiskunde_2023_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "wiskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 67,
+      "domains": [
+        {
+          "id": 161,
+          "name": "Rekenen, meten en schatten",
+          "prefix_code": "WI/K/5"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Laat met een berekening zien dat na 9 seconden de hoogte 2,56 meter is.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Je ziet een foto van een waterglijbaan. Een bootje glijdt een aantal keer heen en weer in de glijbaan.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_656e40d207dc.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/269f782006ad40a4b79c7ee7984e24dd.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De hoogte van de glijbaan kun je berekenen met de formule:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi> <mo>=</mo> <mn>0</mn> <mo>,</mo> <mn>2</mn> <msup><mi>a</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>&#8722;</mo> <mn>2</mn> <mi>a</mi> <mo>+</mo> <mn>5</mn></math></p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi>&#160;</math>de hoogte in meters en a de horizontale afstand in meters vanaf punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>.</p><p>Hieronder zie je de grafiek die bij de formule hoort.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_1576f848dfa4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e1498869c3be48768081be96ac208386.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_7308edb834d8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d10c8d7f012943759ea3b3a20058706d.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Het bootje glijdt heen en weer. Elke keer komt het bootje een beetje minder hoog. Hieronder zie je de grafiek van de eerste keren heen en weer. De grafiek staat ook op de uitwerkbijlage.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_690e83603344.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/34245ffe6d024578aebd0630dee9bc34.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Na 6 seconden is de hoogte van het bootje 3,2 meter. De hoogte neemt iedere 3 seconden met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>af.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_2023_I_uitwerkbijlage_f78e70c4ddca.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bbc4a2194fa64bb89fa2eea23545d325.pdf"
+    },
+    {
+      "name": "VMBO_2023_wiskunde_formules.pdf",
+      "media_path": "media/bijlages/VMBO_2023_wiskunde_formules_374f78ca5ba1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/be7c655fbdc04d4d80359acdbaf873fa.pdf"
+    }
+  ]
+}

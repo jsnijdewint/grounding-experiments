@@ -1,0 +1,60 @@
+{
+  "id": "vwo_natuurkunde_2024_t2_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 2
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bepaal de grootte van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>F</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">w</mi> </mrow><mo>,</mo> <mtext>rol&#160;</mtext></mrow></msub></math>. Noteer je antwoord in twee significante cijfers.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Mees heeft een elektrische scooter aangeschaft om daarmee naar school te reizen. Zie figuur 1. In het accupakket van de scooter kan volgens de fabrikant een energie van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>74</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">kWh</mi>&#160;</mrow></math> opgeslagen worden.<br>Het opladen van de accu gebeurt met een oplader die via een elektriciteitskabel aangesloten wordt op de netspanning van 230 V . De oplader zet de netspanning om naar de laadspanning. Mees plaatst een stroommeter tussen het stopcontact en de oplader en meet de stoomsterkte tijdens het opladen.<br><br>Op de uitwerkbijlage staat een schematische tekening van het stopcontact, de stroommeter en de kabels naar de oplader en scooter.</p><p><br>&nbsp;</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Om 15.20 uur sluit Mees de scooter aan op de oplader. Op dat moment is de accu nog voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>35</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> opgeladen. Van het opladen heeft Mees een <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo> <mi>I</mi> <mo>,</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo>&#160;</math>-diagram gemaakt, zie figuur 2. Deze figuur staat vergroot op de uitwerkbijlage.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Om 21.00 uur geeft de scooter aan dat de accu <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> opgeladen is. Mees bepaalt hoeveel energie er is gebruikt om de accu op te laden. Hij vindt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>3</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">kWh</mi>&#160;</mrow></math>.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In het achterwiel van de scooter zit een elektromotor met een maximaal vermogen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>5</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">kW</mi>&#160;</mrow></math>. De motor is elektronisch begrensd, waardoor de scooter maximaal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>25</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">km</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">h</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math> kan rijden.<br><br>Mees wil de maximum snelheid van scooter weten als deze onbegrensd zou zijn. Hij bepaalt de rol- en luchtweerstandskracht om deze snelheid te kunnen bepalen.</p><p>Voor het bepalen van de rolweerstandskracht voert Mees een experiment uit. Hij meet bij verschillende beginsnelheden <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mn>0</mn>&#160;</mrow></msub></math>de afstand <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>s</mi>&#160;</math>die nodig is om tot stilstand te komen zonder de remmen te gebruiken. Hij voert de metingen uit op een vlakke, rechte, geasfalteerde weg. Omdat het die dag een beetje waait, besluit Mees de metingen ook uit te voeren in tegenovergestelde bewegingsrichting. Van zijn metingen heeft hij een tabel gemaakt (zie figuur 3).</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Mees breidt de tabel uit met een kolom voor de kinetische energie. Hij gebruikt daarbij de totale massa van zichzelf en de scooter samen. Vervolgens maakt hij een ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">k</mi> </mrow></mrow></msub><mo>,</mo> <msub><mi>s</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">gem</mi>&#160;</mrow></mrow></msub></math>)-diagram en tekent hij een trendlijn door de eerste meetpunten om de rolweerstandskracht <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>F</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>w,rol&#160;</mtext></mrow></msub></math>te bepalen. Zijn resultaat is te vinden in figuur 4.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vw-1023-a-24-2-u-spr.pdf",
+      "media_path": "media/bijlages/vw-1023-a-24-2-u-spr_7f55e6f292ee.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/58df80d921a54e229db05fc1537c094b.pdf"
+    }
+  ]
+}

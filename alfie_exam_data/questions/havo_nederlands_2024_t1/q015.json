@@ -1,0 +1,78 @@
+{
+  "id": "havo_nederlands_2024_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit in hoeverre deze bewering <strong>wel </strong>of <strong>niet </strong>wordt bevestigd door bron 2. Geef antwoord in één of meer volledige zinnen en gebruik voor je antwoord niet meer dan 25 woorden.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In alinea 1 en 2 worden een probleem en twee oorzaken van dat probleem geschetst.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In alinea 3 en 4 komen de begrippen intensief lezen en extensief lezen voorbij.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>“Volgens de achttiende-eeuwse schrijver Georg Christoph Lichtenberg was de wereld meer veranderd ‘door het lood in zetkasten dan door lood in kogels’.” (regels 70-75)</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“Is lezen nog wel van deze tijd?” (regel 76)</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In bron 2 staat hoeveel procent van verschillende groepen mensen in Nederland lazen in 2006, 2011 en 2016.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_26567f11a47a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b926557f74e340bf88bff2101a49fa14.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>“Weinigen gaan zover, maar dat lezen, en al helemaal het lezen van boeken, in een neerwaartse spiraal dreigt te belanden, valt ondanks leesclubs en e-readers toch lastig te ontkennen.” (regels 82-87)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_fba5d5bcdd9a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e64529d1393448beb9499f8bd4fb3aaa.pdf"
+    }
+  ]
+}

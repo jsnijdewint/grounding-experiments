@@ -1,0 +1,73 @@
+{
+  "id": "havo_natuurkunde_2022_t1_q25",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 137,
+          "name": "Gebruik van elektriciteit",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoe vaak deze accu opgeladen kan worden met de hoeveelheid energie die nodig was voor het maken van de bliksem.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 2016 werd in Eindhoven tijdens het festival Glow voor publiek kunstmatig een 'bliksem' met een recordlengte van 80 m gemaakt. Zie figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_83fc1195eb9e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/42cde2d1d3594b808115b12f4a39233c.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Voor het opwekken van de bliksem werd een dunne draad van koper gebruikt met een weerstand van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>35</mn> <mi mathvariant=\"normal\">&#937;</mi>&#160;</math>. De draad was 80 m lang. Een menselijke haar heeft een diameter van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>060</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">mm</mi>&#160;</mrow></math>. Zowel de draad als een mensenhaar is cilindervormig.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Om de bliksem op te wekken werd de draad op een hoge spanning aangesloten. Hierdoor ging een grote stroom door de draad lopen. Er werd een enorm vermogen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn> <mo>,</mo> <mn>1</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>9</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">W</mi>&#160;</mrow></math>in de draad ontwikkeld. Neem aan dat de weerstand van de draad tijdens dit proces constant was. Voor het vermogen dat in de draad wordt omgezet geldt:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi> <mo>=</mo> <mfrac><msup><mi>U</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mi>R</mi>&#160;</mfrac></math></p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Tijdens dit proces bleef de weerstand van de draad echter niet constant. De weerstand nam toe met de temperatuur.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Iemand vraagt zich af of voor het opwekken van deze bliksem veel energie nodig was. Hij vergelijkt het met het opladen van een smartphone. De draad leverde gedurende <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>4</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>5</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>een vermogen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn> <mo>,</mo> <mn>1</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>9</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">W</mi>&#160;</mrow></math>. Een gewone smartphone accu heeft een capaciteit van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn> <mo>,</mo> <mn>88</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">Wh</mi>&#160;</mrow></math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2022_I_uitwerkbijl_81c84d6bcda8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5d2d7ab14a724c268e292e7f96ede649.pdf"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "havo_natuurkunde_2024_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 131,
+          "name": "Informatieoverdracht",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:&nbsp;</p><p>- Geef in de figuur op de uitwerkbijlage op de stippellijn het patroon aan van knopen (K) en buiken (B) van de grondtoon in de kamer.&nbsp;</p><p>- Toon met een berekening aan dat de geluidsgolven infrasoon waren.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de jaren 80 deed wetenschapper Vic Tandy een toevallige ontdekking. Hij had een zwaard vastgeklemd om het schoon te maken. Het vrije uiteinde van het zwaard bleek uit zichzelf te trillen. Zie schematisch in figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_1f3941a2b115.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/efb5976f50ee49b4a9c48544ecdfcdfd.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Hij verplaatste het zwaard in de kamer. Midden in de kamer trilde het zwaard het hardst. Richting de wanden nam de trilling af, bij de wanden trilde het zwaard niet.</p><p>&nbsp;</p><p>Tandy concludeerde dat infrasone geluidsgolven de oorzaak waren van het trillen van het zwaard. Infrasoon geluid is onhoorbaar voor mensen omdat het een frequentie heeft lager dan 20 Hz. De lengte <i>L</i> van de ruimte is 11,0 m en de temperatuur is 20 °C.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2024_I_uitwerkbijl_183c8a842092.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d36e010b434c4896854f0afb7f3f861d.pdf"
+    }
+  ]
+}

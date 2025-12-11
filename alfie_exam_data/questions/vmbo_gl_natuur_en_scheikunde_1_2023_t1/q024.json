@@ -1,0 +1,63 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2023_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 143,
+          "name": "Geluid",
+          "prefix_code": "NASK1/K/8"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>De kalimba heeft strips met verschillende lengtes.<br>Dit is te vergelijken met de verschillende lengtes van de snaren van bepaalde snaarinstrumenten.</p><p>Irma slaat een lange en een korte strip aan.<br>Hierboven staan twee zinnen over de lange en de korte strip.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Noteer van &nbsp;elke zin de juiste mogelijkheid.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Irma bespeelt een kalimba. Dit is een duimpiano die geluid maakt als de metalen strips worden aangeslagen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De klankkast <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>v</mi><mi>e</mi><mi>r</mi><mi>g</mi><mi>r</mi><mi>o</mi><mi>o</mi><mi>t</mi></mrow><mrow><mi>v</mi><mi>e</mi><mi>r</mi><mi>k</mi><mi>l</mi><mi>e</mi><mi>i</mi><mi>n</mi><mi>t</mi></mrow></mfrac></math> de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>a</mi><mi>m</mi><mi>p</mi><mi>l</mi><mi>i</mi><mi>t</mi><mi>u</mi><mi>d</mi><mi>e</mi></mrow><mrow><mi>f</mi><mi>r</mi><mi>e</mi><mi>q</mi><mi>u</mi><mi>e</mi><mi>n</mi><mi>t</mi><mi>i</mi><mi>e</mi></mrow></mfrac></math> van het geluid.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_0b38705ac8fd.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/532f7f3977c94092a0f524991762135d.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De lange strip geeft een <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>h</mi><mi>o</mi><mi>g</mi><mi>e</mi><mi>r</mi><mi>e</mi></mrow><mrow><mi>l</mi><mi>a</mi><mi>g</mi><mi>e</mi><mi>r</mi><mi>e</mi></mrow></mfrac></math> toon dan de korte strip.</p><p>&nbsp;</p><p>De lange strip heeft een <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>g</mi><mi>r</mi><mi>o</mi><mi>t</mi><mi>e</mi><mi>r</mi><mi>e</mi></mrow><mrow><mi>k</mi><mi>l</mi><mi>e</mi><mi>i</mi><mi>n</mi><mi>e</mi><mi>r</mi><mi>e</mi></mrow></mfrac></math> trillingstijd dan de korte strip.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2023_I_146f2ef32a60.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a553a8c7e49437a900373fa6ec9748e.pdf"
+    }
+  ]
+}

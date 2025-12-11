@@ -1,0 +1,89 @@
+{
+  "id": "havo_biologie_2024_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 110,
+          "name": "Onderzoeken",
+          "prefix_code": 5
+        },
+        {
+          "id": 111,
+          "name": "Ontwerpen",
+          "prefix_code": 6
+        },
+        {
+          "id": 112,
+          "name": "Modelvorming",
+          "prefix_code": 7
+        },
+        {
+          "id": 113,
+          "name": "Natuurwetenschappelijk instrumentarium",
+          "prefix_code": 8
+        },
+        {
+          "id": 114,
+          "name": "Waarderen en oordelen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de betreffende uitspraak <strong>juist</strong> of <strong>onjuist</strong> is.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Met de app SnailSnap op hun telefoon maken Dylan en Senna foto’s van slakken rond hun huis. Zo doen ze mee aan een onderzoek naar de verspreiding en evolutie van kleurvormen van de gewone tuinslak.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_e7961e17b819.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cac391ab65fa47b7ad739951dda51e77.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De kleur van het huisje wordt bepaald door één gen waarvan drie allelen bekend zijn. Het allel Cb (bruin) is dominant over Cr (roze). Beide zijn dominant over cg (geel).</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Niels Kerstes, onderzoeker van Naturalis, heeft de gegevens van 8000 waarnemingen in 2017 verwerkt in een infographic (afbeelding 3).</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_10cea4f484b1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/34c74c7e08dd4c05880ae9a4d2e1a1b4.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Dylan en Senna bekijken de infographic en doen de volgende uitspraken:&nbsp;<br>1 In een stedelijke omgeving is een groter aandeel slakken met strepen waargenomen dan in een landelijke omgeving.&nbsp;<br>2 Er zijn ongeveer 1600 bruine slakken waargenomen met SnailSnap.&nbsp;<br>3 Uit de infographic blijkt dat in de stedelijke omgeving ongeveer evenveel slakken zijn waargenomen als in de landelijke omgeving.</p>"
+    }
+  ],
+  "bijlages": []
+}

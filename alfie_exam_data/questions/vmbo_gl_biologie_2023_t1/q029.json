@@ -1,0 +1,53 @@
+{
+  "id": "vmbo_gl_biologie_2023_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 120,
+          "name": "Gedrag bij mens en dier",
+          "prefix_code": "BI/V/2"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Tot welk type gedrag hoort preening?<br>A tot broedzorg<br>B tot imponeergedrag<br>C tot verzorgingsgedrag<br>D tot voedingsgedrag</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_18ede9e5ff3b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8f69dc114b384f1fac49b6dad09cf20d.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Tussen de veren van duiven leven luizen die zich voeden met eiwitten en vetten uit die veren. Veel luizen hebben dezelfde kleur als de veren van de duiven waar ze op leven. Alle luizen behoren tot dezelfde soort. De duiven proberen de luizen bij elkaar of bij zichzelf te verwijderen door met hun snavel door de veren te strijken en de luizen eraf te vegen. Dit wordt ‘preening’ genoemd.&nbsp;<br><br>Biologen onderzoeken dit preening-gedrag bij de duiven. De biologen hebben daarvoor een snavelkapje ontwikkeld. Duiven die zo’n kapje over hun snavel krijgen, kunnen de luizen niet meer verwijderen, maar kunnen zich nog wel voeden.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2023_I_uitwerkbijlage_4e0013036ef8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9a816268fb648d6bbff9679cf7f9a46.pdf"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "vwo_scheikunde_2023_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef het symbool en het aantal neutronen van dit deeltje. Noteer je antwoord als volgt:</p><p>symbool: ...</p><p>aantal neutronen: ...</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gerolsteiner® is een Duits merk koolzuurhoudend mineraalwater uit Gerolstein, een kleine stad in de Eifel. In de ondergrond van Gerolstein bevindt zich het gesteente dolomiet. Dolomiet reageert met opgelost koolstofdioxide dat afkomstig is uit neerslag of uit dieper gelegen aardlagen. In figuur 1 is schematisch weergegeven hoe koolzuurhoudende neerslag in contact komt met dolomiet, waardoor Gerolsteiner® mineraalwater wordt gevormd.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_0ec5b1dbf90b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/69327754a0a2453eb7cb2df8e42e43b0.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De waarde van <i>x</i> in de verhoudingsformule van dolomiet ligt tussen nul en een</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In het mineraalwater is ook een beetje helium opgelost. Het helium blijkt zowel uit <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\"></mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>3</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi data-mjx-auto-op=\"false\">He</mi>\r\n  </mrow>\r\n</math> als uit <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\"></mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>4</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi data-mjx-auto-op=\"false\">He</mi>\r\n  </mrow>\r\n</math> te bestaan. De verhouding tussen de heliumisotopen hangt af van de herkomst van het helium. Dit gegeven hebben onderzoekers gebruikt om te bepalen of het opgeloste <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">CO</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n</math> in Gerolsteiner® mineraalwater uitsluitend afkomstig is uit neerslag of ook uit dieper gelegen aardlagen. <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\"></mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>4</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi data-mjx-auto-op=\"false\">He</mi>\r\n  </mrow>\r\n</math> ontstaat door het radioactief verval van<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\"></mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>238</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi mathvariant=\"normal\">U</mi>\r\n  </mrow>\r\n</math>. Bij dit radioactief verval ontstaat nog één ander deeltje.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2023_I_uitwerkbijla_fef9b863f829.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9a46ef7a7642413db915d3023305e22a.pdf"
+    }
+  ]
+}

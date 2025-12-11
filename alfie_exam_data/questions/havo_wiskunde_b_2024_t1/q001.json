@@ -1,0 +1,40 @@
+{
+  "id": "havo_wiskunde_b_2024_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 104,
+          "name": "Toegepaste analyse",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bewijs dat inderdaad geldt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>f</mi> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-alternate=\"1\">&#8242;</mi> </mrow></msup><mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mfrac><mn>2</mn> <mn>9</mn> </mfrac><msup><mi>x</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>&#8722;</mo> <mfrac><mn>4</mn> <mn>3</mn> </mfrac><mi>x</mi> <mo>+</mo> <mn>1</mn> <mfrac><mn>1</mn> <mn>2</mn>&#160;</mfrac></math>.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De functie <i>f </i>wordt gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>f</mi>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>x</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo>=</mo>\r\n  <mn>2</mn>\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"INNER\">\r\n      <mo data-mjx-texclass=\"OPEN\">(</mo>\r\n      <mfrac>\r\n        <mn>1</mn>\r\n        <mn>3</mn>\r\n      </mfrac>\r\n      <mi>x</mi>\r\n      <mo>&#8722;</mo>\r\n      <mn>1</mn>\r\n      <mo data-mjx-texclass=\"CLOSE\">)</mo>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>3</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mo>&#8722;</mo>\r\n  <mfrac>\r\n    <mn>1</mn>\r\n    <mn>2</mn>\r\n  </mfrac>\r\n  <mi>x</mi>\r\n  <mo>+</mo>\r\n  <mn>3</mn>\r\n</math> .</p><p>De afgeleide van <i>f</i> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mi>f</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-alternate=\"1\">&#8242;</mi>\r\n    </mrow>\r\n  </msup>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>x</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo>=</mo>\r\n  <mfrac>\r\n    <mn>2</mn>\r\n    <mn>9</mn>\r\n  </mfrac>\r\n  <msup>\r\n    <mi>x</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mo>&#8722;</mo>\r\n  <mfrac>\r\n    <mn>4</mn>\r\n    <mn>3</mn>\r\n  </mfrac>\r\n  <mi>x</mi>\r\n  <mo>+</mo>\r\n  <mn>1</mn>\r\n  <mfrac>\r\n    <mn>1</mn>\r\n    <mn>2</mn>\r\n  </mfrac>\r\n</math>.</p>"
+    }
+  ],
+  "bijlages": []
+}

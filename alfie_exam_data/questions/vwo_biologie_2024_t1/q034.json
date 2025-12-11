@@ -1,0 +1,104 @@
+{
+  "id": "vwo_biologie_2024_t1_q34",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 34,
+          "name": "Reproductie van het organisme",
+          "prefix_code": 7
+        },
+        {
+          "id": 35,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 43,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Fabio’s nicht Stella is in verwachting van een jongen.<br><br>A 0</p><p>B <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mfrac>\r\n    <mn>1</mn>\r\n    <mn>16</mn>\r\n  </mfrac>\r\n</math><br>C <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>8</mn></mfrac></math><br>D <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>4</mn></mfrac></math><br>E <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math></p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De burgemeester van een Italiaans dorp heeft het verbouwen van tuinbonen verboden vanwege Fabio, een jongen uit het dorp die lijdt aan bonenziekte (favisme). Het eten van tuinbonen of het inademen van pollen van tuinboonplanten leidt bij Fabio tot een versnelde afbraak van rode bloedcellen, waardoor een levensbedreigende situatie kan ontstaan.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_6ad2b8eccd65.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/24837600aff144e19c76b0e9cb502e56.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de PPP wordt NADPH gevormd.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De PPP is betrokken bij de productie van vetzuren. Met behulp van afbeelding 1 kan worden afgeleid wat het gevolg is voor de productie van vetzuren als G6PD onwerkzaam is.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In de rode bloedcellen wordt normaal ongeveer 30% van de glucose via de PPP gedissimileerd. Zo ontstaat er voldoende glutathion om reactieve zuurstofmoleculen onschadelijk te maken. Reactieve zuurstofmoleculen kunnen ontstaan door infecties, door gebruik van bepaalde medicijnen en ook door stoffen in tuinboonplanten. Doordat er bij Fabio te weinig G6PD-activiteit is in zijn rode bloedcellen, is er een tekort aan glutathion. Als Fabio tuinbonen eet of pollen van tuinboonplanten inademt, hopen reactieve zuurstofmoleculen zich op in zijn rode bloedcellen en veroorzaken ze oxidatie van hemoglobine. Hierdoor denatureert de hemoglobine en vormt klonten. Doordat de rode bloedcellen vervolgens openbarsten (hemolyse), ontstaat bloedarmoede.<br><br>In de andere cellen van Fabio wordt de ophoping van reactieve zuurstofmoleculen beter bestreden, doordat extra G6PD wordt aangemaakt als er te weinig G6PD-activiteit is.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Symptomen die Fabio kan krijgen na het eten van tuinbonen, zijn een gele huid en geelverkleuring van zijn oogwit.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Nadat Fabio een keer tuinbonen had gegeten, veranderden zijn ademhaling en hartslag.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Er zijn verschillende mutaties van het G6PD-gen bekend. Het zijn met name puntmutaties en kleine deleties, die leiden tot een minder goed werkzaam G6PD-enzym.</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_2048312e4afd.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/52bf35f7a959494b8c42ff40f24e2eb7.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Francesca heeft de ziekte niet, maar is wel drager. Dat betekent dat ze heterozygoot is. Ook uit het fenotype van een van de kinderen van Francesca blijkt dat Francesca niet homozygoot kan zijn voor het gemuteerde G6PD-allel.</p>"
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Bij vrouwen die drager zijn van het gemuteerde G6PD-allel kan soms toch een tekort aan werkzaam G6PD ontstaan, doordat in de voorlopercellen van rode bloedcellen een van de X-chromosomen geïnactiveerd wordt.</p>"
+    }
+  ],
+  "bijlages": []
+}

@@ -1,0 +1,91 @@
+{
+  "id": "vwo_natuurkunde_2024_t2_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 2
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In het kofferexperiment vertoont licht zowel golfgedrag als deeltjesgedrag (golf-deeltjedualiteit).<br>Voer de volgende opdrachten uit:</p><ul><li>Geef een voorbeeld van het golfgedrag van licht tijdens het kofferexperiment.</li><li>Geef een voorbeeld van het deeltjesgedrag van licht tijdens het kofferexperiment.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een belangrijk principe in de quantumfysica is de golf-deeltjedualiteit. In deze opgave passen we dit dualiteitsprincipe toe op het dubbelspleetexperiment met licht. In dit experiment valt zichtbaar licht met één golflengte op twee smalle spleten en ontstaat op een scherm achter de spleten een interferentiepatroon van maxima en minima. Zie figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_307f6e164895.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/44a52be6a5814c8989e0eb681bddc7dd.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Bij het dubbelspleet-experiment kan het interferentiepatroon alleen ontstaan als er bij elk van de twee spleten buiging optreedt.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Een moderne variant van het dubbelspleetexperiment is het zogenaamde kofferexperiment van de Universiteit Twente. Met dit kofferexperiment kan bijvoorbeeld tijdens een les natuurkunde geëxperimenteerd worden. De koffer bevat een opstelling met een laser. De laserbundel wordt gericht op een filter dat slechts een heel klein gedeelte van de fotonen doorlaat. De fotonen die worden doorgelaten gaan vervolgens door een dubbelspleet. In het gebied achter de dubbelspleet tellen 100 detectoren op een rij de inkomende fotonen. Zie figuur 2.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_92bf6ca30d1e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a64dbb763f0f4fca83b36e74cd086575.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De aanwezigheid van de filter zorgt ervoor dat het vermogen van het laserlicht ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#955;</mi> <mo>=</mo> <mn>635</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">nm</mi>&#160;</mrow></math>) achter de filter extreem laag is, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>10</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">W</mi>&#160;</mrow></math>. Hierdoor zal in de praktijk op elk tijdstip gemiddeld maar éen foton te vinden zijn in het gebied tussen de filter en de dubbelspleet.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Het aantal getelde fotonen per detector ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>n</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>foton&#160;</mtext></mrow></msub></math>) kan tijdens het experiment zichtbaar gemaakt worden in een diagram. Hoe langer het experiment duurt, hoe meer fotonen door de spleten zijn gegaan en hoe duidelijker een patroon van pieken en dalen in het diagram zichtbaar wordt.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_fafa3e8e1ffc.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/06e0109b5b654345b11b7ab156055e4f.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>In figuur 3 is de situatie weergegeven nadat er <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>0</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>10</mn>&#160;</mrow></msup></math>fotonen zijn gedetecteerd. Uit figuur 3 volgt dat de kans (of waarschijnlijkheid) dat een foton in de centrale piek (van detector 43 tot en met detector 55) terechtkomt 47% is.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Bente is aanwezig bij het kofferexperiment in haar klas. Zij vraagt zich af wat er gebeurt wanneer het allereerste foton door de opstelling gaat. Omdat het patroon van figuur 3 dan nog moet worden opgebouwd, denkt ze dat de kans <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>13</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> is dat de middelste detectoren (43 tot en met 55) dit eerste foton detecteren.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vw-1023-a-24-2-u-spr.pdf",
+      "media_path": "media/bijlages/vw-1023-a-24-2-u-spr_7f55e6f292ee.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/58df80d921a54e229db05fc1537c094b.pdf"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "vmbo_gl_maatschappijkunde_2024_t1_q41",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "maatschappijkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 63,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Om de mogelijk schadelijke effecten van overmatige consumptie van energiedrankjes tegen te gaan, kan de overheid de verkoop van energiedrankjes aan jongeren verbieden.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Vind jij het verbieden van de verkoop van energiedrankjes aan jongeren een goede oplossing?<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Beargumenteer jouw mening.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Noem de waarde achter jouw argument.<br>&nbsp;</p><p>Doe het zo: neem één van de onderstaande mogelijkheden over en vul het antwoord aan.</p><p>Ja, er moet in Nederland wel zo'n verbod komen.&nbsp;</p><p>Mijn argument om de verkoop te verbieden, is ...&nbsp;</p><p>De waarde die bij mijn argument past is ...<br>&nbsp;</p><p>of<br>&nbsp;</p><p>Nee, er moet in Nederland niet zo'n verbod komen.&nbsp;</p><p>Mijn argument om de verkoop niet te verbieden, is ...&nbsp;</p><p>De waarde die bij mijn argument past is ...</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><strong>tekst 1</strong><br><strong>Kinderartsen: verkoop geen energiedrankjes aan minderjarigen</strong></p><p><br>Kinderartsen willen een verbod op de verkoop van energiedrankjes aan jongeren onder de 18 jaar. Veel klachten als rusteloosheid, vermoeidheid en hartritmestoornissen bij jonge patiënten blijken te worden veroorzaakt door deze pepdrankjes. Volgens de Nederlandse Vereniging voor Kindergeneeskunde (NVK) drinken met name tieners vanaf 12 jaar soms wel zes blikjes of meer leeg en belanden dan met dergelijke klachten op de afdeling Spoedeisende Hulp.<br>Een verbod op energiedrankjes gaat staatssecretaris Blokhuis van Volksgezondheid voorlopig te ver. Hij wijst erop dat er meer producten zijn die je voor je gezondheid beter niet of met mate kan consumeren en hij benadrukt dat de overheid nu al adviseert niet te veel energiedrankjes te drinken.<br>Hij ziet daarin ook een belangrijke rol voor ouders, scholen en kantines van sportclubs. Bovendien praat de staatssecretaris met allerlei organisaties over een \"Nationaal Preventieakkoord\". Daarin moeten afspraken worden gemaakt over gezond leven.<br>Blokhuis kan zich de zorgen van de kinderartsen overigens wel voorstellen. Hij wil daarom het RIVM of de Gezondheidsraad laten onderzoeken wat precies de schadelijke gevolgen van de drankjes zijn. Ook gaat hij bekijken hoe andere landen hiermee omgaan.<br>&nbsp;</p><p>\"Dit is geen onschuldige frisdrank. We zien steeds meer kinderen met klachten die uiteindelijk veroorzaakt worden door energiedrankjes\", zegt kinderarts Brita de Jong-van Kempen in het NOS Radio 1 Journaal. De arts wijst erop dat het vroeger ook normaal was om op jonge leeftijd alcohol te drinken toen de schadelijkheid daarvan nog niet bekend was. \"Bij alcohol is er heel veel voorlichting gegeven. Door een verbod in te voeren, komt er een sterkere bewustwording dat het niet onschuldig is.\"<br>&nbsp;</p><p>bron: <a href=\"http://nos.nl\">nos.nl</a> van 15 januari 2018</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><strong>tekst 2</strong><br><strong>Landelijke leeftijdsgrens voor kopen energiedrankjes een stap dichterbij</strong></p><p>&nbsp;</p><p>De leeftijdsgrens voor het kopen van energiedrankjes moet omhoog van 14 naar 18 jaar. De grens van 14 jaar, die nu vrijwel alleen wordt gehanteerd bij de supermarkten Lidl en Aldi, moet breder, vindt Foodwatch 1). De meeste supermarkten hebben daar volgens de organisatie ook wel oren naar.<br>Tien supermarkten, met een gezamenlijk marktaandeel van 90 procent, staan volgens Foodwatch open voor het optrekken van de leeftijdsgrens, bij voorkeur naar 18 jaar. Voorwaarde voor hen is wel dat alle supermarkten meedoen.<br>Foodwatch roept het Centraal Bureau Levensmiddelenhandel (CBL) en het ministerie van Volksgezondheid op tot actie.<br>&nbsp;</p><p>noot 1 Foodwatch is een Europese maatschappelijke organisatie die zich inzet voor het recht op eerlijk, veilig en gezond voedsel.<br>&nbsp;</p><p>bron: <a href=\"http://ad.nl\">ad.nl</a> van 23 september 2021</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_03fd4d58ea0f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8cb8c2b85151424d972f7b442ae443b8.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijkunde 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijkunde_2024_I_bijla_a1b1d5d80e01.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f0feb1b884b0472caf7fb8b7012cc682.pdf"
+    }
+  ]
+}

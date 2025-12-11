@@ -1,0 +1,61 @@
+{
+  "id": "havo_nederlands_2023_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Wat doen veel andere Europese landen beter? Veel andere Europese landen</p><p><strong>A</strong> besteden meer aandacht aan kansengelijkheid voor studenten van laagopgeleide ouders.</p><p><strong>B</strong> bieden studenten van laagopgeleide ouders meer kans op internationale ervaring.</p><p><strong>C</strong> hebben een betere balans tussen binnenkomende internationale studenten en uitgaande studenten uit eigen land.</p><p><strong>D</strong> hebben verhoudingsgewijs meer studenten die een volledige opleiding over de grens volgen.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de eerste twee alinea’s van tekst 2 neemt de auteur twee standpunten in over internationalisering.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“Internationalisering is in drie opzichten breder en belangrijker.” (regels 21-22)</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>“Het is geen doel op zich, maar juist een middel om hogere doelen te verwezenlijken.” (regels 75-78) In alinea 6 worden verschillende hogere doelen genoemd die met internationalisering als middel kunnen worden bereikt. Die doelen hebben elk betrekking op een bepaalde sector in de samenleving.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“veel andere Europese landen doen dat beter” (regels 133-135)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_4c535c813bac.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/31997ba285504e0396b7bc07c4c13230.pdf"
+    }
+  ]
+}

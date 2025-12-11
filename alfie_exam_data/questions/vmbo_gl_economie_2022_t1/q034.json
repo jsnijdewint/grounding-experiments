@@ -1,0 +1,63 @@
+{
+  "id": "vmbo_gl_economie_2022_t1_q34",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 126,
+          "name": "Internationale ontwikkelingen",
+          "prefix_code": "EC/K/7"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>De aandacht van de onderzoekers uit Wageningen gaat vooral uit naar betere irrigatiesystemen om de waterhuishouding te verbeteren.<br>\"Uiteindelijk kan ook de Indiase betalingsbalans hierdoor verbeteren\", aldus onderzoeker Sievez van de WUR.<br>Hieronder staan drie economische verschijnselen.<br>1 De import van landbouwproducten daalt.<br>2 De kwaliteit van de landbouwgrond stijgt.<br>3 De productie van landbouwproducten stijgt.<br>In welke regel staan deze verschijnselen zo, dat een logische gedachtegang ontstaat?<br>A betere irrigatiesystemen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo> <mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo>&#160;</math>betalingsbalans verbetert<br>B betere irrigatiesystemen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo> <mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo>&#160;</math>betalingsbalans verbetert<br>C betere irrigatiesystemen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo>&#160;</math>betalingsbalans verbetert<br>D betere irrigatiesystemen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>1</mn> <mo stretchy=\"false\">&#8594;</mo>&#160;</math>betalingsbalans verbetert<br>E betere irrigatiesystemen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo>&#160;</math>betalingsbalans verbetert<br>F betere irrigatiesystemen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>1</mn> <mo stretchy=\"false\">&#8594;</mo>&#160;</math>betalingsbalans verbetert</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 7 in de bijlage.</p><p>India is een van de best presterende economieën van Azië, met een groei van het nationaal inkomen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn> <mo>,</mo> <mn>5</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> in 2017. Toch zijn er grote problemen, bijvoorbeeld in de landbouw.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_ce82d16503ef.webp",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b62583fbc9b74004b254533d6ed291ff.webp",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een groeiend probleem in de Indiase landbouw is het tekort aan water. In de deelstaat Haryana wordt om die reden gewerkt aan een project om rijst, het belangrijkste exportproduct, te vervangen door andere producten zoals appels. Ook boer Arjun denkt erover appels te gaan telen in plaats van rijst te verbouwen.<br>&nbsp;</p><p>tabel</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom:1px solid !important;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top:1px solid !important;\" colspan=\"2\">gegevens van boer Arjun voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mn mathvariant=\"bold\">1</mn>&#160;</mrow></math>kilogram rijst en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mn mathvariant=\"bold\">1</mn>&#160;</mrow></math>kilogram appels</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">rijst</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">appels</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">benodigde hoeveelheid water</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">34 liter</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">10 liter</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">verkoopprijs</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">$</mi> <mn>0</mn> <mo>,</mo> <mn>35</mn></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">$</mi> <mn>0</mn> <mo>,</mo> <mn>50</mn></math></td></tr></tbody></table></figure><p>&nbsp;</p><p>Boer Arjun in Haryana verbouwt nu uitsluitend rijst en gebruikt 13,6 miljoen liter water. Zijn omzet bedraagt $ 140.000</p><p>&nbsp;</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Onderzoekers van de Wageningen University (WUR) willen de boeren in India ondersteunen. De onderzoekers zijn betrokken bij 40 projecten ter verbetering van de landbouw in India.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_ef2c1b8354d0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dc02323a63d64258a36e6a9729a51c74.pdf"
+    }
+  ]
+}

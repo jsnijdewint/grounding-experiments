@@ -1,0 +1,71 @@
+{
+  "id": "havo_geschiedenis_2021_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "geschiedenis",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 29,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 198,
+          "name": "Tijdvak 6 – Regenten en vorsten",
+          "prefix_code": 6
+        },
+        {
+          "id": 199,
+          "name": "Tijdvak 7 – Pruiken en revoluties",
+          "prefix_code": 7
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit welke ontwikkeling de veranderingen die het stamhoofd noemde veroorzaakte.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 1.</i><br>Erasmus geeft een positief oordeel over het werk van Manutius. Dit positieve oordeel kun je verklaren met twee kenmerkende aspecten van de zestiende eeuw.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Een anekdote:<br>In 1524 klaagden de bestuurders van de Duitse stad Leipzig bij de katholieke hertog George van Saksen over zijn gebod dat de drukkers in Leipzig alleen maar godsdienstige geschriften in het Latijn mochten drukken (waar volgens hen geen vraag naar was) en niet in het Duits (waar veel vraag naar was).</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Gebruik bron 2.<br>Bartjens sluit met zijn sommen aan op de actuele situatie in de Republiek in de zestiende én de zeventiende eeuw.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In 1686 voegde de Engelse koning Jacobus II een groot deel van de Engelse koloniēn in Noord-Amerika samen tot het<i> Dominion of New England</i>.<br>Jacobus II nam twee besluiten:<br>1 Het <i>Dominion </i>kwam onder bestuur van een gouverneur die rechtstreeks verantwoording aflegde aan hem.<br>2 In het <i>Dominion </i>moest de Engelse staatskerk worden gevestigd.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In 1768 zei het hoofd van de Oneida-stam, een stam die in het noordoosten van Noord-Amerika leefde: \"Als onze jonge mannen willen gaan jagen op wilde beesten, dan staan overal hekken, waardoor ze erg vermoeid raken. Ook kunnen ze geen hertenvlees meer eten, of schors vinden om hutten te bouwen. De herten zijn vertrokken en de bomen zijn omgehakt\".</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2021_I_bijlage_b326ab23bf83.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/efae95267208486faa880d162f0a0441.pdf"
+    }
+  ]
+}

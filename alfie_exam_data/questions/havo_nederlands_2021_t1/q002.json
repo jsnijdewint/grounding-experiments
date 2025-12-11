@@ -1,0 +1,51 @@
+{
+  "id": "havo_nederlands_2021_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 140,
+          "name": "Samenvatten",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bij welke alinea begint deel 1?</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>“Strikt genomen hadden ze een punt” (regels 4-5)</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Na de inleiding is tekst 1 onder te verdelen in drie delen. Deze achtereenvolgende delen kunnen van de volgende kopjes worden voorzien:</p><p>deel 1: De onmogelijkheid van een consequent wereldbeeld</p><p>deel 2: Het dilemma van consequentie in de politie</p><p>deel 3: De inconsequente mens als ideaal?</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2021_I_bijlage_e60e6a5a7984.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dbb0cc971e994b9eb7113dc9995dc0c6.pdf"
+    }
+  ]
+}

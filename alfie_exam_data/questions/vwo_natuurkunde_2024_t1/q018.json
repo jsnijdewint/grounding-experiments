@@ -1,0 +1,97 @@
+{
+  "id": "vwo_natuurkunde_2024_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 52,
+          "name": "Quantumwereld",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bepaal met behulp van figuur 3 en een berekening de minimale golflengte die bij dit onderzoek waargenomen wordt.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In een kernfusiereactor is het mogelijk om twee lichte atoomkernen te laten fuseren tot één zwaardere atoomkern. Hierbij komt veel energie vrij. Deuterium (H-2) en een tweede atoomkern kunnen gefuseerd worden tot een He-4 kern en een neutron.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In een kernfusiereactor is de temperatuur zo hoog dat de elektronen loskomen van de atoomkernen. Samen met de ontstane ionen vormen ze een mengsel dat plasma genoemd wordt. Ondanks de hoge temperatuur van het plasma is het volgens de klassieke natuurkunde erg onwaarschijnlijk dat de kernen fuseren. Met een quantumfysisch model kan verklaard worden waarom het optreden van kernfusie in werkelijkheid<br>veel waarschijnlijker is. In het quantumfysische model bekijken we een deuteriumkern die naar een andere kern toe beweegt. In figuur 1 is schematisch de potentiële energie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>pot&#160;</mtext></mrow></msub></math>van de deuteriumkern als functie van de afstand <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>tussen de<br>twee kernen weergegeven. Met stippellijnen zijn vier verschillende mogelijke waarden aangegeven van de energie van de deuteriumkern (<math xmlns=\"http://www.w3.org/1998/Math/MathML\">&#160;<msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mn>1</mn>&#160;</mrow></msub></math>tot en met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mn>4</mn>&#160;</mrow></msub></math>).</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_1515105a4348.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6ee9e016c3884c23882adcdc6e710bf5.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De binnenkant van een kernfusiereactor is weergegeven in figuur 2</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_5b74bdc1b92f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a01932e99ac64838933d83195eb1b9a4.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Wanneer de reactor aanstaat, zal hij volledig gevuld zijn met plasma. De atoomkernen in het plasma mogen niet botsen met de wand van de reactor, omdat de wand daardoor te veel beschadigd raakt. Met behulp van magneetvelden worden deze geladen deeltjes van de wand weggehouden. Hierbij worden de He-4 kernen naar een soort afvoergoot onder in de reactor, de divertor, geleid, terwijl de andere atoomkernen in de reactor blijven. De neutronen die tijdens de fusie vrijkomen botsen wel met de wand. De energie die hierbij in de wand vrijkomt, wordt gebruikt om elektrische energie op te wekken. Elk atoom aan het oppervlak van de wand wordt gemiddeld eenmaal per <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>geraakt door een neutron. De atoomdiameter van het gebruikte<br>wandmateriaal heeft een orde van grootte van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">pm</mi>&#160;</mrow></math>. Het oppervlak van de wand heeft een orde van grootte van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msup><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></math></p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De He-4 kernen die door de divertor worden afgevoerd hebben ook veel energie. Hierdoor dreigt de divertor oververhit te raken. Daarom wordt onderzocht of deze oververhitting kan worden voorkomen door gassen in de divertor te brengen. Door botsingen met de gasatomen raken de He-4 kernen energie kwijt, waardoor de divertor afkoelt.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Om de effectiviteit van het inspuiten van de gassen te onderzoeken, moet de temperatuur in de divertor bepaald kunnen worden. Onderzoekers uit Eindhoven doen dit door te kijken naar het licht dat uitgezonden wordt door de gassen die aanwezig zijn in de divertor. Een van de aanwezige gassen is (atomair) waterstof. In figuur 3 zie je het energieniveauschema<br>van waterstof.</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_d7eb81d09287.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ab3ebb8e64854e94a09105409648eeaf.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Wanneer een waterstofatoom terugvalt van een hogere aangeslagen toestand naar de eerste aangeslagen toestand, zendt het zichtbaar licht uit. Deze overgangen zijn aangegeven in figuur 3 met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>H</mi> <mrow data-mjx-texclass=\"ORD\"><mi>&#945;</mi> </mrow></msub><mo>,</mo> <msub><mi>H</mi> <mrow data-mjx-texclass=\"ORD\"><mi>&#946;</mi>&#160;</mrow></msub></math> enzovoort. De bijbehorende spectraallijnen heten Balmerlijnen. Bij het onderzoek in Eindhoven wordt het licht van de overgangen H <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>H</mi> <mrow data-mjx-texclass=\"ORD\"><mi>y</mi>&#160;</mrow></msub></math>tot en met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>H</mi> <mrow data-mjx-texclass=\"ORD\"><mi>&#950;</mi>&#160;</mrow></msub></math>waargenomen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2024_I_uitwerkbijl_53e920c4cfe0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9441e6eda69e41e0ab819d8b89d60c78.pdf"
+    }
+  ]
+}

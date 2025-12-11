@@ -1,0 +1,83 @@
+{
+  "id": "havo_wiskunde_a_2021_t1_q19",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 176,
+          "name": "Tabellen",
+          "prefix_code": 1
+        },
+        {
+          "id": 177,
+          "name": "Grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        },
+        {
+          "id": 178,
+          "name": "Formules met één of meer variabelen",
+          "prefix_code": 3
+        },
+        {
+          "id": 179,
+          "name": "Lineaire verbanden",
+          "prefix_code": 4
+        },
+        {
+          "id": 180,
+          "name": "Exponentiële verbanden",
+          "prefix_code": 5
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken met de bovengenoemde gegevens uit 2010 en 2014 het jaarlijkse groeipercentage van de postzegelprijs. Geef je antwoord in één decimaal.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Mensen sturen steeds minder brieven en kaarten. Postzegels zijn in Nederland de afgelopen jaren flink duurder geworden. Elk jaar op 1 januari wordt de prijs zo nodig aangepast. In de figuur zie je de postzegelprijs (in centen) en het aantal brieven/kaarten (in miljarden) dat bezorgd werd in de jaren 2005-2016.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_46ec3406ab69.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8f70ae20a8a24f47982b71fae1118775.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Je kunt in de figuur bijvoorbeeld aflezen dat op 1 januari 2007 de postzegelprijs 44 cent was en dat er in het jaar 2007 4,8 miljard brieven/kaarten werden bezorgd.</p><p>Op 1 januari 2010 kostte een postzegel 44 cent. Op 1 januari 2014 was de prijs gestegen tot 64 cent. Veronderstel dat in de periode 2010-2014 de postzegelprijs exponentieel groeide.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_0dabafad3b33.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5c360001b36c4ef48517dc88f333f720.pdf"
+    },
+    {
+      "name": "formule_blad_2.pdf",
+      "media_path": "media/bijlages/formule_blad_2_acdfdd81974a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a88db860b41b46039b4ea79fff214389.pdf"
+    }
+  ]
+}

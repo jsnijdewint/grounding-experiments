@@ -1,0 +1,88 @@
+{
+  "id": "havo_wiskunde_a_2021_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 174,
+          "name": "Rekenen",
+          "prefix_code": 1
+        },
+        {
+          "id": 175,
+          "name": "Algebra",
+          "prefix_code": 2
+        },
+        {
+          "id": 176,
+          "name": "Tabellen",
+          "prefix_code": 1
+        },
+        {
+          "id": 177,
+          "name": "Grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        },
+        {
+          "id": 178,
+          "name": "Formules met één of meer variabelen",
+          "prefix_code": 3
+        },
+        {
+          "id": 179,
+          "name": "Lineaire verbanden",
+          "prefix_code": 4
+        },
+        {
+          "id": 180,
+          "name": "Exponentiële verbanden",
+          "prefix_code": 5
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Onderzoek met behulp van bovenstaande gegevens en aannames met welk percentage de totale emissie van fijnstof door het wegvervoer in 2014 is gedaald ten opzichte van 1990. Geef je antwoord in hele procenten.</p>",
+    "max_score": 6,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In het rapport Transport en Mobiliteit 2016 van het Centraal Bureau voor de Statistiek staat informatie over de fijnstofemissie (dit is de hoeveelheid fijnstof die vrijkomt) door het vervoer over de weg, uitgesplitst naar personenvervoer en goederenvervoer. Deze hoeveelheid wordt bepaald door het aantal gereden kilometers te vermenigvuldigen met de fijnstofemissie per gereden kilometer.</p><p>In 1990 was het aantal gereden kilometers door het personenvervoer 103200 miljoen en door het goederenvervoer 16800 miljoen. In 2014 is het aantal gereden kilometers voor het personenvervoer twee keer zo groot geworden als in 1990 en het aantal gereden kilometers voor het goederenvervoer drie keer zo groot. Ondanks de toename van het aantal gereden kilometers is de totale fijnstofemissie door het wegvervoer in 2014 aanzienlijk minder dan in 1990. Dit komt vooral door het gebruik van betere motoren.</p><p>Er moet worden onderzocht met hoeveel procent de totale emissie van fijnstof door het wegvervoer in de periode 1990 tot en met 2014 is gedaald. Daarvoor moeten bovenstaande gegevens over het aantal gereden kilometers en onderstaande aannames over de fijnstofemissie per gereden kilometer worden gebruikt.</p><p>In 1990 kwam er gemiddeld genomen bij het personenvervoer per gereden kilometer 0,08 gram fijnstof vrij. Voor het goederenvervoer was dit toen 0,58 gram. In de periode 1990 tot en met 2014 daalde de fijnstofemissie bij het personenvervoer elk jaar met 0,003 gram per gereden kilometer. In dezelfde periode daalde de fijnstofemissie per gereden kilometer bij het goederenvervoer met 9% per jaar.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_dbda2fd665c6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7a4fc03c24dc48f19b25cf4dff635a54.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_0dabafad3b33.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5c360001b36c4ef48517dc88f333f720.pdf"
+    },
+    {
+      "name": "formule_blad_2.pdf",
+      "media_path": "media/bijlages/formule_blad_2_acdfdd81974a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a88db860b41b46039b4ea79fff214389.pdf"
+    }
+  ]
+}

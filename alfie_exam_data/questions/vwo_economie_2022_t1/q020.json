@@ -1,0 +1,40 @@
+{
+  "id": "vwo_economie_2022_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 21,
+          "name": "Risico en informatie",
+          "prefix_code": "G"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat er een principaal-agent probleem is tussen verzekeraar en verzekerden bij de uitvaartverzekering en leg uit hoe toezicht hierop door DNB dit kan verminderen.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Uitvaartonderneming Funus biedt een verzekering aan waarbij Funus de complete uitvaart verzorgt en betaalt. Klanten kunnen kiezen om maandelijks een premie te betalen of om eenmalig een bedrag te betalen (een afkoopsom). De hoogte van de premie of afkoopsom is mede afhankelijk van de leeftijd van de klant. Funus belegt de betaalde premies en afkoopsommen in aandelen en staatsobligaties. Funus adverteert met een kwalitatief goede verzorging van uitvaarten.</p><p>In 2019 is Funus in financiële problemen gekomen. Oorzaken hiervan waren de aanhoudend lage rente en de sterker dan verwacht stijgende kosten van uitvaarten. Hierdoor heeft Funus te weinig vermogen om te voldoen aan zijn verplichtingen. De Nederlandsche Bank (DNB) is toezichthouder en maakt zich zorgen over de (toekomstige) dienstverlening door Funus, want de dekkingsgraad van Funus van 85% is lager dan de minimale eis van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>130</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>.</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>dekkingsgraad </mtext><mo>=</mo> <mfrac><mtext>huidig vermogen </mtext><mtext>huidige waarde toekomstige verplichtingen </mtext></mfrac><mo>&#215;</mo> <mn>100</mn> <mi mathvariant=\"normal\">%</mi></math></p><p>Een van de redenen om toezicht te houden op de bedrijfsvoering van uitvaartverzekeraars is het bestaan van een principaal-agentprobleem tussen verzekeraar en verzekerden.</p>"
+    }
+  ],
+  "bijlages": []
+}

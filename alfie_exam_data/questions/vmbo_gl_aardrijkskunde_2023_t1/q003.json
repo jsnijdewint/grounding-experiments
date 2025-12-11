@@ -1,0 +1,56 @@
+{
+  "id": "vmbo_gl_aardrijkskunde_2023_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "aardrijkskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 71,
+      "domains": [
+        {
+          "id": 106,
+          "name": "Weer en klimaat",
+          "prefix_code": "AK/K/4"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bekijk bron 3.<br>Welke beschrijving is juist over het weer op 7 november 2021 in Nederland en Spanje?<br>A In Nederland was de luchtdruk hoger dan in Spanje.<br>B In Nederland waaide de wind minder hard dan in Spanje.<br>C In Nederland was er minder kans op neerslag dan in Spanje.<br>D In Nederland had je minder kans op zonnig weer dan in Spanje.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_7ac40b9b301f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/270f83f183a5464fba2cc05d320e0138.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_da1f74600f8a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/108179d7ea1b4000939f242e255c4706.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_91529e6a7be4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/70169ef9adef42b68171fbe42b8165e0.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

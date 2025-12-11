@@ -1,0 +1,40 @@
+{
+  "id": "vwo_maatschappijwetenschappen_2024_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "maatschappijwetenschappen",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 7,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik regel 39 tot en met 52 van tekst 1.<br>Bij sociale ongelijkheid wordt een ongelijke verdeling van verschillende soorten hulpbronnen onderscheiden. Een daarvan is een ongelijke verdeling van economische hulpbronnen.<br>Beredeneer dat versierde nagels in een premoderne samenleving een ander soort hulpbron zijn geweest. Gebruik in je redenering:</p><ul><li>een kenmerk van de premoderne samenleving;</li><li>een soort hulpbron en informatie uit tekst 1 om het gekozen soort hulpbron te illustreren.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave hoort tekst 1 uit het bronnenboekje.<br><br>Inleiding<br>In Nederland laten steeds meer mensen hun nagels versieren met glitters, kleuren en printjes. Tussen 2018 en 2023 groeide het aantal nagelsalons met 44 procent. Het versieren van nagels wordt nailart genoemd. Deze opgave gaat over de groeiende populariteit van nailart.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijwetenschappen 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijwetenschappen_2024_98cea78b7fa5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8e85cb23d45841fdb8ba7f057b8117c3.pdf"
+    }
+  ]
+}

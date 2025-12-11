@@ -1,0 +1,56 @@
+{
+  "id": "havo_economie_2024_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 77,
+          "name": "Welvaart en groei",
+          "prefix_code": "H"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik uitspraak 2.<br>Leg uit dat een stijging van de arbeidsproductiviteit leidt tot lagere productiekosten.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Uit een krant, januari 2020:<br>Het gaat economisch goed in Nederland. De overgrote meerderheid van de bedrijven presenteert goede winstcijfers. De landelijke supermarktketens onderhandelen met de vakbonden over een nieuwe collectieve arbeidsovereenkomst (cao). De vakbonden eisen 3,5% loonsverhoging op het jaarsalaris, met een minimale stijging van €1.000</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Els Middelkoop is medewerker van een supermarkt. Ze leest in de krant over de looneis van de vakbond. Els verdiende in 2019 een jaarsalaris van € 24.998,- en is benieuwd naar wat dit in 2020 voor haar zou betekenen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Barbara Berends is onderhandelaar van de supermarktketens, en Jacco Jansen is onderhandelaar van de vakbond. Samen bespreken zij de consequenties van de loonstijging die door de vakbond geëist is. De onderhandelaar van de werkgever vindt de looneis te hoog.</p><p>Barbara Berends: \"U moet zich realiseren dat een loonkostenstijging van 3,5% binnen ons bedrijf, waar de loonkosten 40% van de totale kosten uitmaken, zal leiden tot een productiekostenstijging van 1,4%. De supermarktketens kunnen deze hoge looneis niet betalen.\" Jacco Jansen reageert met de volgende uitspraken:<br>1 U spreekt over de nominale productiekostenstijging, maar de reële productiekostenstijging is lager.<br>2 Bovendien leidt de gestegen arbeidsproductiviteit tot lagere productiekosten.<br>3 En u moet zich realiseren dat de omzet bij supermarkten toch zal stijgen, aangezien is gebleken dat de vraag naar goederen uit de supermarkt prijsinelastisch is.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2024_I_bijlage_92c84f45cc20.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/67b732e325834a28a9d329f8cba100cd.pdf"
+    }
+  ]
+}

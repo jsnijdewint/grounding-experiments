@@ -1,0 +1,45 @@
+{
+  "id": "vmbo_gl_engels_2022_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "engels",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 52,
+      "domains": [
+        {
+          "id": 130,
+          "name": "Leesvaardigheid",
+          "prefix_code": "MVT/K/4"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef aan of er onderzoek gedaan wordt naar de volgende aspecten. Noteer 'wel' of 'niet' achter elk nummer.<br>1 De afstand die een walvis kan afleggen op een dag.<br>2 De band tussen moederwalvissen en hun kinderen.<br>3 De effecten van stress op de gezondheid van walvissen.<br>4 De hoeveelheid calorieën die een walvis nodig heeft per dag.<br>5 De locaties waar walvissen het vaakst voedsel vinden.<br>6 De plaats waar moederwalvissen hun jongen baren.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Engels 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2022_I_bijlage_d817fb8eeb42.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cdbb95690370425f964941afc003d2b6.pdf"
+    },
+    {
+      "name": "Engels 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Engels_2022_I_uitwerkbijlage_175e55ac7745.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/caf3a1c23ddc4a05a72fc64ce61f2a75.pdf"
+    }
+  ]
+}

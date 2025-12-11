@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 68,
+    "education_level": "vwo",
+    "discipline": "aardrijkskunde",
+    "year": 2022,
+    "tijdvak": 1
+  },
+  "question_count": 31
+}

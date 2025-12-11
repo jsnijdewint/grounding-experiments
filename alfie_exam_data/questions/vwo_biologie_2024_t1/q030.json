@@ -1,0 +1,82 @@
+{
+  "id": "vwo_biologie_2024_t1_q30",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 36,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 37,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 38,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zal zijn ademhalingsfrequentie zijn verhoogd of verlaagd? En zijn hartslagfrequentie?&nbsp;<br>ademhalingsfrequentie &nbsp; &nbsp; &nbsp; &nbsp;hartslagfrequentie&nbsp;<br>A verhoogd &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;verhoogd&nbsp;<br>B verhoogd &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;verlaagd&nbsp;<br>C verlaagd &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; verhoogd&nbsp;<br>D verlaagd &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; verlaagd</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De burgemeester van een Italiaans dorp heeft het verbouwen van tuinbonen verboden vanwege Fabio, een jongen uit het dorp die lijdt aan bonenziekte (favisme). Het eten van tuinbonen of het inademen van pollen van tuinboonplanten leidt bij Fabio tot een versnelde afbraak van rode bloedcellen, waardoor een levensbedreigende situatie kan ontstaan.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_6ad2b8eccd65.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/24837600aff144e19c76b0e9cb502e56.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de PPP wordt NADPH gevormd.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De PPP is betrokken bij de productie van vetzuren. Met behulp van afbeelding 1 kan worden afgeleid wat het gevolg is voor de productie van vetzuren als G6PD onwerkzaam is.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In de rode bloedcellen wordt normaal ongeveer 30% van de glucose via de PPP gedissimileerd. Zo ontstaat er voldoende glutathion om reactieve zuurstofmoleculen onschadelijk te maken. Reactieve zuurstofmoleculen kunnen ontstaan door infecties, door gebruik van bepaalde medicijnen en ook door stoffen in tuinboonplanten. Doordat er bij Fabio te weinig G6PD-activiteit is in zijn rode bloedcellen, is er een tekort aan glutathion. Als Fabio tuinbonen eet of pollen van tuinboonplanten inademt, hopen reactieve zuurstofmoleculen zich op in zijn rode bloedcellen en veroorzaken ze oxidatie van hemoglobine. Hierdoor denatureert de hemoglobine en vormt klonten. Doordat de rode bloedcellen vervolgens openbarsten (hemolyse), ontstaat bloedarmoede.<br><br>In de andere cellen van Fabio wordt de ophoping van reactieve zuurstofmoleculen beter bestreden, doordat extra G6PD wordt aangemaakt als er te weinig G6PD-activiteit is.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Symptomen die Fabio kan krijgen na het eten van tuinbonen, zijn een gele huid en geelverkleuring van zijn oogwit.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Nadat Fabio een keer tuinbonen had gegeten, veranderden zijn ademhaling en hartslag.</p>"
+    }
+  ],
+  "bijlages": []
+}

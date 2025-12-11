@@ -1,0 +1,67 @@
+{
+  "id": "havo_biologie_2021_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 128,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 129,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de betreffende bacteriën hiervoor wel of niet moeten worden toegevoegd.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Wouter onderzoekt voor zijn profielwerkstuk de mogelijkheid om voedselgewassen te verbouwen op Mars. Hij raakte geïnteresseerd nadat hij een nieuws-item zag waarin ecoloog Wieger Wamelink van Wageningen Universiteit vertelt met succes tomaten, bonen, worteltjes en aardappelen te hebben gekweekt op 'marszand'. Nadat Wouter contact opnam met de onderzoeker, kreeg hij marszand om zelf enkele experimenten mee uit te voeren.</p><p>Het marszand dat Wouter gebruikt, komt niet echt van Mars, maar is zand van vulkanische bodems op Hawaii. Dit zand vertoont grote gelijkenis met de bodem van Mars die de Marsrover Curiosity (afbeelding 1) analyseerde. Zand op Mars blijkt vooral fosfor, ijzeroxiden en stikstof te bevatten, maar ook enkele zware metalen.</p><p>Met een experiment wil Wouter onderzoeken of bonenplanten geteeld op marszand evenveel biomassa produceren als bonenplanten geteeld op potgrond.<br>Bij dit experiment heeft hij de beschikking over de volgende materialen:</p><ul><li>bonen (zaden)</li><li>droogoven</li><li>kweekbakken</li><li>marszand</li><li>potgrond</li><li>water</li><li>weegschaal</li></ul>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_4615003b364c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e4f430687196409ab340c58d22975aeb.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><p>Naast de samenstelling van de bodem zijn er op Mars nog meer abiotische factoren die de plantengroei zullen beïnvloeden.<br>De gemiddelde temperatuur op Mars is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8722;</mo> <msup><mn>55</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>. De luchtdruk op Mars is zeer laag, waardoor water heel snel zal verdampen via de huidmondjes. Ook de samenstelling van de atmosfeer is anders dan op aarde (tabel 1 ).<br>tabel 1</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">Mars</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">aarde</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>96</mn> <mo>,</mo> <mn>0</mn> <mi mathvariant=\"normal\">%</mi></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>05</mn> <mi mathvariant=\"normal\">%</mi></math></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">N</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>9</mn> <mi mathvariant=\"normal\">%</mi></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>78</mn> <mo>,</mo> <mn>1</mn> <mi mathvariant=\"normal\">%</mi></math></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>15</mn> <mi mathvariant=\"normal\">%</mi></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn> <mo>,</mo> <mn>9</mn> <mi mathvariant=\"normal\">%</mi></math></td></tr></tbody></table></figure><p>Het verschil in abiotische factoren heeft gevolgen voor processen in de plant. Hierover worden drie uitspraken gedaan:<br>1 Door de samenstelling van de Mars-atmosfeer zullen de huidmondjes van planten op Mars langer open moeten zijn dan op aarde.<br>2 Zuurstof vormt op Mars een beperkende factor voor de fotosynthese.<br>3 De temperatuur vormt op Mars een beperkende factor voor de enzymactiviteit in planten.</p></p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Marszand bevat fosfor (P) in de vorm van fosfaat, en het bevat stikstof ( N ) in de vorm van nitraat en ammonium. Een plant gebruikt fosfor en stikstof bij het maken van bepaalde organische stoffen. Twee voorbeelden van organische stoffen die voorkomen in een plant zijn DNA en aminozuren.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Wouter denkt dat de teelt van bonen gebruikt kan worden om het nitraatgehalte in de bodem van Mars te verhogen. Bonenplanten leven in symbiose met stikstofbindende knolletjesbacteriën.</p><p>Als bonenplanten ondergespit worden, zetten bacteriën in de bodem de stikstofhoudende organische stoffen uit de plantenresten om tot nitraat. Bacteriën die voorkomen in de bodem op aarde zijn:<br>1 denitrificerende bacteriën<br>2 nitrificerende bacteriën<br>3 rottingsbacteriën<br>Bepaalde bacteriën zouden aan de bodem van Mars moeten worden toegevoegd om de omzetting van stikstofhoudende organische stoffen naar nitraat mogelijk te maken.</p>"
+    }
+  ],
+  "bijlages": []
+}

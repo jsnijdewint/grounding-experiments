@@ -1,0 +1,48 @@
+{
+  "id": "havo_scheikunde_2024_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Maak op de uitwerkbijlage de reactievergelijking compleet van de hydrolyse van cellulose.</p><p>– Laat hierbij één disacharidemolecuul afsplitsen.</p><p>– Gebruik structuurformules.</p>",
+    "max_score": 3,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_d11dacaf7935.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/29f0c5380a364ec1b784ee93ceb4fcf8.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Koeien stoten gemiddeld 13 gram methaan per liter melk uit. Deze uitstoot heeft een even groot ongewenst effect op het klimaat als 1,24 kilogram koolstofdioxide.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Methaan ontstaat door reacties die plaatsvinden tijdens de spijsvertering bij de koe. Als een koe gras eet, komt dit gras terecht in de maag die de pens wordt genoemd. Gras bevat cellulose. In de pens van een koe leven verschillende soorten micro-organismen die cellulose door hydrolyse afbreken tot onder meer monosachariden en disachariden. Op de uitwerkbijlage is de vergelijking van de hydrolyse van het uiteinde van een cellulosemolecuul onvolledig weergegeven.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2024_I_uitwerkbijla_916210a9bf90.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e9af4239fcba4df48d214bc570b194dd.pdf"
+    }
+  ]
+}

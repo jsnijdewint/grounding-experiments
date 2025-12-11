@@ -1,0 +1,81 @@
+{
+  "id": "vwo_nederlands_2022_t1_q40",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [
+        {
+          "id": 33,
+          "name": "Argumentatieve vaardigheden",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg deze drogreden uit door onderstaande zin af te maken: Als leerlingen vragen over grammatica krijgen waarop het antwoord niet eenduidig is, dan wil dat nog niet zeggen dat … Geef antwoord in een volledige zin en gebruik voor je antwoord niet meer dan 20 woorden.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de inleiding van een tekst kan op verschillende manieren ervoor worden gekozen de aandacht van de lezer te trekken.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In alinea 1 tot en met 3 van tekst 4 wordt geprobeerd het gedrag van bepaalde deelnemers aan de Facebookdiscussies over grammatica te vergoelijken</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>“Maar dat vind ik allemaal nog tot daaraan toe.” (regels 31-32) Met geciteerde zin toont de auteur zich toegeeflijk.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In alinea 4 en 5 van tekst 4 wordt bezwaar gemaakt tegen de opvatting van sommige mensen die deelnemen aan de Facebookdiscussies.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>“Eigenlijk is hier sprake van een soort framing.” (regels 51-52)</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In alinea 7 van tekst 4 is een volledige redenering aanwijsbaar.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De titel van tekst 4 luidt: ‘Lekker leerlingen lastigvallen’. Gezien de rest van de tekst kan deze titel worden opgevat als een paradox.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Een kritisch lezer zou kunnen opmerken dat er in alinea 7 van tekst 4 sprake lijkt van het overdrijven van voordelen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2022_I_bijlage_4ae2d5f8192e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dea44ec2b1b74c9cbd02db396bb8609a.pdf"
+    }
+  ]
+}

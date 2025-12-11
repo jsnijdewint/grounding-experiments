@@ -1,0 +1,39 @@
+{
+  "id": "vmbo_gl_nederlands_2024_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 60,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>De alinea's 9 en 10 hebben een gezamenlijk deelonderwerp. Welk deelonderwerp is dat?<br><strong>A </strong>beter communiceren<br><strong>B </strong>nadeel van telefoongebruik in relaties<br><strong>C </strong>stoppen met sociale media<br><strong>D </strong>tips voor vermindering telefoongebruik</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_72e6e0ffb16a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f72e99feb3944c19bd1b658b5429d81a.pdf"
+    },
+    {
+      "name": "Nederlands 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_uitwerkbijla_f57b7da9a165.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7d469a250dee4df8b5245abf65e0587d.pdf"
+    }
+  ]
+}

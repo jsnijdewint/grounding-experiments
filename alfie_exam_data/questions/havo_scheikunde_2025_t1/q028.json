@@ -1,0 +1,69 @@
+{
+  "id": "havo_scheikunde_2025_t1_q28",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef in de figuur op de uitwerkbijlage aan in welke richting de elektronen zich door de stroomdraad verplaatsen en in welke richting <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo>&#160;</mrow></msup></math>-ionen zich door het membraan verplaatsen tijdens het opladen. Doe dit door het tekenen van:</p><ul><li>een pijl met het bijschrift <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>e</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>bij de stroomdraad;</li><li>een pijl met het bijschrift <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo>&#160;</mrow></msup></math>door het membraan.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Om duurzame energie betaalbaar op te slaan, hebben onderzoekers van de Technische Universiteit Eindhoven een batterij ontwikkeld die voldoende zonne-energie kan opslaan om een kantoor enkele weken van elektrische energie te voorzien. Deze batterij is een waterstofbromideflowbatterij (HBFB) en heeft de grootte van een aantal zeecontainers.</p><p>Een HBFB bevat een oplossing van het zuur waterstofbromide <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">HBr</mi> </mrow><mo stretchy=\"false\">)</mo>&#160;</math> in water. Deze oplossing bevat de deeltjes <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo>&#160;</mrow></msup></math>(aq) en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Br</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>(aq). De zure oplossing wordt door een pomp door de batterij gepompt. Een laagje polypropeen aan de binnenzijde van de pomp beschermt deze tegen de hoge zuurgraad.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De HBFB bevat vijftig elektrochemische cellen die met elkaar zijn verbonden. Elke elektrochemische cel bestaat uit twee halfcellen: een HBr -halfcel en een <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-halfcel. Zie figuur 1. De HBr -halfcel bevat een poreuze elektrode van koolstof waar de zure HBr-oplossing doorheen wordt gepompt. De <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-halfcel bevat ook een poreuze elektrode van koolstof. De halfcellen worden van elkaar gescheiden door een membraan dat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo>&#160;</mrow></msup></math>-ionen doorlaat.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_a8d4bf29b7e0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b2c58a159719401486a2c5fe0e4407be.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Wanneer een HBFB voor de eerste keer wordt opgeladen, worden in de HBr -halfcel de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Br</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-ionen omgezet tot <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Br</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><msup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-ionen. In de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-halfcel worden <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo>&#160;</mrow></msup></math>-ionen die door het membraan zijn gegaan, omgezet tot waterstofgas. Tijdens het opladen treden de volgende halfreacties op:</p><figure class=\"table\"><table><tbody><tr><td style=\"border-color:!important;border-style:none;width:auto;\">HBr-halfcel:</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn> <msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Br</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> </mrow></msup><mo stretchy=\"false\">(</mo> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">aq</mi> </mrow><mo stretchy=\"false\">)</mo></math></td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo> <msubsup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Br</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> </mrow></msubsup><mo stretchy=\"false\">(</mo> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">aq</mi> </mrow><mo stretchy=\"false\">)</mo> <mo>+</mo> <mn>2</mn> <msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">e</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math></td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-halfcel:</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup><mo>(</mo><mi>aq</mi><mo>)</mo><mo>+</mo><mn>2</mn><msup><mi mathvariant=\"normal\">e</mi><mo>&#8722;</mo></msup></math></td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo></math></td></tr></tbody></table></figure>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Op de afbeelding hieronder is de elektrochemische cel nogmaals schematisch weergegeven.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_4ce7f9163718.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/32b8e8c184ad4b8eb22129617a341cb4.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "ha-1028-a-25-1-u.pdf",
+      "media_path": "media/bijlages/ha-1028-a-25-1-u_c2bab5b58221.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f3aee0d3e8b747e2b4f1a424e9bd0f04.pdf"
+    }
+  ]
+}

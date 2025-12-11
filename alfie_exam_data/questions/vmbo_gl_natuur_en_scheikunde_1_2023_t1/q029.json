@@ -1,0 +1,70 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2023_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 141,
+          "name": "Elektrische energie",
+          "prefix_code": "NASK1/K/5"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Je ziet drie afbeeldingen van de elektromagneet met twee veldlijnen. In welke afbeelding zijn de richtingen van de veldlijnen juist getekend?</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Merte voert een practicum 'elektromagneet' uit. Je ziet een afbeelding met de apparatuur die ze voor dit practicum gebruikt.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_93a9f36a6d5d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dddb45093b4741fe9423ec885bcdb165.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Er hangt een metalen blokje aan een krachtmeter.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Onder het hangende blokje zet Merte een spoel met een kern. De spoel is aangesloten op een variabele gelijkspanningsbron. Ze kan deze spanningsbron instellen op verschillende spanningen.</p><p>Merte zet de spanningsbron aan. De spoel wordt magnetisch, waardoor het blokje verder naar de spoel toe beweegt.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_63a54de8471f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dd088cd58f654e53a19e1f80bf2ee2f9.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2023_I_146f2ef32a60.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a553a8c7e49437a900373fa6ec9748e.pdf"
+    }
+  ]
+}

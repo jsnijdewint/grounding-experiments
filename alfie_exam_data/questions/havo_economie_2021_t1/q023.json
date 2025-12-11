@@ -1,0 +1,51 @@
+{
+  "id": "havo_economie_2021_t1_q23",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 78,
+          "name": "Goede tijden, slechte tijden",
+          "prefix_code": "I"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bovenstaande informatie en bron 1.<br>Bereken met hoeveel CHF een vakantiebudget van € 1.000 omgerekend in CHF op 1 januari 2016 is veranderd ten opzichte van 1 januari 2015.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>uit een krant, januari 2016:<br>In de periode 2010 tot en met 2015 heeft de wisselkoers van de Zwitserse frank (CHF) ten opzichte van de euro ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo>&#160;</math>) een stijging van ruim <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> doorgemaakt. Hierdoor is de internationale concurrentiepositie van Zwitserland verslechterd. Met name de Zwitserse toeristenindustrie, die een belangrijk deel van de export uitmaakt, is hierdoor hard geraakt. Toeristen kiezen nu vaker voor een vakantie in eurolanden zoals Oostenrijk, Duitsland en Italië.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Op 1 januari 2016 was 100 CHF gelijk aan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>92</mn> <mo>,</mo> <mn>30</mn>&#160;</math>. Deze verdere koersstijging had gevolgen voor het vakantiebudget in CHF van buitenlandse toeristen uit eurolanden.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2021_I_bijlage_78b2ccc4e0ab.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e553e4fb92dd414ba69c047a982b4e48.pdf"
+    }
+  ]
+}

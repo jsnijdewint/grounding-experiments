@@ -1,0 +1,70 @@
+{
+  "id": "havo_wiskunde_b_2021_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 102,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken exact voor elk van deze vier getallen een mogelijke waarde.</p>",
+    "max_score": 7,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De functie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>wordt gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mn>3</mn> <mi>sin</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mfrac><mn>1</mn> <mn>4</mn> </mfrac><mi>&#960;</mi> <mi>x</mi> <mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>.<br>Het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>is het eerste snijpunt van de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>met de positieve <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as. Het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>is de derde top rechts van de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-as.<br>De lijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi>&#160;</math>gaat door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>. In figuur 1 is de hoek <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi>&#160;</math>aangegeven die lijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi>&#160;</math>met de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as maakt.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2af95a8117c6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5fd63dee7a2f45ab846a0362d5479751.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In figuur 2 is de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>getekend en ook de lijn met vergelijking <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi> <mo>=</mo> <mn>1</mn> <mfrac><mn>1</mn> <mn>2</mn>&#160;</mfrac></math>. Deze lijn heeft oneindig veel snijpunten met de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>. Het eerste snijpunt rechts van de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-as is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi>&#160;</math>, het vierde is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi>&#160;</math>.</p><p>In figuur 2 is met een stippellijn nog een sinusoïde weergegeven. Voor deze sinusoïde geldt:</p><ul><li>De eerste top rechts van de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-as valt samen met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi>&#160;</math>.</li><li>De derde top rechts van de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-as valt samen met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi>&#160;</math>.</li><li>De sinusoïde raakt de lijn met vergelijking <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi> <mo>=</mo> <mo>&#8722;</mo> <mn>1</mn>&#160;</math>.</li></ul>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_b1547d922474.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/331ceeac154d4c39bec1b3d761954973.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De functie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi>&#160;</math>die bij de gestippelde grafiek hoort, heeft een functievoorschrift van de volgende vorm:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mi>a</mi> <mo>&#8901;</mo> <mi>cos</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mi>b</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo>&#8722;</mo> <mi>c</mi> <mo stretchy=\"false\">)</mo> <mo stretchy=\"false\">)</mo> <mo>+</mo> <mi>d</mi></math></p><p>Hierin zijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi> <mo>,</mo> <mi>b</mi> <mo>,</mo> <mi>c</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi>&#160;</math>getallen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde B 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2021_I_uitwerkbijla_c8e2f9f7d1ae.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2a3aa3c09ed74fada6a58eebc3894dd7.pdf"
+    }
+  ]
+}

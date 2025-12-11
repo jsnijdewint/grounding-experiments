@@ -1,0 +1,81 @@
+{
+  "id": "vwo_nederlands_2024_t1_q32",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 53,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noem drie argumenten voor dit negatieve oordeel waarin deze twee recensies overeenstemmen. Geef antwoord in een of meer volledige zinnen.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Stel, bij het vak Nederlands moet je ter voorbereiding op je mondelinge literatuurexamen een uitgebreid onderzoek doen naar de waardering van de roman De engelenmaker (2005) van de Vlaamse auteur Stefan Brijs. In het tekstboekje vind je enkele bronnen die voor dit onderzoek bruikbaar kunnen zijn. Als een eerste stap in dit onderzoek verdiep je je in de argumentatie van elke bron. Je beoordeelt vervolgens de bruikbaarheid ervan en brengt de overeenkomsten en verschillen in argumentatie tussen de bronnen in kaart.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Lees bron 1.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In bron 1 wordt De engelenmaker positief beoordeeld.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Lees bron 2.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In bron 2 komen de leerlingen Jouk en Wida aan het woord over de roman.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Wida geeft geen expliciet oordeel over De engelenmaker, maar is duidelijk positief.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Lees bron 3.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>In alinea 2 en 3 van bron 3 staan twee recensies centraal waarin negatief over De engelenmaker wordt geoordeeld.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_ac05fe426b26.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fb5d918d91ec4599a96647704fa584d3.pdf"
+    }
+  ]
+}

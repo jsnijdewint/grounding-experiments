@@ -1,0 +1,58 @@
+{
+  "id": "vmbo_gl_wiskunde_2024_t1_q22",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "wiskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 67,
+      "domains": [
+        {
+          "id": 160,
+          "name": "Algebraïsche verbanden",
+          "prefix_code": "WI/K/4"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Laat met een berekening zien dat deze formule klopt bij een kubus.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_ef729d520afb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cddc70c2b2614e93ad79703007c3d9d5.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Je ziet vijf regelmatige veelvlakken.<br>De formule van Euler geeft het verband tussen het aantal hoekpunten, ribben en vlakken van een veelvlak:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi> <mo>&#8722;</mo> <mi>R</mi> <mo>+</mo> <mi>V</mi> <mo>=</mo> <mn>2</mn></math></p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi>&#160;</math>het aantal hoekpunten, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi>&#160;</math>het aantal ribben en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi>&#160;</math>het aantal vlakken.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "VMBO_2024_wiskunde_formules.pdf",
+      "media_path": "media/bijlages/VMBO_2024_wiskunde_formules_d4a6470d6aaf.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0e5082e035824e97a227270dda746c13.pdf"
+    },
+    {
+      "name": "Wiskunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_2024_I_uitwerkbijlage_468b9bf175b5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a9189e3980b41ebb0534167115da4e4.pdf"
+    }
+  ]
+}

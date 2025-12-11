@@ -1,0 +1,55 @@
+{
+  "id": "havo_biologie_2023_t1_q40",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noteer welk van deze voorwerpen geschikt is of welke voorwerpen geschikt zijn voor de ouderdomsbepaling met de C14-methode.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Aya volgt de opleiding archeologie aan de hogeschool Saxion. Ze loopt stage in Kazachstan op een vindplaats van een prehistorische paardenboerderij. Daar wordt onderzocht wanneer de mens voor het eerst wilde paarden ging temmen.</p><p>Aya selecteert voorwerpen om met behulp van de C14-methode te dateren. Bij deze methode wordt in het laboratorium de ouderdom bepaald aan de hand van de relatieve hoeveelheid radioactieve koolstofisotopen die aanwezig zijn in organische stoffen. Uit de datering blijkt dat de paardenboerderij er rond 3500 voor Christus moet hebben gestaan.<br>Drie voorwerpen zijn:</p><ul><li>een paardenbot</li><li>een houten kom</li><li>een stenen gebruiksvoorwerp</li></ul>"
+    }
+  ],
+  "bijlages": []
+}

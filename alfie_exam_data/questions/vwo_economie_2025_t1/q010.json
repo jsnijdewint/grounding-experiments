@@ -1,0 +1,57 @@
+{
+  "id": "vwo_economie_2025_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg met behulp van figuur 1 uit dat marktwerking tot een lagere premie kan leiden.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het land Mañan heeft een waardevast staatspensioen dat via het omslagstelsel wordt gefinancierd. Het aanvullend pensioen belooft dit staatspensioen aan te vullen tot een vast, totaalbedrag van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>70</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>van het laatstverdiende (nominale) brutoloon. Het totale pensioen is daarmee niet waardevast. Werknemers moeten een aanvullend pensioen opbouwen bij éen van đe commerciêle pensioenfondsen die het kapitaaldekkingsstelsel gebruiken. De nominale brutolonen veranderen niet.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De pensioenfondsen beleggen hun vermogen in aandelen en obligaties. Pensioenfondsen concurreren met elkaar (= marktwerking) op basis van de ingelegde pensioenpremie. Werknemers ontvangen alleen informatie over de verhouding tussen obligaties en aandelen waarin een pensioenfonds belegt en de maandelijkse premie die ze moeten betalen. In Mañan kunnen werknemers wisselen van pensioenaanbieder.</p><p>Figuur 1 toont de relevante factoren binnen de markt voor aanvullende pensioenen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_b59003344bac.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/881fafa2684c4c12b02ec245fbd2b5bc.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>dekkingsgraad </mtext><mo>=</mo> <mfrac><mtext>huidig vermogen pensioenfonds </mtext><mtext>huidige waarde toekomstige pensioenuitkeringen </mtext></mfrac><mo>&#215;</mo> <mn>100</mn> <mi mathvariant=\"normal\">%</mi></math></p><p>&nbsp;</p><p>Stel dat de inflatie hoger wordt dan de gewenste inflatie van de centrale bank.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vw-1022-a-25-1-u.pdf",
+      "media_path": "media/bijlages/vw-1022-a-25-1-u_90e7cccc7fef.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/48e2754d6ace4abd9ac3ac8836680c67.pdf"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "vwo_bedrijfseconomie_2023_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [
+        {
+          "id": 12,
+          "name": "Verslaggeving",
+          "prefix_code": "G"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de omvang van het eigen vermogen van Jaap per 31 maart 2023.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de informatiebronnen 1 tot en met 5.&nbsp;<br><br>Jaap de Waard en zijn dochter Ineke starten samen per 1 april 2022 de onderneming De Baddertobbe. De Baddertobbe verhuurt mobiele hottubs (verwarmde bubbelbaden voor buiten) inclusief aanhangwagen. Het was Ineke opgevallen dat vooral jongeren hiervoor veel belangstelling hebben en een mobiele hottub graag mee op vakantie willen nemen. De Baddertobbe waarvan Jaap en Ineke de eigenaren zijn, is geen rechtspersoon.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In informatiebron 1 staat een aantal randvoorwaarden die Jaap en Ineke stellen bij de oprichting van hun bedrijf. Bij het oprichten van hun onderneming is sprake van effectuation.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Om de investeringen van De Baddertobbe bij de oprichting – gedeeltelijk – te kunnen financieren, neemt Jaap op 31 maart 2022 € 30.000 van zijn groeispaarrekening op (zie informatiebron 2).</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Uit informatiebron 3 en 4 kunnen de kosten van de verhuuractiviteit worden bepaald. Deze kosten kunnen worden onderverdeeld in constante en variabele kosten. De hottubs worden alleen per week verhuurd.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In informatiebron 5 worden de nacalculatorische gegevens verstrekt voor het berekenen van het gerealiseerde resultaat voor belasting over de periode 1 april 2022 tot en met 31 maart 2023.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Jaap wil weten of zijn ingelegde vermogen in De Baddertobbe gedurende 1 april 2022 tot en met 31 maart 2023 meer rendement heeft opgeleverd dan wanneer het bedrag op de spaarrekening was blijven staan. Jaap berekent zijn vermogen per 31 maart 2023 en houdt daarbij rekening met:&nbsp;<br> de toerekening aan Jaap van het resultaat van De Baddertobbe over de periode 1 april 2022 – 31 maart 2023. Het resultaat wordt gelijkmatig over het jaar verkregen en toegerekend naar rato van het ingebrachte vermogen.&nbsp;<br> de betaling op 1 oktober 2023 van € 25.000 van de bankrekening van de onderneming voor de aankoop van een auto voor Jaap die hij voor privédoeleinden zal gebruiken.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2023_I_bijlag_d64fcf93e008.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2763f88cc19e45ebafaa21f3ba086d88.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2023_I_uitwer_9a6536b72e12.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a2433ed1fec3429b8d8cd024f74ceb08.pdf"
+    }
+  ]
+}

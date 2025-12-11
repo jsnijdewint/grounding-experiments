@@ -1,0 +1,57 @@
+{
+  "id": "havo_wiskunde_b_2022_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 102,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        },
+        {
+          "id": 104,
+          "name": "Toegepaste analyse",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bewijs dit.</p>",
+    "max_score": 6,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De functie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>is gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mo>&#8722;</mo> <mn>8</mn> <mo>+</mo> <mn>2</mn> <msqrt><mn>3</mn> <mi>x</mi> <mo>+</mo> <mn>9</mn>&#160;</msqrt></math>.<br>De grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>snijdt de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-as in het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>. De lijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi>&#160;</math>raakt de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>. De lijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>l</mi>&#160;</math>snijdt de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as in het punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>. Zie figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_e7741a93e8a4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/14954c3e845b4b55858bc3df3acaf89b.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Er geldt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>O</mi> <mi>A</mi> <mo>=</mo> <mi>O</mi> <mi>B</mi></math></p>"
+    }
+  ],
+  "bijlages": []
+}

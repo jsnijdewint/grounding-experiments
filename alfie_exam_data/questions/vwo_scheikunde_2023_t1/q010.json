@@ -1,0 +1,75 @@
+{
+  "id": "vwo_scheikunde_2023_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:</p><ul><li>Teken de lewisstructuren van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi>&#160;</mrow></math>. Geef hierbij de juiste bindingshoeken weer.</li><li>Geef partiële ladingen aan.</li><li>Geef in de tekening met een stippellijn een elektrostatische interactie aan tussen beide moleculen.</li></ul>",
+    "max_score": 3,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_d085fd220d9f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1c61a947c65949009770897a8608cb14.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gerolsteiner® is een Duits merk koolzuurhoudend mineraalwater uit Gerolstein, een kleine stad in de Eifel. In de ondergrond van Gerolstein bevindt zich het gesteente dolomiet. Dolomiet reageert met opgelost koolstofdioxide dat afkomstig is uit neerslag of uit dieper gelegen aardlagen. In figuur 1 is schematisch weergegeven hoe koolzuurhoudende neerslag in contact komt met dolomiet, waardoor Gerolsteiner® mineraalwater wordt gevormd.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_0ec5b1dbf90b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/69327754a0a2453eb7cb2df8e42e43b0.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De waarde van <i>x</i> in de verhoudingsformule van dolomiet ligt tussen nul en een</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In het mineraalwater is ook een beetje helium opgelost. Het helium blijkt zowel uit <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\"></mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>3</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi data-mjx-auto-op=\"false\">He</mi>\r\n  </mrow>\r\n</math> als uit <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\"></mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>4</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi data-mjx-auto-op=\"false\">He</mi>\r\n  </mrow>\r\n</math> te bestaan. De verhouding tussen de heliumisotopen hangt af van de herkomst van het helium. Dit gegeven hebben onderzoekers gebruikt om te bepalen of het opgeloste <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">CO</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n</math> in Gerolsteiner® mineraalwater uitsluitend afkomstig is uit neerslag of ook uit dieper gelegen aardlagen. <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\"></mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>4</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi data-mjx-auto-op=\"false\">He</mi>\r\n  </mrow>\r\n</math> ontstaat door het radioactief verval van<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\"></mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>238</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi mathvariant=\"normal\">U</mi>\r\n  </mrow>\r\n</math>. Bij dit radioactief verval ontstaat nog één ander deeltje.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Na afscheiding van het helium van de overige gassen kan de verhouding <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mfrac>\r\n    <mrow>\r\n      <msup>\r\n        <mrow data-mjx-texclass=\"ORD\"></mrow>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mn>3</mn>\r\n        </mrow>\r\n      </msup>\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi data-mjx-auto-op=\"false\">He</mi>\r\n      </mrow>\r\n    </mrow>\r\n    <mrow>\r\n      <msup>\r\n        <mrow data-mjx-texclass=\"ORD\"></mrow>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mn>4</mn>\r\n        </mrow>\r\n      </msup>\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi data-mjx-auto-op=\"false\">He</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </mfrac>\r\n</math> worden bepaald met behulp van een analysetechniek.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In neerslag komt de verhouding <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mfrac>\r\n    <mrow>\r\n      <msup>\r\n        <mrow data-mjx-texclass=\"ORD\"></mrow>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mn>3</mn>\r\n        </mrow>\r\n      </msup>\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi data-mjx-auto-op=\"false\">He</mi>\r\n      </mrow>\r\n    </mrow>\r\n    <mrow>\r\n      <msup>\r\n        <mrow data-mjx-texclass=\"ORD\"></mrow>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mn>4</mn>\r\n        </mrow>\r\n      </msup>\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi data-mjx-auto-op=\"false\">He</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </mfrac>\r\n</math> overeen met het voorkomen in de natuur.</p><p>&nbsp;</p><p>In de dieper gelegen aardlagen is die verhouding hoger. De onderzoekers hebben vastgesteld dat de concentratie <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\"></mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>4</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi data-mjx-auto-op=\"false\">He</mi>\r\n  </mrow>\r\n</math> in Gerolsteiner® overeenkomt met <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>4</mn>\r\n  <mo>&#8901;</mo>\r\n  <msup>\r\n    <mn>10</mn>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8722;</mo>\r\n      <mn>6</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi mathvariant=\"normal\">M</mi>\r\n  </mrow>\r\n</math>. De concentratie 3 He in Gerolsteiner® is <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>3</mn>\r\n  <mo>&#8901;</mo>\r\n  <msup>\r\n    <mn>10</mn>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8722;</mo>\r\n      <mn>11</mn>\r\n    </mrow>\r\n  </msup>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi mathvariant=\"normal\">M</mi>\r\n  </mrow>\r\n</math></p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De oplosbaarheid van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>in water is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mo>,</mo> <mn>3</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">g</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">L</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math>(T = 283 K, p=<math xmlns=\"http://www.w3.org/1998/Math/MathML\">&#160;<msub><mi>p</mi> <mrow data-mjx-texclass=\"ORD\"><mn>0</mn>&#160;</mrow></msub></math>). <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>is daarmee ruim 30 keer beter oplosbaar dan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>onder dezelfde omstandigheden. Dit wordt onder andere veroorzaakt door elektrostatische interacties. Deze interacties treden op tussen moleculen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi>&#160;</mrow></math>maar niet tussen moleculen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi>&#160;</mrow></math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2023_I_uitwerkbijla_fef9b863f829.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9a46ef7a7642413db915d3023305e22a.pdf"
+    }
+  ]
+}

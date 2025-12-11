@@ -1,0 +1,70 @@
+{
+  "id": "vmbo_gl_wiskunde_2024_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "wiskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 67,
+      "domains": [
+        {
+          "id": 162,
+          "name": "Meetkunde",
+          "prefix_code": "WI/K/6"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Het houten model heeft wielen met een diameter van 16 cm .<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Op welke schaal is het houten model gemaakt? Leg je antwoord uit.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gerrit van Bakel ontwierp in 1982 de Tarim Machine, een bewegend kunstwerk. Je ziet het kunstwerk en daaronder een houten model.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_f2329e96774e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/19828e132fa74d25891c4318fa4c7138.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_b5c55075d888.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/686a9fb747f54b22af7023698a55d766.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Het kunstwerk bevat 4 even grote wielen. De wielen van het kunstwerk hebben een straal van 80 cm . Tussen de wielen zit een ruimte van 20 centimeter.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "VMBO_2024_wiskunde_formules.pdf",
+      "media_path": "media/bijlages/VMBO_2024_wiskunde_formules_d4a6470d6aaf.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0e5082e035824e97a227270dda746c13.pdf"
+    },
+    {
+      "name": "Wiskunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_2024_I_uitwerkbijlage_468b9bf175b5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a9189e3980b41ebb0534167115da4e4.pdf"
+    }
+  ]
+}

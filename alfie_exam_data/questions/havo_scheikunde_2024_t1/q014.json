@@ -1,0 +1,81 @@
+{
+  "id": "havo_scheikunde_2024_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:</p><p>– Bereken het volume zuurstof in <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">cm</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>3</mn>\r\n    </mrow>\r\n  </msup>\r\n</math> in de 13,4 <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">cm</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>3</mn>\r\n    </mrow>\r\n  </msup>\r\n</math> lucht in het zakje.</p><p>– Laat met een berekening zien of het verpakkingsmateriaal al deze zuurstof kan wegvangen. Gebruik figuur 3 en het gegeven dat het gebruikte verpakkingsmateriaal 1,40 g <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">m</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo>&#8722;</mo>\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msup>\r\n</math> &nbsp;gebonden water bevatte. <strong>Noteer de afgelezen waarde in drie significante cijfers.</strong></p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Om voorverpakt voedsel lange tijd te kunnen bewaren, is het belangrijk dat er zo weinig mogelijk zuurstof in de verpakking aanwezig is. Daarom is OxyGuard™ ontwikkeld: een verpakkingsmateriaal dat in staat is om zuurstof in de verpakking ‘weg te vangen’ en zuurstof buiten de verpakking erbuiten te houden. OxyGuard™ is opgebouwd uit verschillende lagen poly-etheen (PE), een laag aluminium en een laag poly-ethyleentereftalaat (PET). In figuur 1 is deze opbouw vereenvoudigd weergegeven.</p><p>&nbsp;</p><p>&nbsp;</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_de744f5a0c44.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1ca9cd6bfbac4d51b43029ee21c38b24.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Laag A, B en C (figuur 1) zijn gemaakt van PE. Deze lagen van PE worden gemaakt door extruderen met drie extruders. Hierna volgt een proces waarbij de gesmolten lagen door een verdeelstuk gaan en er een folie ontstaat die uit drie lagen bestaat. Figuur 2 toont deze processen en de structuurformule van PE.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_a779479e5838.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/051565db68de4ca2967aa05f55a7fab5.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Laag B bevat behalve PE onder andere ijzerdeeltjes, waardoor deze laag de zuurstof die in de verpakking zit, kan ‘wegvangen’ volgens reactie</p><p>&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>3</mn>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">O</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mtext> </mtext>\r\n    <mi mathvariant=\"normal\">g</mi>\r\n  </mrow>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo>+</mo>\r\n  <mn>4</mn>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi data-mjx-auto-op=\"false\">Fe</mi>\r\n  </mrow>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi mathvariant=\"normal\">s</mi>\r\n  </mrow>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo stretchy=\"false\">&#8594;</mo>\r\n  <mn>2</mn>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">Fe</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">O</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>3</mn>\r\n    </mrow>\r\n  </msub>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mtext> </mtext>\r\n    <mi mathvariant=\"normal\">s</mi>\r\n  </mrow>\r\n  <mo stretchy=\"false\">)</mo>\r\n</math> (reactie 1)</p><p>&nbsp;</p><p>&nbsp;Deze reactie verloopt bij lage vochtigheid zeer langzaam. Daarom bevat laag A silica (<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">SiO</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n</math>). Silica is nodig om water aan laag A te laten binden om zo reactie 1 in laag B te versnellen. PE zelf kan namelijk geen water binden.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De hoeveelheid water die per <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">m</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msup>\r\n</math> verpakkingsmateriaal gebonden is, heeft invloed op de hoeveelheid zuurstof die weggevangen kan worden. In figuur 3 staat dit verband in een diagram weergegeven.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_e01ef53b4284.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ae0060388a494eb8bbc546fad0e99331.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Onderzoekers maakten een rechthoekig zakje uit 2 stukjes van 6,5 bij 7,75 cm van het verpakkingsmateriaal OxyGuard™. Nadat het zakje was gevuld met een droog voedingsmiddel en was afgesloten, bevond zich nog 13,4 <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msup>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">cm</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>3</mn>\r\n    </mrow>\r\n  </msup>\r\n</math> lucht in het zakje. De lucht bevatte 20,9 volumeprocent zuurstof.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2024_I_uitwerkbijla_916210a9bf90.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e9af4239fcba4df48d214bc570b194dd.pdf"
+    }
+  ]
+}

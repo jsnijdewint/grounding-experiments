@@ -1,0 +1,80 @@
+{
+  "id": "vwo_natuurkunde_2022_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 49,
+          "name": "Elektrische systemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 50,
+          "name": "Elektrische en magnetische velden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit aan welke kant (L of R) van de hoefijzermagneet zich de noordpool bevindt.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Niels voert een practicum uit waarin hij het gedrag van bètadeeltjes in de lucht onderzoekt. Hij gebruikt een radioactief preparaat als bron voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>&#946;</mi> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>-deeltjes. Neem aan dat deze bron bij de start van het practicum maar één isotoop bevat. Tijdens het vervalproces van deze isotoop ontstaat Yttrium-90 als vervalproduct. Bij dit vervalproces komt geen gammastraling vrij.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Toch komt er gammastraling vrij uit de bron.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Niels bouwt de opstelling zoals weergegeven in figuur 1 . Een loden blok is zó geplaatst dat straling niet in een rechte lijn van de bron naar de Geiger-Müller-sensor (GM-sensor) kan bewegen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_983d0011c725.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6a49e3b468ef4d7ca5ccfc98f07623fd.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Verwaarloos bij het vervolg van deze opgave de eventuele invloed van de gammastraling op de metingen.</p><p>Met behulp van een sterke hoefijzermagneet wil Niels bètadeeltjes om het blok heen afbuigen richting de GM-sensor. Dit is weergegeven in figuur 2.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_1ae66785ff94.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fffba76c87994887ba77bb26ec4459e1.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2022_I_uitwerkbijl_9a4d39873fbe.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cfd906bcef9d47ec9c94427a551f4b61.pdf"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "vwo_wiskunde_c_2023_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 90,
+          "name": "Rekenen en algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 91,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel van zulke flessen kunnen worden gevuld, uitgaande van 200 liter whisky.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Traditioneel gebrouwen whisky wordt enkele jaren in houten vaten opgeslagen om daarin te rijpen. In het algemeen geldt: hoe langer de whisky rijpt, hoe beter hij smaakt. Lang rijpen heeft echter een nadeel: een deel van de whisky gaat verloren doordat deze in het houten vat trekt of verdampt. Het deel van de whisky dat tijdens het rijpen verloren gaat, wordt het <strong>engelendeel </strong>genoemd. Het engelendeel wordt uitgedrukt in een percentage per jaar.</p><p>&nbsp;</p><p>Van een bepaald soort whisky is het engelendeel 4,5%. Neem aan dat het engelendeel elk jaar hetzelfde percentage is.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In werkelijkheid is bij traditioneel gebrouwen whisky het engelendeel niet ieder jaar even groot. Zeker aan het begin van de rijpingsperiode is dit deel een stuk groter, doordat de whisky nog in het hout moet trekken.</p><p>&nbsp;</p><p><strong>Pappy Van Winkle 23</strong> is een zeer exclusieve whisky die op traditionele wijze geproduceerd wordt en, zoals de naam al suggereert, 23 jaar in een houten vat rijpt voordat hij in flessen gedaan wordt. Op de website van de producent staat het volgende:</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het rijpingsproces begint met een vat met 200 liter whisky. Het eerste jaar gaat er maar liefst 10% verloren, doordat de whisky in het hout trekt. De 8 jaren erna gaat er 4% per jaar verloren en daarna steeds 3% per jaar. Tenslotte gaat er van het eindproduct ook nog 6 liter verloren bij het vullen van de flessen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Pappy Van Winkle 23 wordt verkocht in flessen van 750 ml.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2023_I_uitwerkbijla_d26cf5047c40.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5daa39e9d7114989a2f0a9cab3045d3b.pdf"
+    }
+  ]
+}

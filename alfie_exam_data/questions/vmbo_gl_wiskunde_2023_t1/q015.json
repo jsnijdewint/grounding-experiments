@@ -1,0 +1,80 @@
+{
+  "id": "vmbo_gl_wiskunde_2023_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "wiskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 67,
+      "domains": [
+        {
+          "id": 162,
+          "name": "Meetkunde",
+          "prefix_code": "WI/K/6"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Tussen punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>en punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi>&#160;</math>van de buis hangt onder water een rechthoekig scherm FGCA waarmee het plastic wordt verzameld. Het scherm is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn> <mo>,</mo> <mn>2</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math>hoog.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Bereken hoeveel <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></math>de oppervlakte van het scherm FGCA is. Schrijf je berekening op.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In het noordelijk deel van de Stille Oceaan, tussen de Verenigde Staten en Hawaï, drijft een grote hoeveelheid plastic. Dit wordt de plasticsoep genoemd. De oppervlakte hiervan is 1,6 miljoen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">km</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></math>.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De Nederlander Boyan Slat bedacht de Ocean Cleanup om plastic uit de oceaan te verzamelen.<br>Hierbij drijft een lange buis met daaronder een scherm in het water. Een schip trekt deze buis voort door het water.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_770dc5556b24.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2c0e5ed479364f4eaac3e4a159a7ed85.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Op de uitwerkbijlage zie je een kaart van een deel van de Stille Oceaan met daarop het midden <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi>&#160;</math>van de plasticsoep.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_518de7a0a6a6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d0a6a0f271a74cae84ada659d6dab00f.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Hierboven zie je een schematische weergave van de buis. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>C</mi>&#160;</math>is een deel van een cirkelboog met middelpunt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi>&#160;</math>en straal 153 m .</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_2023_I_uitwerkbijlage_f78e70c4ddca.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bbc4a2194fa64bb89fa2eea23545d325.pdf"
+    },
+    {
+      "name": "VMBO_2023_wiskunde_formules.pdf",
+      "media_path": "media/bijlages/VMBO_2023_wiskunde_formules_374f78ca5ba1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/be7c655fbdc04d4d80359acdbaf873fa.pdf"
+    }
+  ]
+}

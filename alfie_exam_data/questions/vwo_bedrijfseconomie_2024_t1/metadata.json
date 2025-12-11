@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 5,
+    "education_level": "vwo",
+    "discipline": "bedrijfseconomie",
+    "year": 2024,
+    "tijdvak": 1
+  },
+  "question_count": 31
+}

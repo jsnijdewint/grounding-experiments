@@ -1,0 +1,74 @@
+{
+  "id": "havo_biologie_2024_t1_q23",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p> Verklaar waardoor de concentratie oestradiol bij Emma lager is dan gemiddeld.&nbsp;<br> Verklaar waardoor de concentratie FSH bij Emma hoger is dan gemiddeld.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Emma is 17 jaar en heeft zich altijd een meisje gevoeld. Ze is echter nog nooit ongesteld geworden en heeft ook nauwelijks borstontwikkeling. Daarom gaat ze naar de huisarts.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_1e1883223a92.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7e687413c42f4413acf9eca4cd6cb5c9.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het karyotype beschrijft per lichaamscel het totale aantal chromosomen, de geslachtschromosomen en eventuele extra chromosomen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De huisarts laat het bloed van Emma ook onderzoeken op de aanwezigheid van geslachtshormonen. De concentraties van oestradiol (oestrogeen) en FSH in Emma’s bloed blijken sterk af te wijken van de gemiddelde waarden voor vrouwen van dezelfde leeftijd: de concentratie oestradiol in haar bloed is lager en de concentratie FSH in haar bloed is hoger. In afbeelding 2 is de regulatie van de productie van oestradiol en FSH schematisch weergegeven.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_a20bccb05949.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1333ccaab2864b5c9f67519fd18b9eb0.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

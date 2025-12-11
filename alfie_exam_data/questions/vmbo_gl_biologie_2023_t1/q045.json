@@ -1,0 +1,60 @@
+{
+  "id": "vmbo_gl_biologie_2023_t1_q45",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 116,
+          "name": "Reageren op prikkels",
+          "prefix_code": "BI/K/11"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In de afbeelding hierboven zie je een doorsnede van het oog.<br>&nbsp;</p><p>Welke letter geeft het deel aan dat Theo met zijn laskap beschermt?<br>A letter P<br>B letter Q<br>C letter R<br>D letter S<br>E letter T</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_2a14cd46454e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b62e1172761e4b019779f1c25c9aec26.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Theo is lasser. Met een lasapparaat kan hij twee stukken metaal met elkaar verbinden. Tijdens het lassen ontstaan hoge temperaturen, giftige gassen en fel licht. Speciale kleding beschermt Theo tegen brandwonden. Een afzuigkap voorkomt dat hij schadelijke gassen inademt. Een laskap voorkomt dat het felle licht zijn netvlies beschadigt.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_ed84b33adcfa.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e028451c453a4edba66549998c2fa98b.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2023_I_uitwerkbijlage_4e0013036ef8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9a816268fb648d6bbff9679cf7f9a46.pdf"
+    }
+  ]
+}

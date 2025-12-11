@@ -1,0 +1,64 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_2_2024_t1_q48",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_2",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 53,
+      "domains": [
+        {
+          "id": 150,
+          "name": "Water, zuren en basen",
+          "prefix_code": "NASK2/K/7"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke van onderstaande eigenschappen heeft soda?<br>Soda kan<br><strong>A </strong><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo>&#160;</mrow></msup></math>afstaan.<br><strong>B </strong><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>+</mo>&#160;</mrow></msup></math>opnemen.<br><strong>C </strong><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">OH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>afstaan.<br><strong>D </strong><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">OH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math>opnemen.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>1 &nbsp; Universeel-indicator-papier wordt geleverd met een</p><p>2 &nbsp; kleurencirkel. Bij elke kleur hoort een andere pH-waarde.</p><p>3 &nbsp; Door een druppel vloeistof op het indicator-papier te</p><p>4 &nbsp; brengen, krijgt het papier een bepaalde kleur. Door deze</p><p>5 &nbsp; kleur te vergelijken met de kleuren van de kleurencirkel</p><p>6 &nbsp; wordt de pH van de vloeistof bepaald.</p><p>7 &nbsp; Charlotte wil een kleurencirkel bij rodekoolsap maken.</p><p>8 &nbsp; Rodekoolsap (kookvocht van rodekool) heeft bij verschillende pH-waarden</p><p>9 &nbsp; een andere kleur. Ze kookt daarom gesneden rodekool in water totdat de</p><p>10 &nbsp;kleur van het kookvocht niet meer verandert. Daarna scheidt ze het</p><p>11 &nbsp;gevormde rodekoolsap met behulp van een zeef. Het paarsblauwe</p><p>12 &nbsp;rodekoolsap vangt ze op in een erlenmeyer. Vervolgens maakt ze een</p><p>13 &nbsp;reeks oplossingen van pH = 1 tot en met pH = 14. Aan elke oplossing voegt</p><p>14 &nbsp;ze een klein beetje rodekoolsap toe en ze bekijkt de kleur van het</p><p>15 &nbsp;mengsel.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_a575ffc541a4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/eaf695e8c0cf49d0a4825c520ab11666.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Om de reeks oplossingen te maken krijgt Charlotte van haar docent een oplossing van salpeterzuur en een oplossing van natriumhydroxide. De zure oplossing, die <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn> <mo>,</mo> <mn>30</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">mg</mi>&#160;</mrow></math>salpeterzuur per mL bevat, heeft <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">pH</mi> </mrow><mo>=</mo> <mn>1</mn>&#160;</math>. Charlotte neemt steeds een beetje van de oplossing en voegt voldoende water toe. Zo maakt ze vijf oplossingen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">pH</mi> </mrow><mo>=</mo> <mn>2</mn>&#160;</math>tot en met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">pH</mi> </mrow><mo>=</mo> <mn>6</mn>&#160;</math>. Met de oplossing van natriumhydroxide maakt ze zeven oplossingen: van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">pH</mi> </mrow><mo>=</mo> <mn>8</mn>&#160;</math>tot en met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">pH</mi> </mrow><mo>=</mo> <mn>14</mn>&#160;</math>. Ook zet ze een vloeistof met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">pH</mi> </mrow><mo>=</mo> <mn>7</mn>&#160;</math>klaar.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Charlotte voegt een klein beetje rodekoolsap toe aan elke oplossing. Hierdoor verandert steeds de kleur. Ze neemt aan dat het sap geen invloed heeft op de pH. Met kleurpotlood geeft ze de gevonden kleuren in de kleurencirkel (zie afbeelding hiernaast) aan.</p><p>Charlotte gebruikt vervolgens haar kleurencirkel voor een onderzoekje. Ze voegt een beetje rodekoolsap toe aan een oplossing van keukenzout, aan een oplossing van soda <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Na</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>en aan azijn. Ze vergelijkt daarna de kleur die elke vloeistof heeft gekregen met de kleuren op haar kleurencirkel en leest de bijbehorende pH-waarden af: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">pH</mi> </mrow><mo>=</mo> <mn>3</mn> <mo>,</mo> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">pH</mi> </mrow><mo>=</mo> <mn>7</mn>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">pH</mi> </mrow><mo>=</mo> <mn>11</mn>&#160;</math>.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_124ca8961937.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cc6e899b3dc84a72a68052a196aa902b.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

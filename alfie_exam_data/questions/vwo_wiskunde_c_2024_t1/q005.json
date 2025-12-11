@@ -1,0 +1,57 @@
+{
+  "id": "vwo_wiskunde_c_2024_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken met behulp van figuur 1 hoeveel procent minder veldleeuweriken er in duingebieden waren in 2005 ten opzichte van het aantal in 1989. Geef je antwoord in gehele procenten.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De laatste tientallen jaren is het in Nederland voor veel weidevogels lastiger geworden om geschikte broedplaatsen te vinden. Dit komt doordat landbouwgrond steeds intensiever en gevarieerder wordt gebruikt, en doordat steden voortdurend verder uitbreiden.&nbsp;</p><p>Grasland is het voornaamste broedgebied voor weidevogels. Uit een onderzoek van Sovon Vogelonderzoek Nederland blijkt dat in de jaren vanaf 1990 tot en met 2014 ruim 150 000 hectare grasland verloren is gegaan. Dat is een daling van 14 procent.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Een van de weidevogelsoorten die het meest in aantal is afgenomen, is de veldleeuwerik. In de jaren vanaf 1990 tot en met 2000 bleef de procentuele afname per jaar ten opzichte van het jaar ervoor nagenoeg gelijk. Dit gold ook voor de jaren vanaf 2001 tot en met 2005. In figuur 1 zijn deze jaarlijkse procentuele afnames voor deze twee periodes weergegeven voor drie verschillende soorten gebieden: duingebieden, heidegebieden en agrarische gebieden.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_49b1806ce229.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/132dbe4b610748cba5ff31b9a5effe72.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In de figuur is bijvoorbeeld te zien dat in de jaren vanaf 2001 tot en met 2005 het aantal veldleeuweriken in duingebieden jaarlijks met 7,8% afnam.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2024_I_uitwerkbijla_ba7fbca6f6ec.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d5fa61ef232d4c3195ae03fd7f6d41cb.pdf"
+    }
+  ]
+}

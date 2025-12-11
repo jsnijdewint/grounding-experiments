@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 137,
+    "education_level": "vwo",
+    "discipline": "duits",
+    "year": 2025,
+    "tijdvak": 1
+  },
+  "question_count": 43
+}

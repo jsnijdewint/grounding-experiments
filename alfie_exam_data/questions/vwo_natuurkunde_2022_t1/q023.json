@@ -1,0 +1,95 @@
+{
+  "id": "vwo_natuurkunde_2022_t1_q23",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 44,
+          "name": "Informatieoverdracht",
+          "prefix_code": 1
+        },
+        {
+          "id": 45,
+          "name": "Medische beeldvorming",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:</p><ul><li>Geef in de figuur op de uitwerkbijlage met een letter B de plaats van de buik bij toon I aan. Licht je antwoord toe met een berekening.</li><li>Leg uit of de frequentie van toon II hoger of lager is dan de frequentie van toon I.</li></ul>",
+    "max_score": 6,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_786fcb4b9609.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9234fbee75ae4adbab813aa1af912fb2.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In figuur 1 zie je een speciale fluit met twee gesloten uiteinden en slechts drie gaten. We gaan uit van een kamertemperatuur van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>20</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_cd59d6ab6fc2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c55beb8522874851ba8bbbbea4b632b1.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het middelste gat wordt gebruikt om de fluit aan te blazen. Zie figuur 2. De andere twee gaten kunnen met een vinger afgesloten worden.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_1a1730959772.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c520773955e94e77aa8decfae5fc85b2.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Daniël en Jonathan gaan onderzoeken hoe de toonvorming in de fluit plaatsvindt.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Op de fluit kun je twee tonen spelen met één gat gesloten: toon I en toon II. In figuur 3a en in figuur 3b zijn de twee mogelijkheden om een toon te spelen met één gat gesloten schematisch weergegeven. Een wit bolletje betekent een geopend gat en een zwart bolletje een gat dat is gesloten met een vinger. De fluit wordt aangeblazen door het middelste gat, dat is aangegeven met grijs.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_6ed418ee2424.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0bfba69fb2b74b6ab136a2a20c219a50.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Volgens het model van de staande golven ontstaat er bij het uiteinde aan de kant van het gesloten gat een knoop (K) en ergens in de buurt van het open gat een buik (B). De plaats van de knoop bij toon I en toon II is weergegeven met een letter K. In beide gevallen is sprake van de grondtoon.<br>Op de uitwerkbijlage staat figuur 3a nogmaals weergegeven. De lengte van de afbeelding van de fluit is precies de helft van de werkelijke lengte. De frequentie van toon I is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn> <mo>,</mo> <mn>0</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">Hz</mi>&#160;</mrow></math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2022_I_uitwerkbijl_9a4d39873fbe.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cfd906bcef9d47ec9c94427a551f4b61.pdf"
+    }
+  ]
+}

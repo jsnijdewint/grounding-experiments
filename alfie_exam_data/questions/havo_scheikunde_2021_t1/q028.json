@@ -1,0 +1,67 @@
+{
+  "id": "havo_scheikunde_2021_t1_q28",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel TTl's in een bepaalde koelkast aanwezig kunnen zijn voordat de geurdrempel overschreden wordt.<br>Ga bij de berekening uit van de volgende gegevens:</p><ul><li>Per TTI komt maximaal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn> <mo>,</mo> <mn>2</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>8</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">mol</mi>&#160;</mrow></math>ammoniak vrij.</li><li>De geurdrempel van ammoniak is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn> <mo>,</mo> <mn>7</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">mg</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>3</mn>&#160;</mrow></msup></math>.</li><li>De koelkast heeft een inhoud van 183 L .</li></ul>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Hoeveel dagen kun je een verse salade bewaren? En in hoeverre wordt de houdbaarheid beïnvloed door de temperatuur?<br>Een tijd-temperatuur-indicator (TTI), ontworpen door Andrew Mills, laat dit in een oogopslag zien. Deze TTI is een blauwgekleurde, temperatuurgevoelige sticker. Zolang de sticker blauw is, is de salade vers. Als de sticker naar groen of zelfs geel is verkleurd, dan is de salade bedorven. De TTI bestaat uit twee lagen (zie figuur 1). De toplaag van de sticker bestaat uit een folie waarop een mengsel van polymeer A en ammoniumwaterstofcarbonaat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">NH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">HCO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>is aangebracht. De kleurlaag bestaat uit een folie waarop een mengsel van polymeer B , een weekmaker en de indicator broomfenolblauw (BFB) is aangebracht.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_4c38e8d0a473.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/96ee20ccf47c45d8b643b33dc2daf878.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De toplaag van de sticker houdt de TTI blauw zolang de TTI niet wordt gebruikt. Dit komt doordat in deze laag een reactie optreedt waarbij ammoniak ontstaat (reactie 1). Deze ammoniak wordt door de kleurlaag opgenomen en kleurt de indicator (BFB) blauw (reactie 2).</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NH</mi><mn>4</mn></msub><msub><mi>HCO</mi><mn>3</mn></msub><mo>(</mo><mi mathvariant=\"normal\">s</mi><mo>)</mo><mo stretchy=\"false\">&#8594;</mo><msub><mi>NH</mi><mn>3</mn></msub><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo><mo>+</mo><msub><mi>CO</mi><mn>2</mn></msub><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo><mo>+</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi><mo>(</mo><mi mathvariant=\"normal\">g</mi><mo>)</mo></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(reactie1)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>NH</mi><mn>3</mn></msub><mo>+</mo><munder><mi>BFB</mi><mrow><mo>(</mo><mtext>geel</mtext><mo>)</mo></mrow></munder><mo stretchy=\"false\">&#8594;</mo><munder><mrow><msub><mi>NH</mi><mn>3</mn></msub><mi>BFB</mi></mrow><mtext>(blauw)&#160;</mtext></munder></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (reactie2)</p><p>Reactie 1 verloopt langzaam, waardoor een ongebruikte sticker maandenlang houdbaar blijft.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Een winkelier plakt de TTI op een bakje verse salade en verwijdert de toplaag van de sticker. Daarna verkleurt de indicator geleidelijk van blauw via groen tot geel doordat het gele BFB volgens reactie 3 wordt teruggevormd. Door de kleurverandering wordt zichtbaar hoe vers het product is.</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mrow><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">NH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">BFB</mi> </mrow></mrow><mtext>(blauw) </mtext></munder><mo stretchy=\"false\">&#8594;</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">NH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mo>+</mo> <munder><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">BFB</mi> </mrow><mtext>(geel)&#160;</mtext></munder></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (reactie 3)</p><p>De activeringsenergie van reactie 3 is ongeveer even groot als de activeringsenergie van reacties die plaatsvinden tijdens voedselbederf. Wanneer in plaats van BFB een andere indicator wordt gebruikt, die verkleurt door een reactie met een aanzienlijk hogere activeringsenergie, zou de TTI minder betrouwbaar zijn.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Door het verwijderen van de toplaag kunnen de ammoniakmoleculen die bij reactie 3 ontstaan in de omgevingslucht vrijkomen. Hierdoor is er steeds minder <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">NH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">BFB</mi>&#160;</mrow></math>en zal de TTI steeds geler kleuren. Om vrij te kunnen komen in de omgevingslucht moeten de ammoniakmoleculen door de kleurlaag heen bewegen. Dit gaat gemakkelijker wanneer het polymeer waaruit de kleurlaag bestaat een weekmaker bevat.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Uit de TTI komt een kleine hoeveelheid ammoniak vrij. Ammoniak heeft een indringende geur en een lage geurdrempel. De geurdrempel is de laagste concentratie van een gasvormige stof in lucht die waarneembaar is voor de mens. Toch zal de lucht in een koelkast volgens Andrew Mills niet naar ammoniak gaan ruiken, zelfs niet als een koelkast veel TTI's bevat.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2021_I_uitwerkbijla_1bb960b8859b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/de4ac50bb8424775a1d05546cf8e6711.pdf"
+    }
+  ]
+}

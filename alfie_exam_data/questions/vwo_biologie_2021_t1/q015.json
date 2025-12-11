@@ -1,0 +1,118 @@
+{
+  "id": "vwo_biologie_2021_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 40,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 41,
+          "name": "Zelforganisatie van ecosystemen",
+          "prefix_code": 2
+        },
+        {
+          "id": 42,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef nog een verklaring waardoor meer vissen zullen trekken via de migratierivier dan via de sluizen.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tijdens de grote onderhoudsbeurt die voor de Afsluitdijk gepland is, wordt de migratieroute voor trekvissen hersteld.</p><p>Het huidige IJsselmeer (afbeelding 1) was vroeger een estuarium: een brede riviermonding die uitliep in de Zuiderzee. Estuaria zijn over het algemeen relatief warme en rijke ecosystemen en voor veel vissoorten een belangrijk deel van de trekroute tussen zout water en zoet water. Door de aanleg van de Afsluitdijk werd deze route voor trekvissen geblokkeerd en veranderde de zoute Zuiderzee in het zoete IJsselmeer. Voor veel vissoorten is een estuarium een aantrekkelijke plaats om eitjes af te zetten, omdat de uitgekomen vislarven er snel en veilig kunnen opgroeien. In het relatief warme IJsselmeerwater groeien vislarven sneller dan in de Waddenzee.</p><p>&nbsp;</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Een koker dwars door de Afsluitdijk, met aansluitend een kilometerslange brakwaterrivier, maakt het IJsselmeer weer bereikbaar voor veel vissoorten. Afbeelding 2 geeft een impressie hiervan.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_43624e184600.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/94419e3692684231b76db0e707501e09.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Bij eb stroomt zoet water uit het IJsselmeer door deze vismigratierivier richting Waddenzee. Bepaalde trekvissen zullen dan, aangelokt door het zoete water, tegen de stroom in naar binnen zwemmen. Dat lukt alleen de sterke zwemmers, zoals de zalm. Bij vloed stroomt zout zeewater de vismigratierivier in en dan pas kunnen ook zwakke zwemmers, zoals jonge palingen (glasaaltjes), het IJsselmeer bereiken. De koker van de vismigratierivier wordt afgesloten zodra de zoutbelasting van het IJsselmeer te groot wordt.</p><p>Ecologen gebruikten een computermodel om de omstandigheden in het sterkst stromende deel van de geplande vismigratierivier te simuleren. Afbeelding 3 toont het resultaat hiervan voor een periode van 48 uur.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_f433f8576429.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/75c5e73598694156a61a1c43e57923af.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Trekvissen handhaven een osmotische waarde van het inwendige milieu die lager is dan die van zeewater. In zeewater moeten ze waterverlies voorkomen en passieve zoutopname compenseren. Dit doen ze door de in het darmkanaal geabsorbeerde zouten via de kieuwen en nieren uit te scheiden (afbeelding 4, linker tekening). Een verblijf in zoet water veroorzaakt wateropname en verlies van zouten. Om dit tegen te gaan nemen trekvissen actief zouten op via de kieuwen en produceren ze meer urine (afbeelding 4, rechter tekening).</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_e52e1e1448f8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e206f941c40f4f06ac712a47970f22a0.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Echte zoetwatervissen zijn aangepast aan het leven in zoet water. Om te kunnen overleven in zoet water zijn de nieren van echte zoetwatervissen anders gebouwd dan die van echte zoutwatervissen: er is een verschil in het aantal glomeruli en in de permeabiliteit van de wand van de verzamelbuisjes.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Bij vissen zijn de kieuwen de belangrijkste organen voor osmoregulatie. Tussen de kieuwepitheelcellen bevinden zich bepaalde mitochondriënrijke cellen (MR-cellen). Er zijn twee typen MR-cellen:<br>1 MR- <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi>&#160;</math>-cellen die zoutuitscheiding in zeewater bevorderen<br>2 MR- <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi>&#160;</math>-cellen die zoutopname in zoet water bevorderen Deling vanuit stamcellen en de daaropvolgende differentiatie tot het ene of tot het andere type MR-cel gebeurt onder invloed van hormonen. Bij trekvissen kunnen MR-cellen van het ene type overgaan in het andere. Het ionentransport in MR-cellen type <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi>&#160;</math>en type <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi>&#160;</math>in de kieuwen van trekvissen is weergegeven in afbeelding 5 .</p>"
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_aae9ef9153cc.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b69e291952704a708a70fadded16475a.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Bij trekvissen in zeewater zijn de MR- <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi>&#160;</math>-cellen actief. Door deze cellen worden chloride-ionen uit het inwendig milieu uitgescheiden via chloridekanaaltjes (afbeelding 5). Voor dit transport is indirect energie nodig.</p>"
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>Het water in de vismigratierivier is brak door het binnendringende zeewater. In het kilometerslange traject hebben binnentrekkende vissen de gelegenheid om te wennen (acclimatiseren) aan het steeds zoeter wordende water.</p>"
+    },
+    {
+      "order": 12,
+      "type": "text",
+      "text": "<p>Niet iedereen kan zich vinden in het idee van de vismigratierivier. Een voormalige visser reageert: \"Vismigreren? Als je in Den Oever tijdens doodtij de sluisdeuren aan de kant van de Waddenzee op een kiertje opende, zwom de sluis vol met glasaal en andere vis, zij roken het zoet. Als daarna de sluisdeuren aan de IJsselmeerzijde opengingen zwom die vis zo het IJsselmeer in\".<br>Doodtij, wanneer de eb- en vloedbeweging minimaal is, treedt slechts twee keer per maand op. De vismigratierivier kan in principe elke dag door vissen als migratieroute gebruikt worden.</p>"
+    }
+  ],
+  "bijlages": []
+}

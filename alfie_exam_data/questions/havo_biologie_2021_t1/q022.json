@@ -1,0 +1,72 @@
+{
+  "id": "havo_biologie_2021_t1_q22",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 122,
+          "name": "Zelforganisatie van cellen",
+          "prefix_code": 3
+        },
+        {
+          "id": 123,
+          "name": "Erfelijke eigenschap",
+          "prefix_code": 7
+        },
+        {
+          "id": 124,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 130,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Schrijf de nummers 1,2 en 3 onder elkaar en noteer erachter of de betreffende uitspraak juist of onjuist is.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De van oorsprong gele chrysant wordt in Nederland volop gekweekt. Er zijn witte (afbeelding 1), roze, rode en paarse variëteiten. Sommige hebben grote bloemen, andere juist kleine.<br><br><p>De verschillende chrysanten-rassen zijn ontwikkeld door klassieke veredeling: dit is veredeling door middel van kruisingen waarbij wordt geselecteerd op gewenste kleuren en vormen. Bij klassieke veredeling spelen - net als bij evolutie - selectie en isolatie een rol.</p></p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_cb248208b501.webp",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/de98c9d0e0334b318194d4ce02f0b121.webp",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het kost jaren voordat gewenste eigenschappen uiteindelijk via klassiek veredelen in de planten vóórkomen en er sprake is van een nieuw ras. Bij het veredelen van chrysanten wordt gebruikgemaakt van de genetische variatie van de planten. Om het veredelingsproces te versnellen, bestralen veredelaars plantendelen met radioactieve straling. Cellen van bladeren en stengels worden vervolgens op voedingsbodems opgekweekt tot volledige planten.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Om als nieuw ras te worden geregistreerd moet een variëteit aan drie eisen voldoen:</p><ul><li>Zij moet zich onderscheiden van andere rassen.</li><li>Alle planten moeten op elkaar lijken.</li><li>De kenmerkende eigenschappen blijven na vermeerderen behouden.</li></ul><p>Als hieraan is voldaan krijgt de veredelaar kwekersrecht. Hiermee kan hij gedurende 25 jaar beslissen wie het ras mag telen.</p><p>Kwekerij Flowi heeft ter gelegenheid van de Olympische Spelen de helderrode chrysant 'Tokio' gekweekt en hiervoor het kwekersrecht gekregen. Chrysanten van het ras Tokio worden ongeslachtelijk vermeerderd.</p><p>Over het ras Tokio worden drie uitspraken gedaan:<br>1 Tokio moet voor alle kenmerkende eigenschappen homozygoot zijn.<br>2 Tokio heeft alleen maar dominant overervende eigenschappen.<br>3 Tokio kan niet worden gekruist met planten van een ander chrysantenras.</p>"
+    }
+  ],
+  "bijlages": []
+}

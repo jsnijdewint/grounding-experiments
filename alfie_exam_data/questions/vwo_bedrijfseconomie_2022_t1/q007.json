@@ -1,0 +1,68 @@
+{
+  "id": "vwo_bedrijfseconomie_2022_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 13,
+          "name": "Vastleggen van financiële en niet financiële informatie",
+          "prefix_code": 1
+        },
+        {
+          "id": 14,
+          "name": "Kosten- en winstvraagstukken",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken met behulp van informatiebron 2 de verwachte wekelijkse opbrengst in de periode van 1 april 2021 tot en met 31 maart 2022. Vul hiervoor de uitwerkbijlage bij deze vraag in.</p>",
+    "max_score": 3,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "<p>maximumscore 3</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">aantal bestellingen</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">berekening</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">West</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">416</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>43.680</mn> <mrow><mn>2</mn> <mo>,</mo> <mn>1</mn> </mrow></mfrac><mo>&#215;</mo> <mn>0</mn> <mo>,</mo> <mn>2</mn> <mo>&#215;</mo> <mn>0</mn> <mo>,</mo> <mn>1</mn></math></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Engelen</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">208</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>21.840</mn> <mrow><mn>2</mn> <mo>,</mo> <mn>1</mn> </mrow></mfrac><mo>&#215;</mo> <mn>0</mn> <mo>,</mo> <mn>2</mn> <mo>&#215;</mo> <mn>0</mn> <mo>,</mo> <mn>1</mn></math></td></tr></tbody></table></figure><p>Verwachte opbrengst van Hiero per week van 1 april 2021 tot en met 31 maart 2022</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\">soort opbrengst</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;text-align:right;width:auto;\">bedrag</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">berekening</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">variabele vergoeding</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:right;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>2.600</mn>&#160;</math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo> <mn>416</mn> <mo>&#215;</mo> <mn>70</mn> <mo>+</mo> <mn>208</mn> <mo>&#215;</mo> <mn>110</mn> <mo stretchy=\"false\">)</mo> <mo>&#215;</mo> <mn>0</mn> <mo>,</mo> <mn>05</mn></math></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">vast bezorgtarief</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:right;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>1.560</mn>&#160;</math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo> <mn>416</mn> <mo>+</mo> <mn>208</mn> <mo stretchy=\"false\">)</mo> <mo>&#215;</mo> <mn>2</mn> <mo>,</mo> <mn>5</mn></math></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">subsidie gemeente</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:right;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <munder><mn>312</mn> <mo accent=\"true\">&#8213;</mo>&#160;</munder></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1.560</mn> <mo>&#215;</mo> <mn>0</mn> <mo>,</mo> <mn>20</mn></math></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">totaal</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:right;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>4.472</mn>&#160;</math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr></tbody></table></figure><ul><li><p>416 en 208</p><p>1</p></li><li><p>2.600</p><p>1</p></li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1.560</mn> <mo>,</mo> <mn>312</mn>&#160;</math>en 4.472<br>1</li></ul>",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Bij deze opgave horen de informatiebronnen 1 tot en met 5.</i></p><p><br><i>In deze opgave blijft de btw buiten beschouwing.</i></p><p><br>Selma, Idris en Marijke zijn drie studenten van de opleidingen Bedrijfskunde en Food Business aan de HAS Hogeschool in Den Bosch. Ze besluiten begin 2021 om als studieopdracht een businessplan te maken voor een bezorgdienst van supermarktproducten.</p><p>Ze willen samenwerken met de Bossche supermarktketen Noor én met de gemeente Den Bosch. Voor supermarkt Noor willen ze op commerciële basis producten aan de klanten van supermarkt Noor bezorgen en voor de gemeente willen ze steun bieden aan kwetsbare burgers die niet zelf boodschappen kunnen doen. Ze hebben twee opbrengsten:</p><ul><li>Van supermarkt Noor en de klanten van supermarkt Noor zullen ze een vergoeding ontvangen voor het bezorgen van boodschappen.</li><li>Van de gemeente verwachten ze subsidie voor de geboden steun aan kwetsbare Bosschenaren.</li></ul><p>Ze noemen de bezorgdienst Hiero bv, met Selma, Idris en Marijke als aandeelhouders.</p><p><strong>Marketingplan</strong><br>Om te beginnen stellen ze hun bedrijfsmodel op (zie informatiebron 1).</p><p><br>Hiero kiest voor gedifferentieerde marketing.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_853aa5b76692.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8b162cd5feb84f6ab0cde2bf9a2a0363.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><strong>Financieel plan</strong></p><p><br>In overleg met de gemeente en hun studiebegeleider richt Hiero zich in eerste instantie op twee wijken: West en Engelen (zie informatiebron 2).</p><p>&nbsp;</p><p>Het doel van de gemeentelijke subsidie is om kwetsbare burgers zoals 65 -plussers te ondersteunen.</p><p>&nbsp;</p><p>Hiero zou door die subsidie een prikkel moeten krijgen om zich meer te richten op de wijk West waar de meeste ouderen wonen. Selma is blij met de subsidie, maar vindt dat het bezorgen in de wijk Engelen aantrekkelijker is dan in West, ondanks dat het percentage 65-plussers in West hoger is.</p><p>&nbsp;</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_bijlag_62086e27b4ef.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a93cd8f679584499a2c7de8ddf763cff.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_uitwer_fe9d963a16b1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e693b318cf614e21b8c84f861816b24e.pdf"
+    }
+  ]
+}

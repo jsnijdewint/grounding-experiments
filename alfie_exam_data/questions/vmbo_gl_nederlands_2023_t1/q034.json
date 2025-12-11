@@ -1,0 +1,61 @@
+{
+  "id": "vmbo_gl_nederlands_2023_t1_q34",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 60,
+      "domains": [
+        {
+          "id": 157,
+          "name": "Leesvaardigheid",
+          "prefix_code": "NE/K/6"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In het tekstfragment staat waarom TikTok-gebruikers leestips uitwisselen.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Noteer <strong>twee </strong>redenen die hiervoor in het tekstfragment worden genoemd.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">1</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Een groep 16-jarigen staat in een zaaltje fanatiek te dansen.</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">2</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Bibliotheken in Nederland hebben het moeilijk: het afgelopen decennium verdwenen er 140.</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">3</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">De Raad van Cultuur, die vandaag met een advies over bibliotheken komt voor het ministerie van OCW, vindt die ontwikkeling zorgelijk.</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">4</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Het leesniveau onder 15-jarigen holt hard achteruit.</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">5</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Drie jaar geleden stonden we op de twaalfde plek, nu op plaats 23.</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">6</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Bijna een kwart van de jongeren loopt het risico de schoolbanken als laaggeletterde te verlaten.</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">7</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Davelaar, die zelf havo- en vwo-klassen lesgeeft, maakt zich grote zorgen.</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">8</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">De onderwijsraad benadrukt dat het lezen op alle vlakken onder druk staat.</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">9</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">De dansles valt bij jongeren in de smaak.</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">10</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">Hiphop bestaat uit ongeschreven regels.</td></tr></tbody></table></figure>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><strong>Tekstfragment:</strong></p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><strong>TikTok krijgt jong en oud weer aan het lezen via de hashtag #booktok</strong></p><p><br><strong>(1) </strong>Boekenwinkels zien de laatste tijd iets opmerkelijks: een boek verkoopt ineens zo goed dat het bijna meteen is uitverkocht. Nee, het is geen nieuw boek en het heeft niet onlangs een prijs gewonnen. Wat is er aan de hand?<br><strong>(2)</strong> Grote kans dat #booktok er iets mee te maken heeft. Via die hashtag wisselen TikTok-gebruikers leestips uit. Met succes: de hashtag heeft wereldwijd al miljoenen boekentips opgeleverd.<br><strong>(3) </strong>Ook in Nederland beginnen mensen voorzichtig met #booktok. Zo is er de 19-jarige Noah (@jetweedevader) die zijn jonge publiek kennis laat maken met schrijvers zoals Kluun.<br><strong>(4) </strong>Of Soraya Riem, die jongeren enthousiast wil maken over Nederlandse literatuur. Soms met een persoonlijke motivatie. Zoals 'Confettiregen' van Splinter Chabot, waarin ze veel van haar eigen coming-out herkent: \"Dit is echt zo'n boek waarvan ik had gewild dat het er was toen ik 15 was. Gewoon om te weten dat ik niet alleen was.\"<br><strong>(5) </strong>Wie zelf op onderzoek uit wil, kan naast de hashtag #booktok ook de Nederlandse variant #boektok proberen. Andere populaire varianten zijn #romancebooktok of #horrorbooktok.</p><p><br><i>naar een deel van een artikel van Gabriella Codonesu, Trouw, 4 september 2021</i></p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_0713cd11b614.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fb589d755bd34bcc894e3d04ee63d4b1.pdf"
+    },
+    {
+      "name": "Nederlands 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_uitwerkbijla_89b91ec36c88.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b23062525a6d4570a8c70d6453f56bd9.pdf"
+    }
+  ]
+}

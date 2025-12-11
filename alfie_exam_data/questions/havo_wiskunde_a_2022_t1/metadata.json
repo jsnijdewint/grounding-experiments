@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 60,
+    "education_level": "havo",
+    "discipline": "wiskunde_a",
+    "year": 2022,
+    "tijdvak": 1
+  },
+  "question_count": 21
+}

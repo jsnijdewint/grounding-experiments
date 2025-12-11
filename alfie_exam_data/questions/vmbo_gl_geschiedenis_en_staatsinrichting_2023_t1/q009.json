@@ -1,0 +1,56 @@
+{
+  "id": "vmbo_gl_geschiedenis_en_staatsinrichting_2023_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "geschiedenis_en_staatsinrichting",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 65,
+      "domains": [
+        {
+          "id": 135,
+          "name": "Staatsinrichting van Nederland",
+          "prefix_code": "GS/K/5"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Stel, je wilt deze bron gebruiken voor een werkstuk, maar je twijfelt nog bij welke periode je deze bron moet plaatsen. Je kunt kiezen uit de volgende perioden:<br>1 vóór 1848<br>2 tussen 1848 en 1919<br>3 na 1919<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Bij welke periode hoort de bron? Verklaar je keuze met behulp van een onderdeel van de bron.<br>Doe het zo:<br>De bron hoort bij periode ... (vul nummer in), omdat ... (geef verklaring).</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 1.</i></p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 2.</i></p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><i>Gebruik nogmaals bron 2.</i></p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis en staatsinrichting 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_en_staatsinrichti_cf7c6ce6a4c9.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f132077dcc6e486c9c4eeb9328bce439.pdf"
+    }
+  ]
+}

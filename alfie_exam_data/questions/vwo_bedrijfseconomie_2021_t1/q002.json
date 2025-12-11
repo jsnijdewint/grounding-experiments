@@ -1,0 +1,78 @@
+{
+  "id": "vwo_bedrijfseconomie_2021_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 6,
+          "name": "Persoonlijke financiële zelfredzaamheid",
+          "prefix_code": 1
+        },
+        {
+          "id": 7,
+          "name": "De oprichting van een eenmanszaak",
+          "prefix_code": 2
+        },
+        {
+          "id": 8,
+          "name": "Van eenmanszaak naar rechtspersoon",
+          "prefix_code": 3
+        },
+        {
+          "id": 9,
+          "name": "Perspectief op de organisatie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken per 1 maart 2021 de contante waarde van alle partneralimentatieverplichtingen van Julie aan August (zie formuleblad).</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Julie en August zijn in 2002 getrouwd op huwelijkse voorwaarden en hebben op 1 maart 2003 een tweeling gekregen. Het huwelijk houdt geen stand en ze besluiten om per 1 maart 2021 te scheiden.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_463c74b3c60f.webp",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f4bf7358059945f99fe66c4b5f73f4a0.webp",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De afspraken met betrekking tot partneralimentatie zijn:</p><ul><li>Omdat Julie een hoger inkomen heeft dan August, moet Julie aan August, gedurende 5 jaar, maandelijks <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>150</mn>&#160;</math>€ partneralimentatie betalen (in totaal dus 60 betalingen).</li><li>Dit bedrag wordt steeds op elke eerste dag van de maand betaald, waarbij de eerste betaling op 1 maart 2021 is.</li></ul><p>De wet staat toe dat Julie alle te betalen partneralimentatie in één keer aan August betaalt. Hiervoor wordt de contante waarde van alle partneralimentatieverplichtingen per 1 maart 2021 berekend, op basis van een rekenrente van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>2</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>samengestelde interest per maand.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2021_I_bijlag_18aa5fbf9016.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/92d29866f40a4864b5a50055e02b1aec.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2021_I_uitwer_a63059d5a495.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3ae5187256fd457fb1ae4f6556df1ea7.pdf"
+    }
+  ]
+}

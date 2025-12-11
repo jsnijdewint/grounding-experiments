@@ -1,0 +1,51 @@
+{
+  "id": "havo_economie_2023_t1_q31",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 73,
+          "name": "Markt",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit van welke marktvorm er sprake is op de markt van passagiersvervoer per trein vanaf 2008.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Koning Willem I (koning van 1815 tot 1840 ) besloot dat er passagiersvervoer per trein moest komen in Nederland in 1835. Er bleken geen particuliere investeerders te zijn en daarom richtte de overheid de Hollandsche IJzeren Spoorwegmaatschappij op (voorloper van de Nederlandse Spoorwegen). De overheid financierde daarmee de aanleg van het spoorwegennet, en zorgde ervoor dat het treinkaartje betaalbaar was. De Nederlandse Spoorwegen (NS) hebben het wettelijk monopolie op passagiersvervoer per spoor gehad tot 2008 .</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Vanaf 2008 heeft de overheid besloten dat ook andere vervoerders dan de NS passagiersvervoer in Nederland mogen aanbieden. Daartoe heeft de overheid Nederland in regio's ingedeeld. Per regio verkoopt de overheid één concessie (vergunning) om in die regio passagiersvervoer te verzorgen. De NS en andere vervoersmaatschappijen kunnen bieden op een concessie (vergunning) om in die regio passagiersvervoer te verzorgen. De prijs van de concessie is een vergoeding voor het gebruik van het eerder aangelegde spoorwegennet.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2023_I_bijlage_eaf186f81c74.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/723bbf20b7c0415f956f8db16a4c63fd.pdf"
+    }
+  ]
+}

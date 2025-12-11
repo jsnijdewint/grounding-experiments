@@ -1,0 +1,61 @@
+{
+  "id": "havo_aardrijkskunde_2023_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "aardrijkskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 46,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 94,
+          "name": "Samenhangen en verschillen op aarde",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beschrijf in twee stappen het ontstaan van de wolk boven de berg in bron 8.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 7 tot en met 9.&nbsp;<br><br>Gebruik bron 7 en het kaartenkatern. De eilanden van de Azoren liggen in de Atlantische Oceaan bij de Midden-Atlantische Rug. Bij deze divergente plaatgrens ontstaan lichte aardbevingen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik bron 7 en het kaartenkatern.&nbsp;<br><br>De eilanden van de Azoren zijn vulkanisch. Niet alle eilanden van de Azoren zijn boven de Midden-Atlantische Rug ontstaan. Sommige eilanden zijn door hotspotvulkanisme ontstaan.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Gebruik bron 8.&nbsp;<br><br>De bergen op de Azoren zijn vaak in de mist gehuld, terwijl het op zeeniveau onbewolkt is.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2023_I_bijlage_69f68dcbb685.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/10ac6d191f384f45b2c7a166e7f7f20d.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2023 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2023_I_kaartenk_28572665cc74.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e2c0e21f03a64d3bb38be49a41a361db.pdf"
+    }
+  ]
+}

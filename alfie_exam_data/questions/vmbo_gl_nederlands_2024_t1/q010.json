@@ -1,0 +1,60 @@
+{
+  "id": "vmbo_gl_nederlands_2024_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 60,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>10 Welke deelonderwerpen in de tabel hierboven komen zowel in tekst 1 als in het tekstfragment aan de orde?<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Noteer de juiste zinnen uit de tabel hierboven.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\"><strong>Kies de juiste twee manieren</strong></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">de aanleiding voor het schrijven van de tekst noemen</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">een samenvatting van de tekst geven</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">een voorbeeld bij het onderwerp van de tekst noemen</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">een waarschuwing bij het onderwerp geven</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">het centrale probleem van de tekst benoemen</td></tr></tbody></table></figure>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Lees nu het tekstfragment en beantwoord daarna vraag 10 en 11.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><strong>Klimaatverandering bedreigt zandstranden als een sluipmoordenaar</strong></p><p><br><strong>(1)</strong> Lange strandwandelingen bij zonsondergang of afkoelen tijdens een hittegolf: jaarlijks trekken miljoenen mensen naar het strand. Maar wereldwijd kan de helft van de zandstranden binnen een eeuw verdwijnen.<br><strong>(2)</strong> Dit blijkt uit een onderzoek van het Joint Research Centre (JRC) van de Europese Commissie dat gisteren is gepubliceerd. \"Wij zijn geschrokken van de impact op kusten wereldwijd\", zegt Arjen Luijendijk, een van de onderzoekers en werkzaam bij kennisinstituut Deltares.<br><strong>(3)</strong> Zandstranden zullen namelijk tientallen tot honderden meters landinwaarts trekken of zelfs compleet verdwijnen als gevolg van de stijgende zeespiegel. Ruim 130.000 kilometer aan zandstrand dreigt te verdwijnen. Als er niet ingegrepen wordt, verdwijnen zandstranden in het oosten van Noord-Amerika, het Amazonegebied, Zuid- en West-Aziē, en het zuidwesten van Europa. In de Verenigde Staten is zelfs al een complete kustplaats opgeslokt door de zee.<br><strong>(4)</strong> In totaal bestaat een derde van alle kustlijnen ter wereld uit zandstranden. Deze stranden zijn belangrijk als een natuurlijke buffer voor stormen en hoog water. Daarnaast zijn ze belangrijk voor de economie, de recreatie en het toerisme.<br><strong>(5)</strong> Hoeveel stranden daadwerkelijk zullen verdwijnen, hangt volgens het onderzoek grotendeels af van twee dingen. Allereerst van de inzet van landen om kusterosie tegen te gaan, door bijvoorbeeld zand op te spuiten zoals we in Nederland doen. En het hangt af van de toekomstige uitstoot van broeikasgassen.<br><strong>(6)</strong> \"Kusterosie is een sluipmoordenaar\", legt Luijendijk uit. \"Het is een langzame trend waarbij op lange termijn pas grote gevolgen zichtbaar zijn.\"</p><p><br><i>naar een deel van een online artikel van RTL Nieuws, 3 maart 2020</i></p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;width:auto;\"><strong>deelonderwerp</strong></td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">erosie van Engelse kliffen</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">gevolgen zeespiegelstijging</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">kustbescherming wereldwijd</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">toekomst van strandtoerisme</td></tr></tbody></table></figure>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_72e6e0ffb16a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f72e99feb3944c19bd1b658b5429d81a.pdf"
+    },
+    {
+      "name": "Nederlands 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_uitwerkbijla_f57b7da9a165.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7d469a250dee4df8b5245abf65e0587d.pdf"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "vwo_bedrijfseconomie_2024_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 13,
+          "name": "Vastleggen van financiële en niet financiële informatie",
+          "prefix_code": 1
+        },
+        {
+          "id": 14,
+          "name": "Kosten- en winstvraagstukken",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de dekkingsbijdrage per pizza in de maand december 2023.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De btw in deze opgave bedraagt 21%. Van Bella Cucina bv, een pizzarestaurant met drie vestigingen, is onderstaande grafiek gegeven voor de maand december 2023.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_fbd6b7c5f445.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/310e1c15679b4b1287d21abf70c957dd.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Overige gegevens:&nbsp;<br> Bella Cucina verkoopt alleen pizza’s.&nbsp;<br> Bella Cucina verkoopt alle pizza’s tegen dezelfde verkoopprijs.&nbsp;<br> De variabele kosten per pizza zijn bij alle soorten pizza’s gelijk.&nbsp;<br><br>In december 2023 zijn er 9.200 pizza’s verkocht.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_bijlag_7eadadfb909b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b308f8bea0724a7aafeda7412effc100.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_uitwer_83345fd16197.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9381244ee6040b2bd0134a67d821ddb.pdf"
+    }
+  ]
+}

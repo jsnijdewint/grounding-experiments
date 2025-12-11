@@ -1,0 +1,101 @@
+{
+  "id": "havo_biologie_2024_t1_q30",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welk hormoon krijgt de eiceldonor toegediend? En welk hormoon of welke hormonen krijgt Emma toegediend?&nbsp;<br>eiceldonor &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Emma&nbsp;<br>A FSH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;LH&nbsp;<br>B FSH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;oestradiol en progesteron&nbsp;<br>C oestradiol &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;LH&nbsp;<br>D oestradiol &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;oestradiol en progesteron</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Emma is 17 jaar en heeft zich altijd een meisje gevoeld. Ze is echter nog nooit ongesteld geworden en heeft ook nauwelijks borstontwikkeling. Daarom gaat ze naar de huisarts.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_1e1883223a92.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7e687413c42f4413acf9eca4cd6cb5c9.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het karyotype beschrijft per lichaamscel het totale aantal chromosomen, de geslachtschromosomen en eventuele extra chromosomen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De huisarts laat het bloed van Emma ook onderzoeken op de aanwezigheid van geslachtshormonen. De concentraties van oestradiol (oestrogeen) en FSH in Emma’s bloed blijken sterk af te wijken van de gemiddelde waarden voor vrouwen van dezelfde leeftijd: de concentratie oestradiol in haar bloed is lager en de concentratie FSH in haar bloed is hoger. In afbeelding 2 is de regulatie van de productie van oestradiol en FSH schematisch weergegeven.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_a20bccb05949.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1333ccaab2864b5c9f67519fd18b9eb0.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De huisarts vermoedt dat Emma het syndroom van Swyer heeft. Vervolgonderzoek door een klinisch-genetisch arts bevestigt dit: door een mutatie is bij Emma het SRY-gen niet werkzaam. Normaal gesproken beïnvloedt dit gen, dat zich op het Y-chromosoom bevindt, de ontwikkeling van de geslachtsorganen. De arts legt uit: “In de eerste weken van de embryonale ontwikkeling verloopt de aanleg van de geslachtsorganen van een jongen en een meisje hetzelfde: er worden oer-geslachtsklieren aangelegd. Als er geen SRY-gen aanwezig is, dan ontwikkelen deze oerklieren zich verder tot eierstokken. Is er wel een functionerend SRY-gen aanwezig, dan wordt vanaf de zesde week het SRY-eiwit gevormd, dat ervoor zorgt dat zaadballen worden aangelegd. Deze zaadballen gaan de hormonen testosteron en AMH vormen. Testosteron stimuleert de ontwikkeling van de bijballen en zaadleiders en andere mannelijke primaire geslachtskenmerken. AMH zorgt voor het verdwijnen van de aanleg van de vrouwelijke geslachtsorganen. Bij jou, Emma, is het SRY-gen wel aanwezig, maar door een mutatie kwam het niet tot expressie.”</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Emma zou graag een vrouwelijker uiterlijk krijgen. Om haar borstontwikkeling te stimuleren krijgt ze daarom pillen met oestradiol.<br><br>De oestradiolmoleculen worden geresorbeerd in de darm en bereiken het borstweefsel via een borstslagader.&nbsp;<br>Een aantal bloedvaten zijn:&nbsp;<br>1 aorta&nbsp;<br>2 bovenste holle ader&nbsp;<br>3 darmslagader&nbsp;<br>4 leverader&nbsp;<br>5 leverslagader&nbsp;<br>6 longader&nbsp;<br>7 longslagader&nbsp;<br>8 onderste holle ader&nbsp;<br>9 poortader</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_8514f55c28cb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/65836059b7fb43679346257d91166eb3.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Emma moet de oestradiolpillen dagelijks slikken, omdat het grootste deel van het oestradiol binnen enkele dagen na opname wordt uitgescheiden. Oestradiol komt dan terecht in de urine en in de ontlasting.<br><br>In de nieren komt oestradiol in de voorurine terecht. Daarna wordt in het eerste gekronkelde nierbuisje een deel van het oestradiol gereabsorbeerd.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Emma vraagt aan de arts of ze later kinderen kan krijgen. Die vertelt haar dat ze misschien via eiceldonatie en ivf zwanger kan worden. De eiceldonor krijgt dan hormooninjecties toegediend, waardoor er meerdere eicellen gaan rijpen. Emma zal dan hormooninjecties toegediend krijgen die haar baarmoeder voorbereiden op de innesteling van een embryo.</p>"
+    }
+  ],
+  "bijlages": []
+}

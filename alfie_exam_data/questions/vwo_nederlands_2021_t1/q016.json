@@ -1,0 +1,91 @@
+{
+  "id": "vwo_nederlands_2021_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 55,
+          "name": "Samenvatten",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke drie van onderstaande uitspraken zijn het meest in overeenstemming met de inhoud en het doel van tekst 1? Noteer de nummers.</p><p>Deze tekst</p><p>1 laat zien dat het weinig zinvol te noemen is om het verleden te gebruiken als basis voor analyse van het heden.</p><p>2 maakt duidelijk dat nuchterheid en reflectie van belang zijn tijdens onverwachte gebeurtenissen en de journalistieke weergave daarvan.</p><p>3 maakt duidelijk dat politieke beleidsmakers er per definitie geen baat bij hebben om te luisteren naar historici.</p><p>4 relativeert het belang van historische kennis door in te gaan op misvattingen en tegenvallende onderzoeksresultaten.</p><p>5 schetst een genuanceerd beeld van de auteurs en hun boek Thinking in Time.</p><p>6 zet vraagtekens bij pogingen tot duiding van het heden op basis van kennis van het verleden, zodat het belang van historische kennis wordt gerelativeerd.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De tekst ‘We leren (n)iets van de geschiedenis’ kan door middel van onderstaande kopjes in zes delen worden onderverdeeld:</p><p>deel 1: Inleiding</p><p>deel 2: Het (on)nut van historische kennis</p><p>deel 3: Ons (on)vermogen lessen te trekken uit het verleden</p><p>deel 4: Vergelijkingen tussen heden en verleden</p><p>deel 5: Poging tot toepassing in de praktijk</p><p>deel 6: Slot</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In alinea 4 van tekst 1 vind je een argumentatie. De functie van elk gedeelte in deze argumentatie kan met behulp van functiewoorden worden weergeven.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In alinea 3 en 4 van tekst 1 komt de vraag aan de orde of historische kennis zinvol is of niet.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“We hadden op 4 en 5 mei beter gratis poffertjes kunnen uitdelen; dat had evenveel geholpen als al die prachtige toespraken van de afgelopen zeventig jaar.” (regels 101-105)</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>“Als er al een periode is uit ons nationale verleden die velen beschouwen als een leerzaam en bruikbaar verleden, dan is het wel de Duitse bezetting.” (regels 60-64)</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In alinea 19 en 20 van tekst 1 wordt geargumenteerd op basis van vergelijking.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>In alinea 10 tot en met 13 van tekst 1 staan woorden die suggereren dat er sprake is van een negatieve houding ten opzichte van de media.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>“En geldt dat eigenlijk ook niet voor de EU?” (regels 177-178) Volgens tekst 1 is het antwoord op deze vraag ontkennend.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>In het tekstgedeelte van de alinea’s 10 tot en met 14 van tekst 1 wordt een aantal historische analogieën besproken en telkens ontkracht.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>In tekst 1 wordt gesteld dat de historicus “kan uitleggen waarom een analogie niet deugt als basis voor besluitvorming.” (regels 238-240)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2021_I_bijlage_a140e076680b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8f09b902c8234f79a5b66b53e4cd1e25.pdf"
+    }
+  ]
+}

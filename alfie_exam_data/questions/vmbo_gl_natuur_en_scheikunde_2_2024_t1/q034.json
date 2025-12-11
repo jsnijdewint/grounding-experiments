@@ -1,0 +1,39 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_2_2024_t1_q34",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_2",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 53,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bij de ontleding van guanidinenitraat ontstaan behalve stikstofgas ook koolstof en waterdamp.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Geef de vergelijking van de ontleding van guanidinenitraat.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>1 &nbsp; Een airbag beschermt een inzittende van een auto bij</p><p>2 &nbsp; een botsing. Bij een botsing treedt een mechanisme in</p><p>3 &nbsp; werking waardoor een ontleding van een vaste stof</p><p>4 &nbsp; plaatsvindt en de airbag zich opblaast. Bij de ontleding</p><p>5 &nbsp; vindt gasvorming plaats en komt warmte vrij. In airbags</p><p>6 &nbsp; wordt bijvoorbeeld natriumazide <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">NaN</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>of</p><p>7 &nbsp; guanidinenitraat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>6</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">N</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>gebruikt. Beide stoffen</p><p>8 &nbsp; vormen bij ontleding onder meer stikstofgas <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">N</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Guanidinenitraat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>6</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">N</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>kan worden gemaakt volgens:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>stof </mtext><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">X</mi> </mrow><mo>+</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">HNO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mo stretchy=\"false\">&#8594;</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>6</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">N</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn>&#160;</mrow></msub></math></p>"
+    }
+  ],
+  "bijlages": []
+}

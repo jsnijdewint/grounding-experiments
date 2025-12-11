@@ -1,0 +1,105 @@
+{
+  "id": "havo_wiskunde_a_2022_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 176,
+          "name": "Tabellen",
+          "prefix_code": 1
+        },
+        {
+          "id": 177,
+          "name": "Grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        },
+        {
+          "id": 178,
+          "name": "Formules met één of meer variabelen",
+          "prefix_code": 3
+        },
+        {
+          "id": 179,
+          "name": "Lineaire verbanden",
+          "prefix_code": 4
+        },
+        {
+          "id": 180,
+          "name": "Exponentiële verbanden",
+          "prefix_code": 5
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken op deze manier in welk jaar het jaargemiddelde voor het eerst hoger dan 500 ppm zal zijn.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Vanaf 1959 heeft Charles David Keeling de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-concentratie in de atmosfeer gemeten. Deze metingen laten zien dat de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-concentratie in de atmosfeer in de loop van de jaren flink is toegenomen. In figuur 1 zijn voor de periode 1959-2015 de jaargemiddelden van de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-concentratie weergegeven. De gebruikte eenheid van de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-concentratie is ppm (parts per million): het aantal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-deeltjes per miljoen luchtdeeltjes. Figuur 1 staat vergroot afgedrukt op de uitwerkbijlage.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_72b11c22eaf8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/873b66c73047403792c4bb324667650d.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het blijkt dat de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-concentratie elk jaar volgens hetzelfde patroon om het jaargemiddelde schommelt. In figuur 2 kun je aflezen hoeveel het maandgemiddelde van de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-concentratie afwijkt van het jaargemiddelde. Figuur 2 staat ook afgedrukt op de uitwerkbijlage.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_1350a0e822a5.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cb8abcc453e642b28faf72258b15ff56.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Keeling schatte in 1970 op grond van zijn meetgegevens over de periode 1959-1970 dat het jaargemiddelde van de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-concentratie vanaf 1970 jaarlijks met 0,3% zou toenemen. Daarmee voorspelde hij hoe hoog het jaargemiddelde van de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-concentratie in 1995 zou zijn. Die voorspelling wijkt een beetje af van het werkelijke jaargemiddelde van het jaar 1995.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-concentratie blijft toenemen. In 2000 was het jaargemiddelde <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>369</mn> <mo>,</mo> <mn>5</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">ppm</mi>&#160;</mrow></math>, in 2015 was dit opgelopen tot <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>400</mn> <mo>,</mo> <mn>8</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">ppm</mi>&#160;</mrow></math>.</p><p>&nbsp;</p><p>Tibbe vermoedt op basis van figuur 1 dat het jaargemiddelde in de periode 2000-2015 groeide volgens een exponentieel verband en dat de groei zich in de jaren daarna voortzet volgens hetzelfde exponentiële verband. Je kunt dan, uitgaande van bovenstaande gegevens, berekenen in welk jaar het jaargemiddelde voor het eerst hoger dan 500 ppm zal zijn.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Marrit is het niet eens met Tibbe: zij vermoedt dat er vanaf het jaar 2000 geen sprake is van exponentiële groei, maar van lineaire groei. Je kunt dan, uitgaande van de jaargemiddelden van 2000 en 2015 en met behulp van lineair extrapoleren, berekenen in welk jaar het jaargemiddelde voor het eerst hoger dan 500 ppm zal zijn.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_47358876a1f1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/481e05ea1b3d4f8abbc66849e31c4129.pdf"
+    },
+    {
+      "name": "Wiskunde A 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2022_I_uitwerkbijla_ed3f16cbc21f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7a0c7f08da744830b81b66f1bba66954.pdf"
+    }
+  ]
+}

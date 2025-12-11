@@ -1,0 +1,39 @@
+{
+  "id": "vmbo_gl_nederlands_2024_t1_q26",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 60,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>\"Daardoor blijft je brein geprikkeld en blijf je scrollen.\" (regels 32-33) Wat zorgt er vooral voor dat je brein geprikkeld blijtt?<br><strong>A</strong> De schokkende beelden op sociale media zorgen dat je blijft kijken.<br><strong>B </strong>De variatie van de inhoud op sociale media is als een fruitmachine.<br><strong>C </strong>Door het algoritme krijg je steeds iets verrassends te zien wat jou interesseert.<br><strong>D</strong> Je vrienden plaatsen steeds weer iets nieuws wat jou interesseert.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_72e6e0ffb16a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f72e99feb3944c19bd1b658b5429d81a.pdf"
+    },
+    {
+      "name": "Nederlands 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_uitwerkbijla_f57b7da9a165.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7d469a250dee4df8b5245abf65e0587d.pdf"
+    }
+  ]
+}

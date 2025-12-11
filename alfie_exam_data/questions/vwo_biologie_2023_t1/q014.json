@@ -1,0 +1,159 @@
+{
+  "id": "vwo_biologie_2023_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 34,
+          "name": "Reproductie van het organisme",
+          "prefix_code": 7
+        },
+        {
+          "id": 35,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 43,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zullen de PGC's van Rumpless Game-embryo's transgeen of niettransgeen zijn? En het vrouwelijke barnevelder embryo?</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-color:!important;border-bottom-style:none;border-left-color:!important;border-left-style:none;border-right-color:!important;border-right-style:none;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">PGC's Rumpless Game</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">vrouwelijk barnevelder embryo</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">A</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">transgeen</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">transgeen</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">B</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">transgeen</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">niet-transgeen</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">C</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">niet-transgeen</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">transgeen</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">D</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">niet-transgeen</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">niet-transgeen</td></tr></tbody></table></figure>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Onderzoekers van het Roslin-instituut in Edinburgh zijn erin geslaagd haantjes zo te modificeren dat zij dochters krijgen die onvruchtbaar zijn. Deze hennen kunnen daardoor als ‘draagmoeder’ fungeren voor zeldzame kippenrassen zoals Rumpless Game (afbeelding 1).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2bc6b99043e6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/13d8e3b9846642adbcf8420be44d7b64.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het transgeen maken van vogels is erg moeilijk. Genetisch gemodificeerde embryo’s kunnen bijvoorbeeld niet geïmplanteerd worden in een ei. Daarom wordt nu onderzoek gedaan naar het genetisch modificeren van de embryonale stamcellen van vogels. Vroeg in de embryonale ontwikkeling zijn bij vogels twee typen embryonale stamcellen aanwezig. Het ene type kan zich differentiëren tot alle celtypen behalve geslachtscellen. Het andere type, de primordiale geslachtscel (PGC), kan zich juist alleen ontwikkelen tot geslachtscellen. Beide typen stamcellen kunnen in een vroeg stadium uit kippenembryo’s gehaald worden en genetisch gemodificeerd worden. De Schotse onderzoekers wilden genetisch gemodificeerde embryonale stamcellen inbrengen bij kippenembryo’s, om deze kippen – als ze volwassen zijn – transgeen nageslacht te laten produceren.<br><br>De Schotse onderzoekers kozen ervoor om PGC’s te modificeren, en niet het andere type embryonale stamcellen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Om de PGC’s genetisch te modificeren, werkten de onderzoekers van het Roslin-instituut met een genetische techniek die gebruikmaakt van TALEN (Transcription Activator-Like Effector Nucleases). TALEN zijn eiwitten die het DNA op een specifieke plaats kunnen knippen. Zo’n eiwit is opgebouwd uit twee delen: een herkenningssequentie die bindt aan een bepaald stuk DNA en een endonuclease (Fok1). Om het DNA te knippen zijn twee TALEN-eiwitten nodig: een linker en een rechter. De twee Fok1-delen van deze eiwitten maken de knip (afbeelding 2). Op de knipplaats kan vervolgens een gewenst nieuw stuk DNA ingebouwd worden.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_5f2ee587bd92.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e85b21eed8cf4d9c9debb2a09fb89a0e.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Een TALEN-eiwit bindt op dezelfde manier aan DNA als de transcriptiefactor die bindt aan de TATA-box.<br>Over de binding van deze transcriptiefactor worden de volgende uitspraken gedaan:<br>1 De transcriptiefactor bindt aan het DNA door middel van basenparing.<br>2 De transcriptiefactor bindt aan de promotor van een gen.<br>3 De transcriptiefactor bindt aan een stukje niet-coderend DNA.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Om haantjes te verkrijgen die onvruchtbare dochters krijgen, probeerden de onderzoekers in PGC’s het DDX4-gen uit te schakelen. Het DDX4-gen codeert voor een eiwit dat noodzakelijk is voor de ontwikkeling van PGC’s tot geslachtscellen. Het DDX4-gen ligt op het Z-chromosoom. Het Z-chromosoom is een van de twee geslachtschromosomen bij vogels. Vrouwtjes hebben een Zchromosoom en een W-chromosoom. Mannetjes hebben twee Z-chromosomen. Vrouwtjes waarbij het DDX4-gen is uitgeschakeld, zijn onvruchtbaar. Mannetjes waarbij slechts één allel is uitgeschakeld, zijn nog wel vruchtbaar. De onderzoekers bouwden met behulp van TALEN-eiwitten in het DDX4- gen een genconstruct in. Het genconstruct (afbeelding 3) codeert voor twee eiwitten: voor het groen fluorescerende eiwit GFP en voor een eiwit dat resistentie geeft tegen de gifstof puromycine (Pu). Het construct eindigt met een sequentie (PA) waardoor de transcriptie stopt.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_8cf31c4c831c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9c10c9d0c88c4f7a98ecea07a821937f.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>In afbeelding 4 zijn het normale DDX4-gen en het gemodificeerde DDX4- gen schematisch weergegeven, met daarin de exons aangegeven als blokjes (E1, E2 enzovoorts).</p>"
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_04ac932413a1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/abbb0a1f259c4bc9825f8d6ad78002ef.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Over het gemodificeerde DDX4-gen worden de volgende uitspraken gedaan:<br>1 De transcriptie stopt na E4 (exon 4).<br>2 Exon 3 ontbreekt in het mRNA.<br>3 Er treedt geen splicing op van het pre-mRNA.</p>"
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>In afbeelding 5 zijn de stappen weergegeven die de onderzoekers uitvoerden om onvruchtbare hennen te verkrijgen.</p>"
+    },
+    {
+      "order": 12,
+      "type": "image",
+      "media_path": "media/in-exam/img_bd4b5868dee6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/292bb666e6d54b438c14f8472cf0cf5b.png",
+      "caption": ""
+    },
+    {
+      "order": 13,
+      "type": "text",
+      "text": "<p>Om PGC's te selecteren waarin het genconstruct tot expressie is gekomen, werden alle behandelde PGC's gekweekt in een speciaal voedingsmedium (afbeelding 5, stap 3 ).</p>"
+    },
+    {
+      "order": 14,
+      "type": "text",
+      "text": "<p>De onderzoekers wilden vervolgens aantonen dat de TALEN-eiwitten het genconstruct op de juiste plaats in het DDX4-gen hadden aangebracht. Daarvoor isoleerden ze het DNA uit een aantal transgene PGC's uit stap 3 en knipten het DNA met het restrictie-enzym Mfe1. In afbeelding 6 zijn de knipplaatsen van het enzym Mfe1 in het DDX4-gen weergegeven.</p>"
+    },
+    {
+      "order": 15,
+      "type": "image",
+      "media_path": "media/in-exam/img_9bfd7cc46626.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b7081a9359d14cbcaf07c8c45d18b547.png",
+      "caption": ""
+    },
+    {
+      "order": 16,
+      "type": "text",
+      "text": "<p>Vervolgens werden de DNA-fragmenten met het genconstruct en de DNAfragmenten zonder het genconstruct gesorteerd op lengte door middel van gel-elektroforese. Als controle werden niet-gemodificeerde PGC's gebruikt. Het resultaat is te zien in afbeelding 7 .</p>"
+    },
+    {
+      "order": 17,
+      "type": "image",
+      "media_path": "media/in-exam/img_ba019eb2a096.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d5f52cfca8624f3cb42a47ed3f5a0f1f.png",
+      "caption": ""
+    },
+    {
+      "order": 18,
+      "type": "text",
+      "text": "<p>De transgene hennetjes die ontstonden uit de kruising (afbeelding 5, stap 6) bleken geen eicellen te ontwikkelen en zijn dus onvruchtbaar. Hiermee werd aangetoond dat de methode werkt.<br>De transgene haantjes die ontstonden uit deze kruising, kunnen worden gekruist met een wild-type hen om een volgende generatie onvruchtbare hennetjes te produceren.</p>"
+    },
+    {
+      "order": 19,
+      "type": "text",
+      "text": "<p>De onvruchtbare hennen kunnen dienen als 'draagmoeder' voor kuikens die genetisch niet van hen zijn. Zo zouden hennen van het veelvoorkomende ras barnevelder gebruikt kunnen worden om kuikens van het zeldzame ras Rumpless Game voort te brengen. Met de beschreven techniek zou een barnevelder hen eicellen kunnen vormen die genetisch van het Rumpless Game-ras zijn. Om dit te bereiken moeten PGC's van Rumpless Game-embryo's worden ingebracht bij een vrouwelijk barnevelder embryo.</p>"
+    }
+  ],
+  "bijlages": []
+}

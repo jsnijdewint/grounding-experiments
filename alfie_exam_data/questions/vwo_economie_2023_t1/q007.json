@@ -1,0 +1,45 @@
+{
+  "id": "vwo_economie_2023_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 23,
+          "name": "Goede tijden, slechte tijden",
+          "prefix_code": "I"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat de centrale bank van Aruba geen onafhankelijke rentepolitiek kan voeren.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In deze opgave wordt er ter vereenvoudiging van uitgegaan dat in Aruba alleen de Arubaanse florin wordt geaccepteerd als betaalmiddel.&nbsp;<br><br>Aruba heeft een eigen centrale bank en een eigen munt, de Arubaanse florin (AWG). Aruba heeft sinds 1986 een vaste wisselkoersverhouding van de AWG ten opzichte van de (stabiele) Amerikaanse dollar (USD) waarbij 1 AWG = 0,558 USD. De Verenigde Staten zijn een belangrijke handelspartner van Aruba.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Aruba heeft vrij kapitaalverkeer met het buitenland. Er is sprake van een trilemma bij het monetair beleid: de centrale bank van Aruba kan geen onafhankelijke rentepolitiek voeren.</p>"
+    }
+  ],
+  "bijlages": []
+}

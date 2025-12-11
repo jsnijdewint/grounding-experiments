@@ -1,0 +1,46 @@
+{
+  "id": "havo_nederlands_2024_t1_q36",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke term geeft het best weer hoe er in alinea 3 en 4 wordt gedacht over de regelgeving rondom ouder- en partnerschapsverlof in Nederland? De regelgeving is</p><p><strong>A </strong>ondoordacht.</p><p><strong>B </strong>onduidelijk.</p><p><strong>C </strong>oneerlijk.</p><p><strong>D </strong>onuitvoerbaar.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In alinea 2 wordt een vergelijking gemaakt met Scandinavische landen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_fba5d5bcdd9a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e64529d1393448beb9499f8bd4fb3aaa.pdf"
+    }
+  ]
+}

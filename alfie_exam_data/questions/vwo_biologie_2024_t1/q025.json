@@ -1,0 +1,91 @@
+{
+  "id": "vwo_biologie_2024_t1_q25",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 19,
+          "name": "Onderzoeken",
+          "prefix_code": 5
+        },
+        {
+          "id": 20,
+          "name": "Ontwerpen",
+          "prefix_code": 6
+        },
+        {
+          "id": 21,
+          "name": "Modelvorming",
+          "prefix_code": 7
+        },
+        {
+          "id": 22,
+          "name": "Natuurwetenschappelijk instrumentarium",
+          "prefix_code": 8
+        },
+        {
+          "id": 23,
+          "name": "Waarderen en oordelen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken het maximale aantal zoete dropjes dat Anna per dag mag eten volgens bovenstaand advies. Ga ervan uit dat Anna 70 kg weegt.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Anna heeft last van een hoge bloeddruk. Als ze voor controle naar haar huisarts gaat, vraagt de huisarts of ze vaak drop eet of zoethoutthee drinkt. Bepaalde stoffen in deze voedingsmiddelen kunnen namelijk een hoge bloeddruk veroorzaken.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_16362abd6e94.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ade78aa414f74d59aed97493d56013c0.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>GA heeft effect op bepaalde cellen in de nierbuisjes (afbeelding 2). In het grondplasma van deze cellen bevinden zich mineralocorticoïd-receptoren. Door binding van cortisol wordt een mineralocorticoïd-receptor (MR) geactiveerd. De geactiveerde MR verplaatst zich naar de kern, waar dit complex bindt aan een hormoon-respons-element (HRE). Daardoor komen bepaalde genen tot expressie, wat leidt tot de synthese van Na+-kanalen die in het celmembraan terechtkomen. GA verhindert de werking van het enzym 11β-HSD2 in deze niercellen. Dit enzym zet normaliter cortisol om in cortison. Cortison kan niet binden aan de MR.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_189f88a83a67.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e3fb72693f2a44ed8e35dcdb05304b12.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De hoeveelheid glycyrrhizine in drop wordt aangegeven met het GA-gehalte. Het advies voor de hoeveelheid drop die je per dag veilig kan eten, gaat uit van een ‘no effect level’ van 2,0 mg GA per kilogram lichaamsgewicht per dag. Mensen die een hoge bloeddruk hebben zoals Anna, moeten deze waarde door 10 delen. Hieronder is het GA-gehalte van verschillende soorten drop vermeld. Een dropje weegt gemiddeld 5 gram.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_611f91d10901.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a51f94228e0a4f46a758de5e4a575bb1.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

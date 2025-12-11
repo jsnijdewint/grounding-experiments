@@ -1,0 +1,67 @@
+{
+  "id": "havo_biologie_2023_t1_q25",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 122,
+          "name": "Zelforganisatie van cellen",
+          "prefix_code": 3
+        },
+        {
+          "id": 123,
+          "name": "Erfelijke eigenschap",
+          "prefix_code": 7
+        },
+        {
+          "id": 124,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 130,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat voortplanting door kruisbestuiving voor de teunisbloem evolutionair voordeliger is dan voortplanting door zelfbestuiving.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Onderzoekers hebben ontdekt dat planten kunnen reageren op het geluid van passerende bestuivers.</p><p>De onderzoekers lieten teunisbloemen (afbeelding 1) het geluid van een vliegende honingbij 'horen'. De bloemen bleken in reactie daarop veel zoetere nectar te gaan produceren. Volgens de onderzoekers functioneren de bloemen van de plant als gehoororgaan.<br>\"We ontdekten dat de bloemen door deze geluiden gingen trillen\", zo schrijven de onderzoekers. Wat hun verder opviel, is dat de bloemen wel reageerden op de geluiden van bestuivers, maar niet op geluiden met een hogere frequentie.</p><p>Nectar wordt gemaakt door klieren in de bloembeker en bevat een hoge concentratie aan suikers.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_9343d8f171c2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d477c99e475c49a18a6d888d0e7dce84.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Teunisbloemen zijn in staat tot zelfbestuiving. Door meer bestuivers te lokken, wordt de kans op kruisbestuiving (met stuifmeel van een andere teunisbloem-plant) groter.</p>"
+    }
+  ],
+  "bijlages": []
+}

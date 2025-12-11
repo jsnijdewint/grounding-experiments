@@ -1,0 +1,66 @@
+{
+  "id": "havo_nederlands_2023_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke drie van deze voorstellen worden in tekst 2 genoemd? Noteer de nummers van je antwoord.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de eerste twee alinea’s van tekst 2 neemt de auteur twee standpunten in over internationalisering.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“Internationalisering is in drie opzichten breder en belangrijker.” (regels 21-22)</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>“Het is geen doel op zich, maar juist een middel om hogere doelen te verwezenlijken.” (regels 75-78) In alinea 6 worden verschillende hogere doelen genoemd die met internationalisering als middel kunnen worden bereikt. Die doelen hebben elk betrekking op een bepaalde sector in de samenleving.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“veel andere Europese landen doen dat beter” (regels 133-135)</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>“Natuurlijk kunnen we niet de ogen sluiten voor de vraagstukken die de komst van internationale studenten naar Nederland met zich meebrengt.” (regels 99-103) Hieronder staan zes voorstellen die mogelijk een oplossing vormen voor een aantal van deze vraagstukken.</p><p>1 De integratie van buitenlandse studenten moet bevorderd worden zodat talent voor onze samenleving behouden kan blijven.</p><p>2 Er moeten meer internationale studenten voor technische vakken komen.</p><p>3 Gemeenten en de Rijksoverheid moeten samen zorgen voor voldoende woonruimte voor studenten.</p><p>4 Het aantal Nederlandse studenten dat hun volledige opleiding in het buitenland volgt, moet omhoog, zodat de kosten evenwichtiger worden verdeeld.</p><p>5 Het Engelstalig aanbod van onderwijs moet verder uitgebreid worden.</p><p>6 Talentvolle studenten moeten meer gestimuleerd worden internationale ervaring op te doen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_4c535c813bac.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/31997ba285504e0396b7bc07c4c13230.pdf"
+    }
+  ]
+}

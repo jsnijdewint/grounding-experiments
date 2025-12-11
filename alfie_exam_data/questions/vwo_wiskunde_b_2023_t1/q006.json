@@ -1,0 +1,82 @@
+{
+  "id": "vwo_wiskunde_b_2023_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 47,
+          "name": "Differentiaal- en integraalrekening",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken exact deze waarde van <i>d</i>.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de werktuigbouw moeten vaak metalen platen in een bepaalde hoek worden gebogen. Een van de technieken die daarbij worden gebruikt is <strong>vrijbuigen</strong>. Daarbij ligt de metalen plaat op een matrijs met een bepaalde vorm. Hierna wordt een stempel met kracht op de plaat gedrukt, zodat deze de gewenste vorm krijgt. In figuur 1 is dit in een vooraanzicht weergegeven. In figuur 2 zie je een voorbeeld van een metalen plaat na het buigen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_5044ab90388f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3efd07b2083e48b1974c2255f897364a.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_bb7f8b38ac06.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9a4ca01d40d34845a6870bb602821bb0.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Tijdens het vrijbuigen treedt vervorming op: aan de buitenkant rekt het metaal iets op en aan de binnenkant wordt het samengedrukt. In het inwendige van de metalen plaat bevindt zich de <strong>neutrale lijn</strong>: de lengte hiervan blijft gelijk na vervorming. In deze opgave nemen we aan dat de dikte van de plaat bij het buigen gelijk blijft.</p><p>In figuur 3 is het vooraanzicht van een metalen plaat met een dikte van <i>d </i>mm zowel vóór als na het buigen weergegeven. Wanneer de plaat wordt gebogen over een hoek van 45°, verandert rechthoek <i>ABCD</i> in de vorm <i>A'B'C'D'</i> . Hierbij is boog <i>C'D'</i> de boog van een cirkel met middelpunt <i>M</i> en straal 2<i>d</i> en <i>A'B'</i> de boog van een cirkel met middelpunt <i>M</i> en straal 3<i>d</i>. De neutrale lijn <i>P'Q'</i> is een cirkelboog op een afstand van 0,4<i>d</i> van boog<i> C'D'</i> . Verder geldt dat de lengte van de neutrale lijn gelijk blijft, dus de lengte van boog <i>P'Q'</i> is gelijk aan de lengte van<i> PQ</i></p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_4a9ac974772c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ca9172024ad640d8ac76b4472d6986c9.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De kracht die uitgeoefend moet worden op een metalen plaat om deze te buigen, hangt af van het soort metaal, de dikte van het metaal en de breedte van de opening van de matrijs. De formule om deze kracht uit te rekenen luidt:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>F</mi>\r\n  <mo>=</mo>\r\n  <mfrac>\r\n    <mrow>\r\n      <mi>R</mi>\r\n      <mo>&#8901;</mo>\r\n      <msup>\r\n        <mi>d</mi>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mn>2</mn>\r\n        </mrow>\r\n      </msup>\r\n    </mrow>\r\n    <mi>V</mi>\r\n  </mfrac>\r\n  <mrow data-mjx-texclass=\"INNER\">\r\n    <mo data-mjx-texclass=\"OPEN\">(</mo>\r\n    <mn>1</mn>\r\n    <mo>+</mo>\r\n    <mfrac>\r\n      <mrow>\r\n        <mn>4</mn>\r\n        <mi>d</mi>\r\n      </mrow>\r\n      <mi>V</mi>\r\n    </mfrac>\r\n    <mo data-mjx-texclass=\"CLOSE\">)</mo>\r\n  </mrow>\r\n</math> &nbsp; &nbsp; &nbsp; (formule 1)</p><p>Hierbij is:</p><p>- <i>F </i>de benodigde kracht (in kN/m);</p><p>- <i>R </i>een constante die afhangt van het soort metaal;</p><p>- <i>d </i>de dikte van het metaal (in mm);</p><p>- <i>V</i> de breedte van de opening van de matrijs (in mm).</p><p>&nbsp;</p><p>Voor het buigen van een metalen plaat met een dikte van 10 mm op een matrijs met een opening van 200 mm is een kracht van 420 kN/m nodig. Als je deze metalen plaat zou buigen op een matrijs met een opening van 100 mm is meer kracht nodig.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Om bij een gegeven plaatdikte de breedte van de opening van de matrijs te berekenen, wordt de volgende formule gebruikt:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>V</mi>\r\n  <mo>=</mo>\r\n  <msup>\r\n    <mi>d</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>1</mn>\r\n      <mo>,</mo>\r\n      <mn>75</mn>\r\n    </mrow>\r\n  </msup>\r\n</math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(formule 2)</p><p>Door formule 1 en formule 2 te combineren krijg je een formule die de benodigde kracht <i>F</i> uitdrukt in <i>R</i> en <i>d</i>.</p><p>&nbsp;</p><p>Er is een plaatdikte <i>d</i> waarbij de benodigde kracht <i>F</i> minimaal is.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_b_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_b_formules_84daf09e2c5a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1ca38286256f423c923a34eb38578ea3.pdf"
+    }
+  ]
+}

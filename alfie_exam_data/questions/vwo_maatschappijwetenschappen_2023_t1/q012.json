@@ -1,0 +1,40 @@
+{
+  "id": "vwo_maatschappijwetenschappen_2023_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "maatschappijwetenschappen",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 7,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik tekst 3.<br>In tekst 3 beschrijft Bengtsson de democratisering van de Zweedse samenleving in de twintigste eeuw.<br>Leg uit dat in zijn beschrijving van de democratisering in Zweden het conflict-paradigma te herkennen is. Gebruik in je uitleg:</p><ul><li>een kenmerk van het conflict-paradigma en informatie uit tekst 3 waaruit het gekozen kenmerk blijkt;</li><li>de omschrijving van het kernconcept democratisering en informatie uit tekst 3 waaruit democratisering blijkt.</li></ul>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de teksten 3 en 4 en de figuren 1 en 2 uit het bronnenboekje.</p><p>Inleiding<br>Het Scandinavische land Zweden wordt beschouwd als een van de meest sociaal gelijke landen in de wereld. Economisch historicus Bengtsson en de politiek historici Berggren en Trägårdh kijken op verschillende manieren naar de ontwikkeling van gelijkheid in Zweden. Deze opgave gaat over gelijkheid in Zweden.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijwetenschappen 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijwetenschappen_2023_7f49e6057214.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/141d1be7dea4424eb40447b4739a1b33.pdf"
+    }
+  ]
+}

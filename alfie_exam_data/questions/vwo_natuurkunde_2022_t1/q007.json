@@ -1,0 +1,99 @@
+{
+  "id": "vwo_natuurkunde_2022_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 49,
+          "name": "Elektrische systemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 50,
+          "name": "Elektrische en magnetische velden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef in de tabel op de uitwerkbijlage voor elke halfgeleider aan of deze op grond van de bandgap geschikt is voor gebruik in een Qled-tv. Licht je antwoord toe.</p>",
+    "max_score": 2,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "<p>maximumscore 2<br>voorbeeld van een antwoord:<br>De fotonenergie moet groter zijn dan de bandgap. (Dus halfgeleiders met een bandgap kleiner dan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mo>,</mo> <mn>75</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">eV</mi>&#160;</mrow></math>zijn geschikt / halfgeleiders met een bandgap groter dan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn> <mo>,</mo> <mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">eV</mi>&#160;</mrow></math>zijn niet geschikt.)</p><figure class=\"table\"><table><tbody><tr><td style=\"border-bottom-style:solid;border-bottom-width:1px;border-left-style:!important;border-left-width:!important;border-right-style:!important;border-right-width:!important;border-top-style:solid;border-top-width:1px;text-align:center;width:auto;\">halfgeleider</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;text-align:center;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"bold-italic\">E</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>gap </mtext></mrow></msub><mo stretchy=\"false\">(</mo> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"bold\">e</mi> <mi mathvariant=\"bold\">V</mi> </mrow><mo stretchy=\"false\">)</mo></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">Si</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">1,12</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">geschikt</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">CdSe</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">1,74</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">geschikt</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Si</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">N</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>4</mn>&#160;</mrow></msub></math></td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">5</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">ongeschikt</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">GaAs</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">1,43</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">geschikt</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr><tr><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-left-style:solid !important;border-left-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">GaP</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;text-align:center;width:auto;\">2,26</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">geschikt</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-style:solid !important;border-right-width:1px !important;border-top-color:!important;border-top-style:none;width:auto;\">&nbsp;</td></tr></tbody></table></figure><ul><li>inzicht dat de bandgap niet groter mag zijn dan de fotonenergie<br>1</li><li>consequent invullen van de tabel<br>1</li></ul><p>&nbsp;</p><p><i>Opmerking</i><br><i>Als de kandidaat naast het argument dat de fotonenergie groter moet zijn dan de bandgap ook noemt dat de uitgezonden fotonen zichtbaar licht moeten zijn en dus naast <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Si</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">N</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>4</mn>&#160;</mrow></msub></math>ook Si en GaAs als ongeschikt noteert, dit niet aanrekenen.</i></p><p>&nbsp;</p>",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In het scherm van een Qled-tv valt violet licht afkomstig uit leds op een laagje met quantumdots. Quantum-dots zijn kleine bolletjes met afmetingen variërend van 1 tot 20 nm , gemaakt van een speciaal materiaal. In figuur 1 staat een artist's impression van één quantum-dot (opgebouwd uit atomen). De quantum-dots absorberen het violette licht waarmee ze bestraald worden en zenden daarna zelf licht uit met een andere kleur dan violet.<br>Voor de werking van een Qled-tv zijn quantumdots nodig die blauw, groen of rood licht uitzenden. De kleur van het uitgezonden licht hangt af van de grootte van de quantum-dot. Zie figuur 2.<br>figuur 1屋</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_de69f7474d7f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5da728de309248a0b9cb9adfb4933648.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_bc7b183fb0e8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/12624f477c9d40b5804bde785185d96a.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De quantum-dots in een Qled-tv worden met violet licht bestraald.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p><strong>Halfgeleider</strong><br>Een quantum-dot is gemaakt van een zogenaamd halfgeleidermateriaal. In een halfgeleider kan een elektron slechts in banden van zeer dicht bij elkaar gelegen energieniveaus bestaan. Voor de werking van een quantum-dot zijn slechts twee van deze energiebanden van belang: de valentieband en de geleidingsband.<br>Daartussen zit bij een halfgeleider een energieverschil, de zogeheten bandgap <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>gap&#160;</mtext></mrow></msub></math>. Zie figuur 3.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_93cb374eeb14.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/565150cce9fa4ff48959c2832df636ca.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Als een foton geabsorbeerd wordt maakt het één elektron vrij uit het atoomrooster. De energie van dat foton moet daarvoor groot genoeg zijn. Het elektron gaat dan van een energieniveau in de valentieband naar een energieniveau in de geleidingsband. Dit betekent dat het loskomt uit het atoomrooster van de halfgeleider. Het achterblijvende gat in de valentieband kan worden opgevat als een positief deeltje dat door het rooster beweegt. Het aangeslagen elektron en het achterblijvende gat worden samen een elektron-gatpaar genoemd.<br>In figuur 4 is van enkele halfgeleiders de bandgap gegeven.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_c5174b139956.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1b9c843ac68c42888c2d66811ddbc560.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Neem aan dat de fotonenergie van het gebruikte violette licht tussen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mo>,</mo> <mn>75</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">eV</mi>&#160;</mrow></math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn> <mo>,</mo> <mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">eV</mi>&#160;</mrow></math>ligt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2022_I_uitwerkbijl_9a4d39873fbe.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cfd906bcef9d47ec9c94427a551f4b61.pdf"
+    }
+  ]
+}

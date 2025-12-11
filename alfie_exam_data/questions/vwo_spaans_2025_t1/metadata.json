@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 142,
+    "education_level": "vwo",
+    "discipline": "spaans",
+    "year": 2025,
+    "tijdvak": 1
+  },
+  "question_count": 42
+}

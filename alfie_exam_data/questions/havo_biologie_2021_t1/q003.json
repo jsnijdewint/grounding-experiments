@@ -1,0 +1,72 @@
+{
+  "id": "havo_biologie_2021_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke huidlaag moet het speeksel van de teek minimaal bereiken, zodat het zowel verdovend als stollingsremmend kan werken?<br>A de hoornlaag<br>B de kiemlaag<br>C de lederhuid<br>D het onderhuids bindweefsel</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tenzij anders vermeld, is er sprake van normale situaties en gezonde organismen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Tijdens een introductieactiviteit van de hbo-opleiding Bos- en natuurbeheer spelen Stijn en zijn medestudenten een kennismakingsspel in het bos. Aan het eind van de dag wordt tegen alle studenten gezegd dat ze zich goed moeten controleren op teken.</p><p>Teken (Ixodes ricinus, afbeelding 1) wachten in het gras of in laag struikgewas op voorbijkomende dieren of mensen die hun een bloedmaaltijd kunnen verschaffen. Ze hechten zich met hun zuigsnuit (afbeelding 2) aan hun slachtoffer en voeden zich vervolgens met bloed uit de bloedvaten van de huid.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_e89ae00df0a6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ebf1cc5b791949a79541a63337be0a37.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>'s Avonds bemerkt Stijn dat hij een teek in zijn knieholte heeft. Het speeksel van een teek bevat zowel een verdovende stof als een stof die bloedstolling tegengaat. Door de verdovende stof heeft Stijn de tekenbeet niet gevoeld en door de stollingsremmer kan de teek lange tijd bloed blijven zuigen zonder dat er stolsels ontstaan.</p>"
+    }
+  ],
+  "bijlages": []
+}

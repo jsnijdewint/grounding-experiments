@@ -1,0 +1,56 @@
+{
+  "id": "vwo_geschiedenis_2024_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 192,
+          "name": "Tijdvak 8 – Burgers en stoommachines",
+          "prefix_code": 8
+        },
+        {
+          "id": 193,
+          "name": "Tijdvak 9 – Wereldoorlogen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 10. De strijd die de Boniërs aangaan met de Nederlanders past bij 'vormen van verzet tegen het West-Europese imperialisme'.<br><br>Leg uit:&nbsp;<br> op welke wijze in dit artikel het Nederlandse gezag wordt onderbouwd, en&nbsp;<br> waardoor de beschreven gebeurtenis het verzet op Celebes niet verminderd zal hebben.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Drie gegevens over de Taiping-opstand in China:&nbsp;<br>1 Hong, de leider van de opstand, noemde zichzelf 'Hemelse Koning' en liet een paleis bouwen.&nbsp;<br>2 De Taiping bestraften de handel in en het gebruik van opium met de dood.&nbsp;<br>3 De Taiping werden mede verslagen door een Europees leger onder leiding van een Britse generaal.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Een geschiedenis: In 1868 richtten arbeiders in Amsterdam de vereniging Bouwmaatschappij tot Verkrijging van Eigen Woningen op. Arbeiders die lid werden van deze vereniging legden elke week een klein geldbedrag in. Met dit geld werd er grond gekocht en werden huizen gebouwd. De oprichting van de Bouwmaatschappij paste bij de kenmerkende aspecten 'de opkomst van emancipatiebewegingen' en bij 'discussies over de 'sociale kwestie''.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2024_I_bijlage_57b61674271e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/293f53e566cc48c6b58f4d54b880c393.pdf"
+    }
+  ]
+}

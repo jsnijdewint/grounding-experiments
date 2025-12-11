@@ -1,0 +1,84 @@
+{
+  "id": "vwo_biologie_2021_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 34,
+          "name": "Reproductie van het organisme",
+          "prefix_code": 7
+        },
+        {
+          "id": 35,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 43,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Doordat bacteriën en hun fagen elkaar bestrijden, treedt co-evolutie op. Leg uit hoe selectiedruk deze co-evolutie veroorzaakt.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Zuivelbedrijven die yoghurt bereiden, krijgen soms een opbrengst van waterige melk met klonten, veroorzaakt door bacteriofagen in de yoghurtcultuur. Dankzij CRISPR-Cas kan dit voorkomen worden.</p><p>Yoghurt wordt gemaakt door melk te enten met de melkzuurbacteriën Streptococcus thermophilus en Lactobacillus bulgaricus. Deze bacteriën zetten melkeiwitten om en verbruiken lactose (melksuiker) uit de melk voor hun energievoorziening. Hierdoor verzuurt de melk snel en krijgt die een andere smaak, structuur en voedingswaarde: het wordt yoghurt. Doordat yoghurt veel minder lactose bevat dan melk is het een geschikt zuivelproduct voor mensen met lactose-intolerantie.<br>Na het eten van yoghurt hebben de yoghurtbacteriën die levend de darm bereiken een gunstig effect op de darmflora, de stoelgang en het immuunsysteem van de darm.</p><p>De twee bacteriesoorten zijn samen efficiënter in het veranderen van de melk in yoghurt dan ieder apart. Zo produceert L. bulgaricus voornamelijk endopeptidasen, enzymen die peptidebindingen binnen een peptideketen verbreken, en produceert S. thermophilus voornamelijk exopeptidasen, enzymen die peptide-bindingen aan de uiteinden van een peptideketen verbreken.<br>De enzymactiviteit van S. thermophilus is hoger als deze bacterie samen met L. bulgaricus aan melk wordt toegevoegd dan als alleen<br>S. thermophilus wordt toegevoegd.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Als de melkzuurbacteriën geïnfecteerd worden door virussen kan de yoghurt mislukken. Zo'n type virus wordt bacteriofaag, of kortweg faag genoemd (afbeelding 1). In afbeelding 2 is een bacterie weergegeven met daarop vele fagen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_a364178aa03b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7fedc6bfdf9545d99a8a05ee319d758d.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Bacteriën kunnen zich verdedigen tegen fagen met behulp van restrictieenzymen die de vermeerdering van de fagen remmen. Restrictie bij bacteriën is te vergelijken met immunologische afweer bij de mens. Bij beide processen vindt herkenning van een moleculaire structuur plaats.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Een zuivelbedrijf gaf microbiologen de opdracht om te bepalen welke DNA-sequenties van melkzuurbacteriën betrokken zijn bij de afweer tegen fagen. Het mechanisme dat de bacteriën gebruiken om zich tegen fagen te verdedigen, is met hulp van microbiologen van Wageningen UR verder ontrafeld en staat nu bekend onder de naam CRISPR-Cas. CRISPR's (clustered regularly interspaced short palindromic repeats) zijn plaatsen in het bacteriële DNA waar, ingesloten tussen repeats, korte segmenten vreemd DNA zijn ingebouwd. Cas-eiwitten (CRISPR-associated eiwitten) kunnen hiermee vreemd DNA herkennen en doorknippen. In afbeelding 3 is de reactie van het CRISPR-Cas-systeem op een eerste contact met faag-DNA (primaire reactie) en op een volgend contact (secundaire reactie) schematisch weergegeven.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_b1d7b082f4b9.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9b13090ce98d4a8fbcdd42b046d5539a.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>1 Een faag hecht aan een bacterie en injecteert het faag-DNA in de bacterie.<br>2 Bepaalde stukjes faag-DNA worden als vreemd herkend: de proto-spacers.<br>3 Een complex van Cas-eiwitten knipt uit het faag-DNA enkele proto-spacers.<br>4 Deze worden op de CRISPRlocus in het bacteriechromosoom geplakt en heten nu spacers.</p><p>5 Bij een volgend contact met faag-DNA, wordt op basis van deze spacers RNA gemaakt.<br>6 Dit spacer-RNA wordt opgeknipt in losse RNA's.<br>7 Deze RNA's binden aan complexen van Cas-eiwitten tot CRISPR-Cas.<br>8 CRISPR-Cas bindt aan de complementaire sequentie in het faag-DNA, waarna dat doorgeknipt wordt.<br>&nbsp;</p><p>De CRISPR-locus bouwt zo na immunisatie een geheugen op van al het vreemde DNA dat in de bacterie terecht is gekomen. Is een binnengedrongen faag een 'oude bekende' van de bacterie, dan volgt snel een immuunreactie: het faag-DNA wordt herkend en afgebroken.</p><p>In een bacterie kunnen de volgende processen plaatsvinden:<br>1 translatie van Cas-RNA<br>2 transcriptie van CRISPR-DNA<br>3 translatie van faag-RNA</p><p>&nbsp;</p>"
+    }
+  ],
+  "bijlages": []
+}

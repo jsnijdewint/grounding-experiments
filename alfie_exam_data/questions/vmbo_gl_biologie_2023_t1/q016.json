@@ -1,0 +1,53 @@
+{
+  "id": "vmbo_gl_biologie_2023_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 115,
+          "name": "Het lichaam in stand houden: voeding en genotmiddelen, energie, transport en uitscheiding",
+          "prefix_code": "BI/K/9"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Als de penis stijf wordt, stroomt er meer bloed doorheen. Door welk bloedvat stroomt het bloed de penis in? En hoort dit bloedvat bij de grote of bij de kleine bloedsomloop?<br>Hieronder staat een zin over de stijf wordende penis.<br><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>kies de juiste woorden in deze zin.<br>&nbsp;</p><p>Als de penis stijf wordt, stroomt er meer bloed doorheen; dit bloed stroomt door de <strong>penisader</strong> / <strong>penisslagader</strong> de penis in en dat bloedvat hoort bij de <strong>grote</strong> / <strong>kleine</strong> bloedsomloop.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de puberteit krijgt een jongen voor het eerst een zaadlozing. Bij seksuele opwinding wordt zijn penis stijf. Bij de zaadlozing wordt een bepaalde verbinding afgesloten, zodat er geen sperma in de blaas terechtkomt.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_0766d7b9effb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bff73967348240849237103ba3d06af5.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2023_I_uitwerkbijlage_4e0013036ef8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9a816268fb648d6bbff9679cf7f9a46.pdf"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "havo_biologie_2022_t1_q44",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 128,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 129,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        },
+        {
+          "id": 110,
+          "name": "Onderzoeken",
+          "prefix_code": 5
+        },
+        {
+          "id": 111,
+          "name": "Ontwerpen",
+          "prefix_code": 6
+        },
+        {
+          "id": 112,
+          "name": "Modelvorming",
+          "prefix_code": 7
+        },
+        {
+          "id": 113,
+          "name": "Natuurwetenschappelijk instrumentarium",
+          "prefix_code": 8
+        },
+        {
+          "id": 114,
+          "name": "Waarderen en oordelen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<ul><li>Noteer aan de hand van afbeelding 3 een verandering die zal optreden als er steeds minder gieren zijn in een gebied.</li><li>Verklaar hoe deze verandering kan leiden tot een toename van de verspreiding van infectieziekten onder aaseters.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In Afrika is de populatiegrootte van de meeste gierensoorten in vijftig jaar met meer dan tachtig procent afgenomen. Belangrijkste oorzaak is de mens, die de vogels bejaagt en vergiftigt. De afname heeft gevolgen voor de ecosystemen waarvan de vogels deel uitmaken.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gieren zoals de witruggier (afbeelding 1) zijn aaseters. Ze scheuren het lichaam van een dood dier (kadaver) open, steken hun kop in het lichaam en vreten de ingewanden, spieren, pezen, huid en zelfs de botten op. Het eten van kadavers is riskant. Kadavers zijn broedplaatsen van bacteriën die infectieziekten kunnen veroorzaken.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_9d288dd22f8b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7bcaa0d5e91d4932b19ec911f7a50e7b.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Gieren en bacterièn die van het kadaver leven, spelen een rol in de kringloop van stoffen. In afbeelding 2 is een kringloop van stoffen vereenvoudigd weergegeven.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_7a96ffce4342.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f67dd9dfa1fc4e12b71d4a9e937b0add.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In de genummerde vakken van afbeelding 2 ontbreken de woorden consumenten, producenten en reducenten.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Een witruggier heeft een kale kop. Sommige biologen denken dat dit een aanpassing is aan hun manier van voeden.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Andere biologen denken dat de kale kop dient voor temperatuurregulatie. Gieren kunnen namelijk niet zweten, waardoor de temperatuur van de romp te hoog zou kunnen worden.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Gieren hebben maagzuur met een extreem lage pH .</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>De sterke afname van het aantal gieren in Afrika wordt mede veroorzaakt doordat boeren aas neerleggen met daarin persistent gif. Hiermee doden ze roofdieren die een bedreiging vormen voor hun vee. De gier eet van het vergiftigde aas en van de vergiftigde roofdieren.<br>Nadat gifstoffen opgegeten zijn door de gier, kunnen ze:<br>1 terechtkomen in het bloed<br>2 terechtkomen in de gal<br>3 terechtkomen in de voorurine<br>4 terechtkomen in levercellen</p>"
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Gieren zijn niet de enige gewervelden die dode dieren opeten. Ook zoogdieren zoals hyena's, jakhalzen en wilde honden zijn aaseters. Het gedrag van deze zoogdieren is vergeleken in situaties met gieren en situaties zonder gieren. Onderzocht is hoeveel individuen van een kadaver eten en hoelang ze daarmee bezig zijn. Ook is onderzocht hoe snel het kadaver geheel afgebroken is. De resultaten van dit onderzoek staan in afbeelding 3.</p>"
+    },
+    {
+      "order": 11,
+      "type": "image",
+      "media_path": "media/in-exam/img_934794652798.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3ec1fd872bc2409cbba3d41e9afe15d3.png",
+      "caption": ""
+    },
+    {
+      "order": 12,
+      "type": "text",
+      "text": "<p>Onderzoekers denken dat een sterke afname van het aantal gieren tot een toename van infectieziekten bij aasetende zoogdieren kan leiden.</p>"
+    }
+  ],
+  "bijlages": []
+}

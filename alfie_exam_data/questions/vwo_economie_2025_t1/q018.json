@@ -1,0 +1,52 @@
+{
+  "id": "vwo_economie_2025_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken het overheidssaldo van Curaçao en geef aan of er sprake is van een tekort of een overschot.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De ministers van Economische Ontwikkeling van de Caribische eilanden willen meer met elkaar handelen. Om deze wens te onderzoeken stelt een econoom een korte-termijnmodel op voor Curaçao (zie figuur 1). Voor de eenvoud is Aruba de enige handelspartner van Curaçao. In het model is de munteenheid van Curaçao de Caribische gulden (XCG) en de munteenheid van Aruba de Arubaanse florin (AWG).</p><p>In het model is het arbeidsinkomen de inkomstenbron van de gezinnen op Curaçao.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_863a127d7046.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2e6648d00dbd4e9a982647b81905cedb.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De Curaçaose overheid is niet getoond in het model, maar het overheidssaldo kan wel worden berekend.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vw-1022-a-25-1-u.pdf",
+      "media_path": "media/bijlages/vw-1022-a-25-1-u_90e7cccc7fef.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/48e2754d6ace4abd9ac3ac8836680c67.pdf"
+    }
+  ]
+}

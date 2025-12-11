@@ -1,0 +1,56 @@
+{
+  "id": "havo_nederlands_2022_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Hoe is dit verband tussen alinea 4 en 5 het best te omschrijven? In alinea 5 wordt een element van de redenering van Coen Simon in alinea 4</p><p><strong>A </strong>bekritiseerd.</p><p><strong>B </strong>benadrukt.</p><p><strong>C </strong>genuanceerd.</p><p><strong>D </strong>weerlegd.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In alinea 4 spreekt Coen Simon over het belang van spelen. Een kritisch lezer zou in Simons redenering over het belang van spelen een paradox kunnen herkennen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>“Elke handwerkhobby krijgt tegenwoordig een Instagram-pagina. Elk dagboek wordt een blog.” (regels 79-81) Deze voorbeelden uit alinea 4 zijn uitingen van een verschijnsel.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het woord ‘juist’ in de eerste regel van alinea 5 duidt op een verband tussen alinea 4 en alinea 5.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2022_I_bijlage_92799e4db006.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a400249c9526410d9001698a4ae56d34.pdf"
+    }
+  ]
+}

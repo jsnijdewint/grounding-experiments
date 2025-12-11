@@ -1,0 +1,74 @@
+{
+  "id": "vmbo_gl_biologie_2023_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 115,
+          "name": "Het lichaam in stand houden: voeding en genotmiddelen, energie, transport en uitscheiding",
+          "prefix_code": "BI/K/9"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Het hart van een te vroeg of extreem vroeg geboren baby is soms onvoldoende ontwikkeld. In de afbeelding hieronder is links een normaal ontwikkeld hart getekend en rechts een onvoldoende ontwikkeld hart.<br><br>Geef de naam van een deel van het hart dat volgens de tekening onvoldoende ontwikkeld is.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een zwangerschap duurt gemiddeld 39 weken. Soms worden baby’s te vroeg of extreem vroeg geboren. Deze baby’s kunnen verschillende gezondheidsproblemen krijgen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_a3f413a05e51.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cc6bb9f1bcc0498f88ef40cbed550c32.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_2e70ef06cafe.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/83d8f884668540caa05efa531e7b4ecb.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_d0e7495e219c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f19f3c22e819444bbcb0a934762b50e3.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_09e625e032a2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9b622fd6397b4c6782c6eaee462440dd.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2023_I_uitwerkbijlage_4e0013036ef8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9a816268fb648d6bbff9679cf7f9a46.pdf"
+    }
+  ]
+}

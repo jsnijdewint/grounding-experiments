@@ -1,0 +1,46 @@
+{
+  "id": "vmbo_gl_biologie_2024_t1_q49",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 119,
+          "name": "Bescherming en antistoffen",
+          "prefix_code": "BI/V/1"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Sam's moeder zegt dat je niet aan de blaasjes moet krabben. Door te krabben wordt de jeuk alleen maar erger.<br>Het krabben zorgt ook voor kleine wondjes.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Noem nog een andere reden waarom het beter is om niet te krabben aan de blaasjes.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Waterpokken is een kinderziekte die door een virus wordt veroorzaakt. Het virus verspreidt zich via de lucht. De kinderen krijgen koorts en rode bultjes, vaak over het hele lichaam. De bultjes kunnen jeukende blaasjes worden, waarvan het vocht besmettelijk is.<br>Sam gaat naar de crèche. Het blijkt dat een ander kind waterpokken heeft. Twee weken later heeft Sam ook de eerste verschijnselen van waterpokken.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2024_I_uitwerkbijlage_c89173bb9d6c.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ce4f7301c75b48c7b4639aaa9b761e2a.pdf"
+    }
+  ]
+}

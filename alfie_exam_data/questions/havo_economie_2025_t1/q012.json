@@ -1,0 +1,55 @@
+{
+  "id": "havo_economie_2025_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 1.<br>Zal de omzet van Hopi Bon stijgen of dalen? Leg je antwoord uit door eerst de prijselasticiteit van de vraag te berekenen.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Fietsen op Bonaire wordt steeds populairder. Het wordt gezien als een gezond en duurzaam alternatief voor het vele autogebruik op het eiland. Toeristen maken graag gebruik van huurfietsen om het eiland te verkennen.<br>Op Bonaire is een beperkt aantal fietsverhuurbedrijven actief. Zij verhuren gewone fietsen voor toeristen die op de goed aangelegde wegen willen fietsen. Daarnaast verhuren de bedrijven speciale mountainbikes aan toeristen die op zandwegen of in nationale parken willen fietsen. Ook de lokale bevolking gebruikt de huurfietsen naast de eigen fiets.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Verhuurbedrijf Hopi Bon wil ook fietsen gaan verhuren. Het bedrijf gaat fietsenrekken plaatsen langs de kust en in enkele binnenlandse plaatsen. Toeristen kunnen fietsen huren en betalen per dag. Ze kunnen de fietsen overal op het eiland plaatsen in de daarvoor bestemde fietsenrekken. Ze kunnen dan eventueel overstappen op een ander type fiets. Hopi Bon rekent eenzelfde prijs voor de twee typen fietsen. De directeur van Hopi Bon maakt een analyse (zie bron 1).</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De welvaart die ontstaat op deze fietsverhuurmarkt kan worden gemeten aan de hand van het consumenten- en producentensurplus. Door een prijsverlaging stijgt de welvaart.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Hopi Bon wil starten met een huurprijs van $ 16, om daarna deze te verhogen naar $ 24. De directeur onderzoekt of het starten met een lage prijs ervoor zorgt dat bij een prijsverhoging de omzet zal stijgen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "ha-1022-a-25-1-b.pdf",
+      "media_path": "media/bijlages/ha-1022-a-25-1-b_d22d3ea39f14.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bbaed4a5fde74a759025b6f0f5557449.pdf"
+    }
+  ]
+}

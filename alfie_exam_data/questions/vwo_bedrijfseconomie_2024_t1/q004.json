@@ -1,0 +1,51 @@
+{
+  "id": "vwo_bedrijfseconomie_2024_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 12,
+          "name": "Marketingbeleid",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg het begrip klantwaardepropositie uit en verklaar waarom door de uitbreiding van het gebied de klantwaardepropositie van Fenix verandert.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de informatiebronnen 1 tot en met 3.&nbsp;<br><br>Fenix bv is een innovatieve start-up met ambitieuze plannen voor duurzaam en gedeeld stadsvervoer. Bij Fenix kan de klant tegen betaling gebruikmaken van een elektrische deelscooter. Fenix ziet de e-scooter als een duurzaam alternatief voor reizen in de stad. In de Fenix-app kan de klant zien waar zich een deelscooter bevindt, deze reserveren en vervolgens activeren. Meestal verleent het gemeentebestuur van een stad een vergunning voor slechts een deel van de stad en worden andere delen van de stad toegewezen aan andere aanbieders. Fenix krijgt van de gemeente een uitbreiding van de vergunning, waardoor zij toegang krijgt tot meerdere delen van de stad. Dit betekent een uitbreiding van het servicegebied.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_bijlag_7eadadfb909b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b308f8bea0724a7aafeda7412effc100.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_uitwer_83345fd16197.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9381244ee6040b2bd0134a67d821ddb.pdf"
+    }
+  ]
+}

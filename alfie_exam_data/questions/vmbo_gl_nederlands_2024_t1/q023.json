@@ -1,0 +1,39 @@
+{
+  "id": "vmbo_gl_nederlands_2024_t1_q23",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 60,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In de advertentie staat de tekst \"Wat gaat u straks steunen?\"<br>Tot wie richt de advertentie zich hier vooral?<br>vooral tot lezers die<br><strong>A </strong>geld willen geven aan de muziekprojecten van het Cultuurfonds<br><strong>B </strong>in hun testament hebben vastgelegd geld na te laten aan het Cultuurfonds<br><strong>C </strong>interesse hebben in de culturele projecten van het Cultuurfonds<br><strong>D </strong>met hun erfenis cultuur in Nederland willen steunen via het Cultuurfonds</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_72e6e0ffb16a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f72e99feb3944c19bd1b658b5429d81a.pdf"
+    },
+    {
+      "name": "Nederlands 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_uitwerkbijla_f57b7da9a165.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7d469a250dee4df8b5245abf65e0587d.pdf"
+    }
+  ]
+}

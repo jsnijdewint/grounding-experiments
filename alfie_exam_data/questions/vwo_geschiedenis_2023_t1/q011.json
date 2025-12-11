@@ -1,0 +1,46 @@
+{
+  "id": "vwo_geschiedenis_2023_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 189,
+          "name": "Tijdvak 6 – Regenten en vorsten",
+          "prefix_code": 6
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Licht dit toe door:</p><ul><li>aan te tonen op welke wijze deze beschrijving het absolutisme bekritiseerde, en</li><li>uit te leggen dat de redenering in de Encyclopédie paste bij het rationalisme.</li></ul>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In Engeland en Frankrijk bestond de gewoonte dat de koning op bepaalde feestdagen de lijders aan scrofulose (een ontsteking in de hals) aanraakte om hen te genezen. In de Encyclopédie die in 1755 is uitgegeven stond hierover: \"Als de hemel een dergelijke macht aan koningen zou hebben verleend, dan zou men verwachten dat dit voor iedereen zichtbaar was en dat de genezing toch op zijn minst af en toe meteen na de aanraking optrad.\"</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2023_I_bijlage_55374cf5cbf5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5244a635b97841b7b1e77f67a3c0f38a.pdf"
+    }
+  ]
+}

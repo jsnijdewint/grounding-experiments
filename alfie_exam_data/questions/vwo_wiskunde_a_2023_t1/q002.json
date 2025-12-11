@@ -1,0 +1,78 @@
+{
+  "id": "vwo_wiskunde_a_2023_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 78,
+          "name": "Standaardfuncties",
+          "prefix_code": 1
+        },
+        {
+          "id": 79,
+          "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken haar luchtverbruik in liter per minuut tijdens die duik. Geef je antwoord in één decimaal.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Karima volgt een duikcursus voor beginners. In het theorieboekje wordt uitgelegd dat er onder water een grotere druk heerst dan boven water. Aan de oppervlakte is de druk 1 bar. Omdat een duiker op grotere diepte lucht inademt onder een hogere druk verbruikt hij zijn luchtvoorraad sneller en is de maximale duiktijd korter. Door het gewicht van het water neemt de druk onder water lineair toe met de diepte: zie de onderstaande tabel.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_4e99b90f2cb3.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/692294962dec462bb05f78a1e0aa26da.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een duiker neemt samengeperste lucht mee in een duikfles om onder water te kunnen ademen. Het is van levensbelang om een duik goed te plannen, zodat de duiker nooit zonder lucht komt te zitten. De maximale duiktijd op grond van de beschikbare luchtvoorraad kan volgens het theorieboekje van Karima berekend worden met de volgende <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>f</mi><mi>o</mi><mi>r</mi><mi>m</mi><mi>u</mi><mi>l</mi><mi>e</mi></mrow><mrow><mn>1</mn><mo>)</mo></mrow></msup></math>:&nbsp;</p><p>&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>T</mi>\r\n  <mo>=</mo>\r\n  <mfrac>\r\n    <mrow>\r\n      <mi>V</mi>\r\n      <mo stretchy=\"false\">(</mo>\r\n      <mi>b</mi>\r\n      <mo>&#8722;</mo>\r\n      <mi>e</mi>\r\n      <mo stretchy=\"false\">)</mo>\r\n    </mrow>\r\n    <mrow>\r\n      <mi>q</mi>\r\n      <mo>&#8901;</mo>\r\n      <mi>p</mi>\r\n    </mrow>\r\n  </mfrac>\r\n</math></p><p>&nbsp;</p><p>Hierin is <i>T</i> de maximale duiktijd op een vaste diepte in minuten, <i>V</i> de inhoud van de duikfles in liters, zijn <i>b</i> en <i>e</i> de druk in de fles in bar aan het begin respectievelijk aan het eind van de duik, is <i>q</i> het luchtverbruik van de duiker in liter/minuut en <i>p</i> de druk op de duikdiepte.&nbsp;</p><p>&nbsp;</p><p>Karima is van plan een duik op een diepte van 10 meter uit te voeren. Ze heeft een duikfles met een inhoud van 14 liter die gevuld is met lucht met een druk van 200 bar. Karima weet in eerste instantie haar luchtverbruik niet en maakt gebruik van het gegeven dat het luchtverbruik van een met haar vergelijkbare duiker 18 liter/minuut is. Aan het einde van de duik wil ze als reserve nog minstens 50 bar druk in haar fles hebben.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>noot 1 Er zijn ook formules waarbij rekening gehouden wordt met de tijdsduur van de duik en de druk tijdens het dalen en stijgen, maar in deze opgave laten we dat buiten beschouwing</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In bovenstaande berekening is voor het luchtverbruik van Karima een waarde van een met haar vergelijkbare duiker gebruikt. Voor een nauwkeuriger berekening wil zij haar individuele luchtverbruik berekenen op basis van gegevens van een vorige duik. Eerder heeft Karima een duik gemaakt met een duikdiepte van 15 meter. Ze begon met een volle duikfles van 14 liter met 200 bar druk. Aan het einde van haar duik, na 49 minuten, had ze nog 63 bar druk in haar duikfles.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_c4a05812e0a8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cf1c75f3e6924743b07261120dad2f9b.pdf"
+    },
+    {
+      "name": "Wiskunde A 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2023_I_uitwerkbijla_a9d84112fbc1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fc5ba2ce845c4c85ae53d81485ef9507.pdf"
+    }
+  ]
+}

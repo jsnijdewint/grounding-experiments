@@ -1,0 +1,78 @@
+{
+  "id": "havo_natuurkunde_2023_t1_q19",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 132,
+          "name": "Medische beeldvorming",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef in de tabel met behulp van formule (1) per gegeven de reden waarom Po-210 in de longen zo gevaarlijk is.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tabak wordt gemaakt van de bladeren van de tabaksplant. Zie figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2e240fb55d0f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/381d518e8910436a92d4df5ad36509f4.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Tabaksplanten halen water en (voedings)stoffen uit de bodem en de lucht. Hierin zitten ook radioactieve isotopen. Een van die isotopen is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Rn</mi> </mrow><mo>&#8722;</mo> <mn>222</mn>&#160;</math>, dat in een lange vervalreeks via diverse dochterkernen vervalt tot stabiel <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Pb</mi> </mrow><mo>&#8722;</mo> <mn>206</mn>&#160;</math>:</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mn>222</mn> <mn>86</mn> </munder><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Rn</mi> </mrow><munderover><mstyle scriptlevel=\"0\"><mo data-mjx-texclass=\"REL\">&#8594;</mo> </mstyle><mpadded depth=\"-.15em\" voffset=\".15em\" lspace=\"0.278em\" width=\"+0.833em\"><mi>&#945;</mi> <mspace height=\".75em\"></mspace></mpadded><mpadded height=\"-.2em\" voffset=\"-.2em\" lspace=\"0.278em\" width=\"+0.833em\"><mn>3</mn> <mo>,</mo> <mn>83</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">d</mi>&#160;</mrow><mspace depth=\".25em\"></mspace></mpadded></munderover></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mn>84</mn> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>218</mn> </mrow></msubsup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Po</mi> </mrow><munderover><mstyle scriptlevel=\"0\"><mo data-mjx-texclass=\"REL\">&#8594;</mo> </mstyle><mpadded depth=\"-.15em\" voffset=\".15em\" lspace=\"0.278em\" width=\"+0.833em\"><mi>&#945;</mi> <mspace height=\".75em\"></mspace></mpadded><mpadded height=\"-.2em\" voffset=\"-.2em\" lspace=\"0.278em\" width=\"+0.833em\"><mn>3</mn> <mo>,</mo> <mn>05</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">min</mi>&#160;</mrow><mspace depth=\".25em\"></mspace></mpadded></munderover></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mn>82</mn> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>214</mn> </mrow></msubsup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">Pb</mi> </mrow><munderover><mstyle scriptlevel=\"0\"><mo data-mjx-texclass=\"REL\">&#8594;</mo> </mstyle><mpadded depth=\"-.15em\" voffset=\".15em\" lspace=\"0.278em\" width=\"+0.833em\"><mi>&#946;</mi> <mspace height=\".75em\"></mspace></mpadded><mpadded height=\"-.2em\" voffset=\"-.2em\" lspace=\"0.278em\" width=\"+0.833em\"><mn>26</mn> <mo>,</mo> <mn>8</mn> <mo movablelimits=\"true\" data-mjx-texclass=\"OP\">min</mo>&#160;<mspace depth=\".25em\"></mspace></mpadded></munderover></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mn>83</mn> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>214</mn> </mrow></msubsup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Bi</mi> </mrow><munderover><mstyle scriptlevel=\"0\"><mo data-mjx-texclass=\"REL\">&#8594;</mo> </mstyle><mpadded depth=\"-.15em\" voffset=\".15em\" lspace=\"0.278em\" width=\"+0.833em\"><mi>&#946;</mi> <mspace height=\".75em\"></mspace></mpadded><mpadded height=\"-.2em\" voffset=\"-.2em\" lspace=\"0.278em\" width=\"+0.833em\"><mn>19</mn> <mo>,</mo> <mn>7</mn> <mo movablelimits=\"true\" data-mjx-texclass=\"OP\">min</mo>&#160;<mspace depth=\".25em\"></mspace></mpadded></munderover></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mn>84</mn> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>214</mn> </mrow></msubsup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Po</mi>&#160;</mrow></math><p>&nbsp;</p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mn>84</mn> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>214</mn> </mrow></msubsup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Po</mi> </mrow><munderover><mstyle scriptlevel=\"0\"><mo data-mjx-texclass=\"REL\">&#8594;</mo> </mstyle><mpadded depth=\"-.15em\" voffset=\".15em\" lspace=\"0.278em\" width=\"+0.833em\"><mi>&#945;</mi> <mspace height=\".75em\"></mspace></mpadded><mpadded height=\"-.2em\" voffset=\"-.2em\" lspace=\"0.278em\" width=\"+0.833em\"><mn>1</mn> <mo>,</mo> <mn>6</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>4</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">s</mi>&#160;</mrow><mspace depth=\".25em\"></mspace></mpadded></munderover></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mn>82</mn> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>210</mn> </mrow></msubsup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">Pb</mi> </mrow><munderover><mstyle scriptlevel=\"0\"><mo data-mjx-texclass=\"REL\">&#8594;</mo> </mstyle><mpadded depth=\"-.15em\" voffset=\".15em\" lspace=\"0.278em\" width=\"+0.833em\"><mi>&#946;</mi> <mspace height=\".75em\"></mspace></mpadded><mpadded height=\"-.2em\" voffset=\"-.2em\" lspace=\"0.278em\" width=\"+0.833em\"><mn>22</mn> <mo>,</mo> <mn>6</mn> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">y</mi>&#160;</mrow><mspace depth=\".25em\"></mspace></mpadded></munderover></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mn>83</mn> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>210</mn> </mrow></msubsup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Bi</mi> </mrow><munderover><mstyle scriptlevel=\"0\"><mo data-mjx-texclass=\"REL\">&#8594;</mo> </mstyle><mpadded depth=\"-.15em\" voffset=\".15em\" lspace=\"0.278em\" width=\"+0.833em\"><mi>&#946;</mi> <mspace height=\".75em\"></mspace></mpadded><mpadded height=\"-.2em\" voffset=\"-.2em\" lspace=\"0.278em\" width=\"+0.833em\"><mn>5</mn> <mo>,</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">d</mi>&#160;</mrow><mspace depth=\".25em\"></mspace></mpadded></munderover></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mn>84</mn> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>210</mn> </mrow></msubsup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">PO</mi> </mrow><munderover><mstyle scriptlevel=\"0\"><mo data-mjx-texclass=\"REL\">&#8594;</mo> </mstyle><mpadded depth=\"-.15em\" voffset=\".15em\" lspace=\"0.278em\" width=\"+0.833em\"><mi>&#945;</mi> <mspace height=\".75em\"></mspace></mpadded><mpadded height=\"-.2em\" voffset=\"-.2em\" lspace=\"0.278em\" width=\"+0.833em\"><mn>138</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">d</mi>&#160;</mrow><mspace depth=\".25em\"></mspace></mpadded></munderover></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msubsup><mrow data-mjx-texclass=\"ORD\"></mrow><mrow data-mjx-texclass=\"ORD\"><mn>82</mn> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>206</mn> </mrow></msubsup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">Pb</mi>&#160;</mrow></math></p><p>&nbsp;</p><p>De dochterkernen uit deze vervalreeks komen in de bladeren van de tabaksplant terecht.<br>Van deze bladeren wordt tabak voor sigaretten gemaakt. De tijd tussen het oogsten van de plant en het roken van een sigaret van die plant is gemiddeld twee jaar.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De dochterkernen uit deze vervalreeks komen in de bladeren van de tabaksplant terecht.<br>Van deze bladeren wordt tabak voor sigaretten gemaakt. De tijd tussen het oogsten van de plant en het roken van een sigaret van die plant is gemiddeld twee jaar.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Na twee jaar is vooral <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Pb</mi> </mrow><mo>&#8722;</mo> <mn>210</mn>&#160;</math>aanwezig in de tabak</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Naast Pb-210 bevat tabak ook een klein aandeel van de zeer gevaarlijke radioactieve stof Po -210.<br>Een sigaret bevat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>90</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">g</mi>&#160;</mrow></math>tabak. Hierin zitten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>5</mn>&#160;</mrow></msup></math>atomen Po-210.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Van de totale massa van een sigaret komt een beperkt, maar wel zeer schadelijk deel via de rook in de kwetsbare longen terecht.<br>Het ingeademde Po-210 plakt door teer in de rook vast op kleine plekken in de longen, de zogenaamde hotspots.<br>De equivalente dosis <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi>&#160;</math>voor de longen als geheel, ten gevolge van het ingeademde polonium, kan berekend worden met de formule:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi> <mo>=</mo> <mfrac><mrow><msub><mi>w</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">R</mi> </mrow></mrow></msub><mo>&#8901;</mo> <msub><mi>A</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">gem</mi> </mrow></mrow></msub><mo>&#8901;</mo> <mi mathvariant=\"normal\">&#916;</mi> <mi>t</mi> <mo>&#8901;</mo> <msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">d</mi> </mrow></mrow></msub></mrow><mi>m</mi>&#160;</mfrac></math></p><p>Hierin is:</p><ul><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><msub><mi>w</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">R</mi>&#160;</mrow></mrow></msub></math>de weegfactor;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>A</mi> <mrow data-mjx-texclass=\"ORD\"><mtext>gem&#160;</mtext></mrow></msub></math>de gemiddelde activiteit;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#916;</mi> <mi>t</mi>&#160;</math>de tijd dat het weefsel bestraald wordt;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><msub><mi>E</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">d</mi>&#160;</mrow></mrow></msub></math>de energie van het vrijgekomen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi>&#160;</math>-deeltje;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mi>m</mi>&#160;<mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle></math>de massa van het bestraalde weefsel.</li></ul><p>Op de uitwerkbijlage staat een tabel met drie verschillende gegevens over Po-210 in de longen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2023_I_uitwerkbijl_b84551b8ec5a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2016336bf8d54298886022aa1e155445.pdf"
+    }
+  ]
+}

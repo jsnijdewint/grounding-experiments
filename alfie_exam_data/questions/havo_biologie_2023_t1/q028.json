@@ -1,0 +1,104 @@
+{
+  "id": "havo_biologie_2023_t1_q28",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 128,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 129,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        },
+        {
+          "id": 110,
+          "name": "Onderzoeken",
+          "prefix_code": 5
+        },
+        {
+          "id": 111,
+          "name": "Ontwerpen",
+          "prefix_code": 6
+        },
+        {
+          "id": 112,
+          "name": "Modelvorming",
+          "prefix_code": 7
+        },
+        {
+          "id": 113,
+          "name": "Natuurwetenschappelijk instrumentarium",
+          "prefix_code": 8
+        },
+        {
+          "id": 114,
+          "name": "Waarderen en oordelen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Licht toe, aan de hand van een berekening, of de toename in brix-waarde na het afspelen van honingbij-geluid waarneembaar is voor een honingbij.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Onderzoekers hebben ontdekt dat planten kunnen reageren op het geluid van passerende bestuivers.</p><p>De onderzoekers lieten teunisbloemen (afbeelding 1) het geluid van een vliegende honingbij 'horen'. De bloemen bleken in reactie daarop veel zoetere nectar te gaan produceren. Volgens de onderzoekers functioneren de bloemen van de plant als gehoororgaan.<br>\"We ontdekten dat de bloemen door deze geluiden gingen trillen\", zo schrijven de onderzoekers. Wat hun verder opviel, is dat de bloemen wel reageerden op de geluiden van bestuivers, maar niet op geluiden met een hogere frequentie.</p><p>Nectar wordt gemaakt door klieren in de bloembeker en bevat een hoge concentratie aan suikers.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_9343d8f171c2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d477c99e475c49a18a6d888d0e7dce84.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Teunisbloemen zijn in staat tot zelfbestuiving. Door meer bestuivers te lokken, wordt de kans op kruisbestuiving (met stuifmeel van een andere teunisbloem-plant) groter.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De onderzoekers schreven het volgende in hun publicatie:</p><p><br>1 Kunnen planten geluidsgolven waarnemen en daarop reageren?<br>2 Als dat zo is, zou een plant meer bestuivers kunnen lokken.<br>3 Stel dat planten de geluidsgolven van honingbijen kunnen opvangen<br>4 en dan hun nectar aantrekkelijker kunnen maken, dan verwachten we<br>5 dat de bloem zal gaan trillen en zoetere nectar zal produceren na<br>6 blootstelling aan het geluid van een vliegende honingbij.<br>7 We gebruikten teunisbloemen (Oenothera drummondii), waarvan de<br>8 honingbij de voornaamste bestuiver is.<br>9 We maten de trillingen van de bloembladeren en de suikerconcentratie<br>10 in de nectar in reactie op geluidsopnames van bestuivers en<br>11 synthetische geluiden van verschillende frequenties.<br>12 Wat blijkt: zowel het geluid van bestuivers als een synthetisch geluid<br>13 met een overeenkomstige frequentie veroorzaakt trillingen in de<br>14 bloembladeren die leiden tot een snelle toename in de<br>15 suikerconcentratie van de nectar.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In afbeelding 2 is de suikerconcentratie weergegeven van de nectar na stilte, na een hoog geluid, na een laag geluid (met dezelfde frequentie als het geluid van honingbijen) en na het afspelen van een geluidsopname van een echte honingbij. De suikerconcentratie is uitgedrukt in de brixwaarde. Hoe hoger deze waarde, hoe hoger de suikerconcentratie.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_e75011829f44.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c179c777971043fba26af754d61134ed.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Doordat bijen verschil in suikerconcentratie kunnen waarnemen, zullen ze met name bloemen gaan bezoeken die nectar met een hoge suikerconcentratie produceren. Als de brix-waarde meer dan 3% toeneemt, kunnen honingbijen dit waarnemen.</p>"
+    }
+  ],
+  "bijlages": []
+}

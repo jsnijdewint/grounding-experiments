@@ -1,0 +1,76 @@
+{
+  "id": "havo_nederlands_2021_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [
+        {
+          "id": 88,
+          "name": "Argumentatieve vaardigheden",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Vul de ontbrekende functies in. Noteer daartoe de nummers van de betreffende zinnen en zet daarachter de juiste functie. Kies uit: argument, standpunt of tegenargument. Een functie kan meer dan een keer voorkomen.</p><p>&nbsp;</p><p>&nbsp;</p><p>\\begin{tabular}{|l|l|} \\hline zin &amp; functie \\\\ \\hline \\begin{tabular}{l} 1 Het is natuurlijk prettig om een \\\\ helder en consequent \\\\ wereldbeeld te hebben. \\\\ (regels 75-77) \\end{tabular} &amp; \\\\ \\hline \\begin{tabular}{l} 2 Dat geeft duidelijke richtlijnen \\\\ voor je handelen en een gevoel \\\\ van rust. (regels 77-79) \\end{tabular} &amp; \\\\ \\hline \\begin{tabular}{l} 3 Maar het is lastig vol te \\\\ houden: (regels 79-80) \\end{tabular} &amp; \\\\ \\hline \\begin{tabular}{l} 4 de wereld verandert \\\\ voortdurend (regels 80-81) \\end{tabular} &amp; \\\\ \\hline \\begin{tabular}{l} 5 en je hebt nu eenmaal ook te \\\\ maken met anderen die anders \\\\ over dingen kunnen denken. \\\\ (regels 81-83) \\end{tabular} &amp; \\\\ \\hline \\begin{tabular}{l} 6 Bovendien is volledige \\\\ consequentie onmogelijk. \\\\ (regels 83-84) \\end{tabular} &amp; tegenargument (bij 1) \\\\ \\hline \\begin{tabular}{l} 7 Vroeg of laat ontdek je dat elke \\\\ ordening, elk verhaal, elk \\\\ systeem 'tekortschiet', dat wil \\\\ zeggen: niet helemaal \\\\ consequent is. (regels 85-88) \\end{tabular} &amp; \\\\ \\hline \\begin{tabular}{l} 8 Er zijn altijd losse eindjes en \\\\ restcategorieenn. (regels 88-89) \\end{tabular} &amp; argument (bij 6) \\\\ \\hline \\end{tabular}</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>“Strikt genomen hadden ze een punt” (regels 4-5)</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Na de inleiding is tekst 1 onder te verdelen in drie delen. Deze achtereenvolgende delen kunnen van de volgende kopjes worden voorzien:</p><p>deel 1: De onmogelijkheid van een consequent wereldbeeld</p><p>deel 2: Het dilemma van consequentie in de politie</p><p>deel 3: De inconsequente mens als ideaal?</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>“Maar goed, als je consequent bent, kun je het daar niet bij laten.” (regels 20-21)</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In de titel van tekst 1, ‘Leve de vleesetende vegetariër – Wantrouw de rechtlijnigen’ duidt het woord ‘rechtlijnigen’ een kenmerk aan van een bepaalde groep mensen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Uit alinea 3 blijkt een oordeel over het al dan niet consequente gedrag van de vegetariër en dat van de niet-vegetariër.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Aan alinea 4 kunnen twee functies worden toegekend: een ten opzichte van de voorafgaande alinea’s en een ten opzichte van de erop volgende alinea’s.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Alinea 5 is te lezen als een zelfstandige redenering. Elke zin binnen deze redenering heeft een eigen functie. Twee van die functies zijn in onderstaand schema al gegeven.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2021_I_bijlage_e60e6a5a7984.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dbb0cc971e994b9eb7113dc9995dc0c6.pdf"
+    }
+  ]
+}

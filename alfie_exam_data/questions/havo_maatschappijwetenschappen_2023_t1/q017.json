@@ -1,0 +1,40 @@
+{
+  "id": "havo_maatschappijwetenschappen_2023_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "maatschappijwetenschappen",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 34,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik tekst 4.<br>Leg uit dat er sprake is van samenwerking tussen de Amsterdamse artsen. Gebruik in je uitleg:</p><ul><li>de omschrijving van het kernconcept samenwerking;</li><li>informatie uit tekst 4 waaruit het kernconcept samenwerking blijkt.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de teksten 4 en 5 uit het bronnenboekje.<br><br>Inleiding<br>Deze opgave gaat over het protest tegen het plaatsen van windmolens in Amsterdam. Begin 2020 heeft de gemeente Amsterdam besloten zo'n zeventien windmolens te plaatsen, waaronder een aantal in woongebieden.<br>Bewoners uit deze woongebieden maken zich onder andere zorgen over de gevolgen voor hun gezondheid, zoals stress en slapeloosheid, door de geluidshinder die de windmolens veroorzaken.<br>In deze opgave wordt onder windmolens en windturbines hetzelfde verstaan.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijwetenschappen 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijwetenschappen_2023_801b96d91784.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c08092d21a474d229627a17f6a0b25cc.pdf"
+    }
+  ]
+}

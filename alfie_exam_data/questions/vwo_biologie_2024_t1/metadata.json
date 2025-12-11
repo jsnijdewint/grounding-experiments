@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 6,
+    "education_level": "vwo",
+    "discipline": "biologie",
+    "year": 2024,
+    "tijdvak": 1
+  },
+  "question_count": 42
+}

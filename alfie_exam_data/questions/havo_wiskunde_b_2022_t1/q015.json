@@ -1,0 +1,59 @@
+{
+  "id": "havo_wiskunde_b_2022_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 103,
+          "name": "Meetkundige berekeningen",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken dit verschil. Geef je eindantwoord in hele graden.</p>",
+    "max_score": 6,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het comfort en het rijgedrag van een fiets worden in belangrijke mate bepaald door de framegeometrie. Naast de lengte van de verschillende buizen waaruit een frame bestaat, gaat het bij de framegeometrie ook om de hoeken waaronder de verschillende buizen staan.</p><p>In figuur 2 is een tekening van het frame van de fiets van figuur 1 gegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_115dbcb2be91.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c6e20d97e5034295a58bd1942c343eab.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_2260c4b3b329.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4fa276b98eda4d83a61d4299f9bdd2ba.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De bijbehorende maten zijn:</p><ul><li>de liggende achtervork: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi> <mo>=</mo> <mn>425</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">mm</mi>&#160;</mrow></math>;</li><li>de staande achtervork: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>F</mi> <mo>=</mo> <mn>542</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">mm</mi>&#160;</mrow></math>;</li><li>de hoek die de liggende en de staande achtervork met elkaar maken:</li></ul><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#8736;</mi> <mi>B</mi> <mi>A</mi> <mi>F</mi> <mo>=</mo> <msup><mn>58</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo>&#160;</mrow></msup></math></p><ul><li>de hoek die het verlengde van de stuurbuis <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi> <mi>E</mi>&#160;</math>met het verlengde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi>&#160;</math>maakt: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#8736;</mi> <mi>B</mi> <mi>C</mi> <mi>E</mi> <mo>=</mo> <msup><mn>71</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo>&#160;</mrow></msup></math>.</li></ul><p>De zitbuis <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi> <mi>F</mi>&#160;</math>en de stuurbuis <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi> <mi>E</mi>&#160;</math>zijn bijna evenwijdig. Als ze evenwijdig zouden zijn dan zou de hoek die <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi> <mi>F</mi>&#160;</math>met de lijn door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi>&#160;</math>maakt even groot moeten zijn als <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#8736;</mi> <mi>B</mi> <mi>C</mi> <mi>E</mi>&#160;</math>. Deze hoeken verschillen echter.</p>"
+    }
+  ],
+  "bijlages": []
+}

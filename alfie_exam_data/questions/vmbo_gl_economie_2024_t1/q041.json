@@ -1,0 +1,53 @@
+{
+  "id": "vmbo_gl_economie_2024_t1_q41",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 124,
+          "name": "Arbeid en productie",
+          "prefix_code": "EC/K/5A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke soort werkloosheid ontstaat er door het verdwijnen van bedrijven naar het buitenland?<br>A conjuncturele werkloosheid, het is de aanbodkant van de economie<br>B conjuncturele werkloosheid, het is de vraagkant van de economie<br>C structurele werkloosheid, het is de aanbodkant van de economie<br>D structurele werkloosheid, het is de vraagkant van de economie</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 12 in de bijlage.&nbsp;<br><br>Door de jaren heen was de werkgelegenheid in West-Brabant afhankelijk van enkele grote multinationals. Veel van deze bedrijven zijn na 2000 vertrokken uit de regio en hebben zich in het buitenland gevestigd. De werkloosheid in de regio nam hierdoor flink toe.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_26adc07e64dc.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/def304ed562b4f5d98ffbb974795353a.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2024_I_bijlage_68e3a54200e0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/35a3df9330b8418abfd3d4840ad98390.pdf"
+    }
+  ]
+}

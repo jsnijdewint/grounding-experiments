@@ -1,0 +1,39 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_2_2023_t1_q25",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_2",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 53,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">kg</mi> </mrow><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>nodig is om <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn> <mo>,</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">kg</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Fe</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> <mo>+</mo>&#160;</mrow></msup></math>-ionen om te zetten volgens de gegeven vergelijking.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In Friesland wordt water uit de bodem opgepompt om er drinkwater van te maken. Het opgepompte water bevat nog ongewenste stoffen en is lichtgeel van kleur. Het drinkwater wordt daarom geproduceerd via onder meer de volgende stappen:</p><p>&nbsp;</p><p>1 Water wordt uit de bodem opgepompt.<br>2 Het opgepompte water wordt in contact gebracht met veel lucht. Sommige stoffen die vies smaken, zoals ijzerverbindingen, vormen daarbij vlokjes.<br>3 Het vloeibare mengsel wordt gezeefd in bakken die gevuld zijn met fijn zand. De vlokjes blijven achter.<br>4 Met natronloog worden calciumionen en magnesiumionen in het water omgezet tot calciumhydroxide en magnesiumhydroxide, die vervolgens worden verwijderd.<br>5 Daarna worden de stoffen verwijderd die de lichtgele kleur veroorzaken. Hierbij wordt een ionenwisselaar gebruikt.</p><p>&nbsp;</p><p>Ten slotte wordt het gereinigde water het leidingnet ingepompt.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Tijdens stap 2 kunnen ijzerionen omgezet worden tot <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Fe</mi> </mrow><mo stretchy=\"false\">(</mo> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">OH</mi> </mrow><msub><mo stretchy=\"false\">)</mo> <mrow data-mjx-texclass=\"ORD\"><mn>3</mn>&#160;</mrow></msub></math>. De vergelijking van deze reactie is hieronder onvolledig weergegeven.</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn> <msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Fe</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> <mo>+</mo> </mrow></msup><mo>+</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mo>+</mo> <mo>&#8230;</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mo>+</mo> <mn>8</mn> <msubsup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">HCO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> </mrow></msubsup><mo stretchy=\"false\">&#8594;</mo> <mn>4</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">Fe</mi> </mrow><mo stretchy=\"false\">(</mo> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">OH</mi> </mrow><msub><mo stretchy=\"false\">)</mo> <mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><mo>+</mo> <mn>8</mn> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math></p>"
+    }
+  ],
+  "bijlages": []
+}

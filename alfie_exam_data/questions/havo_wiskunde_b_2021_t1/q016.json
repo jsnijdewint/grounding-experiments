@@ -1,0 +1,46 @@
+{
+  "id": "havo_wiskunde_b_2021_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 102,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel seconden sneller. Geef je eindantwoord als geheel getal.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gemiddeld leveren langeafstandslopers de beste prestaties op een leeftijd van ongeveer 30 jaar. Daarna nemen de prestaties met de jaren af. Er bestaan meerdere modellen om de prestaties van langeafstandslopers van verschillende leeftijden met elkaar te vergelijken. In deze opgave komen twee van zulke modellen aan bod.</p><p><strong>Model </strong>1<br>Dit model gaat ervan uit dat tussen 35 en 55 jaar de gemiddelde <strong>snelheid </strong>van langeafstandslopers bij wedstrijden met 0,8% per levensjaar afneemt.</p><p>De halve marathon is een hardloopwedstrijd over een afstand van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>21</mn> <mo>,</mo> <mn>0975</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">km</mi>&#160;</mrow></math>. De Nederlandse hardloper Aart Stigter heeft meerdere keren aan de halve marathon van Egmond deelgenomen.<br>In 1993 liep hij op 36-jarige leeftijd deze halve marathon met een gemiddelde snelheid van 19,5 km per uur. Precies 12 jaar later, in 2005, liep hij dezelfde halve marathon in een tijd van 1 uur, 10 minuten en 4 seconden.<br>Uitgaande van zijn gemiddelde snelheid in 1993 en een afname van die gemiddelde snelheid met 0,8% per levensjaar, heeft Aart Stigter in 2005 sneller gelopen dan model 1 voorspelt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde B 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2021_I_uitwerkbijla_c8e2f9f7d1ae.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2a3aa3c09ed74fada6a58eebc3894dd7.pdf"
+    }
+  ]
+}

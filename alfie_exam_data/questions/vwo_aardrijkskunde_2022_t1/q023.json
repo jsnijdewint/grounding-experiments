@@ -1,0 +1,66 @@
+{
+  "id": "vwo_aardrijkskunde_2022_t1_q23",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "aardrijkskunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 21,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 4,
+          "name": "Afbakening en gebiedskenmerken",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat een toename van de hout- en papierindustrie leidt tot meer sedimentafvoer van de Amazone. Je uitleg moet een oorzaak-gevolgrelatie bevatten.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Bij deze opgave horen de bronnen 12 tot en met 15.</i></p><p><br>Gebruik de bronnen 12 tot en met 15.<br>Bron 13 geeft het debietverloop bij de plaatsen Acanauê, Manacapuru, Óbidos en Altamira uit bron 12 weer.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 12 en het kaartenkatern.</i><br>De zijrivieren in het zuidwestelijke deel van het stroomgebied van de Amazone transporteren meer sediment en hebben een andere kleur dan de zijrivieren in het noordelijke deel van het stroomgebied van de Amazone.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><i>Gebruik de kaart Brazilië Amazonië Bodemgebruik en economie in het kaartenkatern.</i><br>In het Amazonegebied is veel hout- en papierindustrie.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2022 I_bijlage tweede herziene versie.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2022_I_bijlage__88aae15ced4f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d2ccb851cec4430a802548a6ec4a994e.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2022_I_bijlage_36c5b8adca2e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fc20d49f728944deb7e6b4e46d8b5a4d.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2022 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2022_I_kaartenk_fc425ebd0dcc.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/628196278454411ba47a6f09fd204183.pdf"
+    }
+  ]
+}

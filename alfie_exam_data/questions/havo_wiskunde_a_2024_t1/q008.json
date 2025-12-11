@@ -1,0 +1,73 @@
+{
+  "id": "havo_wiskunde_a_2024_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [
+        {
+          "id": 98,
+          "name": "Verbanden",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken met deze gegevens het totaal aantal mannen in de steekproef van 2017.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 2017 werd er gestaakt door leerkrachten in het basisonderwijs. Er was sprake van aanhoudende onvrede over onder meer het salaris en de werkdruk. In deze opgave wordt met ‘leerkrachten’ telkens ‘leerkrachten in het basisonderwijs’ bedoeld.&nbsp;</p><p>&nbsp;</p><p>Leerkrachten verdienden in 2015 gemiddeld een bruto-uurloon van 26 euro. Daarmee verdienden zij 14 procent minder dan werknemers buiten het onderwijs met hetzelfde opleidingsniveau.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In een enquête in 2017 kregen leerkrachten onder meer de volgende drie vragen voorgelegd: 1 Moet u erg snel werken? 2 Moet u heel veel werk doen? 3 Moet u extra hard werken? Zij konden steeds antwoorden met: ‘nooit’, ‘soms’, ‘vaak’ of ‘altijd’.</p><p>&nbsp;</p><p>Bij deze vragen horen drie variabelen die elk kwalitatief en ordinaal zijn.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In het basisonderwijs werken veel parttimers. In de rest van deze opgave kijken we naar de arbeidsduur per week van leerkrachten. Zowel in 2003 als in 2017 is hier onderzoek naar gedaan. We nemen aan dat er in 2003 en in 2017 een aselecte steekproef is getrokken uit alle leerkrachten die toen werkzaam waren. In de steekproeven is van elke leerkracht zijn of haar arbeidsduur in uur per week bekend. De steekproefresultaten zijn verwerkt in de figuur op de volgende pagina.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_12f37fc3195e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c1f21d6e629642b99d7d7ed735366d57.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Uit de figuur kun je bijvoorbeeld afleiden dat in 2017 bij de mannen de steekproefproportie die voltijds werkt 0,6 is. Veronderstel dat het 95%-betrouwbaarheidsinterval voor de bijbehorende populatieproportie precies [0,58; 0,62] is.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde A 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2024_I_uitwerkbijla_f9ae22db2d27.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/803d0c79996043e4a0d7ab20f340aa91.pdf"
+    },
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_11e2f4336287.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/68b501e3c58045cc93dfc3658f67cc97.pdf"
+    }
+  ]
+}

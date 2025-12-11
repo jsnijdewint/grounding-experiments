@@ -1,0 +1,56 @@
+{
+  "id": "havo_nederlands_2024_t1_q39",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke twee redenen worden hiervoor genoemd in tekst 4? Geef antwoord in één of meer volledige zinnen. Nummer je antwoorden.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In alinea 2 wordt een vergelijking gemaakt met Scandinavische landen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In alinea 5 en 6 staat een argumentatie over het huidige Nederlandse beleid ten opzichte van ouderschapsverlof.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>“Toch slaagt het Noorse model er niet volledig in zorgtaken gelijk te verdelen.” (regels 107-109)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2024_I_bijlage_fba5d5bcdd9a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e64529d1393448beb9499f8bd4fb3aaa.pdf"
+    }
+  ]
+}

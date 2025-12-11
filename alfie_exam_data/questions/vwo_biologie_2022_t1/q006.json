@@ -1,0 +1,106 @@
+{
+  "id": "vwo_biologie_2022_t1_q06",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 30,
+          "name": "Eiwitsynthese",
+          "prefix_code": 1
+        },
+        {
+          "id": 31,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 32,
+          "name": "Zelforganisatie van cellen",
+          "prefix_code": 3
+        },
+        {
+          "id": 33,
+          "name": "Moleculaire en cellulaire interactie",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat het risico op kanker sterk toeneemt in een cellijn waarin het TP53-gen defect is.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Tenzij anders vermeld, is er sprake van normale situaties en gezonde organismen.</i></p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In tegenstelling tot wat veel mensen denken, zijn natuurgeneesmiddelen niet altijd veilig. Zo kunnen sommige Chinese kruidenpreparaten met Aristolochia ernstige nierschade veroorzaken.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Ruim honderd Belgische vrouwen die in de jaren 90 een bepaald afslankmiddel op basis van kruiden hadden gebruikt, ontwikkelden ernstig nierfalen. De oorzaak was aristolochiazuur, afkomstig van de Aristolochiaplant die in het middel verwerkt was. Bij sommige vrouwen was de nierschade zo groot dat een niertransplantatie nodig was. Bij anderen werden jaren later tumoren in de urinewegen aangetroffen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De toepassing van Aristolochia in afslankmiddelen berust op de diuretische (vochtafdrijvende) werking van aristolochiazuur.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Het werkingsmechanisme van aristolochiazuur is nog niet helemaal bekend. Aanvankelijk werd aangenomen dat het vochtafdrijvend werkt door de afgifte van een bepaald hypofysehormoon te beïnvloeden.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Inmiddels neemt men aan dat aristolochiazuur diuretisch werkt doordat deze stof de permeabiliteit van de verzamelbuisjes voor ureum verlaagt.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De nierschade bij de Belgische vrouwen werd meestal toevallig ontdekt na een routine-bloedonderzoek. Het bloedonderzoek toonde bij deze vrouwen vaak ernstige bloedarmoede aan. Bij nader onderzoek bleken de nieren gekrompen en vervormd te zijn.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Van aristolochiazuur is bekend dat het mutaties kan veroorzaken. Daarom was het aannemelijk dat de tumoren in de nieren van de Belgische vrouwen te wijten waren aan het gebruik van het afslankmiddel met Aristolochia.<br>Aristolochiazuur wordt door cellen van de nier, maar ook door levercellen, omgezet in de stof aristolactam, dat bindt aan bepaalde basen van het DNA. Zo'n stof die gebonden is aan het DNA wordt een DNA-adduct genoemd. Op de plaats van zo'n adduct kan bij replicatie een verkeerde base worden ingebouwd in de nieuwe DNA-streng.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>In de uitwerkbijlage is een DNA-nucleotide afgebeeld met daaraan gebonden een DNA-adduct dat ontstaat door gebruik van <i>Aristolochia</i>.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Wanneer DNA-adducten aan basen van proto-oncogenen of tumorsuppressor-genen binden, kan kanker ontstaan. Een van de genen die werd onderzocht bij de Belgische vrouwen is het TP53-gen, dat codeert voor tumorsuppressor p53. Dit eiwit is betrokken bij de controle van het DNA tijdens de celcyclus. Indien er grote schade aan het DNA ontstaat, zet p53 aan tot apoptose.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2022_I_uitwerkbijlage_78c37bbf4d16.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/214a33aa9bdb4fb98f309ba6558eee12.pdf"
+    }
+  ]
+}

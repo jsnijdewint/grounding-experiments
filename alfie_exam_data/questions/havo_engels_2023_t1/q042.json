@@ -1,0 +1,46 @@
+{
+  "id": "havo_engels_2023_t1_q42",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "engels",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 28,
+      "domains": [
+        {
+          "id": 79,
+          "name": "Leesvaardigheid",
+          "prefix_code": "A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke briefschrijver is het helemaal eens met dit standpunt? Noteer de naam van deze briefschrijver.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Lees eerst de opgave voordat je naar de tekst gaat.&nbsp;<br><br>‘“Yes, We Mean Literally Abolish the Police”’ (titel van het artikel dat de aanleiding vormt voor deze brieven)</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Engels 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2023_I_bijlage_6212cb7a14cf.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5b6b1c165c0c4c388173516a45def8d5.pdf"
+    }
+  ]
+}

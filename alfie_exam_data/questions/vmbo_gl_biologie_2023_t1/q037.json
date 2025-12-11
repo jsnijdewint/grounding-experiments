@@ -1,0 +1,60 @@
+{
+  "id": "vmbo_gl_biologie_2023_t1_q37",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 116,
+          "name": "Reageren op prikkels",
+          "prefix_code": "BI/K/11"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Pubers hebben gemiddeld per dag 90 mg vitamine C nodig.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Hoeveel gram gekookte spruitjes moet je minimaal eten om 90 mg vitamine C binnen te krijgen? Leg je antwoord uit met een berekening.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_8742f5ada2f0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b470d4dd59a6454a962d918405c3b699.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Spruitjes zijn de okselknoppen van de spruitkoolplant (zie de afbeelding). Spruitjes maken deel uit van gezonde voeding, omdat ze veel vitamine C en voedingsvezels bevatten. Spruitjes stonden bekend om hun bittere smaak. Door kruising en selectie zijn er nu rassen die zoeter en minder bitter zijn. Dit proces heet veredeling en wordt uitgevoerd op plantenveredelingsbedrijven.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_d342d39279d0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bb76529a85c745ac89615fe12d5353dc.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2023_I_uitwerkbijlage_4e0013036ef8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9a816268fb648d6bbff9679cf7f9a46.pdf"
+    }
+  ]
+}

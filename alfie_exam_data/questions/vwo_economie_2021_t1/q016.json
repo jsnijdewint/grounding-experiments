@@ -1,0 +1,52 @@
+{
+  "id": "vwo_economie_2021_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 20,
+          "name": "Samenwerken en onderhandelen",
+          "prefix_code": "F"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Verklaar met behulp van de spelboom dat het voor IC gezien de doelstelling niet zinvol is om de prijs van een liter verf aan te passen.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het verfbedrijf International Colors (IC) produceert een verfsoort voor roestend metaal. De directie bespreekt tijdens een vergadering de strategische keuzes die het bedrijf heeft om de winstgevendheid van de productie van deze specifieke verfsoort te verhogen. IC heeft op deze markt alleen concurrentie van Farbo die een vergelijkbare verfsoort op de markt brengt. Farbo streeft net als IC naar maximale totale winst en hanteert een prijs van 12 euro per liter verf.</p><p>De prijsafzetfunctie van IC luidt als volgt:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>q</mi> <mrow data-mjx-texclass=\"ORD\"><mi>i</mi> <mi>c</mi> </mrow></msub><mo>=</mo> <mo>&#8722;</mo> <mn>2</mn> <msub><mi>p</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">ic</mi> </mrow></mrow></msub><mo>+</mo> <mn>2</mn> <msub><mi>p</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">fb</mi> </mrow></mrow></msub><mo>+</mo> <mn>4</mn></math></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">q</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">ic</mi> </mrow></mrow></msub><mo>=</mo>&#160;</math>hoeveelheid verkochte liters verf <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo> <mo>&#215;</mo> <mn>100.000</mn> <mo stretchy=\"false\">)</mo>&#160;</math><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>p</mi> <mrow data-mjx-texclass=\"ORD\"><mi>i</mi> <mi>c</mi> </mrow></msub><mo>=</mo>&#160;</math>prijs van IC verf per liter in euro's<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">p</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">fb</mi> </mrow></mrow></msub><mo>=</mo>&#160;</math>prijs van Farbo verf per liter in euro's<br>Verder geldt voor IC:<br>MK (marginale kosten <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">)</mo> <mo>=</mo> <mn>8</mn>&#160;</math>euro</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De directie van IC bespreekt gedurende de vergadering het prijsbeleid en overweegt daarbij drie mogelijkheden: de prijs gelijk laten, verhogen met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>of verlagen met 10%. De directie verwacht dat Farbo op dezelfde manier zal reageren op het prijsbeleid van IC. Een directielid geeft de situatie weer met onderstaande spelboom.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_4de63d2e41cf.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dd70823802b34ccd975b964f2821bf71.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2024_t1_q36",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 140,
+          "name": "Stoffen en materialen",
+          "prefix_code": "NASK1/K/4"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voordat Daan de lamp met petroleum vult, leest hij de veiligheidskaart. Op de veiligheidskaart staat dat petroleum irritatie veroorzaakt. Welk veiligheidspictogram hoort bij deze beschrijving?</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Daan vult een petroleumlamp met petroleum.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_48ce20b40cf5.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/71808b85ed564e86b44c5b95dfdc97fb.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_ffecd15951e9.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2c213973cd0944d3967e32dba26dc727.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2024_I_c96405ee1a91.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c258a8174cb04fbba9275f60e7aa3610.pdf"
+    }
+  ]
+}

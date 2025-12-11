@@ -1,0 +1,50 @@
+{
+  "id": "havo_scheikunde_2024_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:</p><p>– Tel beide reacties in de juiste verhouding bij elkaar op.</p><p>– Laat zien dat in de totale reactie uitsluitend ethanol en water ontstaan <strong>en </strong>vereenvoudig je vergelijking</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een rioolwaterzuiveringsinstallatie zuivert rioolwater voordat het in het oppervlaktewater wordt geloosd. Het rioolwater ondergaat daarbij een reinigingsstap om cellulosevezels te verwijderen die afkomstig zijn uit toiletpapier. Cellulosevezels lossen namelijk slecht op in water en zijn lastig afbreekbaar. Bovendien kunnen deze vezels nuttig worden gebruikt als grondstof voor de brandstof bio-ethanol.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De slechte oplosbaarheid van cellulosevezels in water wordt onder meer veroorzaakt doordat cellulosemoleculen onderling stevig zijn gebonden door middel van waterstofbruggen. Op de uitwerkbijlage zijn fragmenten van twee cellulosemoleculen in structuurformule weergegeven.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In deze opgave worden twee processen (A en B) vergeleken waarmee cellulose uit toiletpapier kan worden omgezet tot bio-ethanol.&nbsp;</p><p>In proces A wordt cellulose met stoom verhit bij een temperatuur van 700 °C. Hierbij ontstaat een mengsel van gassen. Nadat verontreinigingen zijn verwijderd, blijft syngas over. Syngas is een mengsel van waterstof en koolstofmono-oxide. Dit syngas wordt vervolgens door bacteriën in een waterige omgeving via reactie 1 en reactie 2 omgezet.</p><p>&nbsp;</p><p>&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>6</mn>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi data-mjx-auto-op=\"false\">CO</mi>\r\n  </mrow>\r\n  <mo>+</mo>\r\n  <mn>3</mn>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">H</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi mathvariant=\"normal\">O</mi>\r\n  </mrow>\r\n  <mo stretchy=\"false\">&#8594;</mo>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">C</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">H</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>6</mn>\r\n    </mrow>\r\n  </msub>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi mathvariant=\"normal\">O</mi>\r\n  </mrow>\r\n  <mo>+</mo>\r\n  <mn>4</mn>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">CO</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n</math> (reactie 1)</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>2</mn>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">CO</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n  <mo>+</mo>\r\n  <mn>6</mn>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">H</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n  <mo stretchy=\"false\">&#8594;</mo>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">C</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">H</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>6</mn>\r\n    </mrow>\r\n  </msub>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi mathvariant=\"normal\">O</mi>\r\n  </mrow>\r\n  <mo>+</mo>\r\n  <mn>3</mn>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">H</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi mathvariant=\"normal\">O</mi>\r\n  </mrow>\r\n</math> (reactie 2)</p><p>&nbsp;</p><p>Hierbij wordt alle <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">CO</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n</math> die in reactie 1 ontstaat, bij reactie 2 gebruikt. Daardoor komt de totale reactie neer op de omzetting van syngas tot uitsluitend ethanol (<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">C</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">H</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>6</mn>\r\n    </mrow>\r\n  </msub>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi mathvariant=\"normal\">O</mi>\r\n  </mrow>\r\n</math>) en water. De vergelijking van de totale reactie kun je opstellen door beide reacties in de juiste verhouding bij elkaar op te tellen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2024_I_uitwerkbijla_916210a9bf90.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e9af4239fcba4df48d214bc570b194dd.pdf"
+    }
+  ]
+}

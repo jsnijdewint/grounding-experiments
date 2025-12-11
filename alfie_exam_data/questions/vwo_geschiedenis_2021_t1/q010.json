@@ -1,0 +1,66 @@
+{
+  "id": "vwo_geschiedenis_2021_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 189,
+          "name": "Tijdvak 6 – Regenten en vorsten",
+          "prefix_code": 6
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Licht dit toe door:</p><p>- met een ander kenmerkend aspect uit de zeventiende eeuw 'de bloei in economisch opzicht van de Nederlandse Republiek' te verklaren en</p><p>- met een verwijzing naar de bron uit te leggen dat het beleid van de Republiek de bloei van de handel bevordert.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 3.</i></p><p>Je concludeert dat er in de specerijenhandel in de zestiende eeuw sprake is van continuïteit <strong>en </strong>van verandering.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik bron 4.</p><p>Twee gegevens:</p><p>1 Sommige historici beweren dat de Beeldenstorm in Gent een gepland oproer is, andere historici denken dat het gaat om een spontane uitbarsting.</p><p>2 Van Vaernewijck houdt zijn dagboek in de jaren na de Beeldenstorm geheim.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 5.</i></p><p>In 1574 wordt Leiden ontzet door de legers van Willem van Oranje. De inwoners van de gebieden rondom Leiden hebben kritiek op de tactiek die Willem van Oranje hiervoor gebruikt. In deze prent wordt de tactiek van Willem van Oranje verdedigd met verschillende argumenten.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Op 12 mei 1585 boden de Staten-Generaal aan de Engelse koningin Elizabeth de soevereiniteit over de Nederlanden aan.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 6.</i></p><p>In de zeventiende eeuw bloeit de handel in de Republiek.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2021_I_bijlage_802f54fb3aeb.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f094215d14eb43de9153c53cd1712540.pdf"
+    }
+  ]
+}

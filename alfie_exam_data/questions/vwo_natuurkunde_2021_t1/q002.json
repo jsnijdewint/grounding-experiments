@@ -1,0 +1,109 @@
+{
+  "id": "vwo_natuurkunde_2021_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 46,
+          "name": "Kracht en beweging",
+          "prefix_code": 1
+        },
+        {
+          "id": 47,
+          "name": "Energie en wisselwerking",
+          "prefix_code": 2
+        },
+        {
+          "id": 48,
+          "name": "Gravitatie",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beantwoord de volgende twee vragen:</p><ul><li>Bij welke <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">|</mo> <mi>x</mi> <mo stretchy=\"false\">|</mo>&#160;</math>wordt de waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">g</mi> </mrow><mo>,</mo> <mtext>aarde&#160;</mtext></mrow></msub></math>maximaal in het model?</li><li>Geef de grootte van deze maximale waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">g</mi> </mrow><mo>,</mo> <mtext>aarde&#160;</mtext></mrow></msub></math>.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Kosmische achtergrondstraling is de straling die in het jonge heelal als warmtestraling ontstond. De meest gedetailleerde kaart van de kosmische achtergrondstraling laat intensiteitsverschillen van slechts 0,001% zien (zie figuur 1). De beelden konden verzameld worden dankzij de Planck-satelliet van de Europese ruimtevaartorganisatie ESA. De kosmische achtergrondstraling wordt nu waargenomen als microgolfstraling.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_a21beb860747.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3e31613f1afe42c886585f4d70a1f551.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De opnamen voor de kaart van figuur 1 kunnen vanwege de aardatmosfeer niet vanaf het aardoppervlak gemaakt zijn.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De Planck-satelliet draait rondjes om de zon. Hij heeft zijn metingen verricht vanuit een speciaal punt in de ruimte: het Lagrangepunt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>. Het Lagrangepunt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>L</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>ligt in het verlengde van de verbindingslijn van de zon naar de aarde en in dit punt is de omlooptijd van de satelliet gelijk aan die van de aarde. Zie figuur 2.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_9dce8112c4f3.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b6e1e985d55f4fe49a3e13cb7de96a42.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Thijs voert een modelstudie uit om te bepalen op welke afstand van de aarde het Lagrangepunt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">L</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>zich bevindt. In zijn model is de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as de verbindingslijn van de zon naar de aarde. Thijs beperkt zich in zijn onderzoek tot het gebied op de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as waarvoor geldt dat de afstand <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">|</mo> <mi>x</mi> <mo stretchy=\"false\">|</mo>&#160;</math>tot het middelpunt van de aarde kleiner is dan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn> <mo>,</mo> <mn>0</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>9</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math>en groter dan of gelijk aan de straal van de aarde. Zie figuur 3. Deze figuur is niet op schaal. In zijn model definieert Thijs de richting naar rechts in de figuur als positief. Hoewel het Lagrangepunt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">L</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>rechts van de aarde ligt, bekijkt Thijs dus ook wat er gebeurt bij negatieve waarden van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_dfacd2bf6e98.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9fbab7ed80ec450789876ac0d5003e22.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Thijs berekent met zijn model hoe de gravitatieversnelling ten gevolge van de zon, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">g</mi> </mrow><mo>,</mo> <mtext>zon&#160;</mtext></mrow></msub></math>, en die ten gevolge van de aarde, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>a</mi> <mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">g</mi> </mrow><mo>,</mo> <mtext>arde&#160;</mtext></mrow></msub></math>, afhangen van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>(zie figuur 4).</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_62c3d30b4852.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3f7e8c8461304497998924d34c085045.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Thijs heeft ervoor gezorgd dat zijn model zo goed mogelijk aan de werkelijkheid voldoet.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2021_I_uitwerkbijl_c33ae80fc3fe.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/81dc392e495c476891779b4272db5a6c.pdf"
+    }
+  ]
+}

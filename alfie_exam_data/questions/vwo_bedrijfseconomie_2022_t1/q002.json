@@ -1,0 +1,73 @@
+{
+  "id": "vwo_bedrijfseconomie_2022_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "bedrijfseconomie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 6,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 13,
+          "name": "Vastleggen van financiële en niet financiële informatie",
+          "prefix_code": 1
+        },
+        {
+          "id": 14,
+          "name": "Kosten- en winstvraagstukken",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de kostprijs van elk van de adviezen, basic én comfort.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>In deze opgave blijft de btw buiten beschouwing.</i></p><p><br>Het Hypotheekhuis houdt zich bezig met het geven van hypotheekadviezen. Het heeft een hoofdkantoor en meerdere kantoren verspreid over het land. Een ervan staat in de Drentse plaats Hypoveen. Het kantoor in Hypoveen richt zich vooral op starters op de woningmarkt en biedt twee diensten aan:</p><ul><li>een basic hypotheekadvies: een advies plus bemiddeling bij een verstrekker van een hypothecaire lening.</li><li>een comfort hypotheekadvies: het basic hypotheekadvies plus het regelen van alle gegevens die nodig zijn voor de notaris.<br>Op het kantoor in Hypoveen werken vijf hypotheekadviseurs.</li></ul><p><br><strong>Voorcalculatie 2021</strong></p><p><br>Ten behoeve van de voorcalculatie over 2021 heeft het hoofdkantoor de volgende toegestane kosten vastgesteld voor het kantoor in Hypoveen:</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_bc99a5b821ae.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/54acb6a516b2475594386357f5246ac6.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Van het hoofdkantoor mogen de adviseurs niet per uitgebracht advies worden betaald, maar krijgen zij een vast salaris per maand.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Op het kantoor in Hypoveen wordt 46 weken per jaar gewerkt. Een fulltime-werkweek omvat 36 uur. Dit geldt als het normale aantal uren voor een hypotheekadviseur per week. De totale constante kosten worden doorberekend in een uurtarief.</p><p>Het hoofdkantoor heeft het volgende aantal uren arbeid aangegeven voor de berekening van een kostprijs van een advies:</p><ul><li>De normale arbeidstijd voor één basic hypotheekadvies is 15 uur.</li><li>De normale arbeidstijd voor één comfort hypotheekadvies is 18 uur.</li></ul>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_bijlag_62086e27b4ef.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a93cd8f679584499a2c7de8ddf763cff.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2022_I_uitwer_fe9d963a16b1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e693b318cf614e21b8c84f861816b24e.pdf"
+    }
+  ]
+}

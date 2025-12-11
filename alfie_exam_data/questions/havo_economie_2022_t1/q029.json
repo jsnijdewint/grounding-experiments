@@ -1,0 +1,51 @@
+{
+  "id": "havo_economie_2022_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 78,
+          "name": "Goede tijden, slechte tijden",
+          "prefix_code": "I"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit welk effect de lagere rating van kredietbeoordelaars zal hebben op de staatschuld van de Italiaanse overheid.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Uit een tijdschrift, december 2018:</i></p><p><br>In het stabiliteitspact van de EMU zijn normen afgesproken voor het overheidstekort en de staatsschuld van de lidstaten. De ontwerpbegrotingen van de lidstaten worden ter beoordeling voorgelegd aan de Europese Commissie.<br>De afspraken met Italië zijn dat het overheidstekort in 2019 maximaal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>6</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>van het bbp mag bedragen en dat de staatschuldquote moet worden verlaagd. In 2018 is de Italiaanse staatschuld 130% van het bbp.<br>De regering van Italië wil de overheidsuitgaven in 2019 met 35 miljard euro verhogen tot 820 miljard euro (zie bron 1). Het overheidstekort in 2019 wordt hierdoor hoger dan wat met de EMU was afgesproken.</p><p>&nbsp;</p><p>De regering van Italië is niet van plan de begroting aan te passen en doet de volgende 3 beweringen:<br>1 Een hoger tekort op de begroting in 2019 zal leiden tot meer economische groei.<br>2 Hogere economische groei leidt in de toekomst tot een lager overheidstekort.<br>3 Hogere economische groei leidt op twee manieren tot een lagere staatsschuldquote.</p><p>&nbsp;</p><p><i>Gebruik bron 1.</i></p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De Europese Commissie stuurt aan op handhaving van de afspraken van het stabiliteitspact. De Commissie kijkt ook naar de gevolgen van de hoge staatsschuld op de lange termijn. Bovendien is het niet nakomen van de afspraken over het overheidstekort ongunstig voor de kredietwaardigheid van Italië. De lage kredietwaardigheid zal tot uitdrukking komen in de ratings van Italiaanse staatsobligaties door kredietbeoordelaars. Op dit moment hebben deze obligaties nog een B-rating (zie bron 2).</p><p>&nbsp;</p><p><i>Gebruik bron 2.</i></p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_897a168c0baf.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a9da2fcb0f24bbf983e12947b86eb03.pdf"
+    }
+  ]
+}

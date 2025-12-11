@@ -1,0 +1,67 @@
+{
+  "id": "vmbo_gl_biologie_2023_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 115,
+          "name": "Het lichaam in stand houden: voeding en genotmiddelen, energie, transport en uitscheiding",
+          "prefix_code": "BI/K/9"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Een te vroeg geboren baby moet soms beademd worden. De dokter plaatst dan een slangetje om lucht in de longen te blazen. Het slangetje moet in de juiste buis in de keel geplaatst worden. Hierboven zie je twee schematische tekeningen. In één tekening is het slangetje op de juiste wijze geplaatst.<br><br>In welke tekening is het slangetje op de juiste wijze geplaatst voor een succesvolle beademing? Leg je antwoord uit.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een zwangerschap duurt gemiddeld 39 weken. Soms worden baby’s te vroeg of extreem vroeg geboren. Deze baby’s kunnen verschillende gezondheidsproblemen krijgen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_a3f413a05e51.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cc6bb9f1bcc0498f88ef40cbed550c32.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_2e70ef06cafe.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/83d8f884668540caa05efa531e7b4ecb.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_d0e7495e219c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f19f3c22e819444bbcb0a934762b50e3.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2023_I_uitwerkbijlage_4e0013036ef8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9a816268fb648d6bbff9679cf7f9a46.pdf"
+    }
+  ]
+}

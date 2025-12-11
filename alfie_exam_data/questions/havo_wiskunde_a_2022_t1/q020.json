@@ -1,0 +1,76 @@
+{
+  "id": "havo_wiskunde_a_2022_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 176,
+          "name": "Tabellen",
+          "prefix_code": 1
+        },
+        {
+          "id": 177,
+          "name": "Grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        },
+        {
+          "id": 178,
+          "name": "Formules met één of meer variabelen",
+          "prefix_code": 3
+        },
+        {
+          "id": 179,
+          "name": "Lineaire verbanden",
+          "prefix_code": 4
+        },
+        {
+          "id": 180,
+          "name": "Exponentiële verbanden",
+          "prefix_code": 5
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken met behulp van de formule welke tijd Bolt gehaald zou hebben als de rugwindsnelheid 2,0 meter per seconde was geweest. Geef je antwoord in twee decimalen.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Op 16 augustus 2009 verbrak Usain Bolt op de wereldkampioenschappen atletiek in Berlijn het wereldrecord op de 100 meter sprint door een tijd te lopen van 9,58 seconden. Het wereldrecord van de vorige wereldrecordhouder, Asafa Powell, was 9,74 seconden.</p><p>&nbsp;</p><p>Stel dat Bolt en Powell bovengenoemde tijden met constante snelheid in dezelfde race hadden gelopen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De tijd die een sprinter loopt, hangt ook af van de wind die tijdens de sprint waait. Bij rugwind krijgt de sprinter als het ware een duwtje in de rug en zal hij een snellere tijd lopen. De Engelse wiskundige Barrow heeft voor het geval van rugwind de volgende formule afgeleid:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi> <mo>=</mo> <mn>1</mn> <mo>,</mo> <mn>03</mn> <mi>M</mi> <mo>&#8722;</mo> <mn>0</mn> <mo>,</mo> <mn>03</mn> <mi>M</mi> <mo>&#8901;</mo> <msup><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mn>1</mn> <mo>&#8722;</mo> <mfrac><mrow><mi>W</mi> <mo>&#8901;</mo> <mi>M</mi> </mrow><mn>100</mn> </mfrac><mo data-mjx-texclass=\"CLOSE\">)</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></math></p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi>&#160;</math>de tijd (in seconden) die gelopen wordt met rugwindsnelheid <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi>&#160;</math>(in meters per seconde) en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Z</mi>&#160;</math>de tijd (in seconden) die gelopen wordt zonder wind.</p><p>Een geregistreerde tijd mag alleen als record tellen als de rugwindsnelheid niet groter is dan 2,0 meter per seconde. Toen Bolt in Berlijn zijn wereldrecord van 9,58 seconden liep, was de rugwindsnelheid 0,9 meter per seconde.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_47358876a1f1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/481e05ea1b3d4f8abbc66849e31c4129.pdf"
+    },
+    {
+      "name": "Wiskunde A 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2022_I_uitwerkbijla_ed3f16cbc21f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7a0c7f08da744830b81b66f1bba66954.pdf"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "vwo_biologie_2021_t1_q27",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 34,
+          "name": "Reproductie van het organisme",
+          "prefix_code": 7
+        },
+        {
+          "id": 35,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 43,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<ul><li>Noteer de genotypenverhouding van de mannelijke geslachtscellen in deze kruising.</li><li>Noteer de kans op PVS-resistentie voor een nakomeling uit deze kruising.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Dankzij een innovatieve techniek, ontwikkeld door een Nederlands plantenveredelingsbedrijf, kunnen boeren verbeterde aardappels telen uit zaad in plaats van uit pootaardappels.</p><p>Aardappelplanten (Solanum tuberosum) krijgen bloemen die na bestuiving uitgroeien tot bessen met honderden zaden. Beter bekend is de voortplanting door ondergronds gevormde zetmeelrijke knollen: de aardappels (afbeelding 1). De teelt van consumptieaardappels in Nederland is vooral gebaseerd op het gebruik van de knollen: een teler koopt ze als pootaardappels bij een vermeerderingsbedrijf en zet ze in de grond. Uit elke pootaardappel groeit een aardappelplant die weer nieuwe knollen produceert.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_eaf5a70fecc6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5b3f58773d6743a1939f54fb345ac85e.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Zodra de pootaardappels of de uitlopers daarvan boven de grond uitkomen en er licht op valt, worden ze groen door de vorming van chlorofyl. In het licht neemt ook de hoeveelheid solanine, een giftige stof, in de bovengrondse delen van de plant snel toe. Solanine wordt niet afgebroken tijdens het koken. Het Voedingscentrum raadt daarom aan de groene delen van aardappels vóór bereiding ruim weg te snijden.<br>Een middelgrote aardappel weegt 50 gram. De niet-groene delen van aardappels bevatten maximaal 10 mg solanine per 100 gram. Vergiftigingsverschijnselen zoals misselijkheid, braken en hartritmestoornissen treden op bij een inname van 2,5 mg solanine per kilogram lichaamsgewicht per dag.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Tetraploïde (4n) aardappelplanten zijn vaak groter en produceren grotere knollen dan de diploïde planten. Doordat de rassen die in de landbouw worden gebruikt vrijwel allemaal tetraploïd zijn, is aardappelveredeling lastig.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Aardappelveredelaars hebben eeuwenlang getracht door kruising en selectie gewenste eigenschappen homozygoot in de tetraploïde planten te krijgen, zoals resistentie tegen het aardappelvirus PVS.<br>Een recessief allel r codeert voor deze resistentie.<br>Twee tetraploïde aardappelplanten met genotype RRrr worden met elkaar gekruist. Bij tetraploïde planten ontstaan na meiose diploïde geslachtscellen.</p>"
+    }
+  ],
+  "bijlages": []
+}

@@ -1,0 +1,67 @@
+{
+  "id": "vmbo_gl_biologie_2023_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 57,
+      "domains": [
+        {
+          "id": 115,
+          "name": "Het lichaam in stand houden: voeding en genotmiddelen, energie, transport en uitscheiding",
+          "prefix_code": "BI/K/9"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gaat de bloeddruk omlaag of omhoog als er veel histamine in het bloed komt? Leg je antwoord uit.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Door een steek van een wesp krijg je een gifstof in je lichaam. Er ontstaat daardoor een pijnlijk gezwel. Bij sommige mensen veroorzaakt een wespensteek een allergische reactie. Bij een allergische reactie kunnen er vele rode bultjes op de huid ontstaan. Ook kan een allergische reactie leiden tot een astma-aanval of een opgezwollen keel.&nbsp;<br><br>Bij een allergische reactie reageren witte bloedcellen op het gif van de wesp door antistoffen te maken. Hierbij komt de stof histamine vrij. Histamine zorgt ervoor dat de bloedvaten wijder worden. Door histamine laten de wanden van de haarvaten ook meer vocht door naar het weefsel, waardoor de rode bultjes en zwellingen ontstaan.&nbsp;<br><br>Je ziet een afbeelding waarin de drie stappen van de allergische reactie schematisch zijn getekend met antigenen, antistoffen en witte bloedcellen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_3aa315c5cc28.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/94e7f87d122c461195e87698db028235.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_46829f18f5ab.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/208440d65b9444e4adef6ca8c67fe34b.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_c2fc360f4d48.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/29708660a5324731ba102bd6c7b8a09b.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2023_I_uitwerkbijlage_4e0013036ef8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d9a816268fb648d6bbff9679cf7f9a46.pdf"
+    }
+  ]
+}

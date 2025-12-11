@@ -1,0 +1,61 @@
+{
+  "id": "vwo_wiskunde_a_2023_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 78,
+          "name": "Standaardfuncties",
+          "prefix_code": 1
+        },
+        {
+          "id": 79,
+          "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoelang het duurt totdat nog maar de helft van de whisky over is. Geef je antwoord in jaren en gehele maanden.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Traditioneel gebrouwen whisky wordt enkele jaren in houten vaten opgeslagen om daarin te rijpen. In het algemeen geldt: hoe langer de whisky rijpt, hoe beter hij smaakt. Lang rijpen heeft echter een nadeel: een deel van de whisky gaat verloren doordat deze in het houten vat trekt of verdampt. Het deel van de whisky dat tijdens het rijpen verloren gaat, wordt het <strong>engelendeel </strong>genoemd. Het engelendeel wordt uitgedrukt in een percentage per jaar.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Van een bepaald soort whisky is het engelendeel 4,5%. Neem aan dat het engelendeel elk jaar hetzelfde percentage is.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_c4a05812e0a8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cf1c75f3e6924743b07261120dad2f9b.pdf"
+    },
+    {
+      "name": "Wiskunde A 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2023_I_uitwerkbijla_a9d84112fbc1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fc5ba2ce845c4c85ae53d81485ef9507.pdf"
+    }
+  ]
+}

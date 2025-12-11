@@ -1,0 +1,52 @@
+{
+  "id": "vwo_economie_2025_t1_q28",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noem de Nash-evenwichten uit tabel 2 bij winstmaximalisatie.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een econoom onderzoekt de mogelijkheid voor boeren om over te stappen van traditioneel geteelde groente (met milieuschade) naar biologisch geteelde groente (zonder milieuschade). Dit betekent een forse investering omdat biologische telers meer grond nodig hebben om dezelfde hoeveelheid groenten te produceren. Voor de biologische teelt is dit nodig, omdat stukken grond langere tijd niet worden gebruikt, waardoor de grond langer vruchtbaar bliftt.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De econoom stelt een model op voor twee boeren om de keuze voor traditionele of biologische teelt te onderzoeken (zie tabellen 1 en 2).<br><br>&nbsp;</p><p>Stel dat boer B investeert in biologische teelt, terwijl boer A voorlopig traditioneel blift telen. De oude vaste (constante) kosten, voordat de investering wordt gedaan, zijn € 14.250.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_39bfcd366a38.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/58eb18965d4847dcb73b1821f306d182.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vw-1022-a-25-1-u.pdf",
+      "media_path": "media/bijlages/vw-1022-a-25-1-u_90e7cccc7fef.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/48e2754d6ace4abd9ac3ac8836680c67.pdf"
+    }
+  ]
+}

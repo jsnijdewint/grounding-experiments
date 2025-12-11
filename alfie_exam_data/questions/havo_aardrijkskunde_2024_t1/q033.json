@@ -1,0 +1,61 @@
+{
+  "id": "havo_aardrijkskunde_2024_t1_q33",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "aardrijkskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 46,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 96,
+          "name": "Nationale en regionale vraagstukken",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Een overstroming in de bovenloop van een rivier verkleint de kans op een overstroming in de benedenloop.<br><br>Leg dit uit. Je uitleg moet een oorzaak-gevolgrelatie bevatten.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 19 en 20.<br><br>De Watersnoodramp in 1953 (zie bron 19) ontstond door een combinatie van springtij en een zware noordwesterstorm. Deze natuurlijke omstandigheden leiden ook tegenwoordig nog tot een grote overstromingsdreiging in Nederland, vooral als de rivieren tegelijkertijd een hoge piekafvoer hebben.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik de bronnen 19 en 20 en het kaartenkatern. Bij de Watersnoodramp in 1953 kwamen 1.836 mensen om het leven. Een dijkdoorbraak bij Nieuwerkerk aan den IJssel zou tot veel meer slachtoffers geleid hebben.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De Watersnoodramp in 1953 veranderde het denken over waterveiligheid in Nederland en leidde tot de aanleg van de Deltawerken. Ook na 1995 veranderde het denken over waterveiligheid.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_bijlage_e5aee28a8749.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/852747fcf4004fde8244fbb76d88396b.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2024 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_kaartenk_be0f755c05aa.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b1aad8ed2f3d416c8a64def58f7e8c12.pdf"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2023_t1_q36",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 140,
+          "name": "Stoffen en materialen",
+          "prefix_code": "NASK1/K/4"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Het gasvormige kwik wordt opgevangen en koelt af naar kamertemperatuur.<br>Van welke faseovergang is er sprake bij het afkoelen?<br><strong>A </strong>van condenseren<br><strong>B </strong>van rijpen<br><strong>C </strong>van smelten<br><strong>D </strong>van stollen<br><strong>E </strong>van sublimeren<br><strong>F </strong>van verdampen</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Piet plaatst een nieuwe knoopcel in zijn horloge. Een knoopcel is een batterij in de vorm van een knoop.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_0a0d6e2cc69f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8bccd5e6869249bf99bc4b575a546c05.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de knoopcel zit kwik verwerkt.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De lege knoopcellen worden in een fabriek verwerkt. De knoopcellen worden eerst vermalen. Daarna worden de vermalen knoopcellen verhit tot boven het kookpunt van kwik. Het vloeibare kwik gaat daarbij over in de gasvorm.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2023_I_146f2ef32a60.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a553a8c7e49437a900373fa6ec9748e.pdf"
+    }
+  ]
+}

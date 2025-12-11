@@ -1,0 +1,53 @@
+{
+  "id": "vmbo_gl_economie_2024_t1_q37",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 123,
+          "name": "Consumptie",
+          "prefix_code": "EC/K/4A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Volgens het Nibud zijn het juist thuiswonende studenten die een slechte schatting maken van hun uitgaven als ze op zichzelf gaan wonen.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Geef een reden waarom vooral thuiswonende studenten de werkelijke uitgaven slecht inschatten.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 10 en 11 in de bijlage.&nbsp;<br><br>Sasja heeft nu bijna het eerste jaar van de opleiding tot biologisch-medisch analist in Leiden afgerond. Over een maand wordt ze 18 jaar en dan gaat ze op kamers. Ze wil zich zo goed mogelijk voorbereiden en daarom gebruikt ze de brochure: student &amp; financiën van het Nibud.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_73b3b47168dc.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/efae25b8e6c94f919a3421df1b246a61.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2024_I_bijlage_68e3a54200e0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/35a3df9330b8418abfd3d4840ad98390.pdf"
+    }
+  ]
+}

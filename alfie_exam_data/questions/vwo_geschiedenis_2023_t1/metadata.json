@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 128,
+    "education_level": "vwo",
+    "discipline": "geschiedenis",
+    "year": 2023,
+    "tijdvak": 1
+  },
+  "question_count": 25
+}

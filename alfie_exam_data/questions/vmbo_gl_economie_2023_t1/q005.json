@@ -1,0 +1,56 @@
+{
+  "id": "vmbo_gl_economie_2023_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 123,
+          "name": "Consumptie",
+          "prefix_code": "EC/K/4A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik informatiebron 1.<br><br>Leg uit of de familie de Gaaijer in aanmerking komt voor deze regeling van de gemeente.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij de beantwoording van de vragen in deze opgave moet je soms gebruikmaken van informatiebron 1 in de bijlage.&nbsp;<br><br>De energierekening valt Marcia de Gaaijer elke maand weer tegen. Ze wil binnen twee maanden het notabedrag naar beneden krijgen. Haar man: “Dat is nog niet zo simpel. De enige manier om op korte termijn het notabedrag echt lager te krijgen, is door minder energie te verbruiken.”</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Marcia krijgt van Solarcity bv een schatting van de verwachte opbrengsten per jaar.&nbsp;<br><br>gemiddelde jaaropbrengst per zonnepaneel 270 kWh&nbsp;<br>eigen verbruik 2.500 kWh&nbsp;<br><br>Het teveel opgewekte kWh (kilowattuur) kan worden verkocht aan het energiebedrijf voor € 0,21 per kWh.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Volgens de informatiebrochure van de gemeente is er een regeling omtrent asbestdaken en zonnepanelen. De familie De Gaaijer uit Zonhoven wil het oude asbestdak van 300 m2 vervangen en de 16 zonnepanelen, met een jaaropbrengst van 270 kWh per paneel, daarop plaatsen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2023_I_bijlage_d07fb50732d7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/37a7c03aae784b9f89ef1c2fe31fa61d.pdf"
+    }
+  ]
+}

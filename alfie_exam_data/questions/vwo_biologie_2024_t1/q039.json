@@ -1,0 +1,67 @@
+{
+  "id": "vwo_biologie_2024_t1_q39",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 36,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 37,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 38,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Verklaar waardoor de binding van PFOA aan plasma-eiwitten de uitscheiding van PFOA belemmert.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In Nederland ontstond grote ophef toen PFAS (poly- en perfluoralkylstoffen) werden aangetroffen in afvalwater, oppervlaktewater en zelfs drinkwater. PFAS leveren namelijk risico’s op voor de volksgezondheid en het milieu. Wetenschappers van het RIVM (Rijksinstituut voor Volksgezondheid en Milieu) onderzochten of PFAS via besmette groentetuintjes terecht kunnen komen in voedsel voor mensen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_1da0874802d5.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dd775b10a6654901906ccd670415eabc.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>PFOA wordt nauwelijks afgebroken of uitgescheiden door het lichaam van de mens. Voor PFOA is de grenswaarde een dagelijkse inname van 0,63 ng/kg lichaamsgewicht per dag. Deze waarde is afgeleid van de waarde van 750 ng/kg lichaamsgewicht per dag die uit onderzoek bij ratten kwam.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>PFOA wordt nauwelijks uitgescheiden doordat veel PFOA-moleculen binden aan plasma-eiwitten in het bloed. De PFOA-moleculen die niet gebonden zijn, kunnen wel worden uitgescheiden.</p>"
+    }
+  ],
+  "bijlages": []
+}

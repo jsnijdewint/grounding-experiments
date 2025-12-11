@@ -1,0 +1,81 @@
+{
+  "id": "havo_scheikunde_2023_t1_q25",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit op microniveau of het gebruik van meer oct-1-een in LLDPE het kunstgras sterker of juist veerkrachtiger zal maken. Gebruik eventueel figuren 1 en 2.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Al sinds 1964 worden kunstgrasmatten gebruikt, bijvoorbeeld voor voetbalvelden. Een bepaald type kunstgrasmat bestaat uit een onderlaag van bijvoorbeeld rubber of polypropeen waaraan kunstgrassprieten zijn bevestigd. Een grondstof voor rubber is buta-1,3-dieen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Het materiaal waarmee de kunstgrassprieten worden gemaakt, is in de loop der jaren verbeterd. De sprieten worden steeds sterker, veerkrachtiger en duurzamer. LLDPE is een veelgebruikte materiaalsoort voor kunstgrassprieten. LLDPE is een copolymeer dat wordt gevormd door additie van voornamelijk etheen en een kleine hoeveelheid oct-1-een (figuur 1a). De aanwezigheid van oct-1-een zorgt ervoor dat de polymeerketens van LLDPE zijketens bevatten (figuur 1b).</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_aca680d82100.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/40e6cac9d5c8483d912d135f662b4af4.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_8b13463a971b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/34734f45c4c148b592714ee86d17fedf.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Door middel van extruderen worden van het copolymeer lange polymeervezels gevormd. Deze vezels worden verwerkt in de kunstgrasmat.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Figuur 2 geeft een vereenvoudigde weergave van de structuur van het copolymeer. De polymeerketens worden in deze figuur als lange draden voorgesteld. Er zijn delen waarin de ketens evenwijdig zijn gerangschikt. Dit noemen we de kristallijne delen. In andere delen, die amorf worden genoemd, zijn de polymeerketens kriskras door elkaar aanwezig.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_36cc8eb8cd6d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/efaf425e6b374af68999d15305e289ea.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Een hoger aandeel kristallijne delen verhoogt vooral de sterkte van het kunstgras, terwijl een hoger aandeel amorfe delen het kunstgras juist veerkrachtiger maakt.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2023_I_uitwerkbijla_6848f9a012f7.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a0eaf6b74f434738aac19ad6e9c16d2f.pdf"
+    }
+  ]
+}

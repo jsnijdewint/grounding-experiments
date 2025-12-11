@@ -1,0 +1,65 @@
+{
+  "id": "vwo_wiskunde_c_2022_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [
+        {
+          "id": 55,
+          "name": "Vorm en Ruimte",
+          "prefix_code": "G"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel liter water maximaal in de sous-vide gedaan mag worden. Geef je antwoord in één decimaal.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In restaurants en bij hobbykoks is het zogeheten vacuúmgaren, een methode voor het gaar laten worden van voedsel, steeds meer in opmars. Bij vacuûmgaren wordt, bijvoorbeeld, vlees in een vacuûmzak gegaard in een warmwaterbak, ook wel sous-vide genoemd.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_a2b558df6f48.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/af02f21ae1064689a64359582e62c593.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_c1dd92c4c3f3.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/42995330a5ab4e23a2153218b73f0f4c.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De bak waarin het water zit, heeft bij benadering de vorm van een balk met binnenafmetingen van 27,5 bij 19,5 bij <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn> <mo>,</mo> <mn>0</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">cm</mi>&#160;</mrow></math>(respectievelijk lengte, breedte en hoogte). In de bak zit 2,0 cm onder de rand een maatstreepje. Als het vlees in de vacuúmzak in de waterbak ligt, mag de waterspiegel niet boven dit maatstreepje uitkomen.</p><p>Op foto 2 is een entrecote in een vacuûmzak afgebeeld die in de sous-vide van foto 1 gegaard wordt. Foto's 1 en 2 zijn niet op dezelfde schaal afgebeeld.</p><p>De entrecote op foto 2 is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn> <mo>,</mo> <mn>5</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">cm</mi>&#160;</mrow></math>dik. Het boven- en onderoppervlak van de entrecote zijn gelijk, met elk een oppervlakte van ongeveer <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>120</mn> <msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">cm</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></math>. Het volume van de vacuûmzak mag worden verwaarloosd.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2022_I_uitwerkbijla_88029eac1d9f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e2af97078af344c6a48ef1f748b398b8.pdf"
+    }
+  ]
+}

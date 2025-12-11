@@ -1,0 +1,72 @@
+{
+  "id": "havo_scheikunde_2022_t1_q18",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>mol</mi><mo>&#160;</mo><msup><mi mathvariant=\"normal\">H</mi><mo>+</mo></msup></math>is opgelost in 220 L wijn met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">pH</mi> </mrow><mo>=</mo> <mn>3</mn> <mo>,</mo> <mn>5</mn>&#160;</math>. <strong>Geef de uitkomst in het juiste aantal significante cijfers.</strong></p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Wijn kan bederven doordat stoffen in de wijn door micro-organismen worden omgezet. Wijn kan bijvoorbeeld zuur gaan smaken doordat azijnzuurbacterièn, die in wijn aanwezig zijn, ethanol omzetten tot azijnzuur <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>. De reactie die daarbij optreedt, is een redoxreactie waarbij ethanol als reductor reageert.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Aan wijn wordt vaak 'sulfiet' toegevoegd, waarmee onder meer oxidatie, kleur en bacteriegroei tijdens het maken van de wijn worden beïnvloed. De naam sulfiet wordt gebruikt om een aantal zwavelhoudende verbindingen aan te duiden.<br>De toegestane hoeveelheid sulfiet in wijn is wettelijk geregeld. Een witte wijn bijvoorbeeld, mag maximaal 200 mg sulfiet per liter bevatten.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Omdat sulfiet in verband wordt gebracht met gezondheidsklachten, worden alternatieven onderzocht. Een van deze alternatieven is het gebruik van chitosan. Chitosan is een vaste stof die wordt gemaakt door een reactie van chitine met natronloog. In figuur 1 op de volgende bladzijde is de structuurformule van een fragment chitine (fragment-a) en een mogelijke structuurformule van een fragment chitosan (fragment-b) weergegeven.</p><p>Bij de reactie van chitine met natronloog worden acetaationen <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">COO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> </mrow></msup><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>afgesplitst, waarbij <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">NH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-groepen worden gevormd. De reactieomstandigheden bepalen het aantal acetaationen dat van de chitinemoleculen wordt afgesplitst, en daarmee het gemiddelde aantal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">NH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-groepen dat per molecuul chitosan wordt gevormd.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_35a040afdea7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/85ce6432fa3a48a183c8bf61b7cc8e2d.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De reactie waarbij het fragment chitine (fragment-a) met natronloog wordt omgezet tot het fragment chitosan (fragment-b), kan schematisch worden weergegeven als:<br>fragment-a <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo> <mo>&#8230;</mo> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">X</mi> </mrow><mo stretchy=\"false\">&#8594;</mo>&#160;</math>fragment-b <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo> <mo>&#8230;</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">CH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">COO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo>&#160;</mrow></msup></math><br>Deze vergelijking is nog onvolledig: twee coêfficiênten en één formule ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi>&#160;</math>) ontbreken.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Als de reactie wordt stopgezet zijn nog niet alle mogelijke <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">NH</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>-groepen gevormd.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Wijn bestaat voornamelijk uit water, en heeft een pH van ongeveer 3,5.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2022_I_uitwerkbijla_f5e7f9155c59.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a02c79c5875f4978b042c59ce1514099.pdf"
+    }
+  ]
+}

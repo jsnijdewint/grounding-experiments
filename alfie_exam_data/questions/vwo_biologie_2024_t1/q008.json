@@ -1,0 +1,125 @@
+{
+  "id": "vwo_biologie_2024_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 36,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 37,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 38,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Schrijf de nummers 1 en 2 onder elkaar en licht voor elk celtype uit de tabel toe hoe het betreffende effect van nicotine kan leiden tot problemen bij de gaswisseling op latere leeftijd. Doe dit aan de hand van een factor uit de wet van Fick.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het is al lang bekend dat roken tijdens de zwangerschap kan leiden tot een miskraam, een laag geboortegewicht, vroeggeboorte en nadelige gezondheidseffecten bij de baby. Amerikaanse wetenschappers van de Stanford University School of Medicine hebben een model ontwikkeld om te onderzoeken hoe nicotine een embryo beïnvloedt.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_6c733b08a416.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6097201d78184ba7829af47c61d63f3c.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Over afbeelding 1 worden de volgende uitspraken gedaan:&nbsp;<br>1 Nicotine is een antagonist van acetylcholine.<br>2 Dopamine komt via endocytose in de synapsspleet terecht.&nbsp;<br>3 Heropname van dopamine vindt plaats door dopaminereceptoren.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Nicotine wordt niet afgebroken door acetylcholinesterase, dat in de weefselvloeistof aanwezig is.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De gifstof nicotine wordt gemaakt door planten van de familie Solanaceae. In deze familie worden de grootste hoeveelheden nicotine geproduceerd door de planten van het geslacht Nicotiana.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Nicotiana-soorten die gebruikt worden voor de productie van tabak hebben hogere gehaltes aan nicotine dan wilde tabaksplanten. Dit komt door een bepaald proces waarbij door middel van kruisingen en selectie een hogere aanmaak van nicotine in deze productiesoorten is verkregen.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_036b7ddc3fba.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f52f099991ff451d9b95348b4d62153f.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_7c4b5a9ebf81.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/828870065e7145468cd0fe0e14f69100.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Over het resultaat worden de volgende uitspraken gedaan:&nbsp;</p><p>1 Het aantal cellen in een controle-EB is gemiddeld groter dan in een EB die aan nicotine is blootgesteld.&nbsp;</p><p>2 Het verschil in gemiddelde diameter tussen de twee groepen EB's berust op toeval.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>De onderzoekers hebben ook het effect van nicotine op de genexpressie van de EB’s onderzocht. Om de verschillen in expressie tussen verschillende celtypen te onderzoeken, werd de genexpressie van afzonderlijke cellen bepaald.<br><br>Om de genexpressie te bepalen werd – op basis van al het RNA – cDNA gemaakt, dat vervolgens werd vermenigvuldigd met de PCR-techniek. Aan de hand van de gevonden genexpressie werd een expressieprofiel opgesteld waarmee de cellen konden worden ingedeeld in verschillende celtypen. Afbeelding 5 toont de stappen van dit deel van het onderzoek.</p>"
+    },
+    {
+      "order": 10,
+      "type": "image",
+      "media_path": "media/in-exam/img_df56fb59d100.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/00460679231342a1b6db81392bc84bae.png",
+      "caption": ""
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>In de tabel hieronder zijn twee celtypen genoemd waarvan de genexpressie was veranderd door nicotine, met het bijbehorend effect op de embryonale ontwikkeling.</p>"
+    },
+    {
+      "order": 12,
+      "type": "image",
+      "media_path": "media/in-exam/img_3d22fa392f3b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cee3fcceb9584ad691e3b5141a829a14.png",
+      "caption": ""
+    },
+    {
+      "order": 13,
+      "type": "text",
+      "text": "Kinderen van wie de moeder rookte tijdens de zwangerschap, hebben op\r\nlatere leeftijd een grotere kans op longproblemen."
+    }
+  ],
+  "bijlages": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "vmbo_gl_economie_2022_t1_q40",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 55,
+      "domains": [
+        {
+          "id": 123,
+          "name": "Consumptie",
+          "prefix_code": "EC/K/4A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Ondanks de koopkrachtstijging besluit Jorgio de Witt toch zuinig aan te doen. Het is weleens vaker gebeurd dat een voorspelde koopkrachtstijging later leidde tot een koopkrachtdaling. Hieronder staan drie economische verschijnselen:<br>1 De vraag naar goederen en diensten overstijgt het aanbod.<br>2 Er komt meer vraag naar goederen en diensten.<br>3 Er ontstaat inflatie.<br>In welke regel staan deze verschijnselen zo dat een logische gedachtegang ontstaat?<br>A koopkracht stijgt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo> <mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo>&#160;</math>koopkracht daalt<br>B koopkracht stijgt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo> <mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo>&#160;</math>koopkracht daalt<br>C koopkracht stijgt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo>&#160;</math>koopkracht daalt<br>D koopkracht stijgt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>1</mn> <mo stretchy=\"false\">&#8594;</mo>&#160;</math>koopkracht daalt<br>E koopkracht stijgt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>1</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo>&#160;</math>koopkracht daalt<br>F koopkracht stijgt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo> <mn>3</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <mo stretchy=\"false\">&#8594;</mo> <mn>1</mn> <mo stretchy=\"false\">&#8594;</mo>&#160;</math>koopkracht daalt</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Zoals bij iedere Prinsjesdag doen kranten verslag van de plannen van de regering voor het komende jaar. Het onderwerp waarover op Prinsjesdag het meest wordt geschreven is de koopkracht van de burger.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_f0c8c9a4b15f.webp",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e51eb4f342f04b019720b11d8e8a4f32.webp",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In het Financieele Dagblad (FD) staat een overzicht van de veranderingen in koopkracht voor verschillende bevolkingsgroepen. Daarbij wordt het begrip modaal inkomen gebruikt.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Jorgio de Witt is een alleenstaande ouder met drie kinderen. Zijn minimumloon stijgt in 2018 van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>1.625</mn>&#160;</math> naar <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8364;</mo> <mn>1.670</mn>&#160;</math> bruto per maand. De inflatie in 2018 bedraagt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>8</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>. Volgens het FD stijgt zijn koopkracht vergeleken met andere inkomensgroepen het meest.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_ef2c1b8354d0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dc02323a63d64258a36e6a9729a51c74.pdf"
+    }
+  ]
+}

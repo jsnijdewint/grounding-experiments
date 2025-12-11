@@ -1,0 +1,95 @@
+{
+  "id": "vmbo_gl_aardrijkskunde_2024_t1_q31",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "aardrijkskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 71,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bekijk bron 27 en lees bron 28 .<br>De rivier de Karun ligt in het stroomgebied van de rivier de Tigris. Toch kan Turkije niet verantwoordelijk worden gehouden voor de waterschaarste in Khuzestan.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Geef met behulp van bron 27 een natuurlijke oorzaak waardoor Turkije niet verantwoordelijk kan worden gehouden voor de waterschaarste in Khuzestan.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_f103afd09332.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f5673dc46db3461a8af6deb58075078a.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_5ea42cf8f497.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/be2b74417a134109b7913c791c1c0d81.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>bron 21<br>Tekst met keuzemogelijkheden</p><p>In de duinen langs de Nederlandse Noordzeekust zit een ondergrondse zoetwatervoorraad. Drinkwaterbedrijven winnen water uit de duinen nadat het water in de duinen door ... <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>.</mo>&#160;</math>. (het zand / de klei) gefilterd is. Drinkwaterbedrijven pompen vooral ... 2 ... (grondwater / oppervlaktewater) de duinen in. Na een aantal weken wordt het water weer opgepompt. Als het water uit de diepere grondlagen van de duinen wordt opgepompt, kan het water ... <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mn mathvariant=\"bold\">3</mn> </mrow><mo>&#8230;</mo>&#160;</math>(te vervuild / te zout) zijn voor gebruik.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_9f34cbd17935.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fe598d3117af4b6aabc2d2833c1bbb4c.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_a50c54996441.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/210e825e2c6a4cd2a89195beca18be95.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_4cc0de34f7eb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f7bde946c7e44e30be603bf47fc8968e.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_ea3f6d2dae4d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f378dbd1f79b4c5396d1ee84daacadce.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_a59fd615a851.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6bff6af2dab844a8976502c796a5c403.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_1ccc96a75ff7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c46d690d92b14b31ad11effad64b4331.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>bron 28<br>Krantenartikel</p><p>Ondanks de stuwdammen in de rivier de Karun, heeft de provincie Khuzestan veel last van waterschaarste. Het waterpeil van de rivier de Karun is door de jaren heen flink gedaald. De Iraanse regering wijst steeds vaker naar Turkije als de verantwoordelijke voor de waterschaarste. Turkije heeft onlangs weer een nieuwe stuwdam in gebruik genomen.</p>"
+    }
+  ],
+  "bijlages": []
+}

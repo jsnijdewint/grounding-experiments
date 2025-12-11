@@ -1,0 +1,70 @@
+{
+  "id": "vwo_wiskunde_c_2022_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_c",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 20,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 90,
+          "name": "Rekenen en algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 91,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken op hoeveel manieren dat kan.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het spel Safari Hide &amp; Seek wordt gespeeld op een bord met vier velden en vier aparte speelstukken.</p><p>Het bord en de speelstukken staan afgebeeld op foto 1 en foto 2 .</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_8adf9350f736.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/030b045077164c199700563ce070fe45.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_b867baf61951.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/99d767a63c2e40d1b3337b9dc9c3c330.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Op de uitwerkbijlage zie je dezelfde foto's nog eens, maar dan voorzien van rasters en van letters bij de velden en nummers bij de speelstukken.</p><ul><li>Elk van de vier velden A, B, C en D op het bord bestaat uit negen vakjes. Op elk van die vakjes kan een olifant, zebra, antilope, leeuw of neushoorn staan. Een vakje kan ook leeg zijn.</li><li>Van de speelstukken is er één dat zes vakjes van een veld op het speelbord bedekt (speelstuk 1) en zijn er drie die elk zeven vakjes bedekken (speelstukken 2, 3 en 4).</li></ul><p>De bedenkers van het spel hebben op vijf van de negen vakjes van veld <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi>&#160;</math>een dier geplaatst. Deze dieren zijn allemaal verschillend. Vijf verschillende dieren kun je op heel veel manieren over de negen vakjes van veld <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi>&#160;</math>verdelen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde C 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_C_2022_I_uitwerkbijla_88029eac1d9f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e2af97078af344c6a48ef1f748b398b8.pdf"
+    }
+  ]
+}

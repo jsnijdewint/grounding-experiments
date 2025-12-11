@@ -1,0 +1,61 @@
+{
+  "id": "havo_economie_2024_t1_q30",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 73,
+          "name": "Markt",
+          "prefix_code": "D"
+        },
+        {
+          "id": 76,
+          "name": "Risico en informatie",
+          "prefix_code": "G"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat het toepassen van prijsdiscriminatie in het openbaar vervoer ertoe kan leiden dat het groen bbp stijgt.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De wereldbevolking blijft groeien. Bovendien zijn er, mede door lagere prijzen, steeds meer mensen in staat om vaker en langer te reizen. De bestedingen in de sector toerisme nemen daardoor wereldwijd toe. Ook in Nederland leveren hogere bestedingen in deze sector in toenemende mate een bijdrage aan het bruto binnenlands product (bbp) en de werkgelegenheid. Driekwart van de bestedingen in de sector toerisme is te danken aan de bestedingen van buitenlandse toeristen in Nederland.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Bron 1 laat de werkgelegenheid in de sector toerisme zien, zowel in aantal personen als in arbeidsjaren. Beide indicatoren zijn toegenomen als gevolg van de toegenomen bestedingen in de sector. Ook wordt er minder in deeltijd gewerkt.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Adviesbureau De Toerist heeft onderzocht hoe het toerisme beter kan worden gespreid over het hele land. Het blijkt dat buitenlandse toeristen in Nederland relatief weinig met het openbaar vervoer reizen. Het adviesbureau pleit ervoor om buitenlandse toeristen via prijsdiscriminatie aan te zetten tot meer gebruik van het openbaar vervoer.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2024_I_bijlage_92c84f45cc20.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/67b732e325834a28a9d329f8cba100cd.pdf"
+    }
+  ]
+}

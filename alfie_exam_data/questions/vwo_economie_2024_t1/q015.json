@@ -1,0 +1,53 @@
+{
+  "id": "vwo_economie_2024_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 21,
+          "name": "Risico en informatie",
+          "prefix_code": "G"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Verklaar of Tradesure rekening moet houden met de aanwezigheid van moral hazard.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Wanneer Nederlandse exporteurs handelen met bedrijven buiten de eurozone, kan gekozen worden voor betaling in euro’s of in de vreemde valuta. Als wordt afgesproken om te betalen in vreemde valuta, bestaat het risico dat tussen het moment van afsluiten van de koopovereenkomst en het moment van betaling de wisselkoersen veranderen. Dit is een valutarisico dat voor Nederlandse exporteurs nadelig kan uitpakken.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_92eb3e3a52b7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ac5dfc4710a54e0da885926e19728736.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Economie_2024_I_uitwerkbijlage_1a973a084ece.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4c41604ce9b148bcac3ea440f8fd9796.pdf"
+    }
+  ]
+}

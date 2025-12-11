@@ -1,0 +1,74 @@
+{
+  "id": "havo_wiskunde_b_2024_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 102,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken bij welke hartslag volgens formule (2) de gemiddelde bloeddruk 100 mmHg is. Geef je eindantwoord in gehele slagen per minuut.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De bloeddruk in een slagader stijgt en daalt wanneer het hart het bloed door de aderen pompt. Dit stijgen en dalen is een periodiek verschijnsel dat te benaderen is met een sinusoïde. De periode hiervan is de tijd tussen twee opeenvolgende hartslagen.&nbsp;</p><p>&nbsp;</p><p>De bloeddruk van een gezonde volwassen man in rust is vereenvoudigd weergegeven in de grafiek van figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_fd403f4a9e91.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1a46adf1468046a3bd1714081a3a7965.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Deze grafiek is te beschrijven met een formule van de vorm <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mi>P</mi>\r\n  <mo>=</mo>\r\n  <mi>a</mi>\r\n  <mo>+</mo>\r\n  <mi>b</mi>\r\n  <mi>sin</mi>\r\n  <mo data-mjx-texclass=\"NONE\">&#8289;</mo>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>c</mi>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mi>t</mi>\r\n  <mo>&#8722;</mo>\r\n  <mi>d</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mo stretchy=\"false\">)</mo>\r\n</math>, met <i>P </i>de bloeddruk in mmHg (millimeter kwikdruk) en <i>t </i>de tijd in seconden.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In werkelijkheid verloopt de bloeddruk van een gezonde volwassen man die geen grote inspanning levert niet helemaal als een sinusoïde. Dit komt doordat de bloeddruk iedere periode een langere tijd laag is dan hoog. Hierdoor zijn in de periodieke grafiek van de bloeddruk de bovenste delen smaller dan de onderste delen. Een schets die het verloop van de bloeddruk beter benadert, is te zien in figuur 2.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_208332f235b1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e57fbfc7be5d496f8535119134073174.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Een formule om de gemiddelde bloeddruk te benaderen, is&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>P</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mtext>gem </mtext>\r\n    </mrow>\r\n  </msub>\r\n  <mo>=</mo>\r\n  <msub>\r\n    <mi>P</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo data-mjx-texclass=\"OP\" movablelimits=\"true\">min</mo>\r\n    </mrow>\r\n  </msub>\r\n  <mo>+</mo>\r\n  <mn>0</mn>\r\n  <mo>,</mo>\r\n  <mn>33</mn>\r\n  <mrow data-mjx-texclass=\"INNER\">\r\n    <mo data-mjx-texclass=\"OPEN\">(</mo>\r\n    <msub>\r\n      <mi>P</mi>\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mo data-mjx-texclass=\"OP\" movablelimits=\"true\">max</mo>\r\n      </mrow>\r\n    </msub>\r\n    <mo>&#8722;</mo>\r\n    <msub>\r\n      <mi>P</mi>\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mo data-mjx-texclass=\"OP\" movablelimits=\"true\">min</mo>\r\n      </mrow>\r\n    </msub>\r\n    <mo data-mjx-texclass=\"CLOSE\">)</mo>\r\n  </mrow>\r\n</math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(1)&nbsp;</p><p>Hierin zijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>P</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi>gem</mi>\r\n    </mrow>\r\n  </msub>\r\n</math>, <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>P</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo data-mjx-texclass=\"OP\" movablelimits=\"true\">min</mo>\r\n    </mrow>\r\n  </msub>\r\n</math> en <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>P</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo data-mjx-texclass=\"OP\" movablelimits=\"true\">max</mo>\r\n    </mrow>\r\n  </msub>\r\n</math> achtereenvolgens de gemiddelde, de minimale en de maximale bloeddruk in mmHg. Er geldt: max min <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>P</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo data-mjx-texclass=\"OP\" movablelimits=\"true\">max</mo>\r\n    </mrow>\r\n  </msub>\r\n  <mo>&#62;</mo>\r\n  <msub>\r\n    <mi>P</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo data-mjx-texclass=\"OP\" movablelimits=\"true\">min</mo>\r\n    </mrow>\r\n  </msub>\r\n</math> .&nbsp;</p><p>&nbsp;</p><p>Uit formule (1) is af te leiden dat <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>P</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi>gem</mi>\r\n    </mrow>\r\n  </msub>\r\n</math> bestaat uit een percentage van <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>P</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo data-mjx-texclass=\"OP\" movablelimits=\"true\">min</mo>\r\n    </mrow>\r\n  </msub>\r\n</math> en een percentage van &nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>P</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo data-mjx-texclass=\"OP\" movablelimits=\"true\">max</mo>\r\n    </mrow>\r\n  </msub>\r\n</math>. Het percentage van <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>P</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo data-mjx-texclass=\"OP\" movablelimits=\"true\">min</mo>\r\n    </mrow>\r\n  </msub>\r\n</math> is groter dan het percentage van <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>P</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo data-mjx-texclass=\"OP\" movablelimits=\"true\">max</mo>\r\n    </mrow>\r\n  </msub>\r\n</math> .</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Het is bekend dat bij een hogere hartslag de gemiddelde bloeddruk stijgt. Formule (1) houdt hier geen rekening mee. Wetenschappers van de Rosalind Franklin University of Medicine and Science in Chicago hebben een formule opgesteld waarin de invloed van de hartslag wel meegenomen is:&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>P</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mi data-mjx-auto-op=\"false\">gem</mi>\r\n      </mrow>\r\n    </mrow>\r\n  </msub>\r\n  <mo>=</mo>\r\n  <msub>\r\n    <mi>P</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo data-mjx-texclass=\"OP\" movablelimits=\"true\">min</mo>\r\n    </mrow>\r\n  </msub>\r\n  <mo>+</mo>\r\n  <mo stretchy=\"false\">(</mo>\r\n  <mn>0</mn>\r\n  <mo>,</mo>\r\n  <mn>33</mn>\r\n  <mo>+</mo>\r\n  <mn>0</mn>\r\n  <mo>,</mo>\r\n  <mn>0012</mn>\r\n  <mo>&#8901;</mo>\r\n  <mi>H</mi>\r\n  <mo stretchy=\"false\">)</mo>\r\n  <mrow data-mjx-texclass=\"INNER\">\r\n    <mo data-mjx-texclass=\"OPEN\">(</mo>\r\n    <msub>\r\n      <mi>P</mi>\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mo data-mjx-texclass=\"OP\" movablelimits=\"true\">max</mo>\r\n      </mrow>\r\n    </msub>\r\n    <mo>&#8722;</mo>\r\n    <msub>\r\n      <mi>P</mi>\r\n      <mrow data-mjx-texclass=\"ORD\">\r\n        <mo data-mjx-texclass=\"OP\" movablelimits=\"true\">min</mo>\r\n      </mrow>\r\n    </msub>\r\n    <mo data-mjx-texclass=\"CLOSE\">)</mo>\r\n  </mrow>\r\n</math> &nbsp;(2)&nbsp;</p><p>Hierin is H de hartslag, uitgedrukt in het aantal slagen per minuut. <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>P</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo data-mjx-texclass=\"OP\" movablelimits=\"true\">min</mo>\r\n    </mrow>\r\n  </msub>\r\n</math> en <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>P</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo data-mjx-texclass=\"OP\" movablelimits=\"true\">max</mo>\r\n    </mrow>\r\n  </msub>\r\n</math> zijn weer de minimale en de maximale bloeddruk in rust in mmHg en Pgem is nu de gemiddelde bloeddruk in mmHg bij hartslag <i>H</i>. Ook hier geldt: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mi>P</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo data-mjx-texclass=\"OP\" movablelimits=\"true\">max</mo>\r\n    </mrow>\r\n  </msub>\r\n  <mo>&#62;</mo>\r\n  <msub>\r\n    <mi>P</mi>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mo data-mjx-texclass=\"OP\" movablelimits=\"true\">min</mo>\r\n    </mrow>\r\n  </msub>\r\n</math>.</p><p>&nbsp;</p><p>&nbsp;Een gezonde volwassen man heeft in rust een minimale bloeddruk van 80 mmHg en een maximale bloeddruk van 120 mmHg. Tijdens het hardlopen heeft hij een gemiddelde bloeddruk van 100 mmHg.</p>"
+    }
+  ],
+  "bijlages": []
+}

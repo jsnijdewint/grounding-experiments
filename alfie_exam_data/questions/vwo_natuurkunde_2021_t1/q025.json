@@ -1,0 +1,109 @@
+{
+  "id": "vwo_natuurkunde_2021_t1_q25",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 51,
+          "name": "Elektromagnetische straling en materie",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:</p><ul><li>Geef op de uitwerkbijlage in iedere laag aan van welk materiaal uit figuur 5 deze laag gemaakt is.</li><li>Leg je antwoord uit.</li></ul>",
+    "max_score": 4,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_66eff5db869e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dd06bd52c35542be937a56da42367072.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een zonnepaneel bestaat uit een aantal zonnecellen die in serie geschakeld zijn. Zonnepanelen kunnen weer in een grotere schakeling opgenomen worden en bijvoorbeeld op een dak geplaatst worden. Zie figuur 1. Femke en Lotta onderzoeken hoe het vermogen dat een zonnecel levert, afhangt van de grootte van de weerstand die erop is aangesloten. Ze leggen één zonnecel in de zon. Op de zonnecel schijnt de zon met een constante intensiteit. Ze sluiten een variabele weerstand op de zonnecel aan en meten dan de stroom door en de spanning over de zonnecel. Zie figuur 2. Ze berekenen het vermogen dat de zonnecel levert en zetten hun resultaten in een grafiek, zie figuur 3 .</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_32abba0e0db1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/23370a50db7b4783b370030e31f57e74.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_6c35d215da5d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/465e0f8ef5354691b81de366ee74a468.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_a00197383b3e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ecbf6a2696ac4c30919c67b5737b0474.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Bij een spanning van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>50</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">V</mi>&#160;</mrow></math>is het vermogen dat de zonnecel levert maximaal. De stroomsterkte is dan 2,7 A.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Eén zonnepaneel bestaat uit 24 zonnecellen die in serie geschakeld zijn. De spanning van elke zonnecel wordt stabiel op <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>,</mo> <mn>50</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">V</mi>&#160;</mrow></math>gehouden. Op de uitwerkbijlage staat een vereenvoudigd symbool van één zonnepaneel getekend.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Een zonnecel is gemaakt van een zogenaamd halfgeleidermateriaal. In een halfgeleider kan een elektron slechts in banden van zeer dicht bij elkaar gelegen energieniveaus bestaan. Twee van zulke banden zijn de valentieband en de geleidingsband. Daartussen zit bij een halfgeleider een energiesprong, de zogeheten bandgap (zie figuur 4). In de grondtoestand is de valentieband volledig bezet met elektronen. De geleidingsband is dan nog niet met elektronen bezet.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_bd682531e4c7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/da7819fa9d334e39b06fbf960d159b78.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Een foton kan één elektron vrijmaken uit het atoomrooster. Dit gebeurt alleen als de energie van dat foton groot genoeg is (groter dan de bandgap). Het elektron gaat dan van een energieniveau in de valentieband naar een energieniveau in de geleidingsband. Als er elektronen in de geleidingsband zitten, wordt het materiaal geleidend en kan er een stroom gaan lopen.</p><p>Femke merkt op dat het bovenstaande proces lijkt op het foto-elektrisch effect.</p>"
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_175fb3f01576.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6109d7795a6f4848b1c8a596e6b783ba.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Zonlicht bestaat uit fotonen van verschillende energieën. Fotonen met meer energie dan nodig is om de bandgap te overbruggen, geven het overschot van hun energie af in de vorm van warmte. Hiermee daalt het rendement van een zonnecel. Om het rendement te verhogen worden dunne laagjes van andere halfgeleiders op het silicium aangebracht. Deze laagjes zijn zo dun dat fotonen erdoorheen kunnen gaan.</p><p>Op de uitwerkbijlage staat schematisch een dwarsdoorsnede van een zonnecel getekend, met drie dunne laagjes op het silicium. Ieder laagje is gemaakt van een ander materiaal uit figuur 5 .</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2021_I_uitwerkbijl_c33ae80fc3fe.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/81dc392e495c476891779b4272db5a6c.pdf"
+    }
+  ]
+}

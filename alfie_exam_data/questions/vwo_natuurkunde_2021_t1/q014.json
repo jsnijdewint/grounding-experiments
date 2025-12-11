@@ -1,0 +1,63 @@
+{
+  "id": "vwo_natuurkunde_2021_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 46,
+          "name": "Kracht en beweging",
+          "prefix_code": 1
+        },
+        {
+          "id": 47,
+          "name": "Energie en wisselwerking",
+          "prefix_code": 2
+        },
+        {
+          "id": 48,
+          "name": "Gravitatie",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leid af dat ook newton ( N ) een eenheid van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi> <mi>E</mi> <mi>T</mi>&#160;</math>-waarde is.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In de nuclidetherapie worden tumoren van binnen in het lichaam bestraald met behulp van instabiele atoomkernen. Deze atoomkernen kunnen alfa- of bètastralers zijn.<br>Door de instabiele atoomkernen te koppelen aan een zogenaamde dragerstof, een stof die zich specifiek aan de tumor kan hechten, kan een heel gerichte bestraling worden bereikt. Zie figuur 1. Bij het afremmen van de alfa- of bètadeeltjes tijdens hun weg door het tumorweefsel, komt energie vrij. Wanneer deze energie plaatselijk groot genoeg is, zal dat leiden tot het afsterven van tumorcellen.<br>figuur 1</p><p>De hoeveelheid energie die een ioniserend deeltje per eenheid van weglengte afgeeft aan de omringende materie wordt de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi> <mi>E</mi> <mi>T</mi>&#160;</math>-waarde genoemd. LET staat voor 'lineaire energie-overdracht' en is gedefinieerd volgens:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi> <mi>E</mi> <mi>T</mi> <mtext>-waarde </mtext><mo>=</mo> <mo>&#8722;</mo> <mfrac><mrow><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">d</mi> </mrow><mi>E</mi> </mrow><mrow><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">d</mi> </mrow><mi>x</mi>&#160;</mrow></mfrac></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(1)</p><p>Hierin is:</p><ul><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mi>E</mi>&#160;</math>de energie in keV</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mi>x</mi>&#160;</math>de weglengte in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#956;</mi> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math></li></ul><p>De LET-waarde kan ook geïnterpreteerd worden als de 'stopkracht' die werkt op het deeltje. De eenheid van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi> <mi>E</mi> <mi>T</mi>&#160;</math>-waarde is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">keV</mi> </mrow><mi>&#956;</mi> <msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math>.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_79f6c433a370.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/23b55cd2fa73453cbdb80ccb6311e8ab.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2021_I_uitwerkbijl_c33ae80fc3fe.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/81dc392e495c476891779b4272db5a6c.pdf"
+    }
+  ]
+}

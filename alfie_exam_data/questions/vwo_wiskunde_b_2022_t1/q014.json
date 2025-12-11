@@ -1,0 +1,102 @@
+{
+  "id": "vwo_wiskunde_b_2022_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 46,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        },
+        {
+          "id": 48,
+          "name": "Goniometrische functies",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bewijs dat alle banen van de lavabommen raken aan de gestippelde kromme.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een vulkaan kan op verschillende manieren tot uitbarsting komen. Bij een zogenoemde plinische uitbarsting wordt de druk binnen de vulkaan steeds groter totdat de vulkaan met groot geweld tot uitbarsting komt. Bij de uitbarsting worden brokken gesmolten steen weggeslingerd die lavabommen worden genoemd.</p><p>In een model van de baan van een lavabom wordt ervan uitgegaan dat op het moment van de uitbarsting alle lavabommen een snelheid hebben van 210 meter per seconde. Een tweede uitgangspunt is dat elke lavabom een parabolische baan beschrijft. De hoogte van de vulkaan ten opzichte van de grond is 2000 meter.</p><p>In figuur 1 zie je de banen van een aantal lavabommen die in het vlak door de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as en de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-as bewegen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_65883fcc9b15.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d8024ef32fe14983a186e09e5b4aac56.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_647ff1e332c8.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ff38d5f45f054c78aa5531b6f486d88f.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De bewegingsvergelijkingen van een lavabom hangen af van de richting waarin de lavabom tijdens de uitbarsting wordt weggeslingerd. In het model worden de volgende bewegingsvergelijkingen als uitgangspunt genomen:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">{</mo> <mtable rowspacing=\"4pt\"><mtr><mtd><mi>x</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mn>210</mn> <mi>cos</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mi>&#945;</mi> <mo stretchy=\"false\">)</mo> <mo>&#8901;</mo> <mi>t</mi> </mtd></mtr><mtr><mtd><mi>y</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mn>2000</mn> <mo>+</mo> <mn>210</mn> <mi>sin</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mi>&#945;</mi> <mo stretchy=\"false\">)</mo> <mo>&#8901;</mo> <mi>t</mi> <mo>&#8722;</mo> <mn>4</mn> <mo>,</mo> <mn>9</mn> <msup><mi>t</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></mtd></mtr></mtable><mo symmetric=\"true\" stretchy=\"true\" fence=\"true\" data-mjx-texclass=\"CLOSE\"></mo></mrow></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(1)</p><p>Hierbij is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi>&#160;</math>de hoek die de baan van de lavabom op het moment van wegslingeren maakt met een horizontale lijn, waarbij <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>&#60;</mo> <mi>&#945;</mi> <mo>&#60;</mo> <mi>&#960;</mi>&#160;</math>.<br>Verder is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi>&#160;</math>de tijd in seconden (waarbij <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>0</mn>&#160;</math>het moment van wegslingeren is) en zijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo>&#160;</math>in meters.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Uitgaande van stelsel 1 kan de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi>&#160;</math>-coördinaat van de baan worden uitgedrukt in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi>&#160;</math>. Er geldt (voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi> <mo>&#8800;</mo> <mfrac><mn>1</mn> <mn>2</mn> </mfrac><mi>&#960;</mi>&#160;</math>):</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi> <mo>=</mo> <mn>2000</mn> <mo>+</mo> <mi>tan</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mi>&#945;</mi> <mo stretchy=\"false\">)</mo> <mo>&#8901;</mo> <mi>x</mi> <mo>&#8722;</mo> <mfrac><mn>1</mn> <mrow><mn>9000</mn> <msup><mi>cos</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mi>&#945;</mi> <mo stretchy=\"false\">)</mo> </mrow></mfrac><mo>&#8901;</mo> <msup><mi>x</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msup></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (2)</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Een lavabom wordt onder een hoek <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#945;</mi> <mo>=</mo> <mn>1</mn>&#160;</math>(radiaal) weggeslingerd. Deze lavabom komt op een bepaalde afstand van de vulkaan op de grond. Voor dit punt geldt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi> <mo>=</mo> <mn>0</mn>&#160;</math>.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Formule 2 kan worden herleid tot:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi> <mo>=</mo> <mo>&#8722;</mo> <mfrac><mrow><mn>1</mn> <mo>+</mo> <msup><mi>tan</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mi>&#945;</mi> <mo stretchy=\"false\">)</mo> </mrow><mn>9000</mn> </mfrac><mo>&#8901;</mo> <msup><mi>x</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>+</mo> <mi>tan</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mi>&#945;</mi> <mo stretchy=\"false\">)</mo> <mo>&#8901;</mo> <mi>x</mi> <mo>+</mo> <mn>2000</mn></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (3)</p><p>In figuur 2 is bij de parabolische banen van een aantal lavabommen een gestippelde kromme getekend. Deze kromme stelt de uiterste grens voor van het gebied dat door deze lavabommen kan worden bereikt.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_12ea844f702e.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1b11803b1e9c49b7b38db517d0a25d3e.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>De formule van de gestippelde kromme is:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi> <mo>=</mo> <mo>&#8722;</mo> <mfrac><mn>1</mn> <mn>9000</mn> </mfrac><mo>&#8901;</mo> <msup><mi>x</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>+</mo> <mn>4250</mn></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(4)</p><p>Alle banen van de lavabommen hebben precies één punt gemeenschappelijk met de gestippelde kromme en raken dus aan deze kromme.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_b_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_b_formules_b48138dc5a3a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/525c78f394194c0a8345801ed3a1dab3.pdf"
+    },
+    {
+      "name": "Wiskunde B 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2022_I_uitwerkbijla_173a70b352ac.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/259b9a55e6ef41678c4a9891840ff9c0.pdf"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "havo_natuurkunde_2023_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 131,
+          "name": "Informatieoverdracht",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg met behulp van figuren 2 en 3 uit dat Hans ongelijk heeft.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een gasbarbecue gebruikt gas uit een stalen gasfles als energiebron. Zie figuur 1.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_d795f5db7469.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/fc99234b77534415b8ff965cbe3c28c3.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Hans en Sanne doen onderzoek naar verschillende methodes om te bepalen hoe vol een stalen gasfles is. Een lege gasfles kan gevuld worden met maximaal <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn> <mo>,</mo> <mn>1</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">kg</mi>&#160;</mrow></math>vloeibaar propaan. Hans en Sanne hebben een barbecue met een vermogen van 15 kW . De stookwaarde van vloeibaar propaan is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>13</mn> <mo>,</mo> <mn>8</mn> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">kWh</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">kg</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math>.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Ze merken dat na een tijd barbecueën de buitenzijde van de fles koud aanvoelt en dat er waterdruppels op de fles ontstaan. Ze beredeneren dat het vloeistofpeil van het propaan ongeveer gelijk moet staan aan de bovenrand van de waterdruppels op de fles. Ze concluderen dat de fles afkoelt door de faseovergang van het propaan in de fles van vloeibaar naar gasvormig.<br>Op de uitwerkbijlage staan twee zinnen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Wanneer Hans tegen de gasfles slaat, produceert deze een toon. Hij vraagt zich af of deze toon afhankelijk is van de vulstand van de fles. Tijdens het vullen van een fles bepaalt Hans de frequentie van de grondtonen die de gasfles produceert bij verschillende vulstanden, van leeg tot vol. Hiervan maakt hij een diagram. Hierin is de vulstand als percentage weergegeven. Zie figuur 2.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_719beb104e31.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ae6892ff84314cb6a5808a7945a74c9a.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Bij elke vulstand is er een laag gas boven de vloeistof. Hans denkt dat de tonen ontstaan door een staande golf in dit gas. Zie schematisch in figuur 3.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_d563e627712b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6f4db724dd5e4277a08b14c12c35c3ef.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2023_I_uitwerkbijl_b84551b8ec5a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2016336bf8d54298886022aa1e155445.pdf"
+    }
+  ]
+}

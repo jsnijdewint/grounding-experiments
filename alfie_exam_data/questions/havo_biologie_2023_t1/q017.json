@@ -1,0 +1,89 @@
+{
+  "id": "havo_biologie_2023_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 110,
+          "name": "Onderzoeken",
+          "prefix_code": 5
+        },
+        {
+          "id": 111,
+          "name": "Ontwerpen",
+          "prefix_code": 6
+        },
+        {
+          "id": 112,
+          "name": "Modelvorming",
+          "prefix_code": 7
+        },
+        {
+          "id": 113,
+          "name": "Natuurwetenschappelijk instrumentarium",
+          "prefix_code": 8
+        },
+        {
+          "id": 114,
+          "name": "Waarderen en oordelen",
+          "prefix_code": 9
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>De frequentie waarmee weeën optreden, kan worden uitgedrukt in het aantal weeën per 10 minuten.<br>Hoeveel weeën zijn er gemiddeld per 10 minuten volgens het CTG in afbeelding 2? Noteer je antwoord als een geheel getal.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Layla is verloskundige. Ze begeleidt de zwangere Monique vanaf de prille zwangerschap tot en met de bevalling.</p><p>Monique kocht een zwangerschapstest bij de drogist nadat haar menstruatie uitbleef. Zo'n test toont het hormoon HCG in de urine aan. Het embryonaal deel van de placenta produceert gedurende het begin van de zwangerschap steeds meer HCG, dat in het bloed van de moeder terechtkomt.<br>Enkele bloedvaten zijn:<br>1 longader<br>2 longslagader<br>3 nierader<br>4 nierslagader<br>5 ader van de baarmoeder<br>6 slagader van de baarmoeder</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Bij elk bezoek controleert Layla Moniques bloeddruk. Bij sommige zwangere vrouwen komt namelijk een afwijkende bloeddruk voor die ongunstig kan zijn voor de foetus. De afwijkende bloeddruk ontstaat doordat stoffen uit de placenta de slagadertjes in het lichaam van de moeder laten vernauwen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Layla legt uit aan Monique hoe ze de weeën (samentrekkingen van de baarmoederwand) tijdens de bevalling zo goed mogelijk kan opvangen: \"In het begin is zuchten (rustige buikademhaling) gunstig voor de voortgang van de bevalling. Wanneer een wee te heftig wordt, kan je overgaan op puffen (snelle borstademhaling) zodat er nog niet te veel druk op de baarmoeder gezet wordt.\"</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Layla wordt gebeld als de weeën bij Monique zijn begonnen. Als na een paar uur de bevalling niet snel genoeg vordert, stuurt Layla Monique naar het ziekenhuis. Daar draagt Layla de bevalling over aan de gynaecoloog. De gynaecoloog legt twee banden met meetapparatuur om Moniques buik om via een cardiotocograaf de hartactiviteit van de baby en de weeënactiviteit van de baarmoeder te registreren (afbeelding 1).<br>De registratie is te zien op een monitor en wordt geprint op een rol papier: het cardiotocogram (CTG). In afbeelding 2 is een deel van een CTG afgebeeld. Aan de bovenste lijn is te zien dat de hartslagfrequentie van de baby ligt tussen 110 en 150 slagen per minuut. De onderste lijn geeft de druk op de buikwand weer, die tijdens een wee ongeveer verdubbeld is.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_360b27127e24.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/92de7a4fa94248ff92367660f6e5835f.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_79e1a5608933.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/360c4e44112c41bc93056592d2dd21e7.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

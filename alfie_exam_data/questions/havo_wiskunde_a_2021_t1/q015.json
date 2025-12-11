@@ -1,0 +1,83 @@
+{
+  "id": "havo_wiskunde_a_2021_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 181,
+          "name": "Presentaties van data interpreteren en beoordelen",
+          "prefix_code": 1
+        },
+        {
+          "id": 182,
+          "name": "Data verwerken",
+          "prefix_code": 2
+        },
+        {
+          "id": 183,
+          "name": "Data en verdelingen",
+          "prefix_code": 3
+        },
+        {
+          "id": 184,
+          "name": "Statistische uitspraken doen",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beschrijf twee manieren om met behulp van het formuleblad een uitspraak te doen over dit verschil tussen deze twee groepen, en geef voor beide manieren aan welke informatie je dan (extra) nodig hebt.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het Nibud Scholierenonderzoek brengt het financiële gedrag van scholieren in het voortgezet onderwijs in kaart. De populatie van dit onderzoek bestaat uit alle vmbo-, havo- en vwoscholieren in de leeftijd van 12 tot en met 18 jaar. Van een aselecte steekproef van 3260 scholieren uit de populatie zijn gegevens beschikbaar gekomen via online vragenlijsten. We gaan ervan uit dat deze steekproef representatief is.</p><p>1530 scholieren in de steekproef hebben een bijbaantje.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In het rapport staat een tabel met informatie over het gemiddeld aantal uren per week dat een scholier met een bijbaantje werkt (zie tabel 1).</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_9f008074ce3c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2d04842f238e4f019f7d9a06bcead4e4.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Als je met behulp van het formuleblad een uitspraak wilt doen over het verschil tussen havo bovenbouwscholieren met een bijbaantje en vwo bovenbouwscholieren met een bijbaantje in het aantal uren dat zij werken, dan heb je meer informatie of misschien wel heel andere informatie nodig dan die in tabel 1 staat.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_0dabafad3b33.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5c360001b36c4ef48517dc88f333f720.pdf"
+    },
+    {
+      "name": "formule_blad_2.pdf",
+      "media_path": "media/bijlages/formule_blad_2_acdfdd81974a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a88db860b41b46039b4ea79fff214389.pdf"
+    }
+  ]
+}

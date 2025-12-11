@@ -1,0 +1,79 @@
+{
+  "id": "havo_biologie_2024_t1_q34",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noteer de letter van het onderdeel in de afbeelding waaraan deze antistof zich hecht.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Charles heeft tweemaal meegemaakt dat hij stemmen hoorde die er niet waren. Hij is bang dat hij aan schizofrenie lijdt, een ziekte die meerdere van zijn familieleden hebben.<br><br>De psychische aandoening schizofrenie is een ziekte waarbij iemands denken en waarnemen ernstig zijn verstoord. Een kenmerk van schizofrenie is het optreden van psychoses, waarbij iemand dingen waarneemt die er niet zijn. Maar niet iedereen die een psychose doormaakt, heeft schizofrenie. De precieze oorzaak van schizofrenie is nog niet bekend. Wel is duidelijk dat er een of meerdere erfelijke factoren een rol spelen. Als een familielid schizofrenie heeft, is de kans op het ontwikkelen van schizofrenie groter. In de tabel is voor vijf verschillende situaties weergegeven hoe groot de kans is dat iemand de aandoening ontwikkelt.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_611e64d91f7d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bb90c0c7f2864493a733cbd32b7a4857.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De gegevens in de tabel doen vermoeden dat, behalve genetische factoren, ook de milieu-omstandigheden in de baarmoeder of rondom de bevalling invloed hebben op de kans op schizofrenie.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Een veelvoorkomend symptoom van een psychose is het waarnemen van stemmen die er niet zijn. Ook kan het zijn dat beelden, geuren of smaken die er niet zijn, waargenomen worden. Uit deze symptomen is af te leiden dat tijdens een psychose processen verstoord zijn in een bepaald deel van het centraal zenuwstelsel.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De Australische onderzoeker Fabienne Brilot onderzocht het afweersysteem van jongeren met psychoses. Bij 19% van deze jongeren vond zij in het bloed een antistof tegen de receptor voor een bepaalde neurotransmitter. Hieruit concludeerde Brilot dat deze jongeren een autoimmuunziekte hebben: hun afweersysteem richt zich tegen een lichaamseigen stof.</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_37000e787cce.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6522f82f76e241a8907e27f7fb9a856e.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

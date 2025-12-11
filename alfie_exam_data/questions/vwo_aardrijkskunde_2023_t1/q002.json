@@ -1,0 +1,56 @@
+{
+  "id": "vwo_aardrijkskunde_2023_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "aardrijkskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 21,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 2,
+          "name": "Samenhang en verscheidenheid in de wereld",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef aan&nbsp;<br>− waarom Kaap de Goede Hoop, in tegenstelling tot de smalle doorgangen in het Caribisch gebied, wel als een van de belangrijkste chokepoints wordt gezien;&nbsp;<br>− waarom het Kanaal niet als een van de belangrijkste chokepoints wordt gezien.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 1 tot en met 3.<br><br>Gebruik de bronnen 1 en 2 en het kaartenkatern. In bron 1 worden de acht belangrijkste chokepoints genoemd. In bron 2 staan satellietbeelden van vier van deze chokepoints.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik bron 1. Kaap de Goede Hoop ligt niet aan een smalle doorgang, maar wordt toch gezien als een belangrijk chokepoint. In het Caribisch gebied liggen wel veel smalle doorgangen, maar deze behoren niet tot de belangrijkste chokepoints. Ook het Kanaal wordt niet gezien als een van de belangrijkste chokepoints.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2023_I_bijlage_248a50c12d53.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7f989d72434c4d799e087d834390e90f.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2023 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2023_I_kaartenk_e5ac5704001a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/87a0b7c501054137ad17a7a871b8eb90.pdf"
+    }
+  ]
+}

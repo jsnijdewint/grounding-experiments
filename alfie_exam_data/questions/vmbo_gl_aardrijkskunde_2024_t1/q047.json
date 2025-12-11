@@ -1,0 +1,109 @@
+{
+  "id": "vmbo_gl_aardrijkskunde_2024_t1_q47",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "aardrijkskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 71,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bekijk bron 40 .<br>Door de verschuiving van de nieuwe Foxconn-fabrieken is de economische ongelijkheid in China veranderd.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Geef aan waarom de economische ongelijkheid tussen inwoners van steden door een nieuwe Foxconn-fabriek toeneemt.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Geef aan waarom de economische ongelijkheid tussen kustprovincies en provincies in het binnenland door nieuwe Foxconn-fabrieken kleiner is geworden.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_6727c2d95040.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9a055843eb2f4fb5838e8a6a327c2ba5.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_af463938e58d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6777026740c144ab8716379de0f0c365.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_17df56088bbb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/98c86070e0ee40768a4308c46fd76601.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_4c771ab631c7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cf02b36287614a75808ec06267b040aa.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_907bd5420a0a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e2bed8edf2a1417193ac136fe6ab3e98.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_8bb63a7136d4.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dab821afe63b435babbce71dd01cd785.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>bron 35<br>Geschiedenis van de hukou</p><p>De hukou is in de jaren 50 van de vorige eeuw ingevoerd. Met de hukou wilde de Chinese overheid de verstedelijking afremmen. Na verloop van tijd mochten steeds meer mensen toch naar de stad verhuizen. Maar de hukou werd niet helemaal afgeschaft. Dit had tot gevolg dat in de stad de sociale ongelijkheid tussen bevolkingsgroepen toenam.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_dbaad5bc5336.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bb01f3b34b0d4488ab40952f7991c5ba.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_f2de7623485a.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/36960be5f64a4da1bdc76dc4fa42dd55.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_8070151f3156.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7eece5cdf81c4ca0b71f9dd9bad07a66.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>bron 39<br>Tekst met keuzemogelijkheden</p><p>Voor bedrijven als Foxconn waren de Speciale Economische Zones (SEZ) in China erg aantrekkelijk om zich er te vestigen. Een van de gunstige vestigingsplaatsfactoren van de SEZ's was de ... 1 ... (goede bereikbaarheid / aanwezigheid van hoogopgeleid personeel). Het personeel kwam voornamelijk uit ... 2 ... (Midden-China / West-China) in het binnenland. De lonen die de bedrijven betaalden, waren ... 3 ... (hoger / lager) dan de lonen in het binnenland van China.</p>"
+    },
+    {
+      "order": 11,
+      "type": "image",
+      "media_path": "media/in-exam/img_d7ac69f55014.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/84c1d2bb61924404957c00f3fb1fea8b.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

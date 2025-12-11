@@ -1,0 +1,96 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_1_2023_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_1",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 56,
+      "domains": [
+        {
+          "id": 143,
+          "name": "Geluid",
+          "prefix_code": "NASK1/K/8"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Het afremmechanisme veroorzaakt kortstondig een geluid met een geluidssterkte van 116 dB .<br>In welke zone valt dit geluid?<br><strong>A </strong>zeer hinderlijk<br><strong>B </strong>zeer luid<br><strong>C </strong>extreem luid<br><strong>D </strong>pijngrens</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>'Formula Rossa' is de naam van een achtbaan op een pretpark. De treintjes krijgen eerst een versnelling en daarna begint het traject met hoogteverschillen en loopings.</p><p>&nbsp;</p><p>Op een horizontale baan krijgt een treintje in een tijd van 4,8 s vanuit stilstand een snelheid van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>240</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">km</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">h</mi>&#160;</mrow></math>. Het treintje beweegt eenparig versneld. De versnelling is 14 <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#160;</mo><msup><mrow><mo>&#160;</mo><mi>m</mi><mo>/</mo><mi>s</mi></mrow><mn>2</mn></msup></math>.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_d5c0abb037d2.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6732dad8c85744dba3097c975b304c40.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Tijdens het versnellen neemt de luchtwrijving op het treintje <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>a</mi><mi>f</mi></mrow><mrow><mi>t</mi><mi>o</mi><mi>e</mi></mrow></mfrac></math></p><p>&nbsp;</p><p>Bij een gelijkblijvende nettokracht op het treintje neemt de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>a</mi><mi>f</mi></mrow><mrow><mi>t</mi><mi>o</mi><mi>e</mi></mrow></mfrac></math> aandrijfkracht tijdens de versnelling</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Na het versnellen bereikt het treintje punt S . Vanaf S rijdt het treintje zonder aandrijfkracht naar de top <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>T</mi>&#160;</math>.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_8fa058e60efa.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5d3557da33e64b6d9cfbf5b880375e36.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_5aea22c59fe7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c81ada20ac874cc9b62a56d0a04bb0fb.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Je ziet twee situaties van het treintje tijdens een rit met de bewegingsenergie op dat moment.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_5c73baa5e589.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/eb0c70f1f097433bb44d75b9da365bd5.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_07ea412ba112.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cac0953c37c244fdaedbf40d18f2a015.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuur- en scheikunde 1 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuur-_en_scheikunde_1_2023_I_146f2ef32a60.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a553a8c7e49437a900373fa6ec9748e.pdf"
+    }
+  ]
+}

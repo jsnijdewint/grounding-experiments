@@ -1,0 +1,56 @@
+{
+  "id": "havo_aardrijkskunde_2021_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "aardrijkskunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 46,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 94,
+          "name": "Samenhangen en verschillen op aarde",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>De tweede etappe eindigde bij de Tafelberg in Kaapstad (zie bron 11). De basis van deze berg bestaat uit graniet. Daarop ligt een laag zandsteen.<br>Geef aan tot welke hoofdgroep van gesteenten</p><ul><li>graniet behoort;</li><li>zandsteen behoort.</li></ul>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 9 tot en met 12.<br>Om de juiste koers te varen maken zeilers gebruik van de overheersende zee- en luchtstromen.<br>Stelling 1: zee- en luchtstromen verdelen warmte en koude over het aardoppervlak.<br>Stelling 2: zeestromen worden onder andere aangedreven door de wind.<br>Stelling 3: zeestromen draaien op het noordelijk halfrond tegen de wijzers van de klok in.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik de bronnen 9 en 10 en het kaartenkatern.<br>De kortste route tijdens de tweede etappe, van Lissabon naar Kaapstad, gaat langs de zuidwestkust van Afrika. Toch kiezen de zeilers voor de langere, maar snellere route langs de kust van Zuid-Amerika.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2021_I_bijlage_d5e1d542d89f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b4b0ddd9af6c4d90b654414dbae13452.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2021 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2021_I_kaartenk_37a583c0ab38.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/05dc921c5df2400c8791a209fb43776b.pdf"
+    }
+  ]
+}

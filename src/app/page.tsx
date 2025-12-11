@@ -1,37 +1,43 @@
 "use client"
 
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import ExercisePanel from "@/components/exercise-panel"
 import ExercisePreview from "@/components/exercise-preview"
 import GeneratedExamPanel from "@/components/generated-exam-panel"
 import GenerationDashboard from "@/components/generation-dashboard"
-
-interface Exercise {
-  id: string
-  title: string
-  subject: string
-  topic: string
-  difficulty: "easy" | "medium" | "hard"
-  image?: string
-  content: string
-  answers: string[]
-  niveau?: string
-  examenjaar?: string
-  tijdvak?: string
-  opgavenummer?: string
-}
+import { getExerciseTree } from "@/app/actions"
+import type { Exercise, ExerciseTreeNode } from "@/lib/data-loader"
 
 export default function Home() {
+  const [treeData, setTreeData] = useState<ExerciseTreeNode[]>([])
+  const [isLoading, setIsLoading] = useState(true)
   const [selectedExercises, setSelectedExercises] = useState<Set<string>>(new Set())
   const [selectedDomains, setSelectedDomains] = useState<Set<string>>(new Set())
   const [selectedSubdomains, setSelectedSubdomains] = useState<Set<string>>(new Set())
   const [previewExercise, setPreviewExercise] = useState<Exercise | null>(null)
+
+  // Load data on mount
+  useEffect(() => {
+    async function loadData() {
+      try {
+        const data = await getExerciseTree()
+        setTreeData(data)
+      } catch (error) {
+        console.error('Error loading exercise tree:', error)
+      } finally {
+        setIsLoading(false)
+      }
+    }
+    loadData()
+  }, [])
 
   return (
     <div className="h-screen flex overflow-hidden bg-[#FEF6E1]">
       {/* Left Panel - Tree View (1/5) */}
       <div className="w-1/5 border-r border-border flex flex-col overflow-hidden bg-[#FEF6E1]">
         <ExercisePanel
+          treeData={treeData}
+          isLoading={isLoading}
           selectedExercises={selectedExercises}
           selectedDomains={selectedDomains}
           selectedSubdomains={selectedSubdomains}

@@ -1,0 +1,75 @@
+{
+  "id": "vwo_wiskunde_a_2022_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 76,
+          "name": "Algebra",
+          "prefix_code": 1
+        },
+        {
+          "id": 77,
+          "name": "Telproblemen",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Onderzoek op hoeveel manieren je op de vier afstanden een totaal van 55 punten kunt behalen.</p>",
+    "max_score": 8,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Begin 2015 werd Sjinkie Knegt in Dordrecht voor de tweede maal in zijn carrière Europees kampioen shorttrack. Zo'n kampioenschap bestaat uit het schaatsen van de vier afstanden <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>500</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><mo>,</mo> <mn>1000</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><mo>,</mo> <mn>1500</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi>&#160;</mrow></math>en 3000 m . Per afstand kun je punten verdienen. Degene met de meeste punten na vier afstanden is de winnaar. De beste acht deelnemers per afstand krijgen punten volgens de onderstaande tabel:</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2b78cee73496.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/648b8b5cd78a40d2b479d9e847c62b5a.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_3ecc22a0bc34.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/eba82e14684c4e4a9f6e103c3074f788.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Deelnemers die op plaats 9 of lager eindigen, krijgen voor die afstand geen punten.</p><p>In werkelijkheid kunnen er op sommige afstanden extra punten worden behaald in tussensprints. Deze laten we voor deze opgave buiten beschouwing.</p><p>Tijdens het toernooi werd Sjinkie eerste op de 500 meter en op de 1000 meter, tweede op de 1500 meter en vierde op de 3000 meter. Hij behaalde daarmee <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>34</mn> <mo>+</mo> <mn>34</mn> <mo>+</mo> <mn>21</mn> <mo>+</mo> <mn>8</mn> <mo>=</mo> <mn>97</mn>&#160;</math>punten.</p><p>Sjinkie's classificering is niet de enige manier om 97 punten te behalen. Hij had bijvoorbeeld ook eerste kunnen worden op de 500 en op de 1500 meter, tweede op de 3000 meter en vierde op de 1000 meter.</p><p>Je kunt, na een toernooi met vier afstanden, ook eindigen met een totaal van 55 punten. Dan ben je waarschijnlijk geen kampioen, maar dan heb je misschien wel een keer een afstand gewonnen en een keer een tweede plaats gehaald. Het aantal van 55 punten is echter op veel meer manieren te behalen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_73fca02d2c1b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5d05a69549d843d992d31326c4d8bd2f.pdf"
+    },
+    {
+      "name": "Wiskunde A 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2022_I_uitwerkbijla_986f038aa607.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/05b11d946a864537912b61b903133caa.pdf"
+    }
+  ]
+}

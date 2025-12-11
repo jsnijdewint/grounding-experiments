@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 103,
+    "education_level": "havo",
+    "discipline": "biologie",
+    "year": 2023,
+    "tijdvak": 1
+  },
+  "question_count": 48
+}

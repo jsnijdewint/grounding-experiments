@@ -1,0 +1,115 @@
+{
+  "id": "vmbo_gl_aardrijkskunde_2023_t1_q47",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "aardrijkskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 71,
+      "domains": [
+        {
+          "id": 108,
+          "name": "Bevolking en ruimte",
+          "prefix_code": "AK/K/8"
+        },
+        {
+          "id": 109,
+          "name": "Casus weer en klimaat: extreme weersomstandigheden",
+          "prefix_code": "AK/V/1"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bekijk bron 41.<br>Op een nieuw gebouw in Shanghai staan 1000 bomen.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Geef aan waardoor het gebouw met de 1000 bomen leefbaarder zal zijn dan gebouwen in Shanghai zonder bomen.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_3c5b50483450.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/986fa2c66d9a4b0ea127cf556a3bde45.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_511653915610.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/79bcb65da52244b3981d174dd68eb3c7.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_c70e7080c74d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c22087cfc9b244e8b81cd59a72d7b8b7.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_e3813d2787ee.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0cfe500b4dff4d6f8196de3d06d7f5c3.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_9c95b3cee346.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b8ecd53fb04648e48358c276b6c3c9dd.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_be8882d75f9c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0ed213f6a856450f9710043fc0d39950.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_4453f8116136.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/572d652ec6654593be7ebaa5eb660fcb.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>bron 38<br>Fragment uit een economisch blog</p><p>Aan de monding van de Parelrivier ligt de Chinese stad Shenzhen. De stad heeft een grote aantrekkingskracht op jonge Chinezen. Niet alleen omdat er zo veel succesvolle technologiebedrijven gevestigd zijn, maar ook omdat de leefomgeving er gunstiger zou zijn dan in veel andere grote Chinese steden.</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_caebfe821896.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ba8d4703f93c4348bd3c66ab0fed4439.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_c0418ad87866.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/282e587796424accb78940113cbf76f3.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "image",
+      "media_path": "media/in-exam/img_02cbfef3a84f.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/750dc6c60eef483db95fd81ef37a49ff.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

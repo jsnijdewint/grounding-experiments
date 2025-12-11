@@ -1,0 +1,61 @@
+{
+  "id": "vwo_aardrijkskunde_2021_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "aardrijkskunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 21,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 2,
+          "name": "Samenhang en verscheidenheid in de wereld",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beschrijf voor elk van deze drie fases de invloed die economische ontwikkeling op migratie heeft.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 1 tot en met 4.<br>In bron 1 wordt de VN-ontwikkelingsindex gebruikt. Deze index is samengesteld met indicatoren uit verschillende dimensies.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik bron 1.<br>Hieronder staan drie uitspraken.<br>Uitspraak 1: in Afrika is de gemiddelde score op de VN-ontwikkelingsindex tussen 2000 en 2015 gestegen.<br>Uitspraak 2: Namibiē is het enige land in Afrika dat tussen 2000 en 2015 gegroeid is van categorie II naar categorie III.<br>Uitspraak 3: buiten Afrika wonen meer Kaapverdianen dan Marokkanen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Gebruik de bronnen 1 tot en met 4.<br>In het algemeen wordt aangenomen dat economische ontwikkeling in Afrikaanse landen snel zal leiden tot een afname van de emigratie naar Europa. Volgens het migratietransitiemodel in bron 4 ligt dat genuanceerder. In dit model kun je drie migratiefases onderscheiden die Afrikaanse landen tijdens economische ontwikkeling doorlopen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2021_I_bijlage_1de9ee212266.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/3bcf64b646bb4388813bec93b28b6c85.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2021 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2021_I_kaartenk_576987338d70.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/734331e338bb414c87f337f1f9517536.pdf"
+    }
+  ]
+}

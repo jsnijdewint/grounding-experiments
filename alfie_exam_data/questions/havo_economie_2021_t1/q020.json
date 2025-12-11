@@ -1,0 +1,68 @@
+{
+  "id": "havo_economie_2021_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 73,
+          "name": "Markt",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik de reactie van de deskundige en bron 4. Welk vlak of welke combinatie van vlakken geeft de genoemde toename van het producentensurplus juist weer? Noteer de letter(s).</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>fragment 1 uit een onderzoeksrapport, 2016:<br>Kosten en baten van alcoholgebruik</p><p>In 2013 waren de kosten van alcoholgebruik 2.624 miljoen euro hoger dan de baten. Dit is één van de uitkomsten van een zogeheten maatschappelijke kosten-batenanalyse waarbij de welvaartseffecten van alcoholgebruik in kaart zijn gebracht. Maatschappelijke kosten van alcoholgebruik kunnen bijvoorbeeld ontstaan door een lagere arbeidsproductiviteit, inzet van politie en justitie en verkeersongevallen. De baten van alcoholgebruik bestaan uit het consumentensurplus, het producentensurplus, en de accijnsopbrengsten voor de overheid (zie bron 1).</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_40bc311e4cb5.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/92e15d4b3c1743db9ff339810abc3c7c.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een zorgverzekeraar leest het onderzoeksrapport en wil graag een plan uitwerken om premiedifferentiatie toe te passen om de zorgkosten als gevolg van alcoholgebruik anders te verdelen. De verzekerden worden ingedeeld in risicoklassen naar hun gemiddelde alcoholgebruik.<br>klasse 1: minder dan 0,5 glas per dag<br>klasse 2: tussen 0,5 en 1 glas per dag<br>klasse 3: meer dan 1 glas per dag<br>Verzekerden kunnen premiekorting krijgen als ze in klasse 1 of 2 zitten. De verzekeraar baseert de indeling in risicoklassen op een verklaring die de verzekerde heeft ingevuld.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>fragment 2 uit een onderzoeksrapport, 2016:<br>Door een verhoging van de accijns op alcohol kan het negatieve saldo van kosten en baten van alcoholgebruik omslaan naar een positief saldo, dus hogere baten dan kosten. Het effect van zo'n accijnsverhoging is sterk afhankelijk van de prijs- en inkomenselasticiteiten van alcoholgebruik (zie bron 3).</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>uit een reactie van een deskundige:<br>In andere landen is onderzocht of het negatieve saldo van kosten en baten van alcoholgebruik kan worden omgezet naar een positief saldo. Uit deze onderzoeken blijkt dat een minimumprijs van 45 cent per eenheid alcohol (1 centiliter) leidt tot een afname van alcoholgebruik met 19%. Door de invoering van de minimumprijs ontstaat een aanbodoverschot. Indien de overheid het ontstane aanbodoverschot opkoopt, neemt het producentensurplus toe.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2021_I_bijlage_78b2ccc4e0ab.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e553e4fb92dd414ba69c047a982b4e48.pdf"
+    }
+  ]
+}

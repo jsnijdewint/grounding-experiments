@@ -1,0 +1,66 @@
+{
+  "id": "havo_aardrijkskunde_2023_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "aardrijkskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 46,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 95,
+          "name": "Gebiedskenmerken",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef&nbsp;<br>− nog twee andere BRICS-landen waarvoor een hoge ijzerprijs gunstig kan zijn;&nbsp;<br>− het BRICS-land waarvoor een hoge ijzerprijs ongunstig is;&nbsp;<br>− twee centrumlanden waarvoor een hoge ijzerprijs gunstig kan zijn.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave hoort bron 14.&nbsp;<br>Gebruik bron 14 en het kaartenkatern. In de Cerrado valt in de periode mei − september weinig neerslag.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik bron 14 en het kaartenkatern. Hieronder staan drie uitspraken over bron 14.&nbsp;<br>Uitspraak 1: het meest verstedelijkte gebied van Brazilië heeft het meeste last van droogte.&nbsp;<br>Uitspraak 2: in het Amazonegebied is de droogte een kleinschaliger probleem dan in het zuiden van Brazilië.&nbsp;<br>Uitspraak 3: in de periode april - september valt in het zuiden van Brazilië normaal gesproken minder neerslag dan in de Caatinga.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Gebruik bron 14 en de kaart Brazilië Mijnbouw, industrie en dienstverlening in het kaartenkatern. Door de droogte in het zuiden van Brazilië daalde het debiet van de rivier Paraná. Mede hierdoor steeg de ijzerprijs in Brazilië.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Gebruik het kaartenkatern. Een stijgende ijzerprijs in Brazilië kan leiden tot een mondiale stijging van de ijzerprijs. Een hoge ijzerprijs kan voor Brazilië gunstig zijn.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2023_I_bijlage_69f68dcbb685.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/10ac6d191f384f45b2c7a166e7f7f20d.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2023 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2023_I_kaartenk_28572665cc74.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e2c0e21f03a64d3bb38be49a41a361db.pdf"
+    }
+  ]
+}

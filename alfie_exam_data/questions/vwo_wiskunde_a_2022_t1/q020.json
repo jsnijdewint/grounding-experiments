@@ -1,0 +1,93 @@
+{
+  "id": "vwo_wiskunde_a_2022_t1_q20",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 80,
+          "name": "Rijen",
+          "prefix_code": 1
+        },
+        {
+          "id": 81,
+          "name": "Helling",
+          "prefix_code": 2
+        },
+        {
+          "id": 82,
+          "name": "Afgeleide",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Beredeneer aan de hand van de afgeleide van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>dat het percentage werktijd dat aan support wordt besteed inderdaad steeds minder sterk toeneemt.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Softwarebedrijven maken nieuwe software maar moeten ook aandacht besteden aan het geven van support aan hun klanten. Het geven van deze support kost bij veel softwarebedrijven steeds meer tijd. Als een softwarebedrijf vervolgens geen nieuw personeel wil aannemen, gaat de toenemende tijd die besteed wordt aan support ten koste van de tijd voor het ontwikkelen van nieuwe software.</p><p>Bij softwarebedrijf X-tent-O is geconstateerd dat men, als gevolg van deze toenemende vraag naar support, elke maand <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>minder tijd dan in de maand daarvoor besteedt aan het ontwikkelen van nieuwe software. Zie de figuur.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_7a6768fcf381.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/73ddd887f91241928533b22b14cb3777.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Na twee jaar moet al meer dan de helft van de beschikbare werktijd besteed worden aan support. En na vijf jaar kan nog maar 16% van de beschikbare werktijd aan het ontwikkelen van nieuwe software besteed worden.</p><p>Als er door de toename van de support elke <strong>maand </strong><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>minder tijd besteed kan worden aan het ontwikkelen van nieuwe software dan in de maand daarvoor, dan kun je het percentage werktijd <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>dat aan support wordt besteed, met de volgende formule berekenen:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi> <mo>=</mo> <mn>100</mn> <mo>&#8901;</mo> <mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mn>1</mn> <mo>&#8722;</mo> <mn>0</mn> <mo>,</mo> <msup><mn>97</mn> <mrow data-mjx-texclass=\"ORD\"><mn>12</mn> <mi>t</mi> </mrow></msup><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math></p><p>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi>&#160;</math>de tijd in jaren vanaf de lancering van de nieuwe software.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Uit de figuur blijkt dus dat na twee jaar meer dan de helft van de tijd aan support wordt besteed en dat er na vijf jaar (ongeveer) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>16</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>van de beschikbare werktijd aan nieuwe software besteed wordt.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Veel beginnende softwarebedrijven houden er binnen een paar jaar mee op, omdat ze zich verkijken op de tijd die in support moet worden gestoken.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p><p>Met behulp van de afgeleide van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>kan de verandering van het percentage dat aan support wordt besteed, worden bepaald. Die afgeleide is van de vorm <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>P</mi> <mrow data-mjx-texclass=\"ORD\"><mi data-mjx-alternate=\"1\">&#8242;</mi> </mrow></msup><mo>=</mo> <mi>k</mi> <mo>&#8901;</mo> <mn>0</mn> <mo>,</mo> <msup><mn>97</mn> <mrow data-mjx-texclass=\"ORD\"><mn>12</mn> <mi>t</mi>&#160;</mrow></msup></math>. Afgerond op één decimaal geldt: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi> <mo>=</mo> <mn>36</mn> <mo>,</mo> <mn>6</mn>&#160;</math>.</p></p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Het percentage werktijd dat aan support wordt besteed heeft, zoals ook in de figuur te zien is, een grenswaarde (van 100%). Dat percentage stijgt afnemend naar die grenswaarde.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_a_formules_73fca02d2c1b.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5d05a69549d843d992d31326c4d8bd2f.pdf"
+    },
+    {
+      "name": "Wiskunde A 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2022_I_uitwerkbijla_986f038aa607.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/05b11d946a864537912b61b903133caa.pdf"
+    }
+  ]
+}

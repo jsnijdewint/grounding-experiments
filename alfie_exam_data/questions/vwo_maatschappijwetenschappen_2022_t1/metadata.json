@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 115,
+    "education_level": "vwo",
+    "discipline": "maatschappijwetenschappen",
+    "year": 2022,
+    "tijdvak": 1
+  },
+  "question_count": 26
+}

@@ -1,0 +1,105 @@
+{
+  "id": "vwo_wiskunde_a_2021_t1_q16",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_a",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 27,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 78,
+          "name": "Standaardfuncties",
+          "prefix_code": 1
+        },
+        {
+          "id": 79,
+          "name": "Functies, grafieken, vergelijkingen en ongelijkheden",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken met behulp van de formule voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>na hoeveel hele dagen dat het geval was.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Electronic Sports, afgekort <strong>E-Sports</strong>, is de term die wordt gebruikt voor het competitief spelen van computerspellen. Hoewel het tegen andere spelers spelen van computerspellen al bijna net zo lang bestaat als de spellen zelf, wordt algemeen aangenomen dat E-Sports bestaat sinds 1998. Dat is namelijk het jaar dat er voor het eerst een officieel E-Sportstoernooi gehouden werd waarbij geldprijzen te winnen waren.</p><p>In 1998 was er in totaal zo'n 100000 dollar te verdienen door de spelers. Sinds dat jaar is E-Sports uitgegroeid tot een internationaal fenomeen. In 2016 streden tienduizenden spelers in zo'n honderd verschillende spellen om een totale prijzenpot van ruim 95 miljoen dollar.</p><p>In figuur 1 is de ontwikkeling weergegeven van het totale prijzengeld dat in E-Sports omgaat.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_a38aaeacddcb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5682daea4a644bf783ece0286747c763.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De totale prijzenpot nam van 2009 tot en met 2016 toe van 3,7 miljoen tot 95,1 miljoen dollar. Als we ervan uitgaan dat deze groei exponentieel was en ook na 2016 exponentieel doorzet, dan zal het totale prijzengeld binnen enkele jaren tot boven de 1 miljard dollar stijgen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Bijna de helft van het totale prijzengeld in E-Sports wordt gewonnen door spelers van één bepaald spel. Dit spel wordt gespeeld door twee teams van elk vijf spelers, waarbij elk van de spelers een eigen held bestuurt. De spelers proberen met hulp van door de computer bestuurde troepen het gebied van de tegenstander te veroveren.</p><p>Er zijn bij dit spel 112 verschillende helden, die worden onderverdeeld in drie categorieën: er zijn 49 aanvallers, 27 verdedigers en de overige helden zijn ondersteunende helden.</p><p>Aan het begin van het spel kiezen de teams volgens een gecompliceerd systeem beurtelings hun helden. ledere held kan hierbij slechts één keer gekozen worden.</p><p>Het is gebruikelijk dat een team bestaat uit twee aanvallers, één verdediger en twee ondersteunende helden.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In elk team zitten vijf helden. Het spelgebied waarop de teams elkaar bestrijden kan globaal worden ingedeeld in drie zones: Noord, Midden en Zuid. Een held kan een rol krijgen in een van deze drie zones. Bovendien bestaat er de mogelijkheid om een held tussen de zones te laten wisselen; we noemen dat een zwervende held. Er zijn dus eigenlijk vier mogelijke rollen voor een held: Noord, Midden, Zuid en zwervend.</p><p>Teams kiezen er altijd voor om in elk van de drie zones ten minste één held te plaatsen. Een mogelijke verdeling van de aantallen helden is dan bijvoorbeeld: 1 held in Noord, 1 held in Midden, 2 helden in Zuid en 1 zwervende held. We gaan er hierbij vanuit dat het niet van belang is welke held in welke zone aanwezig is.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Voor het spel worden gedurende het jaar diverse toernooien met uiteenlopende geldprijzen gehouden, maar het belangrijkste toernooi is The International, dat jaarlijks in augustus gehouden wordt. Teams uit alle delen van de wereld proberen via kwalificatietoernooien een van de zestien deelnamebewijzen te bemachtigen. En met een goede reden: in 2016 was de prijzenpot voor The International ruim 20 miljoen dollar.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Dat het prijzengeld zo hoog is bij The International komt doordat het toernooi crowdfunded is. Dat wil zeggen: spelers van het spel kunnen gedurende een periode voorafgaand aan het toernooi bijdragen aan de prijzenpot.</p><p>Het verloop van de hoogte van de prijzenpot voor The International 2016 staat in figuur 2.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_c3b7d40ec8b5.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e02948f75ff54bc99262aff6a93acbc0.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>De totale prijzenpot voor The International 2016 was als volgt opgebouwd:</p><ul><li>De organisatie van het toernooi, in dit geval de ontwikkelaar van het spel, legde een bepaald startbedrag in de prijzenpot.</li><li>De ontwikkelaar gaf de spelers van het spel vanaf 16 mei de mogelijkheid om virtuele voorwerpen te kopen die zij in het spel konden gebruiken. Van de opbrengsten daarvan werd <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>25</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>aan de prijzenpot toegevoegd.</li></ul><p>De grafiek in figuur 2 kan redelijk worden benaderd met de volgende formule:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi> <mo>=</mo> <mn>8</mn> <mo>,</mo> <mn>157</mn> <mo>&#8901;</mo> <mi>ln</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mn>0</mn> <mo>,</mo> <mn>1</mn> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo>+</mo> <mn>10</mn> <mo stretchy=\"false\">)</mo> <mo stretchy=\"false\">)</mo> <mo>+</mo> <mn>1</mn> <mo>,</mo> <mn>6</mn></math></p><p>In deze formule is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>het totale prijzengeld in miljoenen dollars en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi>&#160;</math>de tijd in dagen met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi> <mo>=</mo> <mn>0</mn>&#160;</math>op 16 mei 2016.</p>"
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>Volgens een website die verslag doet van E-Sports-toernooien hadden spelers binnen een maand 40 miljoen dollar uitgegeven aan virtuele voorwerpen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_66115931efb1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a82d76c736914785983bf91c92b9a256.pdf"
+    },
+    {
+      "name": "Wiskunde A 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2021_I_uitwerkbijla_3883774f4ae1.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cdb796394a4c4a968d52b9ce2edc08ed.pdf"
+    }
+  ]
+}

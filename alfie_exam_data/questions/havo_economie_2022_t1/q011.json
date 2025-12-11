@@ -1,0 +1,46 @@
+{
+  "id": "havo_economie_2022_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 73,
+          "name": "Markt",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Toon met een berekening aan dat er tussen 2017 en 2020 sprake was van schaalvergroting bij supermarkten.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Uit een rapport over de Nederlandse detailhandel in levensmiddelen:</p><p><br>Er is sprake van schaalvergroting bij supermarkten: de gemiddelde grootte van supermarkten, gemeten in winkelvloeroppervlak, neemt toe. In dezelfde periode is het aantal supermarkten licht gestegen.</p><p>&nbsp;</p><p><i>Gebruik bovenstaande tekst en bron 1.</i></p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_897a168c0baf.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a9da2fcb0f24bbf983e12947b86eb03.pdf"
+    }
+  ]
+}

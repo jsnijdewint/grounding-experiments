@@ -1,0 +1,40 @@
+{
+  "id": "vwo_natuurkunde_2024_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "natuurkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 22,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken in hoeveel seconden Denise de laatste mijl afgelegd heeft.<br>Noteer je antwoord in het juiste aantal significante cijfers.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 2018 verbrak Denise Mueller-Korenek het wereldsnelheidsrecord op de fiets, op een hooggelegen zoutvlakte in de Verenigde Staten. Tijdens de recordpoging legde ze een afstand van vijf mijl af en werd haar snelheid<br>tijdens de laatste mijl nauwkeurig bepaald. Deze laatste mijl is heel nauwkeurig gemeten, zodat de meetwaarde te schrijven is als 1,000 000 mijl. Denise haalde hier een gemiddelde snelheid van 183,932 mijl per uur</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2024_I_uitwerkbijl_53e920c4cfe0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9441e6eda69e41e0ab819d8b89d60c78.pdf"
+    }
+  ]
+}

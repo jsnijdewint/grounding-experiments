@@ -1,0 +1,57 @@
+{
+  "id": "vwo_economie_2023_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 21,
+          "name": "Risico en informatie",
+          "prefix_code": "G"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit welke voorwaarde het risico op averechtse selectie voor de verzekeraar vermindert.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tussen bedrijven vinden veel onderlinge leveringen plaats. Doorgaans biedt de leverancier een betalingstermijn aan inkopende bedrijven aan. De leverancier loopt daarbij het risico dat inkopers de betalingstermijn overschrijden en kan daarom een verzekering afsluiten bij een kredietverzekeringsmaatschappij (zie figuur 1). De verzekeraar dekt de schade van de leverancier als er niet of te laat betaald wordt. Tevens levert de verzekeraar een incassodienst als onderdeel van de verzekering.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_5505ba726ae1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bd9c22c62b004251b4887756bb9151e1.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Een econoom onderzoekt de vier verzekeringsvoorwaarden van een kredietverzekeraar:&nbsp;<br>− Indien het inkopende bedrijf niet betaalt als de betalingstermijn is verstreken, keert de kredietverzekeraar een schadevergoeding uit van 90% van de gemiste omzet aan de leverancier (pijl 4).&nbsp;<br>− De kredietverzekeraar neemt de incasso van het verschuldigde bedrag op zich als de betalingstermijn is verstreken en het inkopende bedrijf nog steeds niet heeft betaald (pijl 7).&nbsp;<br>− De kredietverzekeraar rekent de incassokosten door aan het inkopende bedrijf (pijl 6).&nbsp;<br>− De kredietverzekeraar hanteert een bonus-malussysteem voor de leverancier.<br><br>Een econoom stelt: “Als de leverancier een kredietverzekering afsluit en het inkopende bedrijf betaalt niet, neemt de kredietverzekeraar de rol van de principaal over en wordt het inkopende bedrijf de agent. De kredietverzekeraar heeft een voorwaarde opgenomen om dit probleem met de agent te verminderen.”</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Kredietverzekeraars zijn bang om met moral hazard door zowel de leverancier als het inkopende bedrijf te maken te krijgen.</p>"
+    }
+  ],
+  "bijlages": []
+}

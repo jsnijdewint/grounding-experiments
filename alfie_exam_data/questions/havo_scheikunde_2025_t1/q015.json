@@ -1,0 +1,117 @@
+{
+  "id": "havo_scheikunde_2025_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Verklaar aan de hand van de structuurformule van DVE of door poly-additie met B2 een thermoharder ontstaat.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Om oppervlakken van metalen of kunststoffen te beschermen tegen invloeden van buitenaf, kunnen ze worden bedekt met een laagje van een polymeer. Dit laagje wordt een coating genoemd. Veel coatings bevatten polyacrylaten, zoals poly-ethylacrylaat. In figuur 1 is een fragment van een molecuul poly-ethylacrylaat weergegeven.<br>figuur 1 poly-ethylacrylaat</p><p>&nbsp;</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_3353f3563363.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d1abcd79bf59437b8b5dce9ddf9373a1.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Poly-ethylacrylaat wordt gemaakt door poly-additie van het monomeer ethylacrylaat.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Polyacrylaten worden gemaakt uit aardolie en zijn daardoor niet duurzaam. Nederlands onderzoek heeft geleid tot een nieuwe methode om monomeren voor coatings te maken. In deze nieuwe methode wordt uitgegaan van biomassa. Uit biomassa wordt de stof furfural gemaakt. Furfural kan in twee stappen worden omgezet tot een stof die als monomeer voor coatings kan worden gebruikt. In stap 1 reageert furfural dat is opgelost in methanol, met zuurstof tot hydroxybutenolide. In figuur 2 zijn de structuurformules van furfural en hydroxybutenolide weergegeven.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_de7494bf5f7b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/13bc38e777cb45aa98dbd00734eff0f6.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>In stap 2 wordt de temperatuur verhoogd. Hydroxybutenolide reageert dan met methanol tot methoxybutenolide, afgekort B2. Zie figuur 3.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_881297b3c2ea.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/10f1f42e207943cd9b2dbc7a49c944a0.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Butenolides zoals B2 zijn monomeren voor polymerisatiereacties. In plaats van methanol kunnen ook andere alcoholen worden gebruikt voor stap 2. Hierbij ontstaan andere butenolides. Zo ontstaat het monomeer B4 uit de reactie van propaan-2-ol met hydroxybutenolide. In het figuur hieronder wordt de reactie onvolledig weergegeven.</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_d2ac17271dbf.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/674aea03b90d4742b4b0565651a2ba6e.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>B4 kan met een ander monomeer worden gepolymeriseerd tot een copolymeer dat geschikt is als coating. Het andere monomeer bepaalt de eigenschappen van het copolymeer. Een voorbeeld van zo'n ander monomeer is VeoVa-10. Zie figuur 4. Polymerisatie van B4 met VeoVa-10 levert een thermoplast op.</p>"
+    },
+    {
+      "order": 10,
+      "type": "image",
+      "media_path": "media/in-exam/img_347c461b1538.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/65e8052fbbad4922ac6c0461a99a3420.png",
+      "caption": ""
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>In een onderzoek werd de reactiesnelheid van B4 met VeoVa-10 bepaald. Na 8000 seconden bleek <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>96</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> van alle moleculen B4 en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>96</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math> van alle moleculen VeoVa-10 via een poly-additiereactie te zijn omgezet tot een copolymeer.</p>"
+    },
+    {
+      "order": 12,
+      "type": "text",
+      "text": "<p>Coatings die ontstaan uit de poly-additie van B2 of B4 met VeoVa-10 zijn vervormbaar. Wanneer een lagere vervormbaarheid gewenst is, moet men butenolides met een ander monomeer dan VeoVa-10 polymeriseren. Een voorbeeld van een monomeer dat door poly-additie met B2 een coating met een lagere vervormbaarheid oplevert, is DVE. Zie figuur 5.</p>"
+    },
+    {
+      "order": 13,
+      "type": "image",
+      "media_path": "media/in-exam/img_38f0844a2324.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f19b2277e03649ad92a6b38fec13fc66.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "ha-1028-a-25-1-u.pdf",
+      "media_path": "media/bijlages/ha-1028-a-25-1-u_c2bab5b58221.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f3aee0d3e8b747e2b4f1a424e9bd0f04.pdf"
+    }
+  ]
+}

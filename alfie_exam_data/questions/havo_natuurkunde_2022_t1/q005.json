@@ -1,0 +1,123 @@
+{
+  "id": "havo_natuurkunde_2022_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 131,
+          "name": "Informatieoverdracht",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg met de formule voor een massa-veersysteem uit of deze strip van 'London Bridge' meer of minder massa heeft aan het eind dan de vergelijkbare strip van 'This Old Man'.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een muziekdoos is een klein muziekinstrument. Zie figuur 1 en 2.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_bfdf631acfb5.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5c77f5d2d2334cefb5e5488d46e95032.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_bf57f76d02bf.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/497499f795fe44cb81d049841ab4087c.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De muziekdoos maakt muziek door stalen strips te laten trillen. Op een draaiende, cilindervormige rol zijn pinnen aangebracht die een strip aan één uiteinde optillen. Zie figuur 3. De strip springt vervolgens los van de pin en begint te trillen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_ed1b27deedfe.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/498d31e9bdfb421b9766e5471f110a80.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Door meerdere strips naast elkaar te gebruiken, kan een melodie worden gespeeld. Zie figuur 1 en 2.<br>De melodie herhaalt zich elke 15 seconde. In deze tijd roteert de rol dus één keer.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De lengte van iedere strip is verschillend. Een strip gaat trillen in de grondtoon. In figuur 4 zijn vier patronen van knopen (K) en buiken (B) in een strip te zien.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_7132c3571dd0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6e264b2e143140d3849137ff7fcba5a3.png",
+      "caption": ""
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>In tabel 15C van Binas en tabel 2.1c van Sciencedata is gegeven welke frequenties bij welke muzieknoten horen. Zo is te zien dat bij de muzieknoot al (ook wel a' genaamd) een frequentie hoort van 440 Hz . Met een camera is een opname gemaakt van een trillende strip. Hiermee is de uitwijking van de strip tegen de tijd bepaald. Het ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>u</mi> <mo>,</mo> <mi>t</mi>&#160;</math>)-diagram hiervan staat in figuur 5.</p>"
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_35702ef88aec.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ce08177d30934241896e93f079cd5e6b.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>De camera legt de trillende strip vast door er per seconde een bepaald aantal foto's van te maken. Dit aantal foto's per seconde is de zogenaamde beeldfrequentie.</p>"
+    },
+    {
+      "order": 11,
+      "type": "text",
+      "text": "<p>Een trillende strip werkt als een massa-veersysteem.<br>De strips kunnen aan het eind verzwaard worden door ze daar dikker te maken. De veerconstante van de strip verandert hierdoor niet, maar de toonhoogte verandert wel. De tonen van de liedjes 'London Bridge' en 'This Old Man' zijn bijna hetzelfde. Zie figuur 6.</p>"
+    },
+    {
+      "order": 12,
+      "type": "image",
+      "media_path": "media/in-exam/img_a8352bfbc086.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4180e134e9e644caa2ff65ab03eb67bc.png",
+      "caption": ""
+    },
+    {
+      "order": 13,
+      "type": "text",
+      "text": "<p>Voor beide liedjes wordt dezelfde rol met pinnen gebruikt. Er zit wel een verschil in de strips: één bepaalde strip van 'London Bridge' geeft een lagere toon dan de vergelijkbare strip van 'This Old Man'.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2022_I_uitwerkbijl_81c84d6bcda8.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5d2d7ab14a724c268e292e7f96ede649.pdf"
+    }
+  ]
+}

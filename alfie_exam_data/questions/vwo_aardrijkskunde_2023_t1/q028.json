@@ -1,0 +1,66 @@
+{
+  "id": "vwo_aardrijkskunde_2023_t1_q28",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "aardrijkskunde",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 21,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 5,
+          "name": "Nationale en regionale vraagstukken",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef aan waarom&nbsp;<br>− zo’n oefening met bewoners goed past bij integraal waterbeheer;&nbsp;<br>− de kans dat de zandzakken ook daadwerkelijk gebruikt moeten gaan worden door de herinrichting van de Hemrikkerscharren kleiner geworden is.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 18 tot en met 20. Gebruik bron 18 en het kaartenkatern. De grenzen van de provincie Friesland vallen niet overal samen met de grenzen van het beheergebied van Wetterskip Fryslân (Waterschap Friesland). Dat is bijvoorbeeld het geval bij de Friese Waddeneilanden.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Het veranderende neerslagregiem leidt in Friesland, net als in andere delen van Nederland, steeds vaker tot wateroverlast.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Gebruik de bronnen 19a en 19b. Bij de herinrichting van de Hemrikkerscharren bij de Boarn is sprake van integraal waterbeheer.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Gebruik de bronnen 19a,19b en 20. In het dorp Âldeboarn staan altijd zandzakken klaar om in geval van hoogwater de kade langs de Boarn te verhogen. In september 2021 hebben bewoners geoefend met het neerleggen van zandzakken.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2023_I_bijlage_248a50c12d53.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7f989d72434c4d799e087d834390e90f.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2023 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2023_I_kaartenk_e5ac5704001a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/87a0b7c501054137ad17a7a871b8eb90.pdf"
+    }
+  ]
+}

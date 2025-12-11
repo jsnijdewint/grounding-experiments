@@ -1,0 +1,46 @@
+{
+  "id": "havo_biologie_2024_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Licht toe dat uit een kruising van een bruine slak en een roze slak gele nakomelingen (F1) kunnen voortkomen. Geef hierbij een kruisingstabel.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Met de app SnailSnap op hun telefoon maken Dylan en Senna foto’s van slakken rond hun huis. Zo doen ze mee aan een onderzoek naar de verspreiding en evolutie van kleurvormen van de gewone tuinslak.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_e7961e17b819.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cac391ab65fa47b7ad739951dda51e77.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De kleur van het huisje wordt bepaald door één gen waarvan drie allelen bekend zijn. Het allel Cb (bruin) is dominant over Cr (roze). Beide zijn dominant over cg (geel).</p>"
+    }
+  ],
+  "bijlages": []
+}

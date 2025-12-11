@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 21,
+    "education_level": "vwo",
+    "discipline": "natuurkunde",
+    "year": 2023,
+    "tijdvak": 1
+  },
+  "question_count": 25
+}

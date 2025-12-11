@@ -1,0 +1,76 @@
+{
+  "id": "havo_bedrijfseconomie_2024_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "bedrijfseconomie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 33,
+      "domains": [
+        {
+          "id": 67,
+          "name": "Verslaggeving",
+          "prefix_code": "G"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat Welkom Energie mede door de vaste energiecontracten van klanten in 2021 in liquiditeitsproblemen is gekomen (zie informatiebron 1).</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de informatiebronnen 1 tot en met 3.&nbsp;<br>In deze opgave blijft de btw buiten beschouwing.&nbsp;<br><br>In Nederland is de energiemarkt sinds 2004 geprivatiseerd en kunnen huishoudens kiezen welk energiebedrijf bij hen energie mag leveren. Energiebedrijven hebben een vergunning van de toezichthouder nodig om energie te mogen inkopen en leveren aan huishoudens. De vergunning heeft als functie dat consumenten zeker zijn van de levering van energie. Op 1 januari 2019 heeft Welkom Energie bv een vergunning van de toezichthouder gekregen om energie te leveren aan huishoudens in Nederland. Welkom Energie vervult een maatschappelijke behoefte door de levering van energie.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De toezichthouder stelt voor het verlenen van de vergunning een aantal eisen. Een financiële eis is dat de liquiditeitspositie gemeten met de current ratio ten minste 1,0 moet zijn op iedere laatste dag van de maand.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In het najaar van 2021 zijn de inkoopprijzen van energie heel sterk gestegen, waardoor er voor Welkom Energie een liquiditeitsprobleem is ontstaan. Het liquiditeitsprobleem hangt samen met de hoeveelheid energie die ingekocht en geleverd moet worden op basis van de vaste en variabele contracten.<br><br><strong>Ontvangsten uit de verkoop van energie in oktober 2021</strong>&nbsp;<br><br>De ontvangsten van Welkom Energie zijn de voorschotten (termijnbedragen) die alle klanten iedere maand betalen (zie informatiebron 1).</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p><strong>Uitgaven aan inkoop energie in oktober 2021&nbsp;</strong><br><br>De grootste uitgave van Welkom Energie is de inkoop van energie. In 2021 zijn de prijzen daarvan flink gestegen (zie informatiebron 1 en 2).</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p><strong>Balans</strong>&nbsp;<br><br>De verwachtingen over de ontvangsten van alle klanten van Welkom Energie en uitgaven aan inkoop van energie over de maand oktober 2021 zijn uitgekomen. De gedeeltelijk ingevulde balans per 31 oktober 2021 van Welkom Energie staat in informatiebron 3. Naast de inkoop van energie is er nog € 140.000 betaald in oktober. Alleen de post liquide middelen moet nog worden aangepast. Er zijn geen andere ontvangsten in oktober 2021.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>De liquiditeitsproblemen van Welkom Energie hielden aan in november en december 2021. In december 2021 vraagt de directie van Welkom Energie het faillissement aan. Het grote aantal vaste energiecontracten van Welkom Energie met huishoudens in verhouding tot de variabele contracten speelde hierbij een belangrijke rol.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Bedrijfseconomie 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_bijlag_2e10e0982197.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a7a15ca0f9d2401aa24055b39fdd0a81.pdf"
+    },
+    {
+      "name": "Bedrijfseconomie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Bedrijfseconomie_2024_I_uitwer_e1cba7355851.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/555ba55aca42476292c914bf8a9a09fe.pdf"
+    }
+  ]
+}

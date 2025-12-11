@@ -1,0 +1,47 @@
+{
+  "id": "havo_wiskunde_b_2022_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 102,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de snelheid van de wind achter de windmolen in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>. Geef je eindantwoord in één decimaal.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een windmolen kan de bewegingsenergie van de wind omzetten in elektrische energie. De hoeveetheid elektrische energie die een windmolen produceert, is afhankelijk van de windsnelheid. Hoe harder het waait, hoe meer elektrische energie een windmolen kan produceren.</p><p>Omdat er energie uit de wind gehaald is en omgezet is in elektrische energie, is de bewegingsenergie van de wind achter een windmolen kleiner dan ervoor. Dus is de windsnelheid achter de windmolen ook kleiner dan de windsnelheid vóór de windmolen.</p><p>De energie in joule ( J ) die een windmolen per seconde produceert, wordt gegeven door de formule:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi> <mo>=</mo> <mfrac><mn>1</mn> <mn>4</mn> </mfrac><mo>&#8901;</mo> <mi>c</mi> <mo>&#8901;</mo> <msup><mi>v</mi> <mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msup><mo>&#8901;</mo> <mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mn>1</mn> <mo>&#8722;</mo> <msup><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mfrac><mi>w</mi> <mi>v</mi> </mfrac><mo data-mjx-texclass=\"CLOSE\">)</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msup><mo>&#8722;</mo> <msup><mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mfrac><mi>w</mi> <mi>v</mi> </mfrac><mo data-mjx-texclass=\"CLOSE\">)</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>+</mo> <mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mfrac><mi>w</mi> <mi>v</mi> </mfrac><mo data-mjx-texclass=\"CLOSE\">)</mo> </mrow><mo data-mjx-texclass=\"CLOSE\">)</mo> </mrow><mstyle scriptlevel=\"0\"><mspace width=\"1em\"></mspace></mstyle><mtext>(formule 1)&#160;</mtext></math></p><p>Hierin is</p><ul><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>E</mi>&#160;</math>de energie die de molen per seconde produceert in J;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi></math> een (positieve) constante die hoort bij de windmolen, deze constante is onder andere afhankelijk van de grootte en vorm van de wieken;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>v</mi></math> de snelheid van de wind vóór de windmolen in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>;</li><li><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>w</mi>&#160;</math> de snelheid van de wind achter de windmolen in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>.</li></ul><p>Bij een wind met een snelheid van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">m</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>/</mo> </mrow><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">s</mi>&#160;</mrow></math>vóór de windmolen produceert de windmolen Amstelvogel in Ouderkerk aan de Amstel, zie de foto, elke seconde 1,21 miljoen J. De waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi>&#160;</math>die hoort bij deze windmolen is 5116 .</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_f88b2b45d43d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5e4802728c844190b0c11d8d441607a7.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

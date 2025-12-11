@@ -1,0 +1,74 @@
+{
+  "id": "havo_biologie_2023_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 128,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 129,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef zo'n biotische factor en zo'n abiotische factor.<br>Noteer je antwoord als volgt:<br>biotisch: ...<br>abiotisch: ...</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><p>Aaf Verkade is adviseur stadsgrachten en leidt het project vismonitoring in Leiden. Tijdens een schoonmaakbeurt van de Leidse grachten trof ze rivierdonderpadden aan in de opgeviste rommel.</p><p>De rivierdonderpad (Cottus perifretum, afbeelding 1) is een inheemse bodemvis die 's nachts jaagt op vlo-kreeften, waterpissebedden en muggenlarven. De rivierdonderpad wordt gemiddeld 13 cm lang. Overdag verschuilt de vis zich tussen stenen of boomwortels voor predatoren zoals rivierkreeften.</p></p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2c2090811867.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/39c37f6c7789434e838dfde2f2504069.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Door de schoonmaakbeurt van de Leidse grachten wordt de leefomgeving van de rivierdonderpad ernstig verstoord. Met het verwijderen van rommel zoals winkelwagentjes en visnetten, verdwijnen ook schuilplaatsen voor de rivierdonderpad.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Om de rivierdonderpadden te helpen, bedacht Verkade rivierdonderpaddenhotels. Dat zijn houten kisten (afbeelding 2) die in de grachten geplaatst kunnen worden. Zo krijgen de rivierdonderpadden extra schuilplekken.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_f402a21025f0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/06f85027e6f04ea6b5b2b5f004cc0629.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p><p>De rivierdonderpadden kunnen via smalle spleten in het hotel kruipen. Het aantal spleten en de grootte ervan, beïnvloeden ook de biotische en abiotische factoren voor de rivierdonderpadden in het hotel.</p></p>"
+    }
+  ],
+  "bijlages": []
+}

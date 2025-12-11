@@ -1,0 +1,56 @@
+{
+  "id": "havo_economie_2022_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "economie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 31,
+      "domains": [
+        {
+          "id": 73,
+          "name": "Markt",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit waarom in hoogconjunctuur de afzet van luxe levensmiddelen met een ander percentage zal stijgen dan die van niet-luxe levensmiddelen. Betrek het begrip inkomenselasticiteit in je antwoord.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Uit een rapport over de Nederlandse detailhandel in levensmiddelen:</p><p><br>Er is sprake van schaalvergroting bij supermarkten: de gemiddelde grootte van supermarkten, gemeten in winkelvloeroppervlak, neemt toe. In dezelfde periode is het aantal supermarkten licht gestegen.</p><p>&nbsp;</p><p><i>Gebruik bovenstaande tekst en bron 1.</i></p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 2.</i></p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Marktanalist Daniëlle Dijkstra bespreekt de ontwikkelingen in de levensmiddelenbranche in de periode 2017-2020. De levensmiddelenbranche bestaat - behalve de supermarkten - uit een groot aantal sterk concurrerende levensmiddelenspeciaalzaken. Dijkstra: \"We zagen een stijging van de totale afzet van levensmiddelen in de supermarkten van bijna <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>, als gevolg van de hoogconjunctuur. We verwachten dat de afzet van levensmiddelen in speciaalzaken met een ander percentage dan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>zal stijgen. De levensmiddelen bij speciaalzaken bevinden zich immers in het luxe segment.\"</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Economie_2022_I_bijlage_897a168c0baf.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0a9da2fcb0f24bbf983e12947b86eb03.pdf"
+    }
+  ]
+}

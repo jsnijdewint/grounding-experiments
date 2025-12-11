@@ -1,0 +1,87 @@
+{
+  "id": "havo_scheikunde_2024_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer op de uitwerkbijlage de volgende opdrachten uit:</p><p>– Bereken de reactiewarmte (∆E) in J per 4 mol aluminium van reactie 1. Gebruik Binas-tabel 57 of ScienceData-tabel 9.2.</p><p>– Teken in het energiediagram het ontbrekende energieniveau van aluminiumoxide, met bijschrift.</p><p>– Geef ∆E op de juiste plaats in het energiediagram aan.</p>",
+    "max_score": 3,
+    "is_self_scored": true
+  },
+  "solution": {
+    "text": "",
+    "image": {
+      "media_path": "media/solution_images/sol_78baeedb99b1.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8f0d2233aeff4b1cb5e150a2a1c9dc33.png"
+    }
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In steeds meer elektrische voertuigen zitten lithium-ion-accu’s (LIA’s). Daardoor neemt ook het afval van afgedankte LIA’s toe. Afgedankte LIA’s moeten apart ingezameld worden. De elektrolytvloeistof bevat namelijk de stof <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">LiPF</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>6</mn>\r\n    </mrow>\r\n  </msub>\r\n</math>, die gemakkelijk reageert met water. Bij deze reactie ontstaan lithiumfluoride en de giftige stoffen waterstoffluoride (HF) en fosforylfluoride (<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">POF</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>3</mn>\r\n    </mrow>\r\n  </msub>\r\n</math>).</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De ingezamelde LIA’s kunnen worden gerecycled, om zo min mogelijk metalen verloren te laten gaan. Figuur 1 toont de samenstelling van een bepaald type LIA met aluminium behuizing.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_d157cd0c9cc0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8727f22cc4a04e8b80ab209d751d08b2.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De positieve elektrode van dit type LIA bevat een actieve stof met lithium-ionen, nikkel-ionen, mangaan-ionen en kobalt-ionen. De verhoudingsformule kan als volgt worden genoteerd: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">LiNi</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>0</mn>\r\n      <mo>,</mo>\r\n      <mn>80</mn>\r\n    </mrow>\r\n  </msub>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">Mn</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>0</mn>\r\n      <mo>,</mo>\r\n      <mn>10</mn>\r\n    </mrow>\r\n  </msub>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">Co</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>0</mn>\r\n      <mo>,</mo>\r\n      <mn>10</mn>\r\n    </mrow>\r\n  </msub>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">O</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n</math></p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Afgedankte LIA’s zijn vaak nog deels opgeladen. Voordat de LIA’s worden gerecycled, worden ze ontladen. Dit kan door ze in een oplossing van natriumchloride in water te leggen. Beide elektroden moeten contact maken met de oplossing.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Het Belgische bedrijf Umicore heeft een proces ontwikkeld om nikkel en kobalt terug te winnen uit LIA’s. Dit proces maakt gebruik van een oven met drie temperatuurzones (vereenvoudigd weergegeven in figuur 2). De LIA’s worden samen met zand, aluminiumoxide en ongebluste kalk van bovenaf in de oven gebracht. In elke zone vindt een ander onderdeel van het recyclingproces plaats. De gassen die in zone 1, 2 en 3 ontstaan, stijgen op en worden verzameld voor verdere reiniging. Gedurende het verblijf in de oven zakken vaste stoffen en vloeistoffen naar beneden en komen ze in een steeds hetere omgeving.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_6808b44d2f7d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/645f73ebb27c4e4c990c489b4f0c09b6.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Op de uitwerkbijlage staat een tabel over aluminium</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>De hoge temperatuur in zone 3 wordt bereikt door de exotherme reactie tussen aluminium en zuurstof (reactie 1).</p><p>&nbsp;</p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mn>4</mn>\r\n  <mrow data-mjx-texclass=\"ORD\">\r\n    <mi data-mjx-auto-op=\"false\">Al</mi>\r\n  </mrow>\r\n  <mo>+</mo>\r\n  <mn>3</mn>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">O</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n  <mo stretchy=\"false\">&#8594;</mo>\r\n  <mn>2</mn>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi data-mjx-auto-op=\"false\">Al</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>2</mn>\r\n    </mrow>\r\n  </msub>\r\n  <msub>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mi mathvariant=\"normal\">O</mi>\r\n    </mrow>\r\n    <mrow data-mjx-texclass=\"ORD\">\r\n      <mn>3</mn>\r\n    </mrow>\r\n  </msub>\r\n</math> (reactie 1)&nbsp;</p><p>&nbsp;</p><p>Op de uitwerkbijlage is het energiediagram van reactie 1 onvolledig weergegeven. In dit energiediagram ontbreekt het niveau van het reactieproduct.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2024_I_uitwerkbijla_916210a9bf90.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e9af4239fcba4df48d214bc570b194dd.pdf"
+    }
+  ]
+}

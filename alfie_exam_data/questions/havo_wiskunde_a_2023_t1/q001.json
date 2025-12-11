@@ -1,0 +1,56 @@
+{
+  "id": "havo_wiskunde_a_2023_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_a",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 51,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 174,
+          "name": "Rekenen",
+          "prefix_code": 1
+        },
+        {
+          "id": 175,
+          "name": "Algebra",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken hoeveel procent hoger. Geef je antwoord in hele procenten.</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De uitgaven aan huisartsenzorg voor één persoon per jaar kan je volgens een eenvoudig model berekenen met de volgende formule:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>U</mi> <mo>=</mo> <mn>60</mn> <mo>+</mo> <mn>10</mn> <mo>&#8901;</mo> <mi>A</mi></math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(formule 1)<br>Hierin is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>U</mi>&#160;</math>het bedrag in euro dat voor één persoon per jaar aan huisartsenzorg wordt uitgegeven en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi>&#160;</math>het aantal huisartsconsulten van die persoon per jaar.</p><p>In 2018 was het gemiddelde aantal huisartsconsulten per persoon gelijk aan 4,5 .</p><p>Stel dat in 2020 het gemiddelde aantal huisartsconsulten per persoon <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>hoger was dan in 2018. Volgens formule 1 zouden in 2020 de gemiddelde uitgaven aan huisartsenzorg dan ook hoger zijn geweest dan in 2018.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "havo_wiskunde_a_formules.pdf",
+      "media_path": "media/bijlages/havo_wiskunde_a_formules_4d920bc20d74.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7821571e97b2424c93d593bf5c1c1549.pdf"
+    },
+    {
+      "name": "Wiskunde A 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_A_2023_I_uitwerkbijla_f478d7116e2f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/005ba0b28db44fed93da1d9c9f1c636a.pdf"
+    }
+  ]
+}

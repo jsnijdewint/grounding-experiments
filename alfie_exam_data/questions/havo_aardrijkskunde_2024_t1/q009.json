@@ -1,0 +1,51 @@
+{
+  "id": "havo_aardrijkskunde_2024_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "aardrijkskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 46,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 94,
+          "name": "Samenhangen en verschillen op aarde",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik de bronnen 5 en 6 en het kaartenkatern. In bron 5 staan de klimaatgrafieken van de plaatsen Havana, Kralendijk, Managua en Mexico-Stad.<br><br>Noteer de namen van deze plaatsen onder elkaar op je antwoordblad. Schrijf achter elke plaats de letter van de juiste klimaatgrafiek.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 5 tot en met 8.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_bijlage_e5aee28a8749.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/852747fcf4004fde8244fbb76d88396b.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2024 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_kaartenk_be0f755c05aa.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b1aad8ed2f3d416c8a64def58f7e8c12.pdf"
+    }
+  ]
+}

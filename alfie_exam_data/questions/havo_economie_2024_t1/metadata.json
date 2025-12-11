@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 102,
+    "education_level": "havo",
+    "discipline": "economie",
+    "year": 2024,
+    "tijdvak": 1
+  },
+  "question_count": 30
+}

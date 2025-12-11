@@ -1,0 +1,61 @@
+{
+  "id": "havo_nederlands_2022_t1_q32",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welke omschrijving verwoordt het best op welke consequentie in alinea 6 wordt gedoeld?</p><p>Er wordt gedoeld op de consequentie dat vrouwen</p><p><strong>A</strong> pas als volwaardig burger worden gezien als ze een militaire dienstplicht hebben vervuld.</p><p><strong>B </strong>via de militaire dienstplicht het politieke draagvlak voor investeringen in Defensie moeten vergroten.</p><p><strong>C </strong>wel gelijke plichten maar geen gelijke rechten krijgen als ze een militaire dienstplicht moeten vervullen.</p><p><strong>D </strong>worden uitgesloten van politieke zeggenschap als ze geen militaire dienstplicht hebben vervuld.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De eerste alinea van een tekst kan verschillende onderdelen bevatten, zoals:</p><p>1 de aanleiding voor het schrijven van de tekst;</p><p>2 een anekdote om de belangstelling te wekken;</p><p>3 een constatering die in de tekst uitgewerkt wordt;</p><p>4 een overzicht van historische ontwikkelingen;</p><p>5 het standpunt dat in de tekst centraal staat.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In alinea 5 wordt geconcludeerd dat een reactivering van de dienstplicht in tijden van conflict waarschijnlijk meer kost dan zij oplevert.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het bevorderen van de gelijkwaardigheid tussen mannen en vrouwen zou een reden zijn om de dienstplicht voor vrouwen in te voeren. In alinea 6 wordt gesuggereerd dat er voor het invoeren van de dienstplicht voor vrouwen eigenlijk een andere reden is.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>“De manier waarop deze keuze echter wordt gerechtvaardigd – alsof het een bijdrage levert aan de emancipatie van vrouwen – is niet alleen onjuist, maar ook enigszins gevaarlijk.” (regels 142-147) In alinea 6 wordt verondersteld dat het invoeren van een algemene militaire dienstplicht een enigszins gevaarlijke consequentie zou kunnen hebben.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2022_I_bijlage_92799e4db006.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a400249c9526410d9001698a4ae56d34.pdf"
+    }
+  ]
+}

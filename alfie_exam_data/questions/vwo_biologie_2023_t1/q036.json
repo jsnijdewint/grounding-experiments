@@ -1,0 +1,74 @@
+{
+  "id": "vwo_biologie_2023_t1_q36",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 40,
+          "name": "Regulatie van ecosystemen",
+          "prefix_code": 1
+        },
+        {
+          "id": 41,
+          "name": "Zelforganisatie van ecosystemen",
+          "prefix_code": 2
+        },
+        {
+          "id": 42,
+          "name": "Interactie in ecosystemen",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit aan de hand van afbeelding 2 hoe in Nederland een verhoogd fosfaatgehalte van het oppervlaktewater kan ontstaan.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Onderzoekers van de Universiteit Twente hebben in samenwerking met andere wetenschappers de wereldwijde kringloop van het element fosfor in kaart gebracht. Ze ontdekten dat de hoeveelheid fosfor die in het oppervlaktewater terechtkomt op veel plaatsen te hoog is.<br><br>Het element fosfor (P) komt vrij bij verwering van gesteente en wordt gewonnen in fosfaatmijnen. Fosfor kan in de vorm van fosfaat door planten worden opgenomen. Een deel van de fosforverbindingen die in het water terechtkomen, slaat neer en kan op de lange termijn weer onderdeel worden van gesteente. In afbeelding 1 is de fosforkringloop vereenvoudigd weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_459747f9cf79.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/435817362b0a4b0687e48c7880a6d9f6.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Fosfor is onderdeel van verschillende organische stoffen die deel uitmaken van de lichtreactie en de donkerreactie in chloroplasten.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In afbeelding 2 is een grote mondiale stroom van fosfor weergegeven. Voor de productie van kunstmest wordt gebruikgemaakt van fosfaaterts uit China. Deze kunstmest wordt onder andere gebruikt op sojaplantages in Brazilië. Een groot deel van de soja die daar geproduceerd wordt, komt in Nederland terecht als varkensvoer. Varkensvlees uit Nederland wordt geëxporteerd naar China.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_c3a094d025b7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2b7eb1019a9640e891141065f5501525.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

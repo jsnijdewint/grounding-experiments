@@ -1,0 +1,63 @@
+{
+  "id": "vwo_wiskunde_b_2022_t1_q15",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 46,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bewijs dat <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>het midden is van lijnstuk <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi> <mi>R</mi>&#160;</math>.</p>",
+    "max_score": 8,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De functie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>is gegeven door <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mi>x</mi> <mo>+</mo> <mfrac><mn>2</mn> <mi>x</mi>&#160;</mfrac></math><br>De grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>heeft een verticale asymptoot met vergelijking <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi> <mo>=</mo> <mn>0</mn>&#160;</math>en een scheve asymptoot.<br>In onderstaande figuur is voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi> <mo>&#62;</mo> <mn>0</mn>&#160;</math>de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>weergegeven. De scheve asymptoot is gestippeld weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_57cc664a6b93.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4854ed27bf78459eab3e2cec671fa018.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Op de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>ligt een willekeurig punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi> <mrow data-mjx-texclass=\"INNER\"><mo data-mjx-texclass=\"OPEN\">(</mo> <mi>p</mi> <mo>,</mo> <mi>p</mi> <mo>+</mo> <mfrac><mn>2</mn> <mi>p</mi> </mfrac><mo data-mjx-texclass=\"CLOSE\">)</mo>&#160;</mrow></math>.<br>De raaklijn aan de grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>snijdt de verticale asymptoot in punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi>&#160;</math>en de scheve asymptoot in punt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi>&#160;</math>. Zie de figuur.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vwo_wiskunde_b_formules.pdf",
+      "media_path": "media/bijlages/vwo_wiskunde_b_formules_b48138dc5a3a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/525c78f394194c0a8345801ed3a1dab3.pdf"
+    },
+    {
+      "name": "Wiskunde B 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2022_I_uitwerkbijla_173a70b352ac.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/259b9a55e6ef41678c4a9891840ff9c0.pdf"
+    }
+  ]
+}

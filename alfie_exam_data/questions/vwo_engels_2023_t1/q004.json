@@ -1,0 +1,40 @@
+{
+  "id": "vwo_engels_2023_t1_q04",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "engels",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 1,
+      "domains": [
+        {
+          "id": 24,
+          "name": "Leesvaardigheid",
+          "prefix_code": "A"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Drie van de onderstaande zinnen (2, b, c‚ d, e, of f) zijn uit de tekst<br>weggelaten (zie 4-1, 4-2, 4-3)<br>Geef bij elke plaats aan welke zin daar hoort</p><p>Noteer de [etter van de zin achter elk nummer op het antwoordblad<br>Let op: er blijven drie zinnen over.</p><p>A Many disagree about whether or not cutting down on meat and dairy<br>products is better for the environment<br>B No risk of subsidizing industries you disapprove of.<br>C Questioning someone's beliefs can be tricky<br>D Sticking rigidly to your principles leads to an increase in business<br>E That's a rationale for letting it slide<br>F You can contribute by making a case for your views and getting others<br>to join your cause<br>&nbsp;</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "Engels 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Engels_2023_I_bijlage_cf636fb4a0f0.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b2bab76591f14404a5919f1dfcf63408.pdf"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "vwo_frans_2025_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "frans",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 18,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Que peut-on déduire du texte?<br>A Comme les enfants de nos jours ont du mal à se concentrer, les écrans l'emportent sur la littérature jeunesse.<br>B Contrairement à ce que l'on pourrait croire il y a une trentaine d'années, aujourd'hui les enfants lisent toujours.<br>C Grâce aux livres de J.K. Rowling, les prédictions sur les enfants et la lecture se sont réalisées.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "frans bijlage 2025.pdf",
+      "media_path": "media/bijlages/frans_bijlage_2025_6d51bbb83a9e.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/eed8ec0ce9264b4987cb65e409f4d7b8.pdf"
+    }
+  ]
+}

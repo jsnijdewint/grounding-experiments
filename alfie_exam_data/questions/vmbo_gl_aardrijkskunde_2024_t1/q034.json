@@ -1,0 +1,43 @@
+{
+  "id": "vmbo_gl_aardrijkskunde_2024_t1_q34",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "aardrijkskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 71,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bekijk bron 30 .<br>Naar aanleiding van bron 30 worden drie uitspraken gedaan.<br>Uitspraak 1: het aandeel van de bevolking uit buurlanden is sinds 1971 in Nederland toegenomen.<br>Uitspraak 2: het aandeel van de bevolking uit alle voormalige koloniën bij elkaar, is sinds 1971 afgenomen.<br>Uitspraak 3: het aandeel mensen met een Marokkaanse migratie-achtergrond is sinds 1971 vooral toegenomen door gezinshereniging en gezinsvorming.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Neem de cijfers 1, 2 en 3 van de uitspraken over op het antwoordblad en zet erachter of de uitspraak juist of onjuist is.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "image",
+      "media_path": "media/in-exam/img_6727c2d95040.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9a055843eb2f4fb5838e8a6a327c2ba5.png",
+      "caption": ""
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_af463938e58d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6777026740c144ab8716379de0f0c365.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

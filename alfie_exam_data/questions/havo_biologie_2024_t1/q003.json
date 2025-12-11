@@ -1,0 +1,67 @@
+{
+  "id": "havo_biologie_2024_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        },
+        {
+          "id": 115,
+          "name": "Vorm-functie denken",
+          "prefix_code": 11
+        },
+        {
+          "id": 116,
+          "name": "Ecologisch denken",
+          "prefix_code": 12
+        },
+        {
+          "id": 117,
+          "name": "Evolutionair denken",
+          "prefix_code": 13
+        },
+        {
+          "id": 118,
+          "name": "Systeemdenken",
+          "prefix_code": 14
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Als er minder bloed naar de organen stroomt, ontstaat eerder vermoeidheid door een gebrek aan energie.<br><br>Leg uit waardoor energiegebrek ontstaat als er minder bloed naar de organen stroomt.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In Nederland worden jaarlijks ongeveer vijfduizend hartkleppen vervangen door kunsthartkleppen. Bij kinderen met een kunsthartklep, moet de klep meerdere keren worden vervangen, omdat een kunsthartklep niet meegroeit. Biomedisch ingenieur Carlijn Bouten werkt aan een oplossing voor dit probleem.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_e32485da52dc.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/0ac7e522bdaa4abda69dbc8c7078ca8a.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

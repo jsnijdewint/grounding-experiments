@@ -1,0 +1,66 @@
+{
+  "id": "vwo_geschiedenis_2022_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 196,
+          "name": "Gebeurtenissen",
+          "prefix_code": 12
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Maak de juiste combinaties van bronfragment en gebeurtenis door achter elke letter van het bronfragment het cijfer van de gebeurtenis die erbij past te noteren. Noteer alleen letters en cijfers.</p><p><i>Let op: er blijft één gebeurtenis over.</i></p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In het verdrag van Nanjing, dat Groot-Brittannië en China in 1842 sloten, stond: \"Het is noodzakelijk en wenselijk dat Britse onderdanen een haven hebben waar zij naar behoefte hun schepen kunnen onderhouden als dat nodig is. Zijne Majesteit de keizer van China zal daarvoor het eiland Hongkong afstaan aan Hare Majesteit de Koningin van Groot-Brittannië.\" Een bewering: Het Verdrag van Nanjing was een gevolg van de politieke situatie in China en van het toenemende Britse imperialisme.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 6.</i></p><p>De standpunten van Mina Kruseman worden door feministen in de tweede helft van de negentiende eeuw deels bekritiseerd en deels nagestreefd.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Mina Kruseman (zie vraag 14) had een relatie met Frits Hoffman en kreeg met hem twee kinderen, zonder met hem in het huwelijk te treden. Ze verdiende haar inkomen door het houden van toespraken en voordrachten.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De volgende zes gebeurtenissen uit de geschiedenis van China staan in willekeurige volgorde:</p><p>1 De Bokseropstand brak uit.</p><p>2 De modernisering van landbouw en industrie naar het voorbeeld van de Sovjet-Unie ging van start.&nbsp;</p><p>3 De Vier Moderniseringen werden ingevoerd.</p><p>4 De Volksrepubliek kreeg een eigen vertegenwoordiging in de Verenigde Naties.</p><p>5 De 4 Meibeweging ontstond.</p><p>6 Op en rond het plein van de Hemelse Vrede eisten demonstranten liberaliseringen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p><i>Gebruik bron 7 en de gebeurtenissen van vraag 16.</i></p><p>De vijf fragmenten van bron 7 horen bij gebeurtenissen van vraag 16.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2022_I_bijlage_a36412ab6c17.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ffb233ca393f4e5495872a5032cf7133.pdf"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "vwo_spaans_2025_t1_q30",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "spaans",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 19,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Lees alinea 2.<br>Welke tegenstelling benoemt de schrijver over textielafval in Spanje?<br>Vul de volgende zin aan:<br>Aan de ene kant is Spanje een van de Europese landen met het meeste textielafval, aan de andere kant ... .</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [],
+  "bijlages": [
+    {
+      "name": "vw-1005-a-25-1-b.pdf",
+      "media_path": "media/bijlages/vw-1005-a-25-1-b_9179e3584a31.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/91d4d7d08fc340209edfd5208c543de0.pdf"
+    }
+  ]
+}

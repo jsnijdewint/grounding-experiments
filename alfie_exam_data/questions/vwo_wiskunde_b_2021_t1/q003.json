@@ -1,0 +1,80 @@
+{
+  "id": "vwo_wiskunde_b_2021_t1_q03",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "wiskunde_b",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 3,
+      "domains": [
+        {
+          "id": 46,
+          "name": "Functies, grafieken en vergelijkingen",
+          "prefix_code": "B"
+        },
+        {
+          "id": 47,
+          "name": "Differentiaal- en integraalrekening",
+          "prefix_code": "C"
+        },
+        {
+          "id": 48,
+          "name": "Goniometrische functies",
+          "prefix_code": "D"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de oppervlakte van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi>&#160;</math>met behulp van primitiveren. Geef je eindantwoord in één decimaal.</p>",
+    "max_score": 5,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De functies <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi>&#160;</math>worden voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn> <mo>&#8804;</mo> <mi>x</mi> <mo>&#8804;</mo> <mn>2</mn> <mi>&#960;</mi>&#160;</math>gegeven door:</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable rowspacing=\"4pt\"><mtr><mtd><mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mn>2</mn> <mi>sin</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>&#8722;</mo> <mi>sin</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mn>2</mn> <mi>x</mi> <mo stretchy=\"false\">)</mo> </mtd></mtr><mtr><mtd><mi>g</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mi>sin</mi> <mo data-mjx-texclass=\"NONE\">&#8289;</mo> <mo stretchy=\"false\">(</mo> <mn>2</mn> <mi>x</mi> <mo stretchy=\"false\">)</mo>&#160;</mtd></mtr></mtable></math></p><p>De grafieken van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi>&#160;</math>hebben vijf gemeenschappelijke punten. Drie van deze punten liggen op de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-as. De andere twee punten zijn <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>Q</mi>&#160;</math>. Zie figuur 1 .</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_4273362e2965.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/bf9751878ba64c719bff423900e337a2.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>De grafiek van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>g</mi>&#160;</math>wordt 1 omhoog geschoven. Zo ontstaat de grafiek van de functie <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi>&#160;</math>. Zie figuur 2 . <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>V</mi>&#160;</math>is het gebied dat wordt ingesloten door de grafieken van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi>&#160;</math>. In figuur 2 is dit gebied grijs gemaakt.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_1e17f7f8d2e7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9e047ba037ce475695fe1fcccf954db5.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De grafieken van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>h</mi>&#160;</math>snijden elkaar in twee punten. De <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>-coördinaten van deze twee punten zijn afgerond 1,33 en 2,97.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "formule_blad.pdf",
+      "media_path": "media/bijlages/formule_blad_3a0824c1577f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c4b8e721c4c94202abb8ace2ac024907.pdf"
+    }
+  ]
+}

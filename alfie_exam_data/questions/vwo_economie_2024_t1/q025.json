@@ -1,0 +1,87 @@
+{
+  "id": "vwo_economie_2024_t1_q25",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 20,
+          "name": "Samenwerken en onderhandelen",
+          "prefix_code": "F"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit of Syrap toetreedt met een kartelprijs of een lagere prijs (getallen hoeven niet expliciet benoemd te worden).</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een econoom maakt een analyse van de ontwikkeling van de vismarkt in een regio door de eeuwen heen. De vismarkt in de middeleeuwen (zie figuur 1) wordt gekenmerkt door veel kleine aanbieders. De individuele consumenten kijken vanwege armoede enkel naar de prijs.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_0ce35865be66.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/c32af5916f974cd5bb3c10ddccea13b4.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Alle individuele vissers hebben de volgende kostenfunctie:<br><br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable rowspacing=\"4pt\"><mtr><mtd><mtext>TK </mtext><mo>=</mo> <mn>0</mn> <mo>,</mo> <mn>005</mn> <msup><mi>q</mi> <mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msup><mo>+</mo> <mn>0</mn> <mo>,</mo> <mn>25</mn> <mi>q</mi> <mo>+</mo> <mn>153</mn> <mo>,</mo> <mn>12</mn> </mtd></mtr><mtr><mtd><mtext>TK = totale kosten in koperstukken </mtext></mtd></mtr><mtr><mtd><mi>q</mi> <mo>=</mo> <mtext>het aantal vissen&#160;</mtext></mtd></mtr></mtable></math></p><p>De econoom gaat er in het model vanuit dat elke individuele visser streeft naar maximale winst.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In de late middeleeuwen worden de consumenten welvarender en kopen ze meer vis. De econoom beweert:<br><br>i. Door de toegenomen welvaart verandert de prijselasticiteit van de vraag naar vis.<br>ii. Door de toegenomen welvaart ontstaat een markt van monopolistische concurrentie.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>In de twintigste eeuw vinden er grote technologische ontwikkelingen plaats waardoor schepen sneller meer vis binnenhalen. Door deze schaalvoordelen ontstaat een oligopolistische markt. Visserijen Dirdam en Nednol domineren de markt in de regio. Beide visserijen kunnen hun prijzen verlagen of handhaven (zie matrix 1).</p>"
+    },
+    {
+      "order": 5,
+      "type": "image",
+      "media_path": "media/in-exam/img_3e4d9c56b9cd.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7bab8904a6f94880b61cfd9243f1a06e.png",
+      "caption": ""
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Na enkele jaren vormen Dirdam en Nednol een kartel. Syrap kan toetreden tot de vismarkt met een lagere prijs of de kartelprijs. De econoom presenteert spelboom 1 met daarin de keuzes.</p>"
+    },
+    {
+      "order": 7,
+      "type": "image",
+      "media_path": "media/in-exam/img_66033d06d028.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/432f2ebe09fe4e9e994b2be493820609.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Economie 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Economie_2024_I_uitwerkbijlage_1a973a084ece.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4c41604ce9b148bcac3ea440f8fd9796.pdf"
+    }
+  ]
+}

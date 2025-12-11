@@ -1,0 +1,51 @@
+{
+  "id": "havo_nederlands_2022_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg die negatieve ontwikkeling en de oorzaak ervan uit voor ‘fantaseren’ in tekst 1.</p><p>Geef antwoord in een of meer volledige zinnen en gebruik voor je antwoord niet meer dan 40 woorden.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Zowel in alinea 5 van tekst 1 als in alinea 8 van tekst 2 valt de term ‘proeftuin’. Tussen beide soorten proeftuinen is zowel een overeenkomst als een verschil te ontdekken.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In zowel tekst 1 als tekst 2 wordt een negatieve ontwikkeling geschetst met betrekking tot het onderwerp.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2022_I_bijlage_92799e4db006.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a400249c9526410d9001698a4ae56d34.pdf"
+    }
+  ]
+}

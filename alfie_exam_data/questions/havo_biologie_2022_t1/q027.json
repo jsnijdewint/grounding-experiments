@@ -1,0 +1,72 @@
+{
+  "id": "havo_biologie_2022_t1_q27",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 122,
+          "name": "Zelforganisatie van cellen",
+          "prefix_code": 3
+        },
+        {
+          "id": 123,
+          "name": "Erfelijke eigenschap",
+          "prefix_code": 7
+        },
+        {
+          "id": 124,
+          "name": "Selectie",
+          "prefix_code": 8
+        },
+        {
+          "id": 130,
+          "name": "Soortvorming",
+          "prefix_code": 4
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Schrijf de nummers 1, 2 en 3 onder elkaar en noteer erachter of de betreffende uitspraak <strong>juist </strong>of <strong>onjuist </strong>is.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Tijdens Adrianna's uitwisselingsjaar in Minnesota (VS) doet zij op haar highschool genetica-experimenten met GloFish®</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De GloFish® zijn zebravissen (<i>Danio rerio</i>, afbeelding 1) die transgeen zijn gemaakt doordat aan een bevruchte eicel een of meer genen voor een fluorescerend eiwit zijn toegevoegd. Deze genen zijn afkomstig uit kwallen of zeeanemonen die van nature fluorescerend eiwit maken. Zo'n gen van een ander organisme, een transgen, wordt dan op een willekeurige plaats in het genoom van de zebravis ingebouwd. Er zijn inmiddels GloFish® in de fluorkleuren groen, rood, geel, blauw en oranje.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_9e8a84652257.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/abab631f9d264ce9b91157057b4f8a60.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De transgenen komen alleen tot expressie in de spiercellen van de zebravis en niet in andere celtypen. Daardoor zijn de fluorescerende eiwitten alleen in de spiercellen aanwezig. De makers van de GloFish® hadden er met een iets andere aanpak voor kunnen kiezen om de fluorescerende eiwitten in de huidcellen te laten aanmaken. Toch hebben ze dat niet gedaan, omdat dit de fluorescentie zou verminderen. Leerlingen in Adrianna's klas doen hierover de volgende uitspraken:<br>1 Doordat huidcellen andere aminozuren bevatten, zou de fluorescentie minder sterk zijn.<br>2 Doordat huidcellen zich vaker delen dan spiercellen zou de eigenschap fluorescentie verloren gaan.<br>3 Doordat huidweefsel van de zebravis minder dik is dan spierweefsel zou de fluorescentie in de huid minder sterk zijn.</p>"
+    }
+  ],
+  "bijlages": []
+}

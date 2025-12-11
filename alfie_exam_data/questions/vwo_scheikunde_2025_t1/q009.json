@@ -1,0 +1,62 @@
+{
+  "id": "vwo_scheikunde_2025_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit of de reactie naar rechts van reactie 2 endotherm of exotherm is in het temperatuurgebied waar <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi> <mo>&#62;</mo> <mn>6</mn>&#160;</math>.<br>Gebruik gegevens uit de figuur en reactie 2.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Zwavel is een belangrijke grondstof voor onder andere de productie van zwavelzuur. Vroeger werd zwavel gedolven uit sulfaat-ertsen, maar tegenwoordig wordt vrijwel alle zwavel geproduceerd uit <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">S</mi>&#160;</mrow></math>, een product dat vrijkomt bij de verwerking van aardolie.<br>De omzetting van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">S</mi>&#160;</mrow></math> tot zwavel vindt plaats via het claus-proces. In het claus-proces verlopen twee reacties.</p><p><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtable rowspacing=\"4pt\"><mtr><mtd><mn>2</mn> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">S</mi> </mrow><mo stretchy=\"false\">(</mo> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">g</mi> </mrow><mo stretchy=\"false\">)</mo> <mo>+</mo> <mn>3</mn> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mo stretchy=\"false\">(</mo> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">g</mi> </mrow><mo stretchy=\"false\">)</mo> <mo stretchy=\"false\">&#8594;</mo> <mn>2</mn> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">SO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mo stretchy=\"false\">(</mo> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">g</mi> </mrow><mo stretchy=\"false\">)</mo> <mo>+</mo> <mn>2</mn> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mo stretchy=\"false\">(</mo> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">g</mi> </mrow><mo stretchy=\"false\">)</mo> </mtd></mtr><mtr><mtd><mn>2</mn> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">S</mi> </mrow><mo stretchy=\"false\">(</mo> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">g</mi> </mrow><mo stretchy=\"false\">)</mo> <mo>+</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi data-mjx-auto-op=\"false\">SO</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mo stretchy=\"false\">(</mo> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">g</mi> </mrow><mo stretchy=\"false\">)</mo> <mo stretchy=\"false\" data-mjx-alternate=\"1\">&#8652;</mo> <mfrac><mn>3</mn> <mi>x</mi> </mfrac><msub><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">S</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mi>x</mi> </mrow></msub><mo stretchy=\"false\">(</mo> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">g</mi> </mrow><mo stretchy=\"false\">)</mo> <mo>+</mo> <mn>2</mn> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mo stretchy=\"false\">(</mo> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">g</mi> </mrow><mo stretchy=\"false\">)</mo>&#160;</mtd></mtr></mtable></math></p><p>De waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>is hierin alleen afhankelijk van de temperatuur. Op de uitwerkbijlage bij vraag 11 is een deel van een claus-installatie weergegeven. In reactor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo stretchy=\"false\">(</mo> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">R</mi> </mrow><mn>1</mn> <mo stretchy=\"false\">)</mo>&#160;</math> wordt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">S</mi>&#160;</mrow></math> onvolledig omgezet volgens reactie 1. In R1 verloopt ook al deels reactie 2.<br>Om het <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">S</mi>&#160;</mrow></math> verder om te zetten tot <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">S</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mi>x</mi>&#160;</mrow></msub></math> volgens reactie 2 is een volgende reactor (R2) nodig. In R2 verloopt alleen reactie 2. Door het gebruik van een katalysator in R2 kan het evenwicht van reactie 2 zich snel instellen. Om in het totale proces uiteindelijk een hoge omzettingsgraad van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">S</mi>&#160;</mrow></math> naar zwavel te verkrijgen, wordt de zuurstoftoevoer in R1 zodanig geregeld dat de molverhouding <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">S</mi> </mrow><mo>:</mo> <msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math> bij de invoer in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">R</mi> </mrow><mn>12</mn> <mo>:</mo> <mn>1</mn>&#160;</math> is.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Reactie 2 blijkt een bijzondere reactie te zijn. Omdat de waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math>afhangt van de temperatuur, heeft de reactiewarmte van reactie 2 geen constante waarde. Dit wordt veroorzaakt doordat de vormingswarmtes van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">S</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math> en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">S</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>8</mn>&#160;</mrow></msub></math> niet gelijk zijn. De vormingswarmte van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">S</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>8</mn>&#160;</mrow></msub></math> is gelijkgesteld aan nul . De vormingswarmte van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">S</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn>&#160;</mrow></msub></math>is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo> <mn>1</mn> <mo>,</mo> <mn>28</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>5</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">J</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">mol</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math>.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Het verband tussen de omzettingsgraad en de temperatuur in R2 van een claus-installatie is onderzocht bij temperaturen boven <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>100</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8728;</mo> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi>&#160;</mrow></math>.<br>In de figuur zijn de resultaten van de metingen weergegeven. De omzettingsgraad is in deze opgave gedefinieerd als het percentage <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">S</mi>&#160;</mrow></math>dat wordt omgezet tot <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">S</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mi>x</mi>&#160;</mrow></msub></math>. Behalve de omzettingsgraad is in de figuur ook de gemiddelde waarde van <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi>&#160;</math> in <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">S</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mi>x</mi>&#160;</mrow></msub></math> weergegeven.</p>"
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "media_path": "media/in-exam/img_a9e8e4153579.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/cb57f436f0224c38a74bf6e8db9bb6fa.png",
+      "caption": ""
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Uit de figuur kan worden afgeleid of de reactie naar rechts van reactie 2 endotherm of exotherm is in het temperatuurgebied waar <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi> <mo>&#62;</mo> <mn>6</mn>&#160;</math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "vw-1028-a-25-1-u.pdf",
+      "media_path": "media/bijlages/vw-1028-a-25-1-u_992021c79286.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6a02d28c7f0e4c32b051d527b5d553bb.pdf"
+    }
+  ]
+}

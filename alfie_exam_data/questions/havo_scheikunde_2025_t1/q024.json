@@ -1,0 +1,105 @@
+{
+  "id": "havo_scheikunde_2025_t1_q24",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "scheikunde",
+      "year": 2025,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 35,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef de structuurformule van stof <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>X</mi>&#160;</math>.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Het polymeer polyethyleentereftalaat (PET), waarvan PET-flessen worden gemaakt, is slecht afbreekbaar en wordt vaak op vuilnisbelten gestort. Japanse onderzoekers hebben in 2016 in slib van een vuilnisbelt een soort bacterie aangetroffen die PET kan afbreken. Deze bacterie bleek het enzym PET-ase te produceren, dat de afbraak van PET mogelijk maakt. Dit enzym kan de oplossing zijn voor onze berg PET-afval die steeds groter wordt. In figuur 1 is de eerste stap van deze afbraakreactie weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_6664aea270f7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/8c0792c4615f4c37be47e0b6f9a890d1.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Wanneer PET-ase aan een molecuul PET gebonden is, vindt de afbraakreactie plaats. PET-ase kan een molecuul PET doormidden 'knippen' bij de karakteristieke groep die in figuur 1 is aangeduid met de cijfers 1,2 en 3.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Om de structuur van het enzym PET-ase te achterhalen, gebruikten onderzoekers een tussenproduct van de afbraak van PET: de stof BHET. De structuurformule van BHET is in figuur 2 weergegeven.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_6070ef5be666.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/192b9c7cb25d461090d57a820b4e60ea.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Uit onderzoek blijkt dat drie aminozuur-eenheden van het enzym PET-ase een belangrijke rol spelen bij de afbraak van BHET door PET-ase. Dit zijn serine, histidine en asparaginezuur. De restgroepen van deze aminozuur-eenheden zijn door middel van waterstofbruggen met elkaar of met het molecuul BHET verbonden.</p><p>Op de uitwerkbijlage zijn deze aminozuur-eenheden, een molecuul BHET en hun onderlinge bindingen (deels vereenvoudigd en onvolledig) weergegeven. Van de aminozuur-eenheid Ser ontbreekt de restgroep. Er is één waterstofbrug weergegeven, tussen de OH-groep van Asp en een N -atoom van His. In dit geval gaat het N -atoom namelijk een waterstofbrug aan.</p>"
+    },
+    {
+      "order": 6,
+      "type": "image",
+      "media_path": "media/in-exam/img_124a72428de6.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/1d5d2a0841054a65802df7d4fed00372.png",
+      "caption": ""
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Bij de binding van een molecuul BHET aan PET-ase zijn ook de aminozuur-eenheden Met, Trp, Ala en Ile van belang. Hierbij zijn de hydrofobe restgroepen van deze aminozuur-eenheden betrokken.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Om het pH-optimum van PET-ase te onderzoeken, mengden de onderzoekers PET-folie en PET-ase met telkens een andere oplossing met een pH-waarde tussen 6,00 en 10,00. Bij elk experiment werd na 18 uur de concentratie van vrijgekomen afbraakproducten gemeten. Figuur 3 toont de resultaten van dit onderzoek.</p>"
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_799d814d719d.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/7bce096262864848ac57eb89675c74ec.png",
+      "caption": ""
+    },
+    {
+      "order": 10,
+      "type": "text",
+      "text": "<p>Het belangrijkste afbraakproduct van PET is de stof MHET. MHET wordt vervolgens door een ander enzym, MHET-ase, met water omgezet tot de stof TPA en nog één andere stof, stof X. TPA en stof X zijn grondstoffen voor nieuw PET. In figuur 4 zijn de structuurformules van MHET en TPA weergegeven.</p>"
+    },
+    {
+      "order": 11,
+      "type": "image",
+      "media_path": "media/in-exam/img_bd1b0042acc7.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d42bd7f16b25424991ded1b15b734f4f.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "ha-1028-a-25-1-u.pdf",
+      "media_path": "media/bijlages/ha-1028-a-25-1-u_c2bab5b58221.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f3aee0d3e8b747e2b4f1a424e9bd0f04.pdf"
+    }
+  ]
+}

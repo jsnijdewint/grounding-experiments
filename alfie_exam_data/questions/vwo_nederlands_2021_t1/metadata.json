@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 38,
+    "education_level": "vwo",
+    "discipline": "nederlands",
+    "year": 2021,
+    "tijdvak": 1
+  },
+  "question_count": 40
+}

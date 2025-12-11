@@ -1,0 +1,46 @@
+{
+  "id": "vwo_nederlands_2023_t1_q09",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "nederlands",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 11,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 55,
+          "name": "Samenvatten",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noem per argument uit alinea 1 een tegenargument uit alinea 2 tot en met 7. Geef geen voorbeelden. Neem de nummers van de argumenten over op je antwoordblad en vul het gevraagde aan. Geef antwoord in een of meer volledige zinnen.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>“We kunnen eigenlijk niet anders dan concluderen dat we met al onze reizen de wereld om zeep helpen.” (regels 14-17) In alinea 1 wordt dit standpunt met de volgende drie argumenten onderbouwd:</p><p>1 CO2 compenseren kan niet.</p><p>2 Het reizen met vliegtuigen veroorzaakt grote schade.</p><p>3 Er is geen noemenswaardig alternatief.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2023_I_bijlage_3bc847d5f78a.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/d2f0029264294831adce4d30ca84cbc0.pdf"
+    }
+  ]
+}

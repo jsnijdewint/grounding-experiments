@@ -1,0 +1,81 @@
+{
+  "id": "havo_nederlands_2021_t1_q11",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "nederlands",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 38,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 138,
+          "name": "Analyseren en interpreteren",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Met welke omschrijvingen is de toon in de alinea’s 7 en 8 het best te typeren?</p><p><strong>A</strong> betweterig en minachtend</p><p><strong>B</strong> spottend en overdrijvend</p><p><strong>C</strong> verwijtend en vol onbegri</p><p><strong>D </strong>waarschuwend en nieuwsgierig</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>“Strikt genomen hadden ze een punt” (regels 4-5)</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Na de inleiding is tekst 1 onder te verdelen in drie delen. Deze achtereenvolgende delen kunnen van de volgende kopjes worden voorzien:</p><p>deel 1: De onmogelijkheid van een consequent wereldbeeld</p><p>deel 2: Het dilemma van consequentie in de politie</p><p>deel 3: De inconsequente mens als ideaal?</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>“Maar goed, als je consequent bent, kun je het daar niet bij laten.” (regels 20-21)</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>In de titel van tekst 1, ‘Leve de vleesetende vegetariër – Wantrouw de rechtlijnigen’ duidt het woord ‘rechtlijnigen’ een kenmerk aan van een bepaalde groep mensen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Uit alinea 3 blijkt een oordeel over het al dan niet consequente gedrag van de vegetariër en dat van de niet-vegetariër.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Aan alinea 4 kunnen twee functies worden toegekend: een ten opzichte van de voorafgaande alinea’s en een ten opzichte van de erop volgende alinea’s.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Alinea 5 is te lezen als een zelfstandige redenering. Elke zin binnen deze redenering heeft een eigen functie. Twee van die functies zijn in onderstaand schema al gegeven.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>“Zo kent ook de maatschappij losse eindjes en restcategorieën” (regels 113-114) Een kritisch lezer kan in een tekst verschillende drogredenen herkennen, zoals:</p><p>1 cirkelredenering</p><p>2 onjuist beroep op een oorzaak-gevolgschema</p><p>3 overdrijven van voor- of nadelen</p><p>4 overhaaste generalisatie</p><p>5 persoonlijke aanval</p><p>6 verkeerde vergelijking</p><p>7 vertekenen van het standpunt</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Nederlands 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Nederlands_2021_I_bijlage_e60e6a5a7984.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/dbb0cc971e994b9eb7113dc9995dc0c6.pdf"
+    }
+  ]
+}

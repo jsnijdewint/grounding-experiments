@@ -1,0 +1,57 @@
+{
+  "id": "vwo_scheikunde_2024_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Voer de volgende opdrachten uit:&nbsp;</p><p>- Geef de totaalvergelijking van de vorming van DME uit &nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msub><mi>o</mi><mn>2</mn></msub></math> en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>H</mi><mn>2</mn></msub></math>&nbsp;</p><p>- Bereken de reactiewarmte van deze vorming van DME per mol DME</p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De stof methoxymethaan (DME, zie de figuur) staat in de belangstelling als brandstof. DME kan namelijk worden gemaakt op basis van uitsluitend koolstofdioxide en waterstof. In een onderzoek is een voorstel voor een productieproces onderzocht. Dit proces is opgebouwd uit twee opeenvolgende reacties, die hieronder zijn weergegeven</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_23cfd48f43ad.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/41c9f0c6f09248c58b6d85855356e2f1.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\r\n  <mtable columnalign=\"left left\" columnspacing=\"1em\" rowspacing=\"4pt\">\r\n    <mtr>\r\n      <mtd>\r\n        <msub>\r\n          <mrow data-mjx-texclass=\"ORD\">\r\n            <mi data-mjx-auto-op=\"false\">CO</mi>\r\n          </mrow>\r\n          <mrow data-mjx-texclass=\"ORD\">\r\n            <mn>2</mn>\r\n          </mrow>\r\n        </msub>\r\n        <mo stretchy=\"false\">(</mo>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mtext> </mtext>\r\n          <mi mathvariant=\"normal\">g</mi>\r\n        </mrow>\r\n        <mo stretchy=\"false\">)</mo>\r\n        <mo>+</mo>\r\n        <mn>3</mn>\r\n        <msub>\r\n          <mrow data-mjx-texclass=\"ORD\">\r\n            <mi mathvariant=\"normal\">H</mi>\r\n          </mrow>\r\n          <mrow data-mjx-texclass=\"ORD\">\r\n            <mn>2</mn>\r\n          </mrow>\r\n        </msub>\r\n        <mo stretchy=\"false\">(</mo>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mtext> </mtext>\r\n          <mi mathvariant=\"normal\">g</mi>\r\n        </mrow>\r\n        <mo stretchy=\"false\">)</mo>\r\n        <mo data-mjx-alternate=\"1\" stretchy=\"false\">&#8652;</mo>\r\n        <msub>\r\n          <mrow data-mjx-texclass=\"ORD\">\r\n            <mi data-mjx-auto-op=\"false\">CH</mi>\r\n          </mrow>\r\n          <mrow data-mjx-texclass=\"ORD\">\r\n            <mn>3</mn>\r\n          </mrow>\r\n        </msub>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mi data-mjx-auto-op=\"false\">OH</mi>\r\n        </mrow>\r\n        <mo stretchy=\"false\">(</mo>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mi mathvariant=\"normal\">g</mi>\r\n        </mrow>\r\n        <mo stretchy=\"false\">)</mo>\r\n        <mo>+</mo>\r\n        <msub>\r\n          <mrow data-mjx-texclass=\"ORD\">\r\n            <mi mathvariant=\"normal\">H</mi>\r\n          </mrow>\r\n          <mrow data-mjx-texclass=\"ORD\">\r\n            <mn>2</mn>\r\n          </mrow>\r\n        </msub>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mi mathvariant=\"normal\">O</mi>\r\n        </mrow>\r\n        <mo stretchy=\"false\">(</mo>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mi mathvariant=\"normal\">g</mi>\r\n        </mrow>\r\n        <mo stretchy=\"false\">)</mo>\r\n      </mtd>\r\n      <mtd>\r\n        <mtext> (reactie 1) </mtext>\r\n      </mtd>\r\n    </mtr>\r\n    <mtr>\r\n      <mtd>\r\n        <mn>2</mn>\r\n        <msub>\r\n          <mrow data-mjx-texclass=\"ORD\">\r\n            <mi data-mjx-auto-op=\"false\">CH</mi>\r\n          </mrow>\r\n          <mrow data-mjx-texclass=\"ORD\">\r\n            <mn>3</mn>\r\n          </mrow>\r\n        </msub>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mi data-mjx-auto-op=\"false\">OH</mi>\r\n        </mrow>\r\n        <mo stretchy=\"false\">(</mo>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mi mathvariant=\"normal\">g</mi>\r\n        </mrow>\r\n        <mo stretchy=\"false\">)</mo>\r\n        <mo data-mjx-alternate=\"1\" stretchy=\"false\">&#8652;</mo>\r\n        <msub>\r\n          <mrow data-mjx-texclass=\"ORD\">\r\n            <mi data-mjx-auto-op=\"false\">CH</mi>\r\n          </mrow>\r\n          <mrow data-mjx-texclass=\"ORD\">\r\n            <mn>3</mn>\r\n          </mrow>\r\n        </msub>\r\n        <mo>&#8722;</mo>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mi mathvariant=\"normal\">O</mi>\r\n        </mrow>\r\n        <mo>&#8722;</mo>\r\n        <msub>\r\n          <mrow data-mjx-texclass=\"ORD\">\r\n            <mi data-mjx-auto-op=\"false\">CH</mi>\r\n          </mrow>\r\n          <mrow data-mjx-texclass=\"ORD\">\r\n            <mn>3</mn>\r\n          </mrow>\r\n        </msub>\r\n        <mo stretchy=\"false\">(</mo>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mtext> </mtext>\r\n          <mi mathvariant=\"normal\">g</mi>\r\n        </mrow>\r\n        <mo stretchy=\"false\">)</mo>\r\n        <mo>+</mo>\r\n        <msub>\r\n          <mrow data-mjx-texclass=\"ORD\">\r\n            <mi mathvariant=\"normal\">H</mi>\r\n          </mrow>\r\n          <mrow data-mjx-texclass=\"ORD\">\r\n            <mn>2</mn>\r\n          </mrow>\r\n        </msub>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mi mathvariant=\"normal\">O</mi>\r\n        </mrow>\r\n        <mo stretchy=\"false\">(</mo>\r\n        <mrow data-mjx-texclass=\"ORD\">\r\n          <mi mathvariant=\"normal\">g</mi>\r\n        </mrow>\r\n        <mo stretchy=\"false\">)</mo>\r\n      </mtd>\r\n      <mtd>\r\n        <mtext> (reactie 2) </mtext>\r\n      </mtd>\r\n    </mtr>\r\n  </mtable>\r\n</math></p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De vormingswarmte van DME bedraagt <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&#8722;</mo> <mn>1</mn> <mo>,</mo> <mn>84</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mn>5</mn> </mrow></msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">J</mi> </mrow><msup><mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi data-mjx-auto-op=\"false\">mol</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>1</mn>&#160;</mrow></msup></math></p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2024 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2024_I_uitwerkbijla_afd0d648d809.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a48af7b1aec24f97bcb1032e6d3b2773.pdf"
+    }
+  ]
+}

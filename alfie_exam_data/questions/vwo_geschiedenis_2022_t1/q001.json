@@ -1,0 +1,46 @@
+{
+  "id": "vwo_geschiedenis_2022_t1_q01",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [
+        {
+          "id": 243,
+          "name": "Door de tijd heen",
+          "prefix_code": "1"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zet deze vorstinnen in de juiste chronologische volgorde, van vroeger naar later. Noteer alleen de nummers.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De volgende vorstinnen staan in willekeurige volgorde:</p><p>1 De Berberse koningin Dihya streed in Numidië tegen de islamitische legers die kort na de dood van de profeet Mohammed hun religie in Noord-Afrika wilden verspreiden.</p><p>2 De Keltische koningin Boudica voerde Britse stammen aan in een opstand tegen de Romeinen.</p><p>3 Farao Hatsjepsoet breidde het internationale handelsnetwerk van Egypte uit om de aanvoer van grondstoffen naar de vroeg-stedelijke gemeenschap Thebe te garanderen.</p><p>4 Hertogin Johanna van Brabant moest toezeggingen doen aan de burgers in haar hertogdom, waardoor Brabantse steden meer zelfstandigheid kregen.</p><p>5 Keizerin Meisho van Japan liet bij haar paleis een tuin aanleggen met grasvelden en grachten, onder invloed van de Hollandse stijl van tuinaanleg die kort tevoren via de VOC in haar land bekend was geworden.&nbsp;</p><p>6 Samen met haar echtgenoot, de Spaanse koning Philips II, vervolgde de Engelse koningin Maria Tudor de protestanten in Engeland.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2022 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2022_I_bijlage_a36412ab6c17.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ffb233ca393f4e5495872a5032cf7133.pdf"
+    }
+  ]
+}

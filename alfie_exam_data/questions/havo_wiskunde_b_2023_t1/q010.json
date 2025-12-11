@@ -1,0 +1,53 @@
+{
+  "id": "havo_wiskunde_b_2023_t1_q10",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "wiskunde_b",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 30,
+      "domains": [
+        {
+          "id": 103,
+          "name": "Meetkundige berekeningen",
+          "prefix_code": "C"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>C</mi>&#160;</math>. Geef je eindantwoord in twee decimalen.</p>",
+    "max_score": 6,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Gegeven zijn de driehoeken <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi> <mi>C</mi>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi> <mi>C</mi> <mi>Q</mi>&#160;</math>met <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi> <mi>B</mi> <mo>=</mo> <mn>10</mn> <mo>,</mo> <mi>B</mi> <mi>C</mi> <mo>=</mo> <mn>12</mn>&#160;</math>, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi> <mi>Q</mi> <mo>=</mo> <mi>C</mi> <mi>Q</mi> <mo>=</mo> <mn>7</mn>&#160;</math>en <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#8736;</mi> <mi>B</mi> <mi>A</mi> <mi>C</mi> <mo>=</mo> <mi>&#945;</mi>&#160;</math>. Bovendien is gegeven <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">&#8736;</mi> <mi>B</mi> <mi>Q</mi> <mi>C</mi> <mo>=</mo> <mn>2</mn> <mi>&#945;</mi>&#160;</math>.</p><p>Zie de figuur.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_cef4e098d6db.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2d2ef5440bf746d38eeecf2d9fac86b1.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Wiskunde B 2023 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Wiskunde_B_2023_I_uitwerkbijla_9ba57d6520e4.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/9679abc20da6403596a9f0f1d8e1d3b8.pdf"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "vwo_economie_2023_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "economie",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 4,
+      "domains": [
+        {
+          "id": 20,
+          "name": "Samenwerken en onderhandelen",
+          "prefix_code": "F"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Leg uit dat Schoon te maken heeft met een berovingsprobleem.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Milieueconomen pleiten voor een circulaire economie. Bij een circulaire economie wordt afval zoveel mogelijk vermeden en het afval dat nog ontstaat, wordt hergebruikt. Een onderzoeksbureau analyseert de mogelijkheden om de economie meer circulair te maken (zie figuur 1). Het onderzoeksbureau neemt aan dat recycling minder milieuvervuilend is dan productie met niet-hernieuwbare grondstoffen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_4a3830e0f534.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b646bc2bd1f44a9a9aaab6b83c772aa4.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Milieueconomen stellen: een circulaire economie kan in de toekomst het groen bbp verhogen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Het onderzoeksbureau merkt op: “Bij uitputting van niet-hernieuwbare grondstoffen zal marktwerking leiden tot andere prijzen, waardoor stroom A zal toenemen.”</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Het onderzoeksbureau stelt dat de overheid een circulaire economie kan bevorderen door prijsprikkels. Een voorbeeld is statiegeld op plastic flesjes. De consument krijgt het statiegeld uitsluitend terug bij inlevering van het flesje.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Het onderzoeksbureau bekijkt een casus van twee bedrijven. Bedrijf ‘Cirkel’ heeft een productieproces waarbij afval vrijkomt, maar heeft tot nu toe niet zelf geïnvesteerd in het scheiden van het afval. Nu levert het bedrijf het afval aan bedrijf ‘Schoon’, die het afval kan scheiden. Daarvoor moet bedrijf Schoon wel investeren in een nieuwe verwerkingsinstallatie, die specifiek wordt gemaakt om het afval van Cirkel te verwerken.&nbsp;<br><br>Relevante gegevens van bedrijf Schoon:&nbsp;<br>− Opbrengst: € 6 per kilogram verwerkt afval.&nbsp;<br>− Variabele kosten: € 2 per kilogram verwerkt afval + de inkoopkosten van afval per kilogram (van Cirkel).&nbsp;<br>− Vaste (constante) kosten: € 180.000 per jaar, waarvan driekwart als verzonken kosten kunnen worden aangemerkt.&nbsp;<br>− Er wordt 100.000 kilogram afval per jaar verwerkt.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Schoon wil anticiperen op mogelijke concurrenten en besluit na een mondeling overleg met Cirkel de verwerkingsinstallatie aan te schaffen. Bij de definitieve contractonderhandelingen eist Cirkel een hogere prijs dan Schoon bereid is te betalen.</p>"
+    }
+  ],
+  "bijlages": []
+}

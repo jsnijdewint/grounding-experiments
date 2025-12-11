@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 109,
+    "education_level": "vwo",
+    "discipline": "wiskunde_b",
+    "year": 2021,
+    "tijdvak": 1
+  },
+  "question_count": 14
+}

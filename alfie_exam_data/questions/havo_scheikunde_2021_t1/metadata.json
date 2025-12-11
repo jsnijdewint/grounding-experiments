@@ -1,0 +1,10 @@
+{
+  "exam": {
+    "id": 119,
+    "education_level": "havo",
+    "discipline": "scheikunde",
+    "year": 2021,
+    "tijdvak": 1
+  },
+  "question_count": 37
+}

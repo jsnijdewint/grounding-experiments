@@ -1,0 +1,76 @@
+{
+  "id": "havo_geschiedenis_2024_t1_q23",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "geschiedenis",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 29,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 201,
+          "name": "Tijdvak 8 – Burgers en stoommachines",
+          "prefix_code": 8
+        },
+        {
+          "id": 203,
+          "name": "Tijdvak 10 – Televisie en computer",
+          "prefix_code": 10
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Gebruik bron 11.&nbsp;<br>Deze prent gaat over de verzorgingsstaat in de jaren 1980.<br><br>Geef aan:&nbsp;<br> welke visie Collignon weergeeft over de verzorgingsstaat, waarbij je je antwoord ondersteunt met een verwijzing naar de prent, en&nbsp;<br> zonder bron welk beleid de regeringen onder Lubbers voeren met betrekking tot de verzorgingsstaat.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>In 1832 werden honderden slaafgemaakten gedood tijdens het neerslaan van een slavenopstand op Jamaica. De Britse militair bevelhebber schreef in een affiche: \"Ik heb veel soldaten meegenomen om de schuldigen te straffen. Iedereen die bij de rebellen wordt aangetroffen zal zonder pardon ter dood worden gebracht. Verzet tegen de troepen van de koning is zinloos! Geef je over en smeek om genade.\"</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In India verscheen vanaf de jaren 1890 wekelijks het tijdschrift Mirror of British Merchandise and Hindustani Pictorial News in het Urdu (een veel gesproken taal in India). In het tijdschrift werden onder andere artikelen gepubliceerd:&nbsp;</p><p>1 over invloedrijke Indiërs, met fotorapportages van hun reizen en activiteiten, vaak in Groot-Brittannië.&nbsp;</p><p>2 over de productie en het gebruik van onder andere katoen en bedrukte stoffen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Gebruik bron 7.&nbsp;<br>Twee gegevens:&nbsp;<br>1 Het is onduidelijk wie de opdracht heeft gegeven voor dit schilderij.&nbsp;<br>2 Er is aan het einde van de negentiende eeuw onder Indonesiërs veel belangstelling voor het verhaal van Surapati.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Twee gegevens over de Duitse sociaaldemocratische politicus Kuttner:&nbsp;<br>1 In 1921 citeerde Kuttner een bericht van de Duitse generaalveldmaarschalk Von Hindenburg uit 1918: \"Onder deze omstandigheden is het absoluut noodzakelijk om de strijd af te breken om het Duitse volk en hun bondgenoten nutteloze slachtoffers te besparen. Elke gemiste dag kost het leven van duizenden dappere soldaten.\"&nbsp;<br>2 In 1933 moest Kuttner Duitsland ontvluchten.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De volgende gegevens over stakingen in Nederland staan in willekeurige volgorde:&nbsp;<br>1 Arbeiders die vonden dat hun lonen door de geleide loonpolitiek te laag waren, legden hun werk stil.&nbsp;<br>2 De aanleg van het Noordhollandsch Kanaal, dat al snel te smal was vanwege de introductie van stoomschepen, liep vertraging op omdat de slecht betaalde arbeiders staakten.&nbsp;<br>3 De Nederlandse regering in Londen riep op tot een grote spoorwegstaking om de opmars van de geallieerde troepen richting Duitsland te ondersteunen.&nbsp;<br>4 Kort voor de oliecrisis brak bij Hoogovens in IJmuiden een staking uit onder arbeiders die loonsverhoging wilden.&nbsp;<br>5 Minister-president Lubbers noemde de staking waarmee docenten protesteerden tegen overvolle klassen \"overbodig en schadelijk\".&nbsp;<br>6 Nadat textielbedrijf Gerh. Jannink &amp; Zonen een loonsverlaging van 5% doorvoerde omdat zijn concurrentiepositie tijdens de crisis van het wereldkapitalisme verslechterde, legden de arbeiders het werk neer.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Gebruik bron 10 nog een keer. Van Meekeren, de maker van de reportage, wil dat de Nederlandse regering haar beleid ten aanzien van de selectie van gastarbeiders verandert. Je twijfelt hierdoor aan de betrouwbaarheid van de reportage voor een onderzoek naar de werving van gastarbeiders in 1969.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2024_I_bijlage_ca421fa87c76.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/e819c55e9496484aac48d85b1c4cc890.pdf"
+    }
+  ]
+}

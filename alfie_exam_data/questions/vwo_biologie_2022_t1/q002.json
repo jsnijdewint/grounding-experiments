@@ -1,0 +1,76 @@
+{
+  "id": "vwo_biologie_2022_t1_q02",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 5,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 36,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 37,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 38,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Welk hormoon kan dit zijn? En zou de afgifte van dit hormoon dan worden gestimuleerd of geremd door aristolochiazuur?</p><figure class=\"table\"><table><tbody><tr><td style=\"border-color:!important;border-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-style:solid !important;border-bottom-width:1px !important;border-right-color:!important;border-right-style:none;border-top-style:solid !important;border-top-width:1px !important;width:auto;\">hormoon</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">de afgifte wordt</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">&nbsp;</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">TSH <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo>&#160;</math>SSH <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">)</mo></math></td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">gestimuleerd</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">B</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">TSH (SSH)</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">geremd</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">C</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">renine</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">gestimuleerd</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">D</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">renine</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">geremd</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">E</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">ADH</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">gestimuleerd</td></tr><tr><td style=\"border-color:!important;border-style:none;width:auto;\">F</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-right-color:!important;border-right-style:none;border-top-color:!important;border-top-style:none;width:auto;\">ADH</td><td style=\"border-bottom-color:!important;border-bottom-style:none;border-top-color:!important;border-top-style:none;width:auto;\">geremd</td></tr></tbody></table></figure>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><i>Tenzij anders vermeld, is er sprake van normale situaties en gezonde organismen.</i></p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>In tegenstelling tot wat veel mensen denken, zijn natuurgeneesmiddelen niet altijd veilig. Zo kunnen sommige Chinese kruidenpreparaten met Aristolochia ernstige nierschade veroorzaken.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Ruim honderd Belgische vrouwen die in de jaren 90 een bepaald afslankmiddel op basis van kruiden hadden gebruikt, ontwikkelden ernstig nierfalen. De oorzaak was aristolochiazuur, afkomstig van de Aristolochiaplant die in het middel verwerkt was. Bij sommige vrouwen was de nierschade zo groot dat een niertransplantatie nodig was. Bij anderen werden jaren later tumoren in de urinewegen aangetroffen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De toepassing van Aristolochia in afslankmiddelen berust op de diuretische (vochtafdrijvende) werking van aristolochiazuur.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>Het werkingsmechanisme van aristolochiazuur is nog niet helemaal bekend. Aanvankelijk werd aangenomen dat het vochtafdrijvend werkt door de afgifte van een bepaald hypofysehormoon te beïnvloeden.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Biologie 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Biologie_2022_I_uitwerkbijlage_78c37bbf4d16.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/214a33aa9bdb4fb98f309ba6558eee12.pdf"
+    }
+  ]
+}

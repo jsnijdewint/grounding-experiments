@@ -1,0 +1,72 @@
+{
+  "id": "havo_biologie_2022_t1_q14",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Noteer via welk type vaten dit transport van aminozuren plaatsvindt.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Aan de universiteit van Cádiz in Spanje onderzoekt Nils Bertol hoe de Portugese zonnedauw insecten aantrekt.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>De Portugese zonnedauw (Drosophyllum Iusitanicum, afbeelding 1) is een vleesetende plant die vóórkomt op droge bodems in het noorden van Marokko en het zuiden van Spanje en Portugal. De plant is voor zijn stikstofverbindingen afhankelijk van insecten. De insecten worden gevangen door de plakkerige uitscheidingsproducten van de klieren die zich op de lange bladeren bevinden. Andere klieren in het blad scheiden enzymen uit waardoor de insecten worden verteerd.</p>"
+    },
+    {
+      "order": 2,
+      "type": "image",
+      "media_path": "media/in-exam/img_c6f5c82218cb.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/2b95eaf597474d3798567ea03b499675.png",
+      "caption": ""
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>De bladcellen nemen het bij vertering ontstane ammonium op en gebruiken dit als bouwstof voor aminozuren. Deze aminozuren worden vervolgens via de vaatbundels getransporteerd naar andere delen van de plant.</p>"
+    }
+  ],
+  "bijlages": []
+}

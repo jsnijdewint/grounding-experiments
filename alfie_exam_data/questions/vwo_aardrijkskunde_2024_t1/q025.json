@@ -1,0 +1,66 @@
+{
+  "id": "vwo_aardrijkskunde_2024_t1_q25",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "aardrijkskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 21,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 4,
+          "name": "Afbakening en gebiedskenmerken",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef aan in welk jaar in bron 15 nog meer sprake was van een El Niño.</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 13 tot en met 15.&nbsp;<br><br>Gebruik bron 13 en het kaartenkatern.&nbsp;<br>Hieronder staan drie uitspraken over de Altiplano.&nbsp;<br>Uitspraak 1: de Altiplano is geologisch jonger dan het Hoogland van Guyana.&nbsp;<br>Uitspraak 2: de Altiplano is een voorlandbekken.&nbsp;<br>Uitspraak 3: de verwering van gesteenten op de Altiplano vindt vooral plaats door chemische verwering.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik bron 13 en het kaartenkatern.&nbsp;<br>Dat het Poopómeer eerder opdroogde dan het Titicacameer komt niet door klimatologische verschillen tussen de gebieden waarin deze meren liggen.</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Gebruik bron 14.&nbsp;<br><br>Het Poopómeer is niet alleen opgedroogd door natuurlijke oorzaken. Ook menselijk handelen heeft daaraan bijgedragen.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Gebruik de bronnen 13 en 15 en het kaartenkatern. Het normale weerpatroon in Zuid-Amerika wordt periodiek verstoord door El Niño. In het najaar van 2015 was het effect van El Niño zo groot dat het Poopómeer definitief opdroogde.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_bijlage_5d21ee139256.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b59abf07fb0546d7b053e9a0b057d44d.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2024 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_kaartenk_7cdee1f1797d.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a91a8df27bf04e42855ea2418d56e940.pdf"
+    }
+  ]
+}

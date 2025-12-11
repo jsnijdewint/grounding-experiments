@@ -1,0 +1,91 @@
+{
+  "id": "vwo_scheikunde_2022_t1_q17",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "scheikunde",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 8,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Bereken de pH waarbij <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>90</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>van alle niacine-deeltjes voorkomt als zuurrest-ion. <strong>Geef de uitkomst in het juiste aantal significante cijfers.</strong></p>",
+    "max_score": 4,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Niacine (vitamine B3) is een vitamine die van belang is voor het functioneren van een groot deel van de enzymsystemen in het lichaam. Er bestaan productieprocessen om niacine uit goedkope fossiele grondstoffen te produceren. In de eerste stap van zo'n proces wordt picoline gevormd. In de tweede stap wordt picoline omgezet tot niacine. De structuurformules van picoline en niacine zijn in figuur 1 weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_1773282f315c.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/abd729b8ba63462da2d877712d1e6be7.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>In de eerste stap wordt picoline gemaakt uit propanal, prop-2-enal en ammoniak. Prop-2-enal is een aldehyde met molecuulformule <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">C</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn> </mrow></msub><msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">H</mi> </mrow><mrow data-mjx-texclass=\"ORD\"><mn>4</mn> </mrow></msub><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">O</mi>&#160;</mrow></math>. In deze reactie worden behalve picoline ook water en nog één andere stof gevormd.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Niacine kan ook worden gemaakt op basis van de stof quinolinezuur waarbij wordt gebruikgemaakt van micro-organismen.<br>Om de productie van quinolinezuur in het micro-organisme zo hoog mogelijk te maken, hebben onderzoekers genetisch gemodificeerde micro-organismen gekweekt. Als gevolg van de modificatie scheiden deze micro-organismen meer quinolinezuur uit. In figuur 2 is deze biosynthese schematisch weergegeven. Binnen de cel zijn drie enzymen ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">P</mi> </mrow><mo>,</mo> <mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">Q</mi>&#160;</mrow></math>en R ) betrokken bij de vorming van quinolinezuur.</p>"
+    },
+    {
+      "order": 4,
+      "type": "image",
+      "media_path": "media/in-exam/img_af402b855722.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5a7f58d649c246c893a6ef060108869b.png",
+      "caption": ""
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Stof Y wordt door enzym Q omgezet tot quinolinezuur. Stof Y reageert echter ook snel en zonder hulp van enzymen tot allerlei nevenproducten. De snelheid van iedere enzymatische omzetting in dit proces wordt bepaald door de concentratie van het betrokken enzym.<br>In de genetisch gemodificeerde micro-organismen waren de concentraties van de enzymen P, Q en R afwijkend.<br>Hierbij waren er twee doelstellingen:<br>1 zo min mogelijk andere stoffen dan quinolinezuur produceren;<br>2 zo veel mogelijk quinolinezuur per tijdseenheid produceren.</p><p><br>Bij een presentatie van het onderzoek gebruikten de onderzoekers een tabel waaruit blijkt hoe de concentratie van elk enzym moest veranderen om beide doelstellingen te realiseren. Op de uitwerkbijlage is deze tabel onvolledig weergegeven.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>Alle stoffen in figuur 2 reageren in de molverhouding 1:1. In figuur 2 is ook aangegeven dat een deel van het gevormde quinolinezuur de cel verlaat. Bij een van de proeven werd zo een oplossing met daarin 5,5 g quinolinezuur verkregen. Het quinolinezuur werd vervolgens door de onderzoekers omgezet tot niacine. Hierbij werd <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn> <mo>,</mo> <mn>8</mn> <mrow data-mjx-texclass=\"ORD\"><mtext></mtext><mi mathvariant=\"normal\">g</mi>&#160;</mrow></math>niacine gevormd.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>Halverwege de twintigste eeuw is ontdekt dat niacine ook kan worden toegepast als geneesmiddel. Uit onderzoek naar de werking van niacine bleek dat het zuurrest-ion van niacine aan een receptoreiwit bindt. Niacine is een zwak zuur. In water treedt het evenwicht uit figuur 3 op.</p>"
+    },
+    {
+      "order": 8,
+      "type": "image",
+      "media_path": "media/in-exam/img_b8edb54c6dcf.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/038d94816719452b8ed814e6cf354898.png",
+      "caption": ""
+    },
+    {
+      "order": 9,
+      "type": "text",
+      "text": "<p>De pH in de vloeistof rondom het receptoreiwit is zodanig, dat <strong>meer </strong>dan <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>90</mn> <mi mathvariant=\"normal\">%</mi>&#160;</math>van alle niacine-deeltjes voorkomt als zuurrest-ion. De waarde van de <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>K</mi> <mrow data-mjx-texclass=\"ORD\"><mi>z</mi>&#160;</mrow></msub></math>van niacine bij de heersende omstandigheden is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn> <mo>,</mo> <mn>3</mn> <mo>&#8901;</mo> <msup><mn>10</mn> <mrow data-mjx-texclass=\"ORD\"><mo>&#8722;</mo> <mn>5</mn>&#160;</mrow></msup></math>.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Scheikunde 2022 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Scheikunde_2022_I_uitwerkbijla_da6165cccfb5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/974fdb9ad1284f7b8d5e91874b964a37.pdf"
+    }
+  ]
+}

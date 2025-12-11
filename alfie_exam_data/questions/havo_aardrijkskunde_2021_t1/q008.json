@@ -1,0 +1,56 @@
+{
+  "id": "havo_aardrijkskunde_2021_t1_q08",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "aardrijkskunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 46,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 93,
+          "name": "Samenhangen en verschillen in de wereld",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>In Afrika is de laatste decennia veel bos gekapt. Geef drie redenen waarom in Afrika de laatste decennia veel bos gekapt is.</p><ul><li>één reden vanuit de economische dimensie;</li><li>één reden vanuit de politieke dimensie;</li><li>één reden vanuit de sociaal-culturele dimensie.</li></ul>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Bij deze opgave horen de bronnen 4 en 5.<br>Gebruik uit het kaartenkatern de kaart over landschapszones. Op deze kaart staan de zes landschapszones weergegeven.</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p>Gebruik de bronnen 4 en 5.<br>Op de kaart in bron 5 is een centrum-periferiepatroon zichtbaar. Deze kaart kan echter niet gebruikt worden om de ruimtelijke afwenteling van de centrumlanden op de perifere landen aan te tonen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2021 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2021_I_bijlage_d5e1d542d89f.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b4b0ddd9af6c4d90b654414dbae13452.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2021 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2021_I_kaartenk_37a583c0ab38.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/05dc921c5df2400c8791a209fb43776b.pdf"
+    }
+  ]
+}

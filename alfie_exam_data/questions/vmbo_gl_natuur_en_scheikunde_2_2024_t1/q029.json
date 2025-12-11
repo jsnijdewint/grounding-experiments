@@ -1,0 +1,46 @@
+{
+  "id": "vmbo_gl_natuur_en_scheikunde_2_2024_t1_q29",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "natuur_en_scheikunde_2",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 53,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Een andere parfum bevat maar 20 volumeprocent geurstoffen. Hoeveel mL van deze parfum kan worden gemaakt uit 40.000 bloemblaadjes?</p><p><strong>A </strong>minder dan 50 mL<br><strong>B </strong>meer dan 50 mL maar minder dan 100 mL<br><strong>C </strong>meer dan 100 mL</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Parfum is een heldere vloeistof die geurstoffen en alcohol bevat. De geurstoffen kunnen worden verkregen uit bloemblaadjes door er stoom door te leiden. Hieronder is een vereenvoudigde opstelling voor dit proces afgebeeld.<br>De stoom trekt de geurstoffen uit de bloemblaadjes in de kolf. De stoom met geurstoffen wordt vervolgens door een koeler geleid. In de koeler vindt een faseovergang plaats. De opgevangen vloeistof vormt in het opvangvat twee lagen. De onderste laag bestaat voornamelijk uit water. De bovenste laag bevat de geurstoffen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_f57ec9d23b02.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/29048172b6494127a0476b5f910debf7.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Bij het maken van parfum wordt de vloeistoflaag die de geurstoffen bevat gemengd met alcohol. De geurstoffen blijven langer op de huid achter dan de alcohol. Er zijn 40.000 bloemblaadjes nodig om 50 mL parfum te maken die 25 volumeprocent geurstof bevat.</p>"
+    }
+  ],
+  "bijlages": []
+}

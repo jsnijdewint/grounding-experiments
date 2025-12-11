@@ -1,0 +1,104 @@
+{
+  "id": "havo_biologie_2022_t1_q05",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "biologie",
+      "year": 2022,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 32,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 121,
+          "name": "Stofwisseling van de cel",
+          "prefix_code": 2
+        },
+        {
+          "id": 125,
+          "name": "Stofwisseling van het organisme",
+          "prefix_code": 1
+        },
+        {
+          "id": 126,
+          "name": "Zelfregulatie van het organisme",
+          "prefix_code": 2
+        },
+        {
+          "id": 127,
+          "name": "Afweer van het organisme",
+          "prefix_code": 3
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Hebben de algen tijdens dit onderzoek een autotrofe levenswijze en/of een heterotrofe levenswijze?<br><strong>A</strong> geen van beide<br><strong>B </strong>alleen een autotrofe levenswijze<br><strong>C</strong> alleen een heterotrofe levenswijze<br><strong>D </strong>beide</p>",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Door de aanleg van oliepalmplantages in Zuidoost-Azië gaan vele hectaren oerwoud verloren. Mede daarom wordt palmolie door milieu-organisaties als niet-duurzaam bestempeld. Voor onderzoeker Lenny de Jaeger (afbeelding 1) was dit een reden om op zoek te gaan naar een manier om olie te produceren met behulp van algen.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_fd8178fcb28b.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/6f0a94e79dec4dca8754e080e8ce3c8a.png",
+      "caption": ""
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p>Palmolie wordt gewonnen uit de olierijke vruchten van de oliepalm en wordt gebruikt als ingrediënt van veel voedingsmiddelen en verzorgingsproducten, maar ook voor de productie van biodiesel. Olie geproduceerd door algen in kwekerijen in Nederland kan een duurzaam alternatief bieden voor palmolie.</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p>Boskap leidt tot het verkleinen van leefgebied voor planten en dieren. Dit is een argument om het gebruik van palmolie vanuit ecologisch oogpunt niet-duurzaam te noemen.</p>"
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "text": "<p>De Jaeger vond een veelbelovende kandidaat: de eencellige alg Scenedesmus obliquus. Deze alg maakt monosachariden met behulp van zonlicht en zet die onder bepaalde omstandigheden om in zetmeel, aminozuren of vetzuren. De vetzuren kunnen worden gebruikt als grondstof voor de productie van plantaardige olie.</p>"
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "text": "<p>Een van de risico's bij de kweek van algen is besmetting met virussen, eencellige schimmels of eencellige dieren.<br>Met een microscoop bekijkt De Jaeger een preparaat van een algenkweek en hij ziet dat de kweek is vervuild met een eencellig organisme.</p>"
+    },
+    {
+      "order": 6,
+      "type": "text",
+      "text": "<p>De Jaeger ontwikkelde met behulp van mutagene straling een mutant van S. obliquus die geen zetmeel maakt. Hierdoor heeft deze mutant een efficiëntere vetzuurproductie en een hoger vetzuurgehalte. Wellicht produceert deze mutant voldoende vetzuren om te concurreren met de oliepalm.<br>Het nadeel van deze alg is dat hij alleen in zoet water leeft. Voor grootschalige productie heeft een zoutwater-alg de voorkeur. Daarom deed De Jaeger vervolgonderzoek naar de alg Neochloris oleoabundans, die ook olie produceert en overleeft in zout water.</p>"
+    },
+    {
+      "order": 7,
+      "type": "text",
+      "text": "<p>De kweekvloeistof voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi>&#160;</math>. oleoabundans bevat meer zouten dan de kweekvloeistof voor S. obliquus.<br>Als de cellen van S. obliquus terechtkomen in de zoute kweekvloeistof voor <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi>&#160;</math>. oleoabundans treden veranderingen op.</p>"
+    },
+    {
+      "order": 8,
+      "type": "text",
+      "text": "<p>Hoewel <i>N. oleoabundans</i> tot het plantenrijk behoort, is het mogelijk om deze alg zonder licht in een bioreactor te kweken. Er wordt dan glucose en nitraat toegevoegd aan de kweekvloeistof. Op deze manier kunnen de algen efficiënter vetzuren produceren.<br>In een onderzoek werd <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi>&#160;</math>. oleoabundans gekweekt zonder licht. Elke dag werd van de populatie algen de populatiedichtheid en de biomassa bepaald. Van de kweekvloeistof werden de glucoseconcentratie en de nitraatconcentratie gemeten (afbeelding 2).</p>"
+    },
+    {
+      "order": 9,
+      "type": "image",
+      "media_path": "media/in-exam/img_275d48ecbb79.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/4357e11d1e214a288abac2d6bafb3236.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": []
+}

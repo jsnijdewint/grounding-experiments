@@ -1,0 +1,55 @@
+{
+  "id": "vmbo_gl_maatschappijkunde_2024_t1_q21",
+  "metadata": {
+    "exam": {
+      "education_level": "vmbo_gl",
+      "discipline": "maatschappijkunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 63,
+      "domains": [],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zie tekst 11.<br>Johan Bac vindt een werkstraf \"de ultieme vergelding\". Vergelding is een doel van straffen.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Leg uit wat er wordt bedoeld met vergelding als doel van straffen.<br><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">&#8594;</mo>&#160;</math>Noem nog een <strong>ander</strong> doel van straffen.<br>Doe het zo: neem het onderstaande over en vul het antwoord aan.<br>Met vergelding als doel van straffen wordt bedoeld...<br>Een ander doel van straffen is ...</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p><strong>tekst 8</strong><br><strong>Gezin bindt hond zonder water aan boom op hete parkeerplaats</strong></p><p><br>Een boa van Staatsbosbeheer was er woensdag net op tijd bij toen hij een vastgebonden hond ontdekte op de parkeerplaats van de Galderse Meren. Het dier was daar achtergelaten zonder water, terwijl zijn gezin tijdens de hitte een duik nam.</p><p>Naast dat ze er van de boa woordelijk flink van langs kregen, hebben ze een boete gekregen voor het achterlaten van een dier in de hitte.<br>&nbsp;</p><p>bron: <a href=\"http://ad.nl\">ad.nl</a> van 4 augustus 2022</p>"
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "<p><strong>tekst 9</strong><br><strong>81-jarige Volendamse veroordeeld</strong></p><p><br>De 81-jarige vrouw uit Volendam die het huis van haar buren in brand stak, is door de rechtbank veroordeeld voor poging tot moord. De rechtbank heeft in de veroordeling meegenomen dat de vrouw zich goed bewust was van wat ze deed. De vrouw zei tegen een voorbijganger: \"Ja, ik ben er helemaal klaar mee, ze maken de hele nacht drukte, ik steek het in de fik.\"<br>De rechtbank leidt hieruit af dat er een vooropgezet plan was van de vrouw om de buren om het leven te brengen door brand te stichten. Daarom vindt ze het bewezen dat er met voorbedachten raad is gehandeld, zodat er niet alleen sprake is van brandstichting maar ook van poging tot moord.<br>&nbsp;</p><p>bron: <a href=\"http://nhnieuws.nl\">nhnieuws.nl</a> van 17 januari 2022</p>"
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "<p><strong>tekst 10</strong><br><strong>Honderden Nederlandse geldezels opgepakt bij internationale politieactie</strong></p><p>Bij een internationale actie in 27 landen tegen geldezels zijn in totaal 1.803 personen opgepakt, onder wie enkele honderden Nederlanders, meldt de politie. Geldezels zijn mensen die hun bankrekening beschikbaar stellen voor fraude en dat is strafbaar.<br>Criminelen proberen door middel van geldezels zelf uit het zicht van politie en justitie te blijven, aldus de politie.</p><p>In Nederland is er een samenwerkingsverband van politie, Openbaar Ministerie, banken en International Card Services (ICS) dat geldezels bestrijdt.</p><p><br>bron: <a href=\"http://nu.nl\">nu.nl</a> van 2 december 2021</p>"
+    },
+    {
+      "order": 3,
+      "type": "text",
+      "text": "<p><strong>tekst 11</strong><br><strong>\"Een werkstraf is juist de ultieme vergelding\"</strong></p><p><br>Als het aan directeur Johan Bac ligt, krijgen straks nog meer veroordeelden een (langere) taakstraf opgelegd, in combinatie met een leerstraf.<br>Vuil prikken op straat, bomen ruimen in de bossen, graffiti verwijderen bij de sportclub of inpakken bij de voedselbank. Jaarlijks krijgen zo'n 30.000 mensen een taakstraf opgelegd. Zij hebben zich bijvoorbeeld schuldig gemaakt aan diefstal, mishandeling, fraude of drugshandel en moeten als straf onder begeleiding van de organisatie van Johan Bac onbetaald werken.<br>&nbsp;</p><p>bron: NRC van 14 juli 2022</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Maatschappijkunde 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Maatschappijkunde_2024_I_bijla_a1b1d5d80e01.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/f0feb1b884b0472caf7fb8b7012cc682.pdf"
+    }
+  ]
+}

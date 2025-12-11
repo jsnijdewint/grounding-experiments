@@ -1,0 +1,46 @@
+{
+  "id": "vwo_geschiedenis_2023_t1_q12",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "geschiedenis",
+      "year": 2023,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 2,
+      "domains": [
+        {
+          "id": 243,
+          "name": "Door de tijd heen",
+          "prefix_code": "1"
+        }
+      ],
+      "subdomains": [],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Zet deze gebeurtenissen in de juiste chronologische volgorde, van vroeger naar later. Noteer alleen de nummers.</p>",
+    "max_score": 2,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>De volgende gebeurtenissen, die te maken hebben met Nederlandse wegen, staan in willekeurige volgorde:<br>1 Bij de aanleg van een weg tussen Amersfoort en Utrecht werden aan weerszijden percelen aangewezen waarop regenten hun nieuwe buitenhuizen lieten aanleggen.<br>2 De pachters van tolwegen klaagden dat hun opbrengsten daalden na de aanleg van de eerste spoorlijnen.<br>3 In Gelderland ontstonden 'Hanzewegen', toen handelaren tussen verschillende Hanzesteden begonnen te reizen.<br>4 Keizer Napoleon Bonaparte besloot dat in Nederland een netwerk van verharde wegen moest worden aangelegd. De eerste 28 rijkswegen zouden naar Parijs worden doorgetrokken.<br>5 Nadat Atrecht een lokale marktfunctie kreeg, ontstond een steeds fijner netwerk van wegen tussen Atrecht en haar verzorgingsgebied.<br>6 Op de wegen rondom 's-Hertogenbosch werd tijdens de regering van koning Philips II alleen tol betaald door koopmannen die van buiten 's-Hertogenbosch kwamen.</p>"
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Geschiedenis 2023 I_bijlage.pdf",
+      "media_path": "media/bijlages/Geschiedenis_2023_I_bijlage_55374cf5cbf5.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/5244a635b97841b7b1e77f67a3c0f38a.pdf"
+    }
+  ]
+}

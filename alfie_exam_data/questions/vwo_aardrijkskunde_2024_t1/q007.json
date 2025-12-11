@@ -1,0 +1,61 @@
+{
+  "id": "vwo_aardrijkskunde_2024_t1_q07",
+  "metadata": {
+    "exam": {
+      "education_level": "vwo",
+      "discipline": "aardrijkskunde",
+      "year": 2024,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 21,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 2,
+          "name": "Samenhang en verscheidenheid in de wereld",
+          "prefix_code": 1
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "Geef aan dat politieke veranderingen in vestigingslanden invloed kunnen\r\nhebben op migratiestromen",
+    "max_score": 1,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "Gebruik bron 2\r\nHet initiatief om de verbinding tussen Noord-, Midden- en Zuid-Amerika te\r\nverbeteren is 100 jaar geleden door de Verenigde Staten genomen."
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "text": "Gebruik de bronnen 2 en 3."
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "text": "Gebruik de bronnen 2 tot en met 4.\r\nIn 2021 en 2022 werden veel meer migranten geregistreerd bij de\r\nDarién Gap dan in de jaren daarvoor."
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Aardrijkskunde 2024 I_bijlage.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_bijlage_5d21ee139256.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/b59abf07fb0546d7b053e9a0b057d44d.pdf"
+    },
+    {
+      "name": "Aardrijkskunde 2024 I_kaartenkatern.pdf",
+      "media_path": "media/bijlages/Aardrijkskunde_2024_I_kaartenk_7cdee1f1797d.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a91a8df27bf04e42855ea2418d56e940.pdf"
+    }
+  ]
+}

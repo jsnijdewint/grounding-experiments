@@ -1,0 +1,53 @@
+{
+  "id": "havo_natuurkunde_2021_t1_q13",
+  "metadata": {
+    "exam": {
+      "education_level": "havo",
+      "discipline": "natuurkunde",
+      "year": 2021,
+      "tijdvak": 1
+    },
+    "curriculum": {
+      "education_level_discipline_id": 47,
+      "domains": [],
+      "subdomains": [
+        {
+          "id": 132,
+          "name": "Medische beeldvorming",
+          "prefix_code": 2
+        }
+      ],
+      "sub_learning_objective_ids": []
+    }
+  },
+  "question": {
+    "text": "<p>Geef de vergelijking van de vervalreactie van tritium.</p>",
+    "max_score": 3,
+    "is_self_scored": false
+  },
+  "solution": {
+    "text": "",
+    "image": null
+  },
+  "content_context": [
+    {
+      "order": 0,
+      "type": "text",
+      "text": "<p>Een kitmarker is een permanente lichtbron die aan een sleutelbos gehangen kan worden. Zie figuur 1. Zo zijn sleutels in het donker terug te vinden. Een kitmarker heeft geen batterij. Het is een glazen buisje met daarin gasvormig H-3 (tritium). Tritium is een <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>&#946;</mi>&#160;</math>-straler.</p>"
+    },
+    {
+      "order": 1,
+      "type": "image",
+      "media_path": "media/in-exam/img_2c26e0d57db0.png",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/a7a920f308324ec3add56e9764f8e3d5.png",
+      "caption": ""
+    }
+  ],
+  "bijlages": [
+    {
+      "name": "Natuurkunde 2021 I_uitwerkbijlage.pdf",
+      "media_path": "media/bijlages/Natuurkunde_2021_I_uitwerkbijl_615e0715d0ed.pdf",
+      "azure_url": "https://bbprodpublicsa.blob.core.windows.net/public/ae05f1ce95cd4d549a2e6c6e34cdeacc.pdf"
+    }
+  ]
+}
