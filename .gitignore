@@ -41,5 +41,4 @@ yarn-error.log*
 next-env.d.ts
 
 # Large exam files (kaartenkaterns)
-alfie_exam_data/media/bijlages/Aardrijkskunde_2024_I_kaartenk_7cdee1f1797d.pdf
-alfie_exam_data/media/bijlages/Aardrijkskunde_2021_I_kaartenk_576987338d70.pdf
+alfie_exam_data/media/bijlages/*kaartenk*.pdf
