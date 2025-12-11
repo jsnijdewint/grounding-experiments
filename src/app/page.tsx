@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react"
 import ExercisePanel from "@/components/exercise-panel"
 import ExercisePreview from "@/components/exercise-preview"
+import PromptPreview from "@/components/prompt-preview"
 import GeneratedExamPanel from "@/components/generated-exam-panel"
 import GenerationDashboard from "@/components/generation-dashboard"
 import { getExerciseTree } from "@/app/actions"
@@ -14,7 +15,9 @@ export default function Home() {
   const [selectedExercises, setSelectedExercises] = useState<Set<string>>(new Set())
   const [selectedDomains, setSelectedDomains] = useState<Set<string>>(new Set())
   const [selectedSubdomains, setSelectedSubdomains] = useState<Set<string>>(new Set())
-  const [previewExercise, setPreviewExercise] = useState<Exercise | null>(null)
+
+  // Derived state for selected exercises
+  const selectedExerciseObjects = findExercisesByIds(treeData, selectedExercises)
 
   // Load data on mount
   useEffect(() => {
@@ -44,7 +47,7 @@ export default function Home() {
           onSelectionChange={setSelectedExercises}
           onDomainSelectionChange={setSelectedDomains}
           onSubdomainSelectionChange={setSelectedSubdomains}
-          onPreviewSelect={setPreviewExercise}
+          onPreviewSelect={() => { }} // No-op, we derive from selection now
         />
       </div>
 
@@ -52,24 +55,40 @@ export default function Home() {
       <div className="w-2/5 border-r border-border flex flex-col overflow-hidden bg-[#FFF9E9]">
         <div className="border-b border-border px-4 py-3 bg-[#377E34]">
           <h2 className="text-lg font-semibold text-[#FFF9E9]">
-            Geselecteerde Opgave{selectedExercises.size > 0 ? ` (${selectedExercises.size})` : ""}
+            Geselecteerde Opgaven{selectedExercises.size > 0 ? ` (${selectedExercises.size})` : ""}
           </h2>
         </div>
-        <div className="flex-1 overflow-hidden">
-          {previewExercise ? (
-            <ExercisePreview
-              exercise={previewExercise}
-              selectedDomains={selectedDomains}
-              selectedSubdomains={selectedSubdomains}
-            />
-          ) : (
-            <div className="h-full flex items-center justify-center p-6">
-              <p className="text-sm text-foreground/60 text-center">
-                Klik op een opgave in de boomstructuur om de details te bekijken
-              </p>
-            </div>
-          )}
+        <div className="flex-1 overflow-hidden pointer-events-auto">
+          <div className="h-full overflow-y-auto">
+            {selectedExerciseObjects.length > 0 ? (
+              <div className="divide-y divide-border">
+                {selectedExerciseObjects.map((exercise) => (
+                  <ExercisePreview
+                    key={exercise.id}
+                    exercise={exercise}
+                    selectedDomains={selectedDomains}
+                    selectedSubdomains={selectedSubdomains}
+                  />
+                ))}
+              </div>
+            ) : (
+              <div className="h-full flex items-center justify-center p-6">
+                <p className="text-sm text-foreground/60 text-center">
+                  Selecteer een of meerdere opgaven in de boomstructuur om de details te bekijken
+                </p>
+              </div>
+            )}
+          </div>
         </div>
+
+        {/* Unified Prompt Preview */}
+        {selectedExerciseObjects.length > 0 && (
+          <PromptPreview
+            exercises={selectedExerciseObjects}
+            selectedDomains={selectedDomains}
+            selectedSubdomains={selectedSubdomains}
+          />
+        )}
       </div>
 
       {/* Right Panel - AI Generated Content (2/5) */}
@@ -81,4 +100,21 @@ export default function Home() {
       </div>
     </div>
   )
+}
+
+// Helper to find exercises by IDs
+function findExercisesByIds(nodes: ExerciseTreeNode[], ids: Set<string>): Exercise[] {
+  const exercises: Exercise[] = []
+
+  function traverse(node: ExerciseTreeNode) {
+    if (node.type === "exercise" && ids.has(node.id) && node.exercise) {
+      exercises.push(node.exercise)
+    }
+    if (node.children) {
+      node.children.forEach(traverse)
+    }
+  }
+
+  nodes.forEach(traverse)
+  return exercises
 }

@@ -38,41 +38,7 @@ export default function ExercisePreview({ exercise, selectedDomains, selectedSub
   const levelDisplay = exercise.educationLevel.toUpperCase().replace('_', '-')
   const tijdvakDisplay = exercise.tijdvak === 1 ? '1e tijdvak' : `${exercise.tijdvak}e tijdvak`
 
-  const generatePrompt = () => {
-    const parts: string[] = []
 
-    parts.push(`Genereer een nieuwe examenvraag voor ${disciplineDisplay} op ${levelDisplay} niveau.`)
-
-    if (selectedDomains.size > 0) {
-      parts.push(`\n\nGebruik context uit de volgende domeinen: ${Array.from(selectedDomains).join(", ")}.`)
-    }
-
-    if (selectedSubdomains.size > 0) {
-      parts.push(`\n\nFocus op de subdomeinen: ${Array.from(selectedSubdomains).join(", ")}.`)
-    }
-
-    // Include actual domain/subdomain names from the exercise
-    if (exercise.domains.length > 0) {
-      const domainNames = exercise.domains.map(d => `${d.prefix_code}: ${d.name}`).join(', ')
-      parts.push(`\n\nDe voorbeeldvraag valt onder domein(en): ${domainNames}`)
-    }
-    if (exercise.subdomains.length > 0) {
-      const subdomainNames = exercise.subdomains.map(s => `${s.prefix_code}: ${s.name}`).join(', ')
-      parts.push(`\n\nSubdomein(en): ${subdomainNames}`)
-    }
-
-    parts.push(
-      `\n\nBaseer de nieuwe opgave op het type vraagstelling en moeilijkheidsgraad van de volgende voorbeeldopgave:`,
-    )
-    parts.push(
-      `\n\n---\nVoorbeeldopgave (${exercise.examYear} ${tijdvakDisplay}, Vraag ${exercise.questionNumber}):\n${stripHtml(exercise.content)}`,
-    )
-    parts.push(
-      `\n\n---\nZorg dat de nieuwe vraag:\n- Dezelfde structuur heeft (aantal deelvragen)\n- Vergelijkbare complexiteit heeft (max ${exercise.maxScore} punten)\n- Originele getallen/context gebruikt\n- Een volledige uitwerking bevat`,
-    )
-
-    return parts.join("")
-  }
 
   // Helper to strip HTML tags from content
   function stripHtml(html: string): string {
@@ -83,8 +49,8 @@ export default function ExercisePreview({ exercise, selectedDomains, selectedSub
   const firstImage = exercise.contentContext.find(c => c.type === 'image')
 
   return (
-    <div className="h-full flex flex-col overflow-hidden">
-      <div className="flex-1 overflow-y-auto p-6">
+    <div className="w-full">
+      <div className="p-6">
         <div className="border border-border rounded-lg overflow-hidden bg-[#FFFCF4] hover:border-[#377E34]/50 transition-colors">
           <div className="bg-[#377E34] px-6 py-4 border-b border-border">
             <h3 className="text-lg font-semibold text-[#FFF9E9]">
@@ -168,15 +134,7 @@ export default function ExercisePreview({ exercise, selectedDomains, selectedSub
         </div>
       </div>
 
-      <div className="border-t border-border p-4 bg-[#FFF9E9]">
-        <div className="flex items-center gap-2 mb-2">
-          <span className="text-xs font-semibold text-foreground">Automatisch gegenereerde prompt</span>
-          <span className="text-xs text-foreground/60">(grounding voor AI)</span>
-        </div>
-        <div className="bg-[#FFFCF4] border border-border rounded-lg p-3 max-h-32 overflow-y-auto">
-          <p className="text-xs text-foreground whitespace-pre-line font-mono leading-relaxed">{generatePrompt()}</p>
-        </div>
-      </div>
     </div>
   )
 }
+
